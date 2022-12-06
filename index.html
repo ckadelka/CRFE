@@ -1,0 +1,160 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>Gene Set Enrichment</title>
+    <link rel="stylesheet" href="css/abc.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="css/reveal.css" type="text/css" media="screen" charset="utf-8">
+    
+    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>-->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.min.js"></script>
+    <script type="text/javascript" src="nice_table.js" charset="utf-8"></script>
+    <script type="text/javascript" src="jQuery.flot.js" charset="utf-8"></script>
+    <script type="text/javascript" src="jquery.flot.axislabels.js" charset="utf-8"></script>
+    <script type="text/javascript" src="jquery.reveal.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+google.load('visualization', '1', {'packages':['corechart']});
+</script>
+</head>
+<body>
+
+<table width="100%"><tr><td><h1>Concise Functional Enrichment of Ranked Gene Lists</h1></td><td><img src="pics/vtlogo.png" align="right" width="200" alt="Virginia Tech Logo"></td></tr></table>
+<form method="post" action="">
+<table>
+  <tr valign="top"><td class="titleBox" colspan="3"><strong><font color="black">1) Algorithm choice</font></strong></td></tr>
+  <tr class="lines"><td colspan="3"></td></tr>
+  <tr valign="top">
+    <td width="25%">
+        <input type="radio" name="alg_choice" value="Greedy"> Greedy Algorithm<br />
+        <input type="radio" name="alg_choice" value="MCMC" checked="checked"> Markov Chain Monte Carlo<br />
+    </td>
+    <td colspan="2">
+        <div class="explain" id="explain_Greedy">
+        <b>Greedy Algorithm</b>: This algorithm adds/deletes one term at a time to/from the current set of selected terms. It terminates when none of the possible additions or deletions lead to a better likelihood value.
+        </div>
+        <div class="explain" id="explain_MCMC">
+        <b>Markov Chain Monte Carlo</b>: Performs a Markov Chain Monte Carlo simulation to find the best set of highly enriched terms to explain the data. Each step, one term is added, deleted or swapped for another, and the newly created set of selected terms is accepted with a certain probability, which is higher for sets of terms with a better likelihood value. However, bad changes are accepted with a positive probability to escape local maxima.
+        </div>
+    </td>
+  </tr>
+  <tr class="mcmc_specific" valign="top"><td>Burn-in period for MCMC:</td><td><input type="text" size="10" maxlength="20" name="burnout" value="20000"></td><td>Number of iterations used to initialize the MCMC chain</td> </tr>
+  <tr class="mcmc_specific" valign="top"><td>Iterations in MCMC:</td><td><input type="text" size="10" maxlength="20" name="MCMC_steps" value="100000"></td><td>Number of iterations of the MCMC after an initial burn-in period</td></tr>
+  <tr valign="top">
+    <td>
+        <input type="checkbox" value="True" name="param_learning_choice"> Parameter Learning?<br />
+    </td>
+    <td colspan="2">
+        <div class="explain" id="explain_param_learning">
+        <b>Parameter Learning</b>: Find the local optima for the false positive rate alpha, the false negative rate beta, and the penalization parameter p in the likelihood function.
+        </div>
+    </td>
+  </tr>
+  <tr class="mcmc_param_learning_specific" valign="top"><td>Highest value for alpha and beta </td><td><input  size="10" maxlength="20" name="alpha_beta_top" value="0.5"></td><td>Alpha and beta are not allowed to pass this value in the parameter learning process.</td> </tr>
+  <tr class="mcmc_param_learning_specific" valign="top"><td>Proportion of time parameters are changed </td><td><input  size="10" maxlength="20" name="percentage_parameter_change" value="0.2"></td><td>This variable describes the proportion of the time one of the three model parameters is changed, otherwise a new term is added/deleted, or two terms are swapped.</td> </tr>
+
+ 
+ 
+  <tr valign="top"><td class="titleBox" colspan="3"><strong><font color="black">2) Data choice</font></strong></td></tr>
+  <tr class="lines"><td colspan="3"></td></tr>
+    <tr valign="top"><td><b>Choose the gene expression list</b></td><td colspan="2"><b>Preliminary Analysis</b></td></tr>
+  <tr valign="top">
+    <td>
+        <input type="radio" class="change_data" name="data_choice" value="1"> HDF data<br />
+        <input type="radio" class="change_data" name="data_choice" value="2" checked="checked"> Liver, 3-cell vs 2-cell<br />
+        <input type="radio" class="change_data" name="data_choice" value="3"> Liver, 3-cell vs CS<br />
+        <input type="radio" class="change_data" name="data_choice" value="4"> Liver, 3-cell vs HM<br />
+        <input type="radio" class="change_data" name="data_choice" value="5"> Liver, 2-cell vs CS<br />
+        <input type="radio" class="change_data" name="data_choice" value="6"> Liver, 2-cell vs HM<br />
+        <input type="radio" class="change_data" name="data_choice" value="7"> Liver, CS vs HM<br />
+    </td>
+    <td colspan="2"><ul>
+    <li><a href="javascript:void(0)" id="show_histogram2">What is the average expression level of terms?</a></li>
+    <li><a href="javascript:void(0)" id="show_histogram">How many genes do terms annotate?</a></li>
+    <li><a href="javascript:void(0)" id="show_histogram3">How often are genes annotated?</a></li>
+    <li><a href="javascript:void(0)" id="show_histogram4">How often are genes annotated? (google version)</a></li></ul>
+    </td>
+  </tr>
+  
+<tr valign="top"><td colspan="3"><b>Choose use of gene expression list</b></td></tr>
+  <tr valign="top">
+  <td>
+        <input type="radio" class="change_data_kind" name="data_kind_choice" value="0" checked="checked"> Normal<br />
+        <input type="radio" class="change_data_kind" name="data_kind_choice" value="1"> Invert list<br />
+        <input type="radio" class="change_data_kind" name="data_kind_choice" value="2"> Absolute value<br />        
+    </td>
+    <td colspan="2">
+        <div class="explain_data_kind" id="explain_normal">
+        Use the gene expression list as is to find terms that are most enriched for genes with positive differential expression level.
+        </div>
+        <div class="explain_data_kind" id="explain_inverted">
+        Invert the gene expression list before usage to find terms that are most enriched for genes with negative differential expression level.
+        </div>
+        <div class="explain_data_kind" id="explain_absolute">
+        Use the absolute value of the expression levels to find terms that are most enriched for highly differentially expressed genes, no matter whether positive or negative.
+        </div>
+    </td>
+  </tr>
+  
+  <tr valign="top"><td colspan="3"><b>Choose the underlying ontology</b></td></tr>
+    <tr valign="top">
+    <td>
+        <input type="radio" class="change_onto" name="onto_choice" id="go" value="1" checked="checked"> GO - Biological Processes<br />
+        <input type="radio" class="change_onto" name="onto_choice" id="msigdb" value="2"> MSigDB<br />
+    </td>
+    <td colspan="2">
+        <div class="explain_onto" id="explain_GO">
+        Uses a version of the <a href="http://www.geneontology.org" target="_blank">Gene Ontology</a>, in which biological processes that annotate exactly the same genes have been grouped together.</div>
+        <div class="explain_onto" id="explain_msigdb">
+        Uses a version of the <a href="http://www.broadinstitute.org/gsea/msigdb/index.jsp" target="_blank">Molecular Signatures Database</a>, in which terms that annotate exactly the same genes have been grouped together.</div>
+    </td>
+    
+  </tr>
+
+    <tr valign="top"><td colspan="3"><b>Choose the number of active genes</b></td></tr>
+    <tr valign="top"><td>Threshold unperturbed/perturbed genes:</td><td><input  size="10" maxlength="20" name="min_level" value="0.559889"></td><td>Genes above this threshold are considered perturbed (weighted according to their expression level), genes below the threshold are considered unperturbed (weighted equally).</td></tr>
+    <tr valign="top"><td>Number perturbed genes:</td><td><input  size="10" maxlength="5" name="nr_active" value="1488"></td><td>Number of genes that are considered perturbed.</td></tr>
+    <tr valign="top"><td>Ratio perturbed/total genes:</td><td><input  size="10" maxlength="5" name="ratio_active" value="0.2"></td><td>Proprtion of genes that are considered perturbed.</td></tr>
+    
+  <tr valign="top"><td class="titleBox" colspan="3"><strong><font color="black">3) Model parameters</font></strong></td></tr>
+  <tr class="lines"><td colspan="3"></td></tr>
+
+    <tr valign="top"><td>Belief in data:</td><td><input type="text" size="10" maxlength="5" name="belief" value="5"></td><td>This parameter describes how much more we trust genes observed to be in the top of the dataset to be truly differentially expressed than genes just above the cutoff between perturbed and unperturbed genes.</td></tr>
+  <tr valign="top">
+    <td>
+        <input type="radio" name="weight_choice" value="Linear" checked="checked"> Linear weighting<br />
+        <input type="radio" name="weight_choice" value="Expression"> Weighted by value in data<br />
+    </td>
+    <td colspan="2">
+        <div id="explain_Linear">
+        Weights for different perturbed categories are distributed linearly. The belief parameter describes the factor, by which the weight for the highest and the lowest active category differs. Info about the exact calculation can be found <a href="data/distributing_weights_without_bias.pdf" target="_blank">here</a>.
+        </div>
+        <div id="explain_Expression">
+        Weights for different perturbed categories are distributed based on the submitted dataset. The belief parameter is learned from the data.
+        </div>
+    </td>
+    </tr>
+
+  <tr valign="top"><td style="width:250px;">Number of categories:</td><td><input type="text" size="10" maxlength="3" name="s" value="0"></td><td>Choose 0 to put each gene into its own category.</td></tr>
+  <tr valign="top"><td style="width:250px;">Lower cutoff for terms:</td><td><input type="text" size="10" maxlength="5" name="cutoff" value="5"></td><td>Only terms that annotate at least so many genes are considered.</td></tr>
+  <tr valign="top"><td style="width:250px;">Higher cutoff for terms:</td><td><input type="text" size="10" maxlength="5" name="top_cutoff" value="200"></td><td>Only terms that annotate at most so many genes are considered (Use 0 for &#8734;)</td></tr>
+  <tr class="parameters" valign="top"><td>False positive rate (alpha):</td><td><input type="text" size="10" maxlength="20" name="alpha" value="0.1"></td><td></td></tr>
+  <tr class="parameters" valign="top"><td>False negative rate (beta):</td><td><input type="text" size="10" maxlength="20" name="beta" value="0.25"></td><td></td></tr>
+  <tr class="parameters" valign="top"><td>Penalization parameter (p):</td><td><input type="text" size="10" maxlength="20" name="prob" value="0.001"></td><td>The higher the value the smaller the penalization per term.</td></tr>
+</table>
+<br /><br />
+<center>
+<input type="submit" value="Analyze" class="button" name="submit">
+</center>
+</form>
+
+<div id="result"></div>
+
+<div id="myModal"  class="reveal-modal" style="width:60%;height:60%;">
+    <div id="title_inModal" align="center"></div>
+    <div id="inModal" style="width:100%;height:100%;"></div>
+    <a class="close-reveal-modal">&#215;</a>
+</div>
+
+</body>
+</html>

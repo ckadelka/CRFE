@@ -1,0 +1,87 @@
+Creation Time:	2022-08-30 17:54:46
+
+INPUT:
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.25000000000000006
+threshold type:	proportion
+belief:	10
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	1
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	2063885616
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	3047
+Proportion perturbed genes:	0.24997948970383133
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.1064516129032258
+beta (FNR):	0.24838709677419354
+q (penalization parameter):	0.007980845969672785
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-7985.950115854849 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	97	50	1.0	0.0	3.471e+03	0.513	nucleosome assembly
+2	84	41	1.0	0.0	2.706e+03	0.519	chromosome segregation
+3	57	27	1.0	0.0	1.278e+03	0.495	digestion
+4	77	37	1.0	0.0	2.300e+03	0.664	multicellular organismal catabolic process
+5	25	16	1.0	0.0	1.899e+02	0.543	regulation of mesonephros development
+6	40	18	0.97828	0.0	6.553e+02	0.592	endocrine pancreas development
+7	20	11	0.96236	0.0	1.449e+02	0.586	calcium-independent cell-cell adhesion
+8	31	17	0.86702	0.0	3.437e+02	0.211	central nervous system neuron development
+9	34	19	0.83962	0.0	4.057e+02	0.484	base-excision repair
+10	51	22	0.83694	0.0	1.088e+03	0.59	O-glycan processing
+11	26	13	0.80918	0.0	2.608e+02	0.46	regulation of meiosis
+12	25	13	0.69158	0.0	2.348e+02	0.404	tumor necrosis factor-mediated signaling pathway
+13	102	52	0.68812	0.0	3.866e+03	0.42	cellular amino acid biosynthetic process
+14	55	25	0.57248	0.0	1.223e+03	0.355	keratinocyte differentiation
+15	44	21	0.51686	0.0	7.611e+02	0.36	glycolytic process
+16	37	16	0.48288	0.0	5.764e+02	0.317	carbohydrate derivative transport
+17	32	17	0.47874	0.0	3.757e+02	0.383	dolichol-linked oligosaccharide biosynthetic process
+18	40	19	0.4761	0.0	6.323e+02	0.481	purine nucleobase metabolic process
+19	23	12	0.43418	0.0	1.989e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+20	109	42	0.42752	0.0	5.245e+03	0.5	epidermis development
+21	21	12	0.41386	0.0	1.539e+02	0.936	neuron fate specification
+22	24	12	0.37718	0.0	2.229e+02	0.355	alditol metabolic process
+23	29	11	0.36874	0.0	3.856e+02	0.354	intermediate filament cytoskeleton organization
+24	35	20	0.36684	0.0	4.207e+02	0.615	DNA strand elongation
+25	32	18	0.32356	0.0	3.577e+02	0.323	serine family amino acid metabolic process
+26	66	35	0.31188	0.0	1.580e+03	0.384	alpha-amino acid biosynthetic process
+27	20	9	0.30094	0.0	1.679e+02	0.269	pyrimidine nucleoside triphosphate metabolic process
+28	22	11	0.27088	0.0	1.879e+02	0.342	glycerol metabolic process
+29	32	13	0.2057	0.0	4.496e+02	0.459	embryonic skeletal system development
+30	33	19	0.18384	0.0	3.717e+02	0.508	DNA strand elongation involved in DNA replication
+31	36	15	0.177	0.0	5.584e+02	0.373	neurogenesis
+32	111	43	0.15688	0.0	5.422e+03	0.334	carbohydrate catabolic process
+33	68	27	0.15542	0.0	2.021e+03	0.277	pyruvate metabolic process
+34	20	8	0.1217	0.0	1.809e+02	0.166	establishment or maintenance of apical/basal cell polarity & establishment or maintenance of bipolar cell polarity
+35	46	19	0.10306	0.0	9.108e+02	0.056	excretion
+36	38	15	0.09178	0.0	6.412e+02	0.082	peripheral nervous system development
+37	24	13	0.0795	0.0	2.099e+02	0.336	peptide biosynthetic process
+38	45	27	0.07204	0.0	6.574e+02	0.615	chromatin assembly or disassembly
+39	30	14	0.0708	0.0	3.627e+02	0.406	regulation of meiotic cell cycle
+40	155	62	0.06506	0.0	1.035e+04	0.295	skeletal system development
+41	25	13	0.0634	0.0	2.348e+02	0.635	regulation of chromosome segregation
+42	20	10	0.05596	0.0	1.559e+02	0.336	retinoic acid metabolic process
+43	25	16	0.05322	0.0	1.899e+02	0.576	chromatin remodeling at centromere
+44	38	15	0.05104	0.0	6.412e+02	0.405	monosaccharide catabolic process
+45	20	9	0.0152	0.0	1.679e+02	0.629	positive regulation of tissue remodeling
+46	30	13	0.0066	0.0	3.807e+02	0.484	chromosome condensation
+47	30	11	0.00502	0.0	4.196e+02	0.3	intermediate filament-based process
+48	29	12	0.00484	0.0	3.667e+02	0.179	regulation of epidermal cell differentiation

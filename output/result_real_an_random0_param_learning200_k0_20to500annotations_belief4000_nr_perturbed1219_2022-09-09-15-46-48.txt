@@ -1,0 +1,54 @@
+Creation Time:	2022-09-09 15:46:48
+
+INPUT:
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.1
+threshold type:	proportion
+belief:	4.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	1
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	1329614172
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	1219
+Proportion perturbed genes:	0.10000820411846748
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.08870967741935484
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.0019952114924181963
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-4053.2479044510424 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	57	22	0.99502	0.0	1.448e+03	0.495	digestion
+2	21	11	0.9838	0.0	1.659e+02	0.852	sister chromatid segregation
+3	20	7	0.73886	0.0	1.949e+02	0.586	calcium-independent cell-cell adhesion
+4	70	24	0.59082	0.0	2.314e+03	0.764	collagen catabolic process
+5	29	11	0.4342	0.0	3.857e+02	0.444	sympathetic nervous system development
+6	77	25	0.40918	0.0	2.869e+03	0.664	multicellular organismal catabolic process
+7	21	8	0.23974	0.0	2.049e+02	0.936	neuron fate specification
+8	20	7	0.23204	0.0	1.949e+02	0.629	positive regulation of tissue remodeling
+9	22	9	0.19892	0.0	2.149e+02	0.594	regulation of branching involved in ureteric bud morphogenesis
+10	25	11	0.15082	0.0	2.638e+02	0.635	regulation of chromosome segregation
+11	29	10	0.08932	0.0	4.057e+02	0.354	intermediate filament cytoskeleton organization
+12	23	9	0.08234	0.0	2.409e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+13	28	8	0.07368	0.0	4.126e+02	0.83	keratinization
+14	51	16	0.06014	0.0	1.289e+03	0.59	O-glycan processing
+15	40	13	0.04314	0.0	7.851e+02	0.592	endocrine pancreas development

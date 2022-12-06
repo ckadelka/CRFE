@@ -1,0 +1,149 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>CRFE - Documentation</title>
+
+    <link rel="stylesheet" href="documentation.css" type="text/css" media="screen" charset="utf-8">
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+</head>
+<body>
+<div class="title"><h1>Concise Functional Enrichment of Ranked Gene Lists</h1> </div>
+
+<h2>Introduction</h2>
+<p>This program implements the functional enrichment method CRFE, which provides a high-level interpretation of high-throughput gene expression data. 
+<!--It is described in "C Kadelka, M Brandon, TM Murali, Concise Functional Enrichment of Ranked Gene Lists". 
+-->
+
+<!--For this type of analysis, the user typically possesses a set of differentially expressed genes, e.g., a collection of genes that are significantly differentially expressed between treatment and control samples. 
+-->
+For this type of analysis, the user possesses a ranked list of genes, ranked f.e. by differential expression between treatment and control samples. 
+The genes above a certain threshold are considered differentially expressed or <i>perturbed</i>, all other genes form the background or the <i>unperturbed</i> genes.
+
+<!--Now, given a collection of curated gene sets (e.g., annotations from the Gene Ontology), we can ask the question which set of gene sets best explains the set of perturbed genes.
+-->
+Given categories that describe the biological functions of different sets of genes (e.g., biological process terms and annotations from the <a href="http://geneontology.org/" target="_blank">Gene Ontology</a>), we can ask the question which functional categories best explain the observed gene list.
+
+A good collection of functional categories explains as many as possible perturbed genes, and as few as possible unperturbed genes.
+In particular, particularly many highly perturbed genes should be explained and the collection should consist of only a small number of specific categories.
+
+CRFE returns a list of functional categories that satisfies all these requirements.
+Investigating this list is a good first step to interpreting the results of any high throughput gene expression experiment.</p>
+
+
+<h2>Download / Installation</h2>
+<p>A working Python distribution and the program <a href="crfe.py" target="_blank">CRFE.py</a> are required to use CRFE. 
+The program has been developed and tested extensively under Python 2.7 and Python 3.4 but should work for Python 2.6+. 
+It requires the packages, <i>sys, math, random, os, datetime, csv, cPickle (Python 2.x) / pickle (Python 3), optparse</i>.
+The correct set-up can be tested by executing the <a href="#example">example below</a> and comparing the output to the provided output.</p>
+<p>An additional program <a href="ONTOLOGY_PARSER/ontology_parser.py" target="_blank">ontology_parser.py</a> can be used to easily create the annotations file needed as an input for CRFE.
+This program transforms ontology and association files - directly downloaded from the <a href="http://geneontology.org/" target="_blank">Gene Ontology</a> - into an annotation file, in which each line contains one functional category and all the genes (as Gene Symbol) annotated to this category.
+</p>
+
+<h2>Using CRFE</h2> 
+</p>CRFE accepts different types of command line options. See the <a href="#detail_table">table</a> below for details about all available command line options.</p>
+
+<p>A typical invocation of CRFE will look like:</p>
+<div class="fragment"><pre class="fragment"> python crfe.py -a &lt;annotations file&gt; -g &lt;gene file&gt; -k &lt;number of categories&gt; -b &lt;belief parameter&gt;</pre></div>
+
+<p >The following table contains a detailed list of options supported by CRFE.</p>
+
+<table class='doxtable' id='detail_table'>
+<tr><th></th><th>Flag </th><th>Long </th><th>Allowed Values</th><th>Default</th><th>Description </th></tr>
+<th rowspan="7">DATA </th>
+<td>a</td><td>annotations_file</td><td>.txt or .csv</td><td></td><td>The name of the file that contains functional categories and the repsective gene annotations, txt (preferred) or csv. Each line contains the name of one functional category, plus all genes that are annotated to this category. See <a href="#sample_annotation">sample annotation file</a>.</td></tr>
+<td>g</td><td>gene_file</td><td>.txt or .csv</td><td></td><td>The name of the file that contains the ranked list of genes to be analyzed, txt (preferred) or csv. Each line contains one gene, plus one expression level (tab-separated). The expression level is optional. See <a href="#sample_gene_file">sample gene file</a>.</td></tr>
+<td>G</td><td>gene_file_use</td><td>$\{0,1,2\}$</td><td>0</td><td>Describes how the gene file should be used,<br>0: use as is, 1: invert the gene list, 2: order by absolute value of expression level.</td></tr>
+<td>t</td><td>threshold</td><td>(0,1) if threshold_type = 'proportion' </td><td>$0.3$</td><td rowspan="2">If threshold_type='proportion', threshold describes what proportion of total genes is considered perturbed. This option should be chosen if the user does not know which exact threshold to use.<br>If threshold_type='value', all genes with a expression level above threshold are considered perturbed. This option should be chosen if the user wants to use a particular threshold, f.e. greater than 2-fold-change</td></tr>
+<td>T</td><td>threshold_type</td><td>'proportion' or 'value'</td><td>'proportion'</td></tr>
+<td>c</td><td>lower_cutoff</td><td>$\{1,2,\ldots,\infty\}$</td><td>$20$</td><td>Only gene sets that explain at least this many genes in the gene file are considered. Choose 1 if no lower bound is desired.</td></tr>
+<td>C</td><td>upper_cutoff</td><td>$\{0,1,\ldots,\infty\}$</td><td>$200$</td><td>Only gene sets that explain at most this many genes in the gene file are considered. Choose 0 if no upper bound is desired.</td></tr>
+
+<th rowspan="2">DATA PARAMETERS </th>
+<td>k</td><td>nr_categories</td><td>$\{0,1,\ldots,\infty\}$</td><td>$0$</td><td>The number of categories in which the list of perturbed genes is divided. Choose k=0 to put each perturbed gene into its own category.</td></tr>
+<td>b</td><td>belief</td><td>$[1,\infty)$</td><td>$5$</td><td>Belief parameter that allows the user to tune the focus of the algorithm on highly perturbed genes. If $b=1$, all perturbed genes are treated the same. The larger the belief parameter, the more the algorithm focuses on explaining highly perturbed genes.</td></tr>
+
+<!--<th rowspan="3">ALGORITHM CHOICE </th><td>M</td><td>MCMC</td><td>Run a Markov chain Monte Carlo approximation (default 1). If disabled, a fast greedy approximation is performed.</td></tr>
+<td>P</td><td>param_learning</td><td>Learn parameters alpha, beta, q (default 1).</td></tr>-->
+<th rowspan="6">ALGORITHM PARAMETERS </th>
+<td>n</td><td>repeats</td><td>$\{1,2,\ldots,\infty\}$</td><td>$1$</td><td>Number of times the MCMC process is repeated.</td></tr>
+<td>s</td><td>burnin</td><td>$\{0,1,\ldots,\infty\}$</td><td>$10^5$</td><td>Number of MCMC steps that are performed before results are recorded. Allows the Markov chain to settle.</td></tr>
+<td>S</td><td>MCMC_steps</td><td>$\{1,2,\ldots,\infty\}$</td><td>$10^6$</td><td>Number of MCMC steps that are recorded after an initial burnin period.</td></tr>
+<td>x</td><td>alpha_beta_max</td><td>$(0,0.5]$</td><td>$0.5$</td><td>The maximal value that can be learned for the false positive rate, alpha, and the false negative rate, beta. <dl class="warning"><dt><b>Warning:</b></dt><dd>This maximal value is also automatically restricted by the algorithm. Therefore, this option only has an effect if the chosen value is smaller than the automatic restriction.</dd></dl></td></tr>
+<td>p</td><td>probability_parameter_ change</td><td>$[0,1)$</td><td>$0.2$</td><td>The proportion of MCMC steps where the parameters are changed instead of the set of gene sets</td></tr>
+<td>r</td><td>random_initial_set</td><td>$[0,1) \cup \{1,2,\ldots,\infty\}$</td><td>$0$</td><td>Determines the initial set for the MCMC algorithm.<br>If $r=0$, the initial set is empty.<br>If $r\in (0,1)$, each process is in the initial set with probability r.<br>If $r\geq 1$, a sample of r processes is randomly chosen as initial set.</td></tr>
+
+<th rowspan="4">ADDITIONAL PARAMETERS </th>
+<td>o</td><td>output_folder</td><td>local folder</td><td>'output/'</td><td>All results are written to this local folder. If the folder does not exist, it is created.</td></tr>
+<td>i</td><td>identifier</td><td>string</td><td>'' [empty]</td><td>A string that is attached to all files created by the algorithm. If running multiple data sets, use this option to distinguish the created files.</td></tr>
+<td>v</td><td>verbose</td><td></td><td></td><td>Use -v or --verbose to print some output during the algorithm, mainly to allow estimatation of run time.</td></tr>
+<td>R</td><td>seed</td><td>$\{-\infty,\ldots,\infty\}$</td><td>$-1$</td><td>If $R\neq -1$, this sets the seed for the random number generator.<br>If $R=-1$, a random seed is used.</td></tr>
+
+</table>
+
+<h2 id="example">Example</h2>
+
+<h3 id="sample_annotation">Sample Annotation File</h3>
+<p>The annotation file contains one row for each functional category. 
+Each row starts with the name of the functional category, followed by a tab and a list of all genes that are annotated to this functional category (space-separated). 
+<br>
+Sample: <a href="data/sample_annotation_file.txt" target="_blank">sample_annotation_file.txt</a>.
+<!-- <br>
+Sample: <a href="data/annotation_file_human_biological_process.txt" target="_blank">annotation_file_human_biological_process.txt</a> (This annotation file has been used to create the results in the CRFE paper.)</p> 
+-->
+<p>The program <a href="ontology_parser.py" target="_blank">ontology_parser.py</a> can be used to easily create this annotation file. 
+This file transforms ontology and association files - directly downloaded from the <a href="http://geneontology.org/" target="_blank">Gene Ontology</a> - into an annotation file (Gene Symbols), which can then be used by CRFE.
+The two downloaded files need to be saved as txt files (f.e., by overwriting the extension to txt, or by opening in Excel and saving as tab-delimited txt file).
+A typical invocation of the Ontology Parser looks as follows
+<div class="fragment"><pre class="fragment"> python ontology_parser.py -o &lt;ontology file&gt; -a &lt;association file&gt; -n &lt;namespace&gt; -i &lt;identifier&gt; --save</pre></div>
+The following table contains a detailed list of options supported by the Ontology Parser.</p>
+<table class='doxtable'>
+<tr><th></th><th>Flag </th><th>Long </th><th>Allowed Values</th><th>Description </th></tr>
+<th rowspan="4">INPUTS </th>
+<td>o</td><td>ontology_file</td><td>.txt</td><td> See <a href="data/go-basic.txt" target="_blank">sample ontology file</a>.</td></tr>
+<td>a</td><td>association_file</td><td>.txt</td><td> See <a href="data/gene_association_goa_ref_human.txt" target="_blank">sample association file</a>.</td></tr>
+<td>n</td><td>namespace</td><td>string</td><td>Describes the namespace that should be used:<br>P for biological processes (default), F for molecular function, or C for cellular component</td></tr>
+<td>c</td><td>combine</td><td></td><td>By default, functional categories that annotate exactly the same genes are combined into one. Use -c or --combine to keep them separate. <dl class="warning"><dt><b>Warning:</b></dt><dd>Not combining equal functional categories into one can strongly deteriorate the performance of CRFE and any set-based enrichment method.</dd></dl></td></tr>
+
+<th rowspan="3">ADDITIONAL PARAMETERS </th>
+<td>i</td><td>identifier</td><td>string</td><td>A string that is attached to all files created by the Ontology Parser. If running multiple data sets, use this option to distinguish the created files.</td></tr>
+<td>v</td><td>verbose</td><td></td><td>Use -v or --verbose to suppress the output of some descriptive text while Ontology Parser runs.</td></tr>
+<td>s</td><td>save</td><td></td><td>Use -s or --save to create three additional output files, which can be directly used by CRFE. The files are saved into the local folder 'saved_data/', which is created if it does not exist.</td></tr>
+</table>
+
+<h3 id="sample_gene_file">Sample Gene File</h3>
+<p>The gene file contains one row for each gene. 
+Each row starts with the name of the gene, followed by a tab and the expression level of the gene. 
+The expression level is optional. 
+If no expression level is given, the given threshold should be a proportion.
+<!--CRFE internally assigns a level of 1 (0) to the highest (lowest) ranked gene with linear decrements.-->
+<br>
+Sample: <a href="data/sample_gene_file.txt" target="_blank">sample_gene_file.txt</a>.
+</p>
+
+<h3 id="test">Testing correct set-up</h3>
+<p>After saving the sample annotation file and the sample gene file into a local folder, the correct-up can be tested by running CRFE on this example,</p>
+<div class="fragment"><pre class="fragment"> python crfe.py -asample_annotation_file.txt -gsample_gene_file.txt -c4 -C0 -t0.4 -n5 -s1000 -S10000 -iSAMPLE -R0</pre></div>
+<p>In this invocation, we consider only categories that annotate at least four genes, consider 40% of all genes as perturbed, 
+run the MCMC process 5 times with 1000 unrecorded steps, before we record the next 10000 steps. 
+The two output files are written to the local folder 'output/' (default) and include 'SAMPLE' in their file names.
+For reproducibility, we initiate the seed of the random number generator as 0. 
+</p>
+
+<p>This invocation produces two output files, which should look like this:
+<ul>
+<li><a href="output/result_test_random0_param_learning200_k2_4to0annotations_belief5000_nr_perturbed7_2021-08-26-23-14-30.txt" target="_blank">output/result_SAMPLE_..._[DATE].txt</a></li>
+<li><a href="output/mcmc_test_random0_param_learning200_k2_4to0annotations_belief5000_nr_perturbed7_2021-08-26-23-14-30.html" target="_blank">output/mcmc_SAMPLE_..._[DATE].html</a></li>
+</ul>
+The first file provides information about which functional categories explain the data. The second file provides information about the parameter learning process.
+
+</p>
+
+
+<h2>Contact</h2>
+<p>Please contact <a href="mailto:ckadelka@iastate.edu">Claus Kadelka</a>, <a href="mailto:mbrandon@uchc.edu">Madison Brandon</a> or <a href="mailto:murali@cs.vt.edu">TM Murali</a> with any questions about this program.</p>
+
+</body>
+</html>

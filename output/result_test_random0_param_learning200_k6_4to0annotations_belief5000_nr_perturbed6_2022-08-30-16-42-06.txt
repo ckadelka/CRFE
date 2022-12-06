@@ -1,0 +1,41 @@
+Creation Time:	2022-08-30 16:42:06
+
+INPUT:
+Annotations file:	data/sample_annotation_file.txt
+Gene file:	data/sample_gene_file.txt
+lower limit annotations/process:	4
+        upper limit annotations/process:	0 (i.e., None)
+k (number of perturbed categories):	6
+belief:	5
+        Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	3
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	1
+        Probability parameter change:	0.2
+seed for RNG:	3197174590
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	6
+Total number of genes:	19
+Number of perturbed genes:	6
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.2857142857142857
+beta (FNR):	0.05714285714285714
+q (penalization parameter):	0.16666666666666666
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-13.723548830482628 +- 1.0255800994045674e-15
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	5	1	0.1366	0.03038	1.579e+01	0.287	ProcessD
+2	7	3	0.13491	0.03407	1.314e+01	0.295	ProcessC
+3	10	3	0.13016	0.03186	1.236e+01	0.285	ProcessA
+4	12	3	0.11053	0.02863	1.193e+01	0.277	ProcessF
+5	9	2	0.1079	0.02932	1.664e+01	0.26	ProcessB
+6	11	3	0.03795	0.00826	1.236e+01	0.266	ProcessE

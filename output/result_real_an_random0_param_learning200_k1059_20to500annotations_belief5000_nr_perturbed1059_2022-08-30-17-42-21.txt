@@ -1,0 +1,59 @@
+Creation Time:	2022-08-30 17:42:21
+
+INPUT:
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	1059
+threshold:	1
+threshold type:	levels
+belief:	5
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	1
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	0.375
+Maximal possible value for alpha and beta:	0.375
+Probability parameter change:	0.2
+seed for RNG:	389422272
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	1059
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.09375
+beta (FNR):	0.2625
+q (penalization parameter):	0.0003990422984836393
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-3694.75606502799 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	21	11	0.37202	0.0	1.659e+02	0.852	sister chromatid segregation
+2	32	3	0.0	0.0	7.041e+02	-0.011	reproduction
+3	43	4	0.0	0.0	1.259e+03	0.019	regulation of DNA recombination
+4	25	0	0.0	0.0	4.695e+02	-0.277	very long-chain fatty acid metabolic process
+5	90	13	0.0	0.0	5.044e+03	0.244	transition metal ion transport
+6	22	0	0.0	0.0	3.636e+02	-0.025	autophagic vacuole assembly
+7	22	2	0.0	0.0	3.407e+02	-0.015	protein import into nucleus, translocation
+8	142	25	0.0	0.0	1.193e+04	0.314	cell cycle checkpoint
+9	69	7	0.0	0.0	3.163e+03	0.276	DNA damage checkpoint
+10	85	15	0.0	0.0	4.307e+03	0.176	regulation of cyclin-dependent protein serine/threonine kinase activity
+11	150	22	0.0	0.0	1.386e+04	0.324	G1/S transition of mitotic cell cycle & cell cycle G1/S phase transition
+12	23	7	0.0	0.0	2.738e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+13	117	12	0.0	0.0	8.993e+03	0.093	G2/M transition of mitotic cell cycle & cell cycle G2/M phase transition
+14	45	2	0.0	0.0	1.471e+03	0.107	sulfur amino acid metabolic process
+15	160	10	0.0	0.0	1.768e+04	-0.048	MAPK cascade
+16	118	0	0.0	0.0	1.039e+04	0.223	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+17	53	3	0.0	0.0	1.997e+03	-0.01	activation of MAPKK activity
+18	126	8	0.0	0.0	1.099e+04	-0.147	activation of MAPK activity
+19	26	2	0.0	0.0	4.805e+02	0.011	inactivation of MAPK activity
+20	163	3	0.0	0.0	1.946e+04	0.096	protein polyubiquitination
+21	203	22	0.0	0.0	2.664e+04	0.007	microtubule cytoskeleton organization
