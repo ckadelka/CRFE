@@ -24,7 +24,7 @@ import os
 import time
 import numpy as np
 import pandas as pd
-
+import matplotlib.pyplot as plt
 print(sys.argv[0])
 
 which_python = sys.version_info[0]
@@ -39,7 +39,7 @@ class CRFE:
                  alpha_beta_max, proportion_parameter_change, A, P, 
                  gene_file, annotations_file, output_folder, out_str='', 
                  seed=-1, max_belief=10, B=10,
-                 LEARN_BELIEF=False,LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=False):        
+                 LEARN_BELIEF=False,LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.004,GET_INFO_ON_CURRENT_SETS=False):
         self.repeats = repeats
         self.nr_categories = nr_categories
         self.lower_cutoff = lower_cutoff
@@ -707,7 +707,7 @@ class CRFE:
         except ValueError: #If the file exists but was written by Python 3 in pickle protocol 3 and is now loaded in Python 2.x, just recreate it and overwrite it
             return None
     
-    def save_all(self, T, term_names, unique_genes):
+    def save_all(self, T, term_names, unique_genes):  # declared but not called
         self.savevar('T', T)
         self.savevar('term_names', term_names)
         self.savevar('unique_genes', unique_genes)
@@ -781,7 +781,10 @@ class CRFE:
         self.savevar('T', self.T)
         self.savevar('term_names', self.term_names)
         self.savevar('unique_genes', self.unique_genes)
-    
+        f_genes = open('saved_data/genes_' + self.out_str + '.txt', "w")
+        for i in self.unique_genes:
+            f_genes.write(i + "\n")
+        f_genes.close()
     ########################
     ###  Output Methods  ###
     ########################
@@ -852,6 +855,7 @@ class CRFE:
         f_out.close() 
         
     def writeOut(self, filename, IS, mean_max_score, std_max_score, enriched, ps, mean_gene_level, method, avg_posteriors, std_posteriors):
+        shortfilename = self.output_folder + filename.split("_")[6] + "_" + filename.split("_")[8]
         filename=self.output_folder+'result_'+filename
         if not os.path.exists(self.output_folder):
             os.makedirs(self.output_folder)
@@ -885,14 +889,19 @@ class CRFE:
         text.append(str2+"\n")
         text.append("Best log-likelihood value (mean +- standard deviation across replicates):\t"+str(mean_max_score)+' +- '+str(std_max_score)+'\n')
         text.append("Order\t#(Annotations)\t#(Annotations of perturbed genes)\tMean Posterior Probability\tStandard Deviation Posterior Probability\t"+("" if ps==[] else "p-value\t")+"Average Expression Level\tTerm Name" )
-        if self.show_genes_in_output: 
-            text.append("\tExplained Perturbed Genes") 
-              
+        texttsv = []
+        texttsv.append("Order\t#(Annotations)\t#(Annotations of perturbed genes)\tMean Posterior Probability\tStandard Deviation Posterior Probability\t"+("" if ps==[] else "p-value\t")+"Average Expression Level\tTerm Name" )
+        if self.show_genes_in_output:
+            text.append("\tExplained Perturbed Genes")
+
         out_list = [str(count+1) + "\t" + str(i[2]) + "\t" + str(i[2]-len(set(self.T[i[0]])&set(self.G[len(self.G)-1]))) for (count,i) in zip(range(len(enriched)),enriched)]
-        
+        # Get average posterior probability for the first 5 terms to compare across belief and threshold (added Oct 24)
+        avg_first10 = 0
         for i in range(len(out_list)):
             out_list[i]+="\t"+str(round(avg_posteriors[i],5))+"\t"+str(round(std_posteriors[i],5))
-
+            if i <= 9:
+                avg_first10 += round(avg_posteriors[i],5)
+        avg_first10 = float(avg_first10/10)
         if self.show_genes_in_output:
             ind=sorted(range(len(self.levels)), reverse=True, key=lambda k: self.levels[k])
             ind=ind[:self.n_perturbed_genes]                                
@@ -907,10 +916,14 @@ class CRFE:
                         out_list[i]+=self.unique_genes[j]+" "
                 out_list[i]=out_list[i][:-1]
             text.append(out_list[i])
-
+            texttsv.append(out_list[i])
         f_out = open(filename+".txt", 'w+')
+        f_outtsv = open(shortfilename + ".txt", "w+")
         f_out.write("\n".join(text))
         f_out.close()
+        f_outtsv.write("\n".join(texttsv))
+        f_outtsv.close()
+        return avg_first10
 
     def determine_method(self, parameter_initial_MCMC_set):
         if parameter_initial_MCMC_set>=1:
@@ -1031,9 +1044,9 @@ class CRFE:
         method=self.determine_method(parameter_initial_MCMC_set)
         filename=self.get_filename(method,LONG=True)                
                                                 
-        self.writeOut(filename, initial_set_of_terms, np.mean(max_scores), np.std(max_scores), enriched, ps, mean_gene_level, method, avg_posteriors, std_posteriors)
-        if self.proportion_parameter_change>0:        
-            self.writeOut_MCMC(filename, learned_params, [mean_hist_alphas,self.possible_values_for_alpha_and_beta],[mean_hist_betas,self.possible_values_for_alpha_and_beta],[mean_hist_beliefs,self.possible_values_for_belief],[mean_hist_probs,np.arange(1,self.P+1)])
+        avg_first10 = self.writeOut(filename, initial_set_of_terms, np.mean(max_scores), np.std(max_scores), enriched, ps, mean_gene_level, method, avg_posteriors, std_posteriors)
+        # if self.proportion_parameter_change>0:
+        #     self.writeOut_MCMC(filename, learned_params, [mean_hist_alphas,self.possible_values_for_alpha_and_beta],[mean_hist_betas,self.possible_values_for_alpha_and_beta],[mean_hist_beliefs,self.possible_values_for_belief],[mean_hist_probs,np.arange(1,self.P+1)])
 
         if verbose:
             print('Checkpoint E, passed time',time.time()-start)    
@@ -1041,7 +1054,7 @@ class CRFE:
         if self.GET_INFO_ON_CURRENT_SETS:
             return (self.terms,avg_posteriors,std_posteriors,current_sets_at_burnin,current_sets_at_end)
         else:        
-            return (self.terms,avg_posteriors,std_posteriors)
+            return (self.terms,avg_posteriors,std_posteriors, avg_first10)
 
 ###############################################
 ###  Command Line Support via main function ###
@@ -1177,19 +1190,19 @@ def main():
 if __name__ == '__main__':
 #    main()
 
-    lower_cutoff=4
-    upper_cutoff=0
-    nr_categories=0
-    belief=5
-    burnin=5000
-    steps=50000
-    repeats=3
-    gene_file = 'data/sample_gene_file.txt'
-    #gene_file = 'data/test_gene_file_keting4.txt'
-    #gene_file = 'HC_RGLM_PLS_express_tab.txt'
-    annotation_file = 'data/sample_annotation_file.txt'
-    #annotation_file = 'goToGene_F.txt'
-    identifier = 'test'
+    # lower_cutoff=4
+    # upper_cutoff=0
+    # nr_categories=0
+    # belief=5
+    # burnin=5000
+    # steps=50000
+    # repeats=3
+    # gene_file = 'data/sample_gene_file.txt'
+    # #gene_file = 'data/test_gene_file_keting4.txt'
+    # #gene_file = 'HC_RGLM_PLS_express_tab.txt'
+    # annotation_file = 'data/sample_annotation_file.txt'
+    # #annotation_file = 'goToGene_F.txt'
+    # identifier = 'test'
     
     # old data: doesn't work right now
     # lower_cutoff=20
@@ -1200,39 +1213,42 @@ if __name__ == '__main__':
     # repeats=1
     
     # new data: lung cancer RNA_seq
-    lower_cutoff=20
-    upper_cutoff=500
-    nr_categories=0
-    belief=10
-    burnin=50000
-    steps=50000
-    repeats=1
-    threshold=0
-    annotation_file = 'data/GOhuman_ft_named.txt'
-    gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
-    identifier = 'real_an'
-    
-    m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
-                                        threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
-                                      annotation_file,'output/', identifier, seed=-1,
-                                      LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
-    (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
-#        
+    # R1: run with levels, loop over belief parameters
+    # lower_cutoff=20
+    # upper_cutoff=500
+    # nr_categories=0
+    # # belief=1
+    # burnin=25000
+    # steps=25000
+    # repeats=10
+    # threshold=0
+    # annotation_file = 'data/GOhuman_ft_named.txt'
+    # gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
+    # identifier = 'GSE87340'
+    #
+    # for belief in [1,2,5,10]:
+    #     m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief,
+    #                                     threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
+    #                                   annotation_file,'output/'+str(identifier)+'/', identifier, seed=-1,
+    #                                   LEARN_PENALIZATION_PARAMETER=True,LEARN_BELIEF=False, penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=False)
+    #     (C,avgs,stds,avgs_first10)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
+    # print(avgs_first10)
+#
 #     within_jaccard_similarities = []
 #     between_jaccard_similarities_first_sets = []
 #     between_jaccard_similarities_last_sets = []
-    
+
 #     def jacc(array1,array2):
 #         sarray1 = set(array1)
 #         sarray2 = set(array2)
 #         return len(sarray1.intersection(sarray2)) / len(sarray1.union(sarray2))
-    
+
 #     for i in range(repeats):
 #         within_jaccard_similarities.append(jacc(first_sets[i],last_sets[i]))
 #         for j in range(i+1,repeats):
 #             between_jaccard_similarities_first_sets.append(jacc(first_sets[i],first_sets[j]))
 #             between_jaccard_similarities_last_sets.append(jacc(last_sets[i],last_sets[j]))
-           
+
 #     import matplotlib.pyplot as plt
 #     f,ax = plt.subplots()
 #     ax.boxplot([within_jaccard_similarities],positions = [0])
@@ -1241,40 +1257,65 @@ if __name__ == '__main__':
 #     ax.set_xticklabels(['within same repeat','between repeats\nat burnin','between repeats\nat end'])
 #     ax.set_ylabel('Jaccard similarity of current set')
 
+    # R3: run across proportion_perturbed (0%-90%), 10 times each
+    lower_cutoff=20
+    upper_cutoff=500
+    nr_categories=0
+    belief=10
+    burnin=25000
+    steps=25000
+    repeats=10
+    # threshold=0.1
+    annotation_file = 'data/GOhuman_ft_named.txt'
+    gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
+    identifier = 'GSE87340'
 
+    Cs = []
+    avgss = []
+    learned_alphas = []
+    learned_betas = []
+    genesprop_perturbed = np.arange(0.1,1, 0.1)
+    levels_perturbed = []
+    learned_belief = []
+    avgs_final = []
 
+    for threshold in genesprop_perturbed:
+        m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief,
+                                            threshold, 'proportion', burnin, steps, 1,0.2,20,20, gene_file,
+                                          annotation_file,'output/'+str(identifier)+'/', identifier, seed=-1,
+                                        LEARN_PENALIZATION_PARAMETER=False,LEARN_BELIEF=False, penalization_parameter=0.004,GET_INFO_ON_CURRENT_SETS=False)
+        (C,avgs,stds,avgs_first10)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
+        Cs.append(C)
+        avgss.append(avgs)
 
+        learned_alphas.append(m.alpha)
+        learned_betas.append(m.beta)
+        levels_perturbed.append(float(m.threshold_for_activation))
+        learned_belief.append(m.belief)
+        avgs_final.append(avgs_first10)
 
+    fig, ax1 = plt.subplots()
+    ax2 = ax1.twinx()
+    ax1.plot(genesprop_perturbed, learned_alphas, 'g-')
+    ax1.plot(genesprop_perturbed, learned_betas, 'b-')
+    ax2.plot(genesprop_perturbed, avgs_final, 'r-')
+    ax1.set_xlabel('Proportion of perturbed genes')
+    ax1.set_ylabel('Learned alphas (green), betas (blue)')
+    ax1.set_ylim([0,0.5])
+    ax2.set_ylabel('Avg posterior first 10 terms', color='r')
+    ax2.set_ylim([0,1])
+    plt.title("Belief" + str(belief))
+    plt.savefig('output/' + identifier + '_alphabeta-avgs_belief' + str(belief) + '.png')
+    # plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    fh = open('output/' + identifier+ '_learned_arrays_belief'+str(belief)+'.tsv', "w")
+    fh.write("Genesprop_perturbed\t"+str(genesprop_perturbed.tolist())+"\n")
+    fh.write("Threshold_perturbed\t"+str(levels_perturbed)+"\n")
+    fh.write("Learned_alphas\t"+str(learned_alphas)+"\n")
+    fh.write("Learned_betas\t"+str(learned_betas)+"\n")
+    fh.write("Avgs_first10terms\t"+str(avgs_final)+"\n")
+    fh.write("Learned_belief\t"+str(learned_belief)+"\n")
+    fh.close()
 
 #     lower_cutoff=20
 #     upper_cutoff=500
