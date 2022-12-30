@@ -2,7 +2,7 @@ library(plyr)
 
 
 ## load ontology data
-setwd("/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/")
+setwd("/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/")
 
 d = scan("GOecoli.txt", what = "", sep = "\n")
 ecoli = strsplit(d, "[[:space:]]+")
@@ -19,7 +19,7 @@ human = human[sapply(human, length) %in% c(20:200)]
 
 par(mfrow=c(4,4)) 
 ### test for belief
-design = data.frame(c(0.4),c(0.25),c(10),c(100))
+design = data.frame(c(0.4),c(0.25),c(2),c(10))
 colnames(design) = c("alpha", "beta", "belif","n")
 
 design = data.frame(c(rep(0.1, 8), rep(0.3, 8)), 
@@ -34,16 +34,16 @@ design = data.frame(c(rep(0.25, 4), rep(0.4, 4)),
                     c(rep(c(10,100),4)))
 colnames(design) = c("alpha", "beta", "belif", "n")
 
-par(mfrow=c(2,4)) 
+par(mfrow=c(1,2)) 
 
-dd = "/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/test_results_small/CRFE/human4/"
-kd = "/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/data_small/human4/"
+dd = "/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/result/human4/"
+kd = "/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/"
 seeds = 30 ## number of replicates
 tp = 20
 
 for (k in 1:nrow(design)) {
   des = design[k,]
-  b1 = preplot_v1(data_dir = paste0(dd,"b1/temp"),
+  b1 = preplot_v1(data_dir = paste0(dd,"b1_n10rep/temp"),
                   key_dir = kd,
                   anno = human,
                   top_percent = tp,
@@ -52,7 +52,7 @@ for (k in 1:nrow(design)) {
                   n_points = 1000,
                   m = seeds)
   
-  b2 = preplot_v1(data_dir = paste0(dd,"b2/temp"),
+  b2 = preplot_v1(data_dir = paste0(dd,"b2_n10rep/temp"),
                   key_dir = kd,
                   anno = human,
                   top_percent = tp,
@@ -61,7 +61,7 @@ for (k in 1:nrow(design)) {
                   n_points = 1000,
                   m = seeds)
   
-  b5 = preplot_v1(data_dir = paste0(dd,"b5/temp"),
+  b5 = preplot_v1(data_dir = paste0(dd,"b5_n10rep/temp"),
                   key_dir = kd,
                   anno = human,
                   top_percent = tp,
@@ -70,7 +70,7 @@ for (k in 1:nrow(design)) {
                   n_points = 1000,
                   m = seeds)
   
-  b10 = preplot_v1(data_dir = paste0(dd,"b10/temp"),
+  b10 = preplot_v1(data_dir = paste0(dd,"b10_n10rep/temp"),
                    key_dir = kd,
                    anno = human,
                    top_percent = tp,
@@ -82,7 +82,7 @@ for (k in 1:nrow(design)) {
   ## truth alpha = 0.4, beta = 0.25, b =10
   x = seq(0,0.999,1/1000)
   color = c("red", "blue", "black","purple", "green")
-  plot(x, c(1,b1[2:1000]+3), pch = " ", main = paste0("human α=",paste(des[1])," β=",paste(des[2]), " b=",paste(des[3])," n=", paste(des[4])),
+  plot(x, c(1,b1[2:1000]+3), pch = " ", main = paste0("human 30 rep, 30 repeats, α=",paste(des[1])," β=",paste(des[2]), " b=",paste(des[3])," n=", paste(des[4])),
        xlab = "Proportion of Top 20% Perturbed Genes that are Explained", ylab = "Quality score")
   
   lines(x, b1, pch = ".", col = color[1])
@@ -90,11 +90,8 @@ for (k in 1:nrow(design)) {
   lines(x, b5, pch = ".", col = color[3])
   lines(x, b10, pch = ".", col = color[4])
   
-  #legend(0.7, mean(b2), legend=c("CRFE b=1","CRFE b=2", "CRFE b=5", "CRFE b=5"), fill = color[1:4])
+  #legend(0.7, 8, legend=c("CRFE b=1","CRFE b=2", "CRFE b=5", "CRFE b=10"), fill = color[1:4])
 }
-
-
-
 
 
 

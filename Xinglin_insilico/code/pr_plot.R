@@ -80,10 +80,9 @@ design = data.frame(c(rep(0.25, 4), rep(0.4, 4)),
                     c(rep(c(10,100),4)))
 colnames(design) = c("alpha", "beta", "belif", "n")
 
-dd = "/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/test_results_small/CRFE/human4/"
-kd = "/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/data_small/human4/"
+dd = "/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/result/human4/"
+kd = "/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/"
 
-data_dir = paste0(dd,"b1/temp")
 key_dir = kd
 anno = human
 design = design
@@ -99,13 +98,13 @@ for (sets in 1:nsets) {
   for(j in 1:(plot_dim[1]*plot_dim[2])){
     for (ct in 1:4) {
       ## pr-plot  
-      data_dir = c(paste0(dd,"b1/temp"),paste0(dd,"b2/temp"),paste0(dd,"b5/temp"),paste0(dd,"b10/temp"))
+      data_dir = c(paste0(dd,"b1_n10rep/temp"),paste0(dd,"b2_n10rep/temp"),paste0(dd,"b5_n10rep/temp"),paste0(dd,"b10_n10rep/temp"))
       setwd(data_dir[ct])
       result = c()
       #for (j in 1:1) {  # loop through each seed, we did 30 stimulation for each design
       filename = paste0(e_or_h, paste(d[1]), "_", paste(d[2]), "_",paste(d[3]),"_",paste(d[4]), "_seed_", j, ".txt") 
       data = read.csv(filename, sep = "\t") # table from CRFE
-      test = data[,8] # CRFE ranked terms
+      test = data[,9] # CRFE ranked terms
       key_name = paste0(e_or_h, paste(d[1]), "_", paste(d[2]), "_",paste(d[3]),"_",paste(d[4]), "_seed_", j, "key.txt")
       key = unlist(read.csv(paste0(key_dir, key_name), header = F)) # true activated terms
       
