@@ -4,8 +4,8 @@
 ##Xinglin Jia
 ##10/28/2022
 ##decision tree structure 
-
-setwd("/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/")
+## load ontology data
+setwd("/Users/JasonJia/Desktop/CRFE/Xinglin_insilico")
 
 d = scan("GOecoli.txt", what = "", sep = "\n")
 ecoli = strsplit(d, "[[:space:]]+")
@@ -19,8 +19,8 @@ d = scan("GOhuman.txt", what = "", sep = "\n")
 human = strsplit(d, "[[:space:]]+")
 names(human) <- sapply(human, `[[`, 1)
 human <- lapply(human, `[`, -1)
-human_anno = d[sapply(human, length) %in% c(20:200)]
-human = human[sapply(human, length) %in% c(20:200)]
+human_anno = d[sapply(human, length) %in% c(20:50)]
+human = human[sapply(human, length) %in% c(20:50)]
 
 letsgen4 = function(data, alpha, beta, belif, n){ ## U < 0, 0 < P < 10 
   inters = 2*belif/(1+belif)
@@ -174,17 +174,19 @@ design = data.frame(c(rep(0.25, 4), rep(0.4, 4)),
                     c(rep(c(rep(2, 2),rep(10, 2)),2)),
                     c(rep(c(10,100),4)))
 colnames(design) = c("alpha", "beta", "belif", "n")
+design = data.frame(.4,.25,2,100)
+colnames(design) = c("alpha", "beta", "belif", "n")
 ## human
-write.table(human_anno, file = "/Users/JasonJia/Desktop/GOEnrichment_with_Xinglin_copy/Xinglin/data_small/human4/human_anno.txt", col.names = FALSE, row.names = F, quote = F)
+write.table(human_anno, file = "/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4_20_50/human_anno_20_50.txt", col.names = FALSE, row.names = F, quote = F)
 for (i in 1:nrow(design)) {
   for (j in 1:30) {
     set.seed(j)
     d = unlist(design[i,])
     result = letsgen4(data = human, alpha = d[1], beta = d[2], belif = d[3], n = d[4])
-    write.table(result$gene_rank, file =paste0("data_small/human4/human", paste(d[1]), "_", paste(d[2]), "_",
+    write.table(result$gene_rank, file =paste0("/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4_20_50/human", paste(d[1]), "_", paste(d[2]), "_",
                                                paste(d[3]),"_", paste(d[4]), "_seed_",paste(j)  ,".txt"), 
                 sep ="\t", row.names = F, quote = F, col.names = F)
-    write.table(result$activated_terms, file = paste0("data_small/human4/human", paste(d[1]), "_", paste(d[2]), 
+    write.table(result$activated_terms, file = paste0("/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4_20_50/human", paste(d[1]), "_", paste(d[2]), 
                                                       "_",paste(d[3]),"_", paste(d[4]), "_seed_",paste(j), "key.txt"), 
                 sep ="\t", row.names = F, quote = F, col.names = F)
   }
