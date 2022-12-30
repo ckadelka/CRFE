@@ -561,9 +561,11 @@ class CRFE:
         """For a list of GO terms, C, this method returns the average position (in % of all perturbed genes) of all perturbed genes annotated by a term"""
         output=[]
         dict_position = {}
-        for i in range(self.n_perturbed_genes):
-            gene = list(self.G[i])[0]
-            dict_position.update({gene:i})
+        count=0
+        for i in range(len(self.G)-1):
+            for gene in list(self.G[i]):
+                dict_position.update({gene:count})
+                count+=1
         output = []
         for term in list_of_terms:
             all_positions = []
@@ -1240,6 +1242,20 @@ if __name__ == '__main__':
                                       annotation_file,'output/', identifier, seed=-1,
                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
+    
+    annotation_file = 'data/GOhuman_ft_named.txt'
+    gene_file = 'adeno_symbol.txt'    
+    identifier = 'adeno'    
+    repeats = 1
+    burnin=25000
+    steps=25000
+    m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
+                                        threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
+                                      annotation_file,'output/', identifier, seed=-1,
+                                      LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
+    (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)    
+    
+    
 #        
 #     within_jaccard_similarities = []
 #     between_jaccard_similarities_first_sets = []
