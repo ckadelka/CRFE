@@ -1,0 +1,58 @@
+Creation Time:	2022-12-29 15:31:45
+
+INPUT:
+File name:	/home/ahphan/RotationData/Kadelka/CRFE/gith/crfe_v017.py
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.1
+threshold type:	proportion
+belief:	1.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	25000
+MCMC steps:	25000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	619381695
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2410
+Total number of genes:	10923
+Number of perturbed genes:	1092
+Proportion perturbed genes:	0.09997253501785223
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.08870967741935484
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.004
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-3524.9606503754426 +- 0.5991436239713059
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	21	13	1.0	0.0	1.409e+02	1.584	sister chromatid segregation
+2	44	19	1.0	0.0	8.120e+02	1.016	chromatin assembly or disassembly
+3	38	19	1.0	0.0	5.515e+02	1.478	digestion
+4	21	10	1.0	0.0	1.779e+02	0.778	sympathetic nervous system development
+5	25	12	0.84553	0.22374	2.488e+02	1.3	regulation of chromosome segregation
+6	23	10	0.51647	0.2898	2.259e+02	1.119	regulation of transcription involved in G1/S transition of mitotic cell cycle
+7	20	8	0.39657	0.34531	1.809e+02	0.782	regulation of branching involved in ureteric bud morphogenesis
+8	22	9	0.23284	0.27433	2.149e+02	1.09	DNA replication initiation
+9	33	12	0.12033	0.17864	5.085e+02	1.002	DNA strand elongation involved in DNA replication
+10	23	8	0.1044	0.17871	2.568e+02	0.573	regulation of mesonephros development
+11	23	8	0.05166	0.12668	2.568e+02	1.03	keratinization
+12	21	7	0.03704	0.09112	2.198e+02	0.899	regulation of calcium ion-dependent exocytosis
+13	74	24	0.00964	0.02892	2.652e+03	0.66	extracellular matrix disassembly
+14	35	12	0.00837	0.0251	5.884e+02	0.952	DNA strand elongation
+15	22	9	0.00804	0.01951	2.149e+02	1.118	DNA replication-independent nucleosome assembly & CENP-A containing nucleosome assembly & DNA replication-independent nucleosome organization
+16	24	8	0.00575	0.01724	2.848e+02	0.927	chromosome organization involved in meiosis
+17	33	11	0.00074	0.00223	5.314e+02	0.667	placenta development
+18	32	8	0.00062	0.00186	5.643e+02	0.749	mitotic recombination
