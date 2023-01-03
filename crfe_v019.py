@@ -386,7 +386,7 @@ class CRFE:
                 denominator = 0
                 for i in range(1,s+1):
                     denominator += (s-i+(i-1)*self.max_belief)*self.n_perturbed_genes_per_category[i-1]
-                self.alpha_beta_max_upperbound = 1./(1 + ((s-1)*self.max_belief*self.n_perturbed_genes)*1./denominator)
+                self.alpha_beta_max_upperbound = 0.5*denominator/((s-1)*self.max_belief*self.n_perturbed_genes)#1./(1 + ((s-1)*self.max_belief*self.n_perturbed_genes)*1./denominator)
             if self.alpha_beta_max<=self.alpha_beta_max_upperbound:
                 self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max,self.A+1)[1:])
             else:
@@ -414,14 +414,15 @@ class CRFE:
             self.log_alphas=self.possible_log_alphas[self.nr_belief][self.nr_alpha]
             self.log_1_m_betas=self.possible_log_1_minus_betas[self.nr_belief][self.nr_beta]
             
-            if self.LEARN_PENALIZATION_PARAMETER:
-                self.penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)*1./self.n_terms
-                self.nr_penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)-1
         else:
             alphas=self.get_specific_rates(self.alpha)
             betas=self.get_specific_rates(self.beta)
             self.log_alphas = [math.log(el) for el in alphas]
             self.log_1_m_betas = [math.log(1-el) for el in betas]
+
+        if self.LEARN_PENALIZATION_PARAMETER:
+            self.penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)*1./self.n_terms
+            self.nr_penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)-1
             
         self.category_of_gene = [-1]*self.n_genes
         for i,category in enumerate(self.G[:-1]):
@@ -892,7 +893,7 @@ class CRFE:
         self.nr_categories if self.nr_categories>1 and self.nr_categories<=len(self.T) else "0 (i.e., each perturbed gene in its own category)", 
         self.threshold,self.threshold_type,
         self.belief, method[0], self.repeats, self.burnin_steps, self.MCMC_steps, 
-        self.alpha_beta_max, self.alpha_beta_max_upperbound,
+        self.alpha_beta_max if self.proportion_parameter_change>0 else 'fixed', self.alpha_beta_max_upperbound if self.proportion_parameter_change>0 else 'fixed',
         self.proportion_parameter_change, self.seed)
     
         text.append(str1)
@@ -910,7 +911,7 @@ class CRFE:
 
         text.append("\nOUTPUT:")
         text.append("Learnt parameters:")
-        str2 = "alpha (FPR):\t%s\nbeta (FNR):\t%s\nq (penalization parameter):\t%s\n" % ( self.alpha, self.beta, self.penalization_parameter)
+        str2 = "alpha (FPR):\t%s\nbeta (FNR):\t%s\nq (penalization parameter):\t%s\n" % ( self.alpha if self.proportion_parameter_change>0 else str(self.alpha) + ' (fixed)', self.beta if self.proportion_parameter_change>0 else str(self.beta) + ' (fixed)', self.penalization_parameter if self.LEARN_PENALIZATION_PARAMETER else str(self.penalization_parameter) + ' (fixed)')
         text.append(str2+"\n")
         text.append("Best log-likelihood value (mean +- standard deviation across replicates):\t"+str(mean_max_score)+' +- '+str(std_max_score)+'\n')
         text.append("Order\t#(Annotations)\t#(Annotations of perturbed genes)\tMean Posterior Probability\tStandard Deviation Posterior Probability\t"+("" if ps==[] else "p-value\t")+"Average Expression Level\tAverage position perturbed genes\tTerm Name" )
@@ -1243,7 +1244,7 @@ if __name__ == '__main__':
     identifier = 'real_an'
     
     m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
-                                        threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
+                                        threshold, 'levels', burnin, steps, 1,0,20,20, gene_file,
                                       annotation_file,'output/', identifier, seed=-1,
                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
