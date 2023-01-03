@@ -74,6 +74,13 @@ class CRFE:
         
         self.show_genes_in_output=False
         
+        try:
+            assert self.belief <= self.max_belief
+        except AssertionError:
+            print('\n!!! Warning:\nmax_belief must be as large or larger than belief. Now, max_belief == belief == %f)' % self.belief)
+            self.max_belief = self.belief
+            
+        
     @staticmethod
     def uniq(list_with_duplicate_entries):
         temp = set(list_with_duplicate_entries)
@@ -1238,13 +1245,13 @@ if __name__ == '__main__':
     burnin=50000
     steps=50000
     repeats=1
-    threshold=0.2
+    threshold=0.3
     annotation_file = 'data/GOhuman_ft_named.txt'
     gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
     identifier = 'real_an'
     
     m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
-                                        threshold, 'levels', burnin, steps, 1,0,20,20, gene_file,
+                                        threshold, 'proportion', burnin, steps, 1,0,20,20, gene_file,
                                       annotation_file,'output/', identifier, seed=-1,
                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
