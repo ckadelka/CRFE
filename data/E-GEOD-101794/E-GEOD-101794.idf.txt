@@ -1,0 +1,27 @@
+MAGE-TAB Version	1.1			
+Investigation Title	RNA-seq of ileal biopsies from diagnostic endoscopy of pediatric Crohn's disease patients and non inflammatory bowel disease controls			
+Comment[Submitted Name]	Age-of-Onset Dependent Immune maturation in Pediatric Crohn Disease			
+Experiment Description	Purpose:  To clarify the biological processes underlying variation in disease location and antimicrobial sero-reactivity across age-of onset in pediatric Crohn disease. Methods:  We characterize the ileal global pattern of gene expression using single-end, 50bp RNA-sequencing using the Illumina HiSeq2000 in 304 treatment-naïve pediatric Crohn patients and non-IBD controls.  Reads were quantified using Kallisto with Gencodev23 annotations.  For all analyses, data were stratified by patient age-of-onset. Results:  Performing differential analysis of all reasonably-expressed transcripts (TPM>5 in ≥5 samples, with significance defined as FDR-corrected p-value<0.05 and fold change≥1.5), we identify a robust gene signature with higher expresison of an immune gene set in older patients (≥10 years at diagnosis) compared to younger patients (<10 years at diagnosis), and a decrease in expression of antimicrobial Paneth cell-derived α-defensins. Conclusion:  We provide evidence for maturation of mucosal Th1 immune response and loss of epithelial antimicrobial α-defensins with increasing age-of-onset. Ileal gene expression profiles were generated for 304 treatment-naïve pediatric Crohn patients and non-IBD controls.			
+Public Release Date	2018-08-01			
+Person Last Name	Karns	Haberman-Ziv	Denson	Karns
+Person First Name	Rebekah	Yael	Lee	Rebekah
+Person Email	Rebekah.Karns@cchmc.org			
+Person Affiliation	Cincinnati Children's Hospital Medical Center			
+Person Address	Gastroenterology, Hepatology, & Nutrition, Cincinnati Children's Hospital Medical Center, 3333 Burnet Ave, Cincinnati, OH, USA			
+Person Roles	submitter			
+Protocol Name	P-GSE101794-2	P-GSE101794-1		
+Protocol Description	Sequencing was peformed on the Illumina HiSeq2000 Reads were quantified using kallisto with Gencode v23 as the reference genome, with transcripts per million as the output. Genome_build: Gencode v23 Supplementary_files_format_and_content: Tab delimited files with gene symbol and TPM	Ileal biopsies were obtained at diagnostic colonoscopies and stored in RNALater at -80. RNA was isolated using Qiagen AllPrep RNA/DNA MiniKiet. Poly-A-RNA selection, fragmentation, cDNA synthesis, adaptor ligation, and library preparation were performed using TruSeq RNA Sample preparation (Illumina)		
+Protocol Type	normalization data transformation protocol	nucleic acid library construction protocol		
+Term Source Name	ArrayExpress	EFO		
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl		
+Experimental Factor Name	disease	clinical information		
+Experimental Factor Type	disease	clinical information		
+Comment[SecondaryAccession]	GSE101794			
+Comment[ArrayExpressAccession]	E-GEOD-101794			
+Comment[GEOReleaseDate]	2018-08-01			
+Comment[ArrayExpressSubmissionDate]	2017-07-24			
+Comment[GEOLastUpdateDate]	2018-08-03			
+Comment[AEExperimentType]	RNA-seq of coding RNA			
+Comment[SecondaryAccession]	SRP113470			
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR5861974-SRR5862277			
+SDRF File	E-GEOD-101794.sdrf.txt			

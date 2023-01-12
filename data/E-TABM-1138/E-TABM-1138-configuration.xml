@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="microarray_1colour_mrna_differential" r_data="1">
+    <analytics>
+        <array_design>A-AFFY-44</array_design>
+        <assay_groups>
+            <assay_group id="g1" label="intravenous dose of bortezomid 1 milligram per square metre">
+                <assay>PV17546</assay>
+                <assay>PV17684</assay>
+                <assay>PV21431</assay>
+                <assay>PV21863</assay>
+                <assay>PV17087</assay>
+                <assay>PV21018</assay>
+                <assay>PV16776</assay>
+                <assay>PV21539</assay>
+                <assay>PV17933</assay>
+                <assay>PV21542</assay>
+                <assay>PV22057</assay>
+                <assay>PV17987</assay>
+                <assay>PV21097</assay>
+                <assay>PV18006</assay>
+                <assay>PV16581</assay>
+                <assay>PV21673</assay>
+                <assay>PV17604</assay>
+                <assay>PV17136</assay>
+                <assay>PV16844</assay>
+                <assay>PV16988</assay>
+                <assay>PV22043</assay>
+                <assay>PV21887</assay>
+                <assay>PV17353</assay>
+                <assay>PV16628</assay>
+                <assay>PV17239</assay>
+                <assay>PV16744</assay>
+                <assay>PV17492</assay>
+                <assay>PV17387</assay>
+                <assay>PV16438</assay>
+                <assay>PV16608</assay>
+                <assay>PV16820</assay>
+                <assay>PV16935</assay>
+                <assay>PV17890</assay>
+                <assay>PV16938</assay>
+                <assay>PV17542</assay>
+                <assay>PV21083</assay>
+                <assay>PV16623</assay>
+                <assay>PV16462</assay>
+                <assay>PV22071</assay>
+                <assay>PV22047</assay>
+                <assay>PV21674</assay>
+                <assay>PV21230</assay>
+                <assay>PV17331</assay>
+                <assay>PV18002</assay>
+                <assay>PV16839</assay>
+                <assay>PV16868</assay>
+                <assay>PV16714</assay>
+                <assay>PV17774</assay>
+                <assay>PV21786</assay>
+                <assay>PV22125</assay>
+                <assay>PV21309</assay>
+                <assay>PV22159</assay>
+                <assay>PV22037</assay>
+                <assay>PV18012</assay>
+                <assay>PV16570</assay>
+                <assay>PV22041</assay>
+                <assay>PV21135</assay>
+                <assay>PV17794</assay>
+                <assay>PV16715</assay>
+                <assay>PV21667</assay>
+                <assay>PV16986</assay>
+                <assay>PV17944</assay>
+                <assay>PV17188</assay>
+                <assay>PV21184</assay>
+                <assay>PV16979</assay>
+                <assay>PV16922</assay>
+                <assay>PV17244</assay>
+                <assay>PV21781</assay>
+                <assay>PV17138</assay>
+                <assay>PV16896</assay>
+                <assay>PV16593</assay>
+                <assay>PV16518</assay>
+                <assay>PV14004</assay>
+                <assay>PV21662</assay>
+                <assay>PV16586</assay>
+                <assay>PV16563</assay>
+                <assay>PV17949</assay>
+                <assay>PV21513</assay>
+                <assay>PV16773</assay>
+                <assay>PV17068</assay>
+                <assay>PV16767</assay>
+                <assay>PV21422</assay>
+                <assay>PV17304</assay>
+                <assay>PV21180</assay>
+                <assay>PV16966</assay>
+                <assay>PV17748</assay>
+                <assay>PV17703</assay>
+                <assay>PV21950</assay>
+                <assay>PV21830</assay>
+                <assay>PV21832</assay>
+                <assay>PV21052</assay>
+                <assay>PV21850</assay>
+                <assay>PV17565</assay>
+                <assay>PV18704</assay>
+                <assay>PV16948</assay>
+                <assay>PV21987</assay>
+                <assay>PV17449</assay>
+                <assay>PV17940</assay>
+                <assay>PV21497</assay>
+                <assay>PV17113</assay>
+                <assay>PV17050</assay>
+                <assay>PV17631</assay>
+                <assay>PV16621</assay>
+                <assay>PV22088</assay>
+                <assay>PV21016</assay>
+                <assay>PV17878</assay>
+                <assay>PV17904</assay>
+                <assay>PV17403</assay>
+                <assay>PV17399</assay>
+                <assay>PV17226</assay>
+                <assay>PV21129</assay>
+                <assay>PV16995</assay>
+                <assay>PV16740</assay>
+                <assay>PV21441</assay>
+                <assay>PV16863</assay>
+                <assay>PV17207</assay>
+                <assay>PV16600</assay>
+                <assay>PV16829</assay>
+                <assay>PV16940</assay>
+                <assay>PV17482</assay>
+                <assay>PV21591</assay>
+                <assay>PV16976</assay>
+                <assay>PV16777</assay>
+                <assay>PV16739</assay>
+                <assay>PV21176</assay>
+                <assay>PV16827</assay>
+                <assay>PV16574</assay>
+                <assay>PV16933</assay>
+                <assay>PV16496</assay>
+                <assay>PV17853</assay>
+                <assay>PV9995</assay>
+                <assay>PV18650</assay>
+                <assay>PV20226</assay>
+                <assay>PV17923</assay>
+                <assay>PV20514</assay>
+                <assay>PV17480</assay>
+                <assay>PV21076</assay>
+                <assay>PV21206</assay>
+                <assay>PV17235</assay>
+            </assay_group>
+            <assay_group id="g2" label="none">
+                <assay>BL21513</assay>
+                <assay>BL16570</assay>
+                <assay>BL21987</assay>
+                <assay>BL21129</assay>
+                <assay>BL22057</assay>
+                <assay>BL17492</assay>
+                <assay>BL17199</assay>
+                <assay>BL16896</assay>
+                <assay>BL17482</assay>
+                <assay>BL16829</assay>
+                <assay>BL21781</assay>
+                <assay>BL22088</assay>
+                <assay>BL16995</assay>
+                <assay>BL17949</assay>
+                <assay>BL17542</assay>
+                <assay>BL16773</assay>
+                <assay>BL21887</assay>
+                <assay>BL21083</assay>
+                <assay>BL21176</assay>
+                <assay>BL16844</assay>
+                <assay>BL16948</assay>
+                <assay>BL17944</assay>
+                <assay>BL21206</assay>
+                <assay>BL16715</assay>
+                <assay>BL17794</assay>
+                <assay>BL17940</assay>
+                <assay>BL21830</assay>
+                <assay>BL21673</assay>
+                <assay>BL17331</assay>
+                <assay>BL16940</assay>
+                <assay>BL16988</assay>
+                <assay>BL17684</assay>
+                <assay>BL17748</assay>
+                <assay>BL9995</assay>
+                <assay>BL17087</assay>
+                <assay>BL21016</assay>
+                <assay>BL17239</assay>
+                <assay>BL17449</assay>
+                <assay>BL16714</assay>
+                <assay>BL18650</assay>
+                <assay>BL16744</assay>
+                <assay>BL16518</assay>
+                <assay>BL21441</assay>
+                <assay>BL20514</assay>
+                <assay>BL21662</assay>
+                <assay>BL18704</assay>
+                <assay>BL16976</assay>
+                <assay>BL16966</assay>
+                <assay>BL16628</assay>
+                <assay>BL17226</assay>
+                <assay>BL16767</assay>
+                <assay>BL21184</assay>
+                <assay>BL22041</assay>
+                <assay>BL17403</assay>
+                <assay>BL14004</assay>
+                <assay>BL16215</assay>
+                <assay>BL16464</assay>
+                <assay>BL17235</assay>
+                <assay>BL17138</assay>
+                <assay>BL22043</assay>
+                <assay>BL22047</assay>
+                <assay>BL17304</assay>
+                <assay>BL21018</assay>
+                <assay>BL17774</assay>
+                <assay>BL16586</assay>
+                <assay>BL16438</assay>
+                <assay>BL21309</assay>
+                <assay>BL16608</assay>
+                <assay>BL22125</assay>
+                <assay>BL21431</assay>
+                <assay>BL21076</assay>
+                <assay>BL21674</assay>
+                <assay>BL17890</assay>
+                <assay>BL22159</assay>
+                <assay>BL21850</assay>
+                <assay>BL22071</assay>
+                <assay>BL17904</assay>
+                <assay>BL21950</assay>
+                <assay>BL17136</assay>
+                <assay>BL16581</assay>
+                <assay>BL16496</assay>
+                <assay>BL17703</assay>
+                <assay>BL16827</assay>
+                <assay>BL16933</assay>
+                <assay>BL16986</assay>
+                <assay>BL17188</assay>
+                <assay>BL17113</assay>
+                <assay>BL17987</assay>
+                <assay>BL16574</assay>
+                <assay>BL16623</assay>
+                <assay>BL16621</assay>
+                <assay>BL21497</assay>
+                <assay>BL21832</assay>
+                <assay>BL17604</assay>
+                <assay>BL17050</assay>
+                <assay>BL17565</assay>
+                <assay>BL16600</assay>
+                <assay>BL22037</assay>
+                <assay>BL16776</assay>
+                <assay>BL16938</assay>
+                <assay>BL17207</assay>
+                <assay>BL21135</assay>
+                <assay>BL17631</assay>
+                <assay>BL21052</assay>
+                <assay>BL21422</assay>
+                <assay>BL21097</assay>
+                <assay>BL16462</assay>
+                <assay>BL16863</assay>
+                <assay>BL16563</assay>
+                <assay>BL18002</assay>
+                <assay>BL21542</assay>
+                <assay>BL21180</assay>
+                <assay>BL21863</assay>
+                <assay>BL16839</assay>
+                <assay>BL17878</assay>
+                <assay>BL21230</assay>
+                <assay>BL17546</assay>
+                <assay>BL17923</assay>
+                <assay>BL16740</assay>
+                <assay>BL16868</assay>
+                <assay>BL18012</assay>
+                <assay>BL17933</assay>
+                <assay>BL17353</assay>
+                <assay>BL16935</assay>
+                <assay>BL17480</assay>
+                <assay>BL20226</assay>
+                <assay>BL21539</assay>
+                <assay>BL16979</assay>
+                <assay>BL21667</assay>
+                <assay>BL16922</assay>
+                <assay>BL21786</assay>
+                <assay>BL17399</assay>
+                <assay>BL16739</assay>
+                <assay>BL17387</assay>
+                <assay>BL18006</assay>
+                <assay>BL21591</assay>
+                <assay>BL17068</assay>
+                <assay>BL16777</assay>
+                <assay>BL16593</assay>
+                <assay>BL17244</assay>
+                <assay>BL17853</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g2_g1">
+                <name>'intravenous dose of bortezomid 1 milligram per square metre' vs 'none'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="individual">
+                        <batch value="14004">
+                            <assay>PV14004</assay>
+                            <assay>BL14004</assay>
+                        </batch>
+                        <batch value="16215">
+                            <assay>BL16215</assay>
+                            <assay>PV16215</assay>
+                        </batch>
+                        <batch value="16438">
+                            <assay>BL16438</assay>
+                            <assay>PV16438</assay>
+                        </batch>
+                        <batch value="16462">
+                            <assay>BL16462</assay>
+                            <assay>PV16462</assay>
+                        </batch>
+                        <batch value="16464">
+                            <assay>PV16464</assay>
+                            <assay>BL16464</assay>
+                        </batch>
+                        <batch value="16496">
+                            <assay>BL16496</assay>
+                            <assay>PV16496</assay>
+                        </batch>
+                        <batch value="16518">
+                            <assay>BL16518</assay>
+                            <assay>PV16518</assay>
+                        </batch>
+                        <batch value="16563">
+                            <assay>PV16563</assay>
+                            <assay>BL16563</assay>
+                        </batch>
+                        <batch value="16570">
+                            <assay>BL16570</assay>
+                            <assay>PV16570</assay>
+                        </batch>
+                        <batch value="16574">
+                            <assay>BL16574</assay>
+                            <assay>PV16574</assay>
+                        </batch>
+                        <batch value="16581">
+                            <assay>BL16581</assay>
+                            <assay>PV16581</assay>
+                        </batch>
+                        <batch value="16586">
+                            <assay>PV16586</assay>
+                            <assay>BL16586</assay>
+                        </batch>
+                        <batch value="16593">
+                            <assay>BL16593</assay>
+                            <assay>PV16593</assay>
+                        </batch>
+                        <batch value="16600">
+                            <assay>BL16600</assay>
+                            <assay>PV16600</assay>
+                        </batch>
+                        <batch value="16608">
+                            <assay>BL16608</assay>
+                            <assay>PV16608</assay>
+                        </batch>
+                        <batch value="16621">
+                            <assay>BL16621</assay>
+                            <assay>PV16621</assay>
+                        </batch>
+                        <batch value="16623">
+                            <assay>PV16623</assay>
+                            <assay>BL16623</assay>
+                        </batch>
+                        <batch value="16628">
+                            <assay>PV16628</assay>
+                            <assay>BL16628</assay>
+                        </batch>
+                        <batch value="16714">
+                            <assay>PV16714</assay>
+                            <assay>BL16714</assay>
+                        </batch>
+                        <batch value="16715">
+                            <assay>BL16715</assay>
+                            <assay>PV16715</assay>
+                        </batch>
+                        <batch value="16739">
+                            <assay>PV16739</assay>
+                            <assay>BL16739</assay>
+                        </batch>
+                        <batch value="16740">
+                            <assay>PV16740</assay>
+                            <assay>BL16740</assay>
+                        </batch>
+                        <batch value="16744">
+                            <assay>BL16744</assay>
+                            <assay>PV16744</assay>
+                        </batch>
+                        <batch value="16767">
+                            <assay>BL16767</assay>
+                            <assay>PV16767</assay>
+                        </batch>
+                        <batch value="16773">
+                            <assay>BL16773</assay>
+                            <assay>PV16773</assay>
+                        </batch>
+                        <batch value="16776">
+                            <assay>PV16776</assay>
+                            <assay>BL16776</assay>
+                        </batch>
+                        <batch value="16777">
+                            <assay>BL16777</assay>
+                            <assay>PV16777</assay>
+                        </batch>
+                        <batch value="16820">
+                            <assay>PV16820</assay>
+                            <assay>BL16820</assay>
+                        </batch>
+                        <batch value="16827">
+                            <assay>BL16827</assay>
+                            <assay>PV16827</assay>
+                        </batch>
+                        <batch value="16829">
+                            <assay>PV16829</assay>
+                            <assay>BL16829</assay>
+                        </batch>
+                        <batch value="16839">
+                            <assay>PV16839</assay>
+                            <assay>BL16839</assay>
+                        </batch>
+                        <batch value="16844">
+                            <assay>PV16844</assay>
+                            <assay>BL16844</assay>
+                        </batch>
+                        <batch value="16863">
+                            <assay>BL16863</assay>
+                            <assay>PV16863</assay>
+                        </batch>
+                        <batch value="16868">
+                            <assay>PV16868</assay>
+                            <assay>BL16868</assay>
+                        </batch>
+                        <batch value="16896">
+                            <assay>BL16896</assay>
+                            <assay>PV16896</assay>
+                        </batch>
+                        <batch value="16922">
+                            <assay>PV16922</assay>
+                            <assay>BL16922</assay>
+                        </batch>
+                        <batch value="16933">
+                            <assay>PV16933</assay>
+                            <assay>BL16933</assay>
+                        </batch>
+                        <batch value="16935">
+                            <assay>BL16935</assay>
+                            <assay>PV16935</assay>
+                        </batch>
+                        <batch value="16938">
+                            <assay>BL16938</assay>
+                            <assay>PV16938</assay>
+                        </batch>
+                        <batch value="16940">
+                            <assay>BL16940</assay>
+                            <assay>PV16940</assay>
+                        </batch>
+                        <batch value="16948">
+                            <assay>PV16948</assay>
+                            <assay>BL16948</assay>
+                        </batch>
+                        <batch value="16966">
+                            <assay>BL16966</assay>
+                            <assay>PV16966</assay>
+                        </batch>
+                        <batch value="16976">
+                            <assay>BL16976</assay>
+                            <assay>PV16976</assay>
+                        </batch>
+                        <batch value="16979">
+                            <assay>PV16979</assay>
+                            <assay>BL16979</assay>
+                        </batch>
+                        <batch value="16986">
+                            <assay>PV16986</assay>
+                            <assay>BL16986</assay>
+                        </batch>
+                        <batch value="16988">
+                            <assay>PV16988</assay>
+                            <assay>BL16988</assay>
+                        </batch>
+                        <batch value="16995">
+                            <assay>PV16995</assay>
+                            <assay>BL16995</assay>
+                        </batch>
+                        <batch value="17050">
+                            <assay>BL17050</assay>
+                            <assay>PV17050</assay>
+                        </batch>
+                        <batch value="17068">
+                            <assay>PV17068</assay>
+                            <assay>BL17068</assay>
+                        </batch>
+                        <batch value="17087">
+                            <assay>BL17087</assay>
+                            <assay>PV17087</assay>
+                        </batch>
+                        <batch value="17113">
+                            <assay>PV17113</assay>
+                            <assay>BL17113</assay>
+                        </batch>
+                        <batch value="17136">
+                            <assay>PV17136</assay>
+                            <assay>BL17136</assay>
+                        </batch>
+                        <batch value="17138">
+                            <assay>PV17138</assay>
+                            <assay>BL17138</assay>
+                        </batch>
+                        <batch value="17188">
+                            <assay>BL17188</assay>
+                            <assay>PV17188</assay>
+                        </batch>
+                        <batch value="17199">
+                            <assay>PV17199</assay>
+                            <assay>BL17199</assay>
+                        </batch>
+                        <batch value="17207">
+                            <assay>PV17207</assay>
+                            <assay>BL17207</assay>
+                        </batch>
+                        <batch value="17226">
+                            <assay>PV17226</assay>
+                            <assay>BL17226</assay>
+                        </batch>
+                        <batch value="17235">
+                            <assay>PV17235</assay>
+                            <assay>BL17235</assay>
+                        </batch>
+                        <batch value="17239">
+                            <assay>BL17239</assay>
+                            <assay>PV17239</assay>
+                        </batch>
+                        <batch value="17244">
+                            <assay>PV17244</assay>
+                            <assay>BL17244</assay>
+                        </batch>
+                        <batch value="17304">
+                            <assay>BL17304</assay>
+                            <assay>PV17304</assay>
+                        </batch>
+                        <batch value="17331">
+                            <assay>BL17331</assay>
+                            <assay>PV17331</assay>
+                        </batch>
+                        <batch value="17353">
+                            <assay>BL17353</assay>
+                            <assay>PV17353</assay>
+                        </batch>
+                        <batch value="17387">
+                            <assay>PV17387</assay>
+                            <assay>BL17387</assay>
+                        </batch>
+                        <batch value="17399">
+                            <assay>PV17399</assay>
+                            <assay>BL17399</assay>
+                        </batch>
+                        <batch value="17403">
+                            <assay>PV17403</assay>
+                            <assay>BL17403</assay>
+                        </batch>
+                        <batch value="17449">
+                            <assay>BL17449</assay>
+                            <assay>PV17449</assay>
+                        </batch>
+                        <batch value="17480">
+                            <assay>PV17480</assay>
+                            <assay>BL17480</assay>
+                        </batch>
+                        <batch value="17482">
+                            <assay>PV17482</assay>
+                            <assay>BL17482</assay>
+                        </batch>
+                        <batch value="17492">
+                            <assay>BL17492</assay>
+                            <assay>PV17492</assay>
+                        </batch>
+                        <batch value="17542">
+                            <assay>BL17542</assay>
+                            <assay>PV17542</assay>
+                        </batch>
+                        <batch value="17546">
+                            <assay>PV17546</assay>
+                            <assay>BL17546</assay>
+                        </batch>
+                        <batch value="17565">
+                            <assay>BL17565</assay>
+                            <assay>PV17565</assay>
+                        </batch>
+                        <batch value="17604">
+                            <assay>BL17604</assay>
+                            <assay>PV17604</assay>
+                        </batch>
+                        <batch value="17631">
+                            <assay>BL17631</assay>
+                            <assay>PV17631</assay>
+                        </batch>
+                        <batch value="17684">
+                            <assay>PV17684</assay>
+                            <assay>BL17684</assay>
+                        </batch>
+                        <batch value="17703">
+                            <assay>PV17703</assay>
+                            <assay>BL17703</assay>
+                        </batch>
+                        <batch value="17748">
+                            <assay>PV17748</assay>
+                            <assay>BL17748</assay>
+                        </batch>
+                        <batch value="17774">
+                            <assay>BL17774</assay>
+                            <assay>PV17774</assay>
+                        </batch>
+                        <batch value="17794">
+                            <assay>BL17794</assay>
+                            <assay>PV17794</assay>
+                        </batch>
+                        <batch value="17853">
+                            <assay>BL17853</assay>
+                            <assay>PV17853</assay>
+                        </batch>
+                        <batch value="17878">
+                            <assay>PV17878</assay>
+                            <assay>BL17878</assay>
+                        </batch>
+                        <batch value="17890">
+                            <assay>BL17890</assay>
+                            <assay>PV17890</assay>
+                        </batch>
+                        <batch value="17904">
+                            <assay>BL17904</assay>
+                            <assay>PV17904</assay>
+                        </batch>
+                        <batch value="17923">
+                            <assay>PV17923</assay>
+                            <assay>BL17923</assay>
+                        </batch>
+                        <batch value="17933">
+                            <assay>PV17933</assay>
+                            <assay>BL17933</assay>
+                        </batch>
+                        <batch value="17940">
+                            <assay>BL17940</assay>
+                            <assay>PV17940</assay>
+                        </batch>
+                        <batch value="17944">
+                            <assay>PV17944</assay>
+                            <assay>BL17944</assay>
+                        </batch>
+                        <batch value="17949">
+                            <assay>BL17949</assay>
+                            <assay>PV17949</assay>
+                        </batch>
+                        <batch value="17987">
+                            <assay>PV17987</assay>
+                            <assay>BL17987</assay>
+                        </batch>
+                        <batch value="18002">
+                            <assay>BL18002</assay>
+                            <assay>PV18002</assay>
+                        </batch>
+                        <batch value="18006">
+                            <assay>PV18006</assay>
+                            <assay>BL18006</assay>
+                        </batch>
+                        <batch value="18012">
+                            <assay>PV18012</assay>
+                            <assay>BL18012</assay>
+                        </batch>
+                        <batch value="18650">
+                            <assay>BL18650</assay>
+                            <assay>PV18650</assay>
+                        </batch>
+                        <batch value="18704">
+                            <assay>PV18704</assay>
+                            <assay>BL18704</assay>
+                        </batch>
+                        <batch value="20226">
+                            <assay>PV20226</assay>
+                            <assay>BL20226</assay>
+                        </batch>
+                        <batch value="20514">
+                            <assay>PV20514</assay>
+                            <assay>BL20514</assay>
+                        </batch>
+                        <batch value="21016">
+                            <assay>PV21016</assay>
+                            <assay>BL21016</assay>
+                        </batch>
+                        <batch value="21018">
+                            <assay>BL21018</assay>
+                            <assay>PV21018</assay>
+                        </batch>
+                        <batch value="21052">
+                            <assay>PV21052</assay>
+                            <assay>BL21052</assay>
+                        </batch>
+                        <batch value="21076">
+                            <assay>PV21076</assay>
+                            <assay>BL21076</assay>
+                        </batch>
+                        <batch value="21083">
+                            <assay>BL21083</assay>
+                            <assay>PV21083</assay>
+                        </batch>
+                        <batch value="21097">
+                            <assay>PV21097</assay>
+                            <assay>BL21097</assay>
+                        </batch>
+                        <batch value="21129">
+                            <assay>PV21129</assay>
+                            <assay>BL21129</assay>
+                        </batch>
+                        <batch value="21135">
+                            <assay>BL21135</assay>
+                            <assay>PV21135</assay>
+                        </batch>
+                        <batch value="21176">
+                            <assay>BL21176</assay>
+                            <assay>PV21176</assay>
+                        </batch>
+                        <batch value="21180">
+                            <assay>BL21180</assay>
+                            <assay>PV21180</assay>
+                        </batch>
+                        <batch value="21184">
+                            <assay>BL21184</assay>
+                            <assay>PV21184</assay>
+                        </batch>
+                        <batch value="21206">
+                            <assay>PV21206</assay>
+                            <assay>BL21206</assay>
+                        </batch>
+                        <batch value="21230">
+                            <assay>BL21230</assay>
+                            <assay>PV21230</assay>
+                        </batch>
+                        <batch value="21309">
+                            <assay>PV21309</assay>
+                            <assay>BL21309</assay>
+                        </batch>
+                        <batch value="21422">
+                            <assay>PV21422</assay>
+                            <assay>BL21422</assay>
+                        </batch>
+                        <batch value="21431">
+                            <assay>PV21431</assay>
+                            <assay>BL21431</assay>
+                        </batch>
+                        <batch value="21441">
+                            <assay>BL21441</assay>
+                            <assay>PV21441</assay>
+                        </batch>
+                        <batch value="21497">
+                            <assay>BL21497</assay>
+                            <assay>PV21497</assay>
+                        </batch>
+                        <batch value="21513">
+                            <assay>PV21513</assay>
+                            <assay>BL21513</assay>
+                        </batch>
+                        <batch value="21539">
+                            <assay>PV21539</assay>
+                            <assay>BL21539</assay>
+                        </batch>
+                        <batch value="21542">
+                            <assay>PV21542</assay>
+                            <assay>BL21542</assay>
+                        </batch>
+                        <batch value="21591">
+                            <assay>PV21591</assay>
+                            <assay>BL21591</assay>
+                        </batch>
+                        <batch value="21662">
+                            <assay>PV21662</assay>
+                            <assay>BL21662</assay>
+                        </batch>
+                        <batch value="21667">
+                            <assay>PV21667</assay>
+                            <assay>BL21667</assay>
+                        </batch>
+                        <batch value="21673">
+                            <assay>BL21673</assay>
+                            <assay>PV21673</assay>
+                        </batch>
+                        <batch value="21674">
+                            <assay>PV21674</assay>
+                            <assay>BL21674</assay>
+                        </batch>
+                        <batch value="21781">
+                            <assay>BL21781</assay>
+                            <assay>PV21781</assay>
+                        </batch>
+                        <batch value="21786">
+                            <assay>BL21786</assay>
+                            <assay>PV21786</assay>
+                        </batch>
+                        <batch value="21830">
+                            <assay>BL21830</assay>
+                            <assay>PV21830</assay>
+                        </batch>
+                        <batch value="21832">
+                            <assay>PV21832</assay>
+                            <assay>BL21832</assay>
+                        </batch>
+                        <batch value="21850">
+                            <assay>PV21850</assay>
+                            <assay>BL21850</assay>
+                        </batch>
+                        <batch value="21863">
+                            <assay>BL21863</assay>
+                            <assay>PV21863</assay>
+                        </batch>
+                        <batch value="21887">
+                            <assay>PV21887</assay>
+                            <assay>BL21887</assay>
+                        </batch>
+                        <batch value="21950">
+                            <assay>PV21950</assay>
+                            <assay>BL21950</assay>
+                        </batch>
+                        <batch value="21987">
+                            <assay>PV21987</assay>
+                            <assay>BL21987</assay>
+                        </batch>
+                        <batch value="22037">
+                            <assay>PV22037</assay>
+                            <assay>BL22037</assay>
+                        </batch>
+                        <batch value="22041">
+                            <assay>BL22041</assay>
+                            <assay>PV22041</assay>
+                        </batch>
+                        <batch value="22043">
+                            <assay>BL22043</assay>
+                            <assay>PV22043</assay>
+                        </batch>
+                        <batch value="22047">
+                            <assay>PV22047</assay>
+                            <assay>BL22047</assay>
+                        </batch>
+                        <batch value="22057">
+                            <assay>PV22057</assay>
+                            <assay>BL22057</assay>
+                        </batch>
+                        <batch value="22071">
+                            <assay>BL22071</assay>
+                            <assay>PV22071</assay>
+                        </batch>
+                        <batch value="22088">
+                            <assay>BL22088</assay>
+                            <assay>PV22088</assay>
+                        </batch>
+                        <batch value="22125">
+                            <assay>PV22125</assay>
+                            <assay>BL22125</assay>
+                        </batch>
+                        <batch value="22159">
+                            <assay>PV22159</assay>
+                            <assay>BL22159</assay>
+                        </batch>
+                        <batch value="9995">
+                            <assay>PV9995</assay>
+                            <assay>BL9995</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

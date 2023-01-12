@@ -1,0 +1,31 @@
+Comment[ArrayExpressAccession]	E-GEOD-69597												
+MAGE-TAB Version	1.1												
+Public Release Date	2015-06-06												
+Investigation Title	Refining brucellosis diagnosis by blood transcriptional profiling												
+Comment[Submitted Name]	Refining brucellosis diagnosis by blood transcriptional profiling												
+Experiment Description	Diagnosis of brucellosis remains challenging for several reasons, including lack of culture sensitivity, nonspecific symptomatology, and high prevalence of positive serology in endemic areas. The main objectives of this study were to identify blood biomarkers specific to brucellosis compared to other endemic infections and to monitor changes in blood biomarkers during treatment. To obtain a global profile of the disease, we employed RNA sequencing (RNAseq) of whole blood RNA to measure host response against brucellosis infection in patients from Macedonia and Spain. Long-term follow up of patients was used to classify patients as having acute or chronic/reinfection brucellosis and as treatment responders and non-responders. We observed distinct gene expression differences between samples from acute brucellosis and control donors. The magnitude of gene expression changes was associated with antibody titers determined by standard serological tests for brucellosis, including the rose Bengal and standard agglutination tests. The expression signature characteristic of acute brucellosis was also different from that of subjects with leishmaniasis. In depth integration of clinical data and serological findings with our gene expression data will be performed to provide insight into cellular and molecular mechanisms of brucellosis infection. Whole blood from 169 subjects including 105 patients with suspected brucellosis, 17 patients with leishmaniasis, and 47 healthy controls.												
+Term Source Name	ArrayExpress	EFO											
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl											
+Person Last Name	Presnell	Khaenam	Altman	Gorvel	Bosilkovski	Moriyon	Popov	O'Brien	Nguyen	Gersuk	Presnell	Eddy	Linsley
+Person First Name	Scott	Prasong	Mathew	Jean-Peirre	Mile	Ignacio	Dimitry	Kimberly	Quynh-Anh	Vivian	Scott	James	Peter
+Person Mid Initials			C										S
+Person Email	SPresnell@benaroyaresearch.org												
+Person Affiliation	Benaroya Research Institute												
+Person Address	Benaroya Research Institute, 1201 Ninth Avenue, Seattle, WA, USA												
+Person Roles	submitter												
+Protocol Name	P-GSE69597-2	P-GSE69597-1											
+Protocol Description	Base-calling was performed automatically in Illumina BaseSpace after sequencing; FASTQ reads were trimmed in Galaxy in two steps: 1) hard-trimming to remove 1 3'-end base (FASTQ Trimmer tool, v.1.0.0); 2) quality trimming from both ends until minimum base quality for each read >= 30 (FASTQ Quality Trimmer tool, v.1.0.0). Reads were aligned in Galaxy using bowtie and TopHat (Tophat for Illumina tool, v.1.5.0). Read counts per Ensembl gene ID were estimated in Galaxy using htseq-count (htseq-count tool, v.0.4.1). Sequencing, alignment, and quantitation metrics were obtained for FASTQ, BAM/SAM, and count files in Galaxy using FastQC, Picard, TopHat, Samtools, and ht-seq-count. Non-protein coding and mitochondrial genes were filtered out. Samples were selected for further analysis by using these criteria: unpaired reads examined/FASQ total read >0.75 and median CV coverage <1. Samples that had total counts less than one million were excluded. Genes expressed (counts per million >1) in less than 3 samples were removed. Data normalization and differential expression analysis were performed in R using function SAMseq from samr package. Genome_build: GRCh38 Supplementary_files_format_and_content: (1) brucellosis_processed_data_for_GEO.csv: comma-separated matrix – first 6 columns contain Ensembl gene ID, Ensembl transcript ID, HGNC symbol, location information and chromosome name, remaining columns include read counts assigned for each library; data represents all processing steps up to and including sample QC and filtering but not downstream processing/normalization for analysis. (2) brucellosis_combined_metrics.csv: comma-separated matrix – the first column contains library ID, remaining columns include RNA sequencing and alignment metrics.	Total RNA was isolated using MagMax for Stabilized Blood Tubes RNA Isolation Kit (Ambion, TX) and RNA sample was globin reduced wit GLOBINclear (Ambion, TX) according to manufacturer’s instructions. Libraries were prepared from globin reduced RNA samples using the Illumina TrueSeq RNA Sample Preparation kit according to manufacturer's instructions.											
+Protocol Type	normalization data transformation protocol	nucleic acid library construction protocol											
+Experimental Factor Name	disease	disease staging	clinical information										
+Experimental Factor Type	disease	disease staging	clinical information										
+Comment[AEExperimentDisplayName]	RNA-seq of blood from 105 patients with brucellosis, 17 patients with Leishmaniasis and 47 healthy controls												
+Comment[SecondaryAccession]	GSE69597												
+Comment[GEOReleaseDate]	2015-06-06												
+Comment[ArrayExpressSubmissionDate]	2015-06-05												
+Comment[GEOLastUpdateDate]	2015-06-09												
+Comment[AEExperimentType]	RNA-seq of coding RNA												
+Comment[AdditionalFile:Data1]	GSE69597_brucellosis_combined_metrics.csv												
+Comment[AdditionalFile:Data2]	GSE69597_brucellosis_processed_data_for_GEO.csv												
+Comment[SecondaryAccession]	SRP059172												
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR2052657-SRR2052825												
+SDRF File	E-GEOD-69597.sdrf.txt												

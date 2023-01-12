@@ -1,0 +1,30 @@
+MAGE-TAB Version	1.1									
+Investigation Title	A functional genomics predictive network model identifies regulators of inflammatory bowel disease: Microarray Analysis of Human Blood and Intestinal Biopsy Samples from a Phase 2b, Double-blind, Placebo-controlled Study of Ustekinumab in Crohn's Disease									
+Public Release Date	2017-07-07									
+Experiment Description	Microarray Analysis of Human Whole Blood and Intestinal Biopsy Samples from a Phase 2b, Multicenter, Randomized, Double-blind, Placebo-controlled, Parallel-group Study of Ustekinumab in Crohn’s Disease 329 Crohn's biopsies from multiple regions in the intestine of 87 anti TNFa refractory patients and blood samples from 204 patients at Week 0 prior to drug treatment are included in this study									
+Protocol Name	P-GSE100833-5	P-GSE100833-3	P-GSE100833-6	P-GSE100833-4	P-GSE100833-1	P-GSE100833-2				
+Protocol Description	Gene expression were carried out using Affymetrix GeneChip HTHGU133+ (Affymetrix, Santa Clara, CA, USA Cat# 901262) according to the manufacturer’s protocol with the exception that dimethyl sulphoxide replaced the Tetramethylammonium Chloride Solution in the hybridization buffer.	Total RNA including micro ribonucleic acids (miRNA) was isolated with PAXgene Blood RNA MDx Kit plus customized reagent BM3 (Cat#762431, lot 136237127) according to the manufacturer’s instructions (Qiagen Inc., Valencia, CA). Briefly, PAXgene Blood RNA Tubes were incubated at room temperature around 2 hrs before extraction. After centrifugation for 10 min at 3000–5000 x g, the pellet was re-suspended in 290 μl Buffer BR1 with 35 μl proteinase K. The remaining procedures were performed on a BioRobot Universal System using a customized protocol, PAXgene Blood RNA UNIV rcV73_miRNA Centocor.pro (Qiagen).	Arrays were washed and stained on the Affymetrix GeneChip Array Station then scanned on an HTAPS scanner.	RNA samples were amplified by NuGEN Ovation RNA Amplification System V2 Whole Blood Solution (NuGEN, San Carlos, CA) and purified using Agencourt RNAClean magnetic beads. Labeling was done using the NuGEN Encore Biotin Module (NuGEN). (Agencourt, Beverly, MA) on a Caliper SciClone robot.	Array Studio software version 6.0 (OmicSoft Corp., St. Morrisville, NC) was used for data analysis. The microarray data were pre-processed and normalized using RMA. Log2 transformed data was used for statistical analysis. ID_REF =  VALUE = RMA-normalized signal	All blood samples were stored at −80 °C until RNA isolation was performed. Blood samples were hybridized by microarray for genome-wide mRNA expression profiling. Ileal, rectal, and colonic biopsies were collected at the screening visits from a sub-group of subjects who consented to this procedure. Biopsies were obtained from selected colonic sections, including the ascending, transverse, and descending colonic regions, and from both inflamed and non-involved areas. The inflamed regions were defined as the colonic segments with the most severe disease activity. Additional biopsies were collected from the terminal ileum and from the rectum (i.e., the distal 10 cm of the colon).				
+Protocol Type	hybridization protocol	nucleic acid extraction protocol	array scanning protocol	labelling protocol	normalization data transformation protocol	sample treatment protocol				
+Publication Title	A functional genomics predictive network model identifies regulators of inflammatory bowel disease.									
+Publication Author List	Peters LA, Perrigoue J, Mortha A, Iuga A, Song WM, Neiman EM, Llewellyn SR, Di Narzo A, Kidd BA, Telesco SE, Zhao Y, Stojmirovic A, Sendecki J, Shameer K, Miotto R, Losic B, Shah H, Lee E, Wang M, Faith JJ, Kasarskis A, Brodmerkel C, Curran M, Das A, Friedman JR, Fukui Y, Humphrey MB, Iritani BM, Sibinga N, Tarrant TK, Argmann C, Hao K, Roussos P, Zhu J, Zhang B, Dobrin R, Mayer LF, Schadt EE									
+PubMed ID	28892060									
+Publication DOI	10.1038/ng.3947									
+Experimental Factor Name	block	sampling site	cohort	time	disease	age yr	visit	treatment_group	inflammation	organism part
+Experimental Factor Type	block	sampling site	cohort	time	disease	age yr	visit	treatment_group	inflammation	organism part
+Term Source Name	ArrayExpress									
+Term Source File	http://www.ebi.ac.uk/arrayexpress/									
+Person Last Name	Schadt	Friedman	Schadt	Peters						
+Person First Name	Eric	Joshua	Eric	Lauren						
+Person Mid Initials		R	E	A						
+Person Email	eric.schadt@mssm.edu									
+Person Affiliation	Icahn School of Medicine at Mount Sinai									
+Person Address	Icahn School of Medicine at Mount Sinai, 1425 Madison Avenue, New York, USA									
+Person Roles	submitter									
+Comment[SecondaryAccession]	GSE100833									
+Comment[ArrayExpressAccession]	E-GEOD-100833									
+Comment[GEOReleaseDate]	2017-07-07									
+Comment[ArrayExpressSubmissionDate]	2017-07-05									
+Comment[GEOLastUpdateDate]	2018-07-12									
+Comment[AEExperimentType]	transcription profiling by array									
+SDRF File	E-GEOD-100833.sdrf.txt									
+

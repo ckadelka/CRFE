@@ -1,0 +1,30 @@
+Comment[ArrayExpressAccession]	E-GEOD-65270								
+MAGE-TAB Version	1.1								
+Public Release Date	2015-01-27								
+Investigation Title	Microarray analysis from paired biopsies from ileal pouch-anal anastomosis surgery patients with ulcerative colitis and familial adenomatous polyposis								
+Comment[Submitted Name]	Associations between host gene expression, the mucosal microbiome, and clinical outcome in the pelvic pouch of patients with inflammatory bowel disease.								
+Experiment Description	Pouchitis is a common complication for ulcerative colitis (UC) patients with ileal pouch-anal anastomosis (IPAA) surgery. Similarly to IBD, both innate host factors such as genetics, and environmental stimuli including the tissue-associated microbiome have been implicated in the pathogenesis. In this study, we make use of the IPAA model of inflammatory bowel disease (IBD) to carry out a study associating mucosal host gene expression with the microbiome and corresponding clinical outcomes. In order to determine how host gene expression might influence, or be influenced by the tissue associated microbiome, we analyzed 205 IPAA patients with biopsies collected from the pouch and afferent limb for host transcriptomics and 16S rDNA gene sequencing. Metadata included antibiotic use, inflammation score, and clinical classification. To achieve power for a genome-wide microbiome-transcriptome association study, we used principal component analysis to reduce OTUs and host transcripts to eigengenes and eigenclades explaining 50% of observed variance. These were subsequently tested for significant covariation with one another and/or outcome using multivariate linear modeling.								
+Term Source Name	ArrayExpress	EFO							
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl							
+Person Last Name	Kabakchiev	Kabakchiev	Morgan	Waldron	Tyler	Gevers	Xavier	Silverberg	Huttenhower
+Person First Name	Boyko	B	X	L	A	D	R	M	C
+Person Mid Initials			C				J	S	
+Person Email	geo@ncbi.nlm.nih.gov								
+Person Affiliation	Mount Sinai Hospital								
+Person Address	Samuel Lunenfeld Research Institute, Mount Sinai Hospital, 60 Murray Street, Room L3-004, Toronto, Ontario, Canada								
+Person Roles	submitter								
+Protocol Name	P-GSE65270-1	P-GSE65270-3	P-GSE65270-4	P-GSE65270-2	P-GSE65270-5				
+Protocol Description	Summarized probe cell intensity data were generated with an Affymetrix GeneChip Command Console. Probe-level summarization files were produced and the data were background-adjusted, normalized and log-transformed with a robust multiarray average (RMA) algorithm in Affymetrix Expression Console. The empirical Bayes (EB) method described by Johnson, W.E. et al. (2007) was applied to the normalized data to correct for batch effects which may have resulted from a non-linear sample extraction and microarray processing schedule. Lastly, duplicate and ambiguous Affymetrix probesets (Release 32) as well as those which no longer mapped to a gene in the current human genome build (GRCh37.p5) were removed from further analysis. HuGene-1_0-st-v1.r4.pgf HuGene-1_0-st-v1.r4.mps ID_REF =  VALUE = Background-adjusted, normalized and log-transformed with a robust multiarray average (RMA) algorithm data from Affymetrix Expression Console with additional batch effect correction with ComBat	GeneChip WT Terminal Labeling and Controls Kit (Affymetrix)	GeneChip Hybridization, Wash, and Stain Kit (Affymetrix)	miRNeasy Mini Kit (QIAGEN)	Affymetrix GeneChip Scanner 3000				
+Protocol Type	normalization data transformation protocol	labelling protocol	hybridization protocol	nucleic acid extraction protocol	array scanning protocol				
+Experimental Factor Name	disease	organism part	block						
+Experimental Factor Type	disease	organism part	block						
+Publication Title	Associations between host gene expression, the mucosal microbiome, and clinical outcome in the pelvic pouch of patients with inflammatory bowel disease.								
+Publication Author List	Morgan XC, Kabakchiev B, Waldron L, Tyler AD, Tickle TL, Milgrom R, Stempak JM, Gevers D, Xavier RJ, Silverberg MS, Huttenhower C								
+PubMed ID	25887922								
+Publication DOI	10.1186/s13059-015-0637-x								
+Comment[SecondaryAccession]	GSE65270								
+Comment[GEOReleaseDate]	2015-01-27								
+Comment[ArrayExpressSubmissionDate]	2015-01-26								
+Comment[GEOLastUpdateDate]	2015-01-28								
+Comment[AEExperimentType]	transcription profiling by array								
+SDRF File	E-GEOD-65270.sdrf.txt								

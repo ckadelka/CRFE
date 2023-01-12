@@ -1,0 +1,600 @@
+E-MTAB-7915		ERR3300727	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300727	characteristic	individual	HC1
+E-MTAB-7915		ERR3300727	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300727	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300727	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300728	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300728	characteristic	individual	HC1
+E-MTAB-7915		ERR3300728	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300728	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300728	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300729	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300729	characteristic	individual	HC1
+E-MTAB-7915		ERR3300729	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300729	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300729	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300730	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300730	characteristic	individual	HC1
+E-MTAB-7915		ERR3300730	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300730	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300730	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300731	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300731	characteristic	individual	HC10
+E-MTAB-7915		ERR3300731	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300731	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300731	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300732	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300732	characteristic	individual	HC10
+E-MTAB-7915		ERR3300732	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300732	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300732	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300733	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300733	characteristic	individual	HC10
+E-MTAB-7915		ERR3300733	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300733	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300733	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300734	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300734	characteristic	individual	HC10
+E-MTAB-7915		ERR3300734	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300734	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300734	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300735	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300735	characteristic	individual	HC11-Desc1
+E-MTAB-7915		ERR3300735	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300735	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300735	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300736	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300736	characteristic	individual	HC11-Desc1
+E-MTAB-7915		ERR3300736	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300736	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300736	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300737	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300737	characteristic	individual	HC11-Desc1
+E-MTAB-7915		ERR3300737	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300737	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300737	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300738	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300738	characteristic	individual	HC11-Desc1
+E-MTAB-7915		ERR3300738	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300738	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300738	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300739	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300739	characteristic	individual	HC2
+E-MTAB-7915		ERR3300739	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300739	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300739	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300740	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300740	characteristic	individual	HC2
+E-MTAB-7915		ERR3300740	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300740	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300740	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300741	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300741	characteristic	individual	HC2
+E-MTAB-7915		ERR3300741	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300741	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300741	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300742	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300742	characteristic	individual	HC2
+E-MTAB-7915		ERR3300742	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300742	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300742	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300743	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300743	characteristic	individual	HC3-2
+E-MTAB-7915		ERR3300743	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300743	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300743	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300744	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300744	characteristic	individual	HC3-2
+E-MTAB-7915		ERR3300744	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300744	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300744	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300745	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300745	characteristic	individual	HC3-2
+E-MTAB-7915		ERR3300745	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300745	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300745	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300746	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300746	characteristic	individual	HC3-2
+E-MTAB-7915		ERR3300746	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300746	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300746	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300747	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300747	characteristic	individual	HC4-2
+E-MTAB-7915		ERR3300747	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300747	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300747	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300748	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300748	characteristic	individual	HC4-2
+E-MTAB-7915		ERR3300748	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300748	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300748	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300749	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300749	characteristic	individual	HC4-2
+E-MTAB-7915		ERR3300749	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300749	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300749	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300750	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300750	characteristic	individual	HC4-2
+E-MTAB-7915		ERR3300750	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300750	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300750	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300751	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300751	characteristic	individual	HC5
+E-MTAB-7915		ERR3300751	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300751	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300751	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300752	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300752	characteristic	individual	HC5
+E-MTAB-7915		ERR3300752	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300752	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300752	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300753	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300753	characteristic	individual	HC5
+E-MTAB-7915		ERR3300753	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300753	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300753	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300754	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300754	characteristic	individual	HC5
+E-MTAB-7915		ERR3300754	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300754	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300754	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300755	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300755	characteristic	individual	HC6
+E-MTAB-7915		ERR3300755	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300755	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300755	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300756	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300756	characteristic	individual	HC6
+E-MTAB-7915		ERR3300756	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300756	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300756	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300757	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300757	characteristic	individual	HC6
+E-MTAB-7915		ERR3300757	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300757	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300757	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300758	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300758	characteristic	individual	HC6
+E-MTAB-7915		ERR3300758	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300758	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300758	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300759	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300759	characteristic	individual	HC7
+E-MTAB-7915		ERR3300759	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300759	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300759	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300760	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300760	characteristic	individual	HC7
+E-MTAB-7915		ERR3300760	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300760	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300760	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300761	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300761	characteristic	individual	HC7
+E-MTAB-7915		ERR3300761	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300761	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300761	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300762	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300762	characteristic	individual	HC7
+E-MTAB-7915		ERR3300762	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300762	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300762	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300763	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300763	characteristic	individual	HC9
+E-MTAB-7915		ERR3300763	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300763	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300763	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300764	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300764	characteristic	individual	HC9
+E-MTAB-7915		ERR3300764	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300764	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300764	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300765	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300765	characteristic	individual	HC9
+E-MTAB-7915		ERR3300765	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300765	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300765	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300766	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300766	characteristic	individual	HC9
+E-MTAB-7915		ERR3300766	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300766	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300766	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-7915		ERR3300767	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300767	characteristic	individual	PSC-UC1-2
+E-MTAB-7915		ERR3300767	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300767	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300767	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300768	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300768	characteristic	individual	PSC-UC1-2
+E-MTAB-7915		ERR3300768	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300768	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300768	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300769	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300769	characteristic	individual	PSC-UC1-2
+E-MTAB-7915		ERR3300769	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300769	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300769	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300770	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300770	characteristic	individual	PSC-UC1-2
+E-MTAB-7915		ERR3300770	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300770	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300770	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300771	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300771	characteristic	individual	PSC-UC10-2
+E-MTAB-7915		ERR3300771	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300771	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300771	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300772	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300772	characteristic	individual	PSC-UC10-2
+E-MTAB-7915		ERR3300772	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300772	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300772	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300773	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300773	characteristic	individual	PSC-UC10-2
+E-MTAB-7915		ERR3300773	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300773	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300773	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300774	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300774	characteristic	individual	PSC-UC10-2
+E-MTAB-7915		ERR3300774	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300774	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300774	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300775	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300775	characteristic	individual	PSC-UC2
+E-MTAB-7915		ERR3300775	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300775	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300775	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300776	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300776	characteristic	individual	PSC-UC2
+E-MTAB-7915		ERR3300776	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300776	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300776	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300777	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300777	characteristic	individual	PSC-UC2
+E-MTAB-7915		ERR3300777	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300777	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300777	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300778	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300778	characteristic	individual	PSC-UC2
+E-MTAB-7915		ERR3300778	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300778	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300778	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300779	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300779	characteristic	individual	PSC-UC3
+E-MTAB-7915		ERR3300779	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300779	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300779	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300780	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300780	characteristic	individual	PSC-UC3
+E-MTAB-7915		ERR3300780	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300780	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300780	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300781	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300781	characteristic	individual	PSC-UC3
+E-MTAB-7915		ERR3300781	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300781	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300781	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300782	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300782	characteristic	individual	PSC-UC3
+E-MTAB-7915		ERR3300782	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300782	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300782	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300783	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300783	characteristic	individual	PSC-UC4
+E-MTAB-7915		ERR3300783	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300783	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300783	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300784	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300784	characteristic	individual	PSC-UC4
+E-MTAB-7915		ERR3300784	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300784	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300784	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300785	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300785	characteristic	individual	PSC-UC4
+E-MTAB-7915		ERR3300785	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300785	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300785	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300786	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300786	characteristic	individual	PSC-UC4
+E-MTAB-7915		ERR3300786	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300786	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300786	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300787	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300787	characteristic	individual	PSC-UC5-2
+E-MTAB-7915		ERR3300787	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300787	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300787	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300788	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300788	characteristic	individual	PSC-UC5-2
+E-MTAB-7915		ERR3300788	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300788	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300788	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300789	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300789	characteristic	individual	PSC-UC5-2
+E-MTAB-7915		ERR3300789	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300789	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300789	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300790	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300790	characteristic	individual	PSC-UC5-2
+E-MTAB-7915		ERR3300790	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300790	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300790	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300791	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300791	characteristic	individual	PSC-UC6-2
+E-MTAB-7915		ERR3300791	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300791	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300791	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300792	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300792	characteristic	individual	PSC-UC6-2
+E-MTAB-7915		ERR3300792	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300792	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300792	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300793	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300793	characteristic	individual	PSC-UC6-2
+E-MTAB-7915		ERR3300793	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300793	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300793	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300794	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300794	characteristic	individual	PSC-UC6-2
+E-MTAB-7915		ERR3300794	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300794	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300794	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300795	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300795	characteristic	individual	PSC-UC7
+E-MTAB-7915		ERR3300795	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300795	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300795	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300796	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300796	characteristic	individual	PSC-UC7
+E-MTAB-7915		ERR3300796	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300796	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300796	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300797	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300797	characteristic	individual	PSC-UC7
+E-MTAB-7915		ERR3300797	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300797	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300797	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300798	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300798	characteristic	individual	PSC-UC7
+E-MTAB-7915		ERR3300798	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300798	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300798	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300799	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300799	characteristic	individual	PSC-UC8-2
+E-MTAB-7915		ERR3300799	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300799	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300799	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300800	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300800	characteristic	individual	PSC-UC8-2
+E-MTAB-7915		ERR3300800	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300800	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300800	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300801	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300801	characteristic	individual	PSC-UC8-2
+E-MTAB-7915		ERR3300801	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300801	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300801	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300802	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300802	characteristic	individual	PSC-UC8-2
+E-MTAB-7915		ERR3300802	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300802	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300802	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300803	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300803	characteristic	individual	PSC-UC9-2
+E-MTAB-7915		ERR3300803	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300803	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300803	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300804	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300804	characteristic	individual	PSC-UC9-2
+E-MTAB-7915		ERR3300804	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300804	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300804	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300805	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300805	characteristic	individual	PSC-UC9-2
+E-MTAB-7915		ERR3300805	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300805	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300805	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300806	characteristic	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300806	characteristic	individual	PSC-UC9-2
+E-MTAB-7915		ERR3300806	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300806	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300806	factor	disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268
+E-MTAB-7915		ERR3300807	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300807	characteristic	individual	SC3a
+E-MTAB-7915		ERR3300807	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300807	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300807	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300808	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300808	characteristic	individual	SC3a
+E-MTAB-7915		ERR3300808	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300808	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300808	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300809	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300809	characteristic	individual	SC3a
+E-MTAB-7915		ERR3300809	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300809	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300809	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300810	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300810	characteristic	individual	SC3a
+E-MTAB-7915		ERR3300810	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300810	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300810	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300811	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300811	characteristic	individual	SC4a
+E-MTAB-7915		ERR3300811	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300811	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300811	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300812	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300812	characteristic	individual	SC4a
+E-MTAB-7915		ERR3300812	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300812	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300812	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300813	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300813	characteristic	individual	SC4a
+E-MTAB-7915		ERR3300813	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300813	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300813	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300814	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300814	characteristic	individual	SC4a
+E-MTAB-7915		ERR3300814	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300814	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300814	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300815	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300815	characteristic	individual	SC5a
+E-MTAB-7915		ERR3300815	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300815	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300815	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300816	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300816	characteristic	individual	SC5a
+E-MTAB-7915		ERR3300816	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300816	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300816	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300817	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300817	characteristic	individual	SC5a
+E-MTAB-7915		ERR3300817	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300817	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300817	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300818	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300818	characteristic	individual	SC5a
+E-MTAB-7915		ERR3300818	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300818	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300818	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300819	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300819	characteristic	individual	SC6a
+E-MTAB-7915		ERR3300819	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300819	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300819	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300820	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300820	characteristic	individual	SC6a
+E-MTAB-7915		ERR3300820	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300820	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300820	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300821	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300821	characteristic	individual	SC6a
+E-MTAB-7915		ERR3300821	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300821	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300821	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300822	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300822	characteristic	individual	SC6a
+E-MTAB-7915		ERR3300822	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300822	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300822	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300823	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300823	characteristic	individual	UCP01
+E-MTAB-7915		ERR3300823	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300823	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300823	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300824	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300824	characteristic	individual	UCP01
+E-MTAB-7915		ERR3300824	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300824	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300824	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300825	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300825	characteristic	individual	UCP01
+E-MTAB-7915		ERR3300825	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300825	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300825	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300826	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300826	characteristic	individual	UCP01
+E-MTAB-7915		ERR3300826	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300826	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300826	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300827	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300827	characteristic	individual	UCP02
+E-MTAB-7915		ERR3300827	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300827	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300827	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300828	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300828	characteristic	individual	UCP02
+E-MTAB-7915		ERR3300828	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300828	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300828	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300829	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300829	characteristic	individual	UCP02
+E-MTAB-7915		ERR3300829	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300829	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300829	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300830	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300830	characteristic	individual	UCP02
+E-MTAB-7915		ERR3300830	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300830	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300830	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300831	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300831	characteristic	individual	UCX02
+E-MTAB-7915		ERR3300831	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300831	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300831	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300832	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300832	characteristic	individual	UCX02
+E-MTAB-7915		ERR3300832	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300832	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300832	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300833	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300833	characteristic	individual	UCX02
+E-MTAB-7915		ERR3300833	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300833	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300833	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300834	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300834	characteristic	individual	UCX02
+E-MTAB-7915		ERR3300834	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300834	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300834	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300835	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300835	characteristic	individual	UCX03
+E-MTAB-7915		ERR3300835	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300835	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300835	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300836	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300836	characteristic	individual	UCX03
+E-MTAB-7915		ERR3300836	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300836	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300836	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300837	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300837	characteristic	individual	UCX03
+E-MTAB-7915		ERR3300837	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300837	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300837	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300838	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300838	characteristic	individual	UCX03
+E-MTAB-7915		ERR3300838	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300838	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300838	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300839	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300839	characteristic	individual	UCX06
+E-MTAB-7915		ERR3300839	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300839	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300839	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300840	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300840	characteristic	individual	UCX06
+E-MTAB-7915		ERR3300840	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300840	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300840	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300841	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300841	characteristic	individual	UCX06
+E-MTAB-7915		ERR3300841	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300841	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300841	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300842	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300842	characteristic	individual	UCX06
+E-MTAB-7915		ERR3300842	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300842	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300842	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300843	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300843	characteristic	individual	UCX07
+E-MTAB-7915		ERR3300843	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300843	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300843	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300844	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300844	characteristic	individual	UCX07
+E-MTAB-7915		ERR3300844	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300844	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300844	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300845	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300845	characteristic	individual	UCX07
+E-MTAB-7915		ERR3300845	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300845	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300845	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300846	characteristic	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729
+E-MTAB-7915		ERR3300846	characteristic	individual	UCX07
+E-MTAB-7915		ERR3300846	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-7915		ERR3300846	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-7915		ERR3300846	factor	disease	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729

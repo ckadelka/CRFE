@@ -1,0 +1,70 @@
+MAGE-TAB Version	1.1
+Investigation Title	RNA-seq of human hTERT-RPE1 and RPE1-MYCN-ER cells with treatment of EtOH (0h) or tamoxifen for 24h, 48h and 72h to activate MYCN
+
+Experimental Design	genetic modification design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO:0001758
+
+Experimental Factor Name	genotype	compound	time	dose
+Experimental Factor Type	genotype	compound	time	dose
+Experimental Factor Term Source REF	EFO	EFO	EFO
+Experimental Factor Term Accession Number	EFO_0000513	CHEBI_24431	EFO_0000721
+
+Person Last Name	Decaesteker
+Person First Name	Bieke
+Person Mid Initials
+Person Email	bieke.decaesteker@ugent.be
+Person Phone
+Person Fax
+Person Affiliation	Center for Medical Genetics, Gent, Belgium Cancer Research Institute Gent, Belgium
+Person Address	Corneel Heymanslaan 10, 9000 Gent
+Person Roles	submitter
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2020-09-15
+Public Release Date	2021-06-03
+
+PubMed ID
+Publication DOI
+Publication Author List
+Publication Title
+Publication Status
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	RNA-seq upon MYCN activation in the hTERT-immortalized MYCN retinal pigmented epithelial cell line (RPE1–MYCN-ER). The parental hTERT-immortalized retinal pigment epithelium (hTERT-RPE1) was used as a control as this cell line does not carry the MYCN:ER expression construct. Both cell lines were treated with tamoxifen (400nM; 4-OHT) for MYCN induction (with 4-OHT or not). Analysis was performed 24 h, 48 h and 72 h upon MYCN activation, including four biological replicates per condition.
+
+Protocol Name	P-MTAB-102019	P-MTAB-102018	P-MTAB-102017	P-MTAB-102016	P-MTAB-102015	P-MTAB-102014
+Protocol Type	treatment protocol	growth protocol	nucleic acid sequencing protocol	nucleic acid library construction protocol	nucleic acid extraction protocol	sample collection protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003969	EFO_0003789	EFO_0004170	EFO_0004184	EFO_0002944	EFO_0005518
+Protocol Description	To evaluate transcriptomicchanges RPE1–MYCN-ER and parental hTERT-RPE1 cells were plated in T75 in four biological replicates and treated with or without 400 nM 4-OHT (H6278; Sigma-Aldrich) for 24h, 48 h and 72 h. Controls were supplied with the same amount of EtOH as was present in the treated cells and was always ≤0.5% of the total volume.	The parental hTERT-immortalized retinal pigment epithelium (hTERT-RPE1, Clontech, Palo Alto, CA) and RPE1–MYCN-ER were cultured in DMEM/F-12 HEPES, supplemented with 10% fetal bovine serum (FBS), 1% penicillin/streptomycin, 1% L-glutamin and 0,01mg/ml Hygromycin B according to standard procedures. Moreover, 1 ug/ml puromycin was added to the RPE1–MYCN-ER medium composition as a selection marker for the 4-OHT inducible construct.	Sequencing was performed on a high throughput Illumina NextSeq 500 flow cell (Illumina), generating 75 bp single reads.	400 ng of RNA was used to perform an Illumina sequencing library preparation using the QuantSeq 3’ mRNA-Seq Library Prep Kit (Lexogen, Vienna, Austria) according to the manufacturer’s protocol. During library preparation, 14 PCR cycles were used. Libraries were quantified by qPCR, according to Illumina’s protocol ‘Sequencing Library qPCR Quantification protocol guide’, version February 2011. A High Sensitivity DNA chip (Agilent Technologies, Santa Clara, CA, US) was used to control the library’s size distribution and quality.	Total RNA was extracted using miRNeasy kit (Qiagen) according to the manufacturer’s instructions. After RNA extraction, the concentration and quality of the total extracted RNA were checked by using the ‘Quant-it ribogreen RNA assay’ (Life Technologies, Grand Island, NY, USA) and the RNA 6000 Nano chip (Agilent Technologies, Santa Clara, CA, USA), respectively.	Cell lines were harvested, centrifuged and stored at -80°C.
+Protocol Parameters
+Protocol Hardware			NextSeq 500
+Protocol Software
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-9667.sdrf.txt
+Comment [TemplateType]	Cell line - High-throughput sequencing
+Comment [Submitted Name]	RNA-seq of human hTERT-RPE1 and RPE1-MYCN-ER cells with treatment of EtOH (0h) or tamoxifen for 24h, 48h and 72h to activate MYCN
+Comment [SecondaryAccession]	ERP124453
+Comment [SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR4676681-ERR4676808
+Comment [AEExperimentType]	RNA-seq of coding RNA
+Comment[ArrayExpressAccession]	E-MTAB-9667

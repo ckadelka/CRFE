@@ -1,0 +1,1248 @@
+E-MTAB-9667		ERR4676681	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676681	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676681	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676681	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676681	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676681	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676681	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676681	factor	time	24 hour
+E-MTAB-9667		ERR4676681	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676681	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676682	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676682	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676682	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676682	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676682	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676682	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676682	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676682	factor	time	24 hour
+E-MTAB-9667		ERR4676682	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676682	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676683	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676683	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676683	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676683	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676683	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676683	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676683	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676683	factor	time	24 hour
+E-MTAB-9667		ERR4676683	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676683	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676684	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676684	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676684	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676684	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676684	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676684	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676684	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676684	factor	time	24 hour
+E-MTAB-9667		ERR4676684	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676684	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676685	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676685	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676685	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676685	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676685	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676685	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676685	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676685	factor	time	24 hour
+E-MTAB-9667		ERR4676685	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676685	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676686	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676686	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676686	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676686	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676686	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676686	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676686	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676686	factor	time	24 hour
+E-MTAB-9667		ERR4676686	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676686	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676687	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676687	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676687	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676687	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676687	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676687	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676687	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676687	factor	time	24 hour
+E-MTAB-9667		ERR4676687	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676687	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676688	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676688	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676688	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676688	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676688	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676688	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676688	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676688	factor	time	24 hour
+E-MTAB-9667		ERR4676688	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676688	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676689	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676689	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676689	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676689	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676689	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676689	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676689	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676689	factor	time	24 hour
+E-MTAB-9667		ERR4676689	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676689	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676690	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676690	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676690	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676690	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676690	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676690	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676690	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676690	factor	time	24 hour
+E-MTAB-9667		ERR4676690	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676690	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676691	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676691	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676691	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676691	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676691	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676691	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676691	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676691	factor	time	24 hour
+E-MTAB-9667		ERR4676691	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676691	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676692	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676692	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676692	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676692	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676692	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676692	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676692	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676692	factor	time	24 hour
+E-MTAB-9667		ERR4676692	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676692	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676693	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676693	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676693	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676693	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676693	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676693	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676693	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676693	factor	time	24 hour
+E-MTAB-9667		ERR4676693	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676693	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676694	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676694	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676694	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676694	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676694	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676694	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676694	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676694	factor	time	24 hour
+E-MTAB-9667		ERR4676694	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676694	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676695	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676695	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676695	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676695	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676695	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676695	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676695	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676695	factor	time	24 hour
+E-MTAB-9667		ERR4676695	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676695	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676696	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676696	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676696	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676696	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676696	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676696	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676696	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676696	factor	time	24 hour
+E-MTAB-9667		ERR4676696	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676696	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676697	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676697	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676697	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676697	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676697	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676697	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676697	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676697	factor	time	48 hour
+E-MTAB-9667		ERR4676697	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676697	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676698	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676698	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676698	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676698	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676698	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676698	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676698	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676698	factor	time	48 hour
+E-MTAB-9667		ERR4676698	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676698	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676699	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676699	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676699	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676699	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676699	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676699	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676699	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676699	factor	time	48 hour
+E-MTAB-9667		ERR4676699	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676699	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676700	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676700	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676700	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676700	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676700	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676700	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676700	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676700	factor	time	48 hour
+E-MTAB-9667		ERR4676700	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676700	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676701	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676701	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676701	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676701	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676701	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676701	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676701	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676701	factor	time	48 hour
+E-MTAB-9667		ERR4676701	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676701	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676702	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676702	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676702	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676702	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676702	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676702	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676702	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676702	factor	time	48 hour
+E-MTAB-9667		ERR4676702	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676702	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676703	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676703	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676703	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676703	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676703	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676703	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676703	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676703	factor	time	48 hour
+E-MTAB-9667		ERR4676703	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676703	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676704	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676704	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676704	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676704	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676704	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676704	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676704	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676704	factor	time	48 hour
+E-MTAB-9667		ERR4676704	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676704	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676705	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676705	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676705	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676705	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676705	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676705	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676705	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676705	factor	time	48 hour
+E-MTAB-9667		ERR4676705	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676705	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676706	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676706	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676706	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676706	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676706	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676706	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676706	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676706	factor	time	48 hour
+E-MTAB-9667		ERR4676706	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676706	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676707	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676707	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676707	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676707	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676707	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676707	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676707	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676707	factor	time	48 hour
+E-MTAB-9667		ERR4676707	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676707	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676708	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676708	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676708	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676708	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676708	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676708	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676708	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676708	factor	time	48 hour
+E-MTAB-9667		ERR4676708	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676708	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676709	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676709	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676709	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676709	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676709	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676709	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676709	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676709	factor	time	48 hour
+E-MTAB-9667		ERR4676709	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676709	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676710	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676710	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676710	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676710	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676710	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676710	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676710	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676710	factor	time	48 hour
+E-MTAB-9667		ERR4676710	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676710	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676711	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676711	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676711	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676711	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676711	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676711	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676711	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676711	factor	time	48 hour
+E-MTAB-9667		ERR4676711	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676711	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676712	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676712	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676712	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676712	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676712	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676712	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676712	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676712	factor	time	48 hour
+E-MTAB-9667		ERR4676712	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676712	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676713	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676713	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676713	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676713	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676713	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676713	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676713	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676713	factor	time	72 hour
+E-MTAB-9667		ERR4676713	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676713	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676714	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676714	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676714	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676714	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676714	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676714	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676714	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676714	factor	time	72 hour
+E-MTAB-9667		ERR4676714	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676714	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676715	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676715	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676715	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676715	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676715	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676715	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676715	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676715	factor	time	72 hour
+E-MTAB-9667		ERR4676715	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676715	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676716	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676716	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676716	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676716	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676716	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676716	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676716	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676716	factor	time	72 hour
+E-MTAB-9667		ERR4676716	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676716	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676717	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676717	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676717	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676717	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676717	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676717	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676717	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676717	factor	time	72 hour
+E-MTAB-9667		ERR4676717	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676717	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676718	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676718	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676718	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676718	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676718	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676718	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676718	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676718	factor	time	72 hour
+E-MTAB-9667		ERR4676718	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676718	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676719	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676719	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676719	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676719	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676719	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676719	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676719	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676719	factor	time	72 hour
+E-MTAB-9667		ERR4676719	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676719	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676720	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676720	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676720	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676720	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676720	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676720	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676720	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676720	factor	time	72 hour
+E-MTAB-9667		ERR4676720	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676720	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676721	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676721	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676721	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676721	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676721	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676721	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676721	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676721	factor	time	72 hour
+E-MTAB-9667		ERR4676721	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676721	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676722	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676722	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676722	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676722	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676722	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676722	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676722	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676722	factor	time	72 hour
+E-MTAB-9667		ERR4676722	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676722	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676723	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676723	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676723	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676723	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676723	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676723	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676723	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676723	factor	time	72 hour
+E-MTAB-9667		ERR4676723	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676723	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676724	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676724	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676724	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676724	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676724	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676724	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676724	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676724	factor	time	72 hour
+E-MTAB-9667		ERR4676724	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676724	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676725	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676725	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676725	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676725	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676725	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676725	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676725	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676725	factor	time	72 hour
+E-MTAB-9667		ERR4676725	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676725	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676726	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676726	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676726	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676726	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676726	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676726	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676726	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676726	factor	time	72 hour
+E-MTAB-9667		ERR4676726	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676726	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676727	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676727	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676727	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676727	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676727	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676727	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676727	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676727	factor	time	72 hour
+E-MTAB-9667		ERR4676727	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676727	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676728	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676728	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676728	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676728	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676728	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676728	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676728	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676728	factor	time	72 hour
+E-MTAB-9667		ERR4676728	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676728	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676729	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676729	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676729	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676729	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676729	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676729	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676729	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676729	factor	time	0 hour
+E-MTAB-9667		ERR4676729	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676730	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676730	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676730	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676730	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676730	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676730	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676730	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676730	factor	time	0 hour
+E-MTAB-9667		ERR4676730	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676731	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676731	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676731	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676731	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676731	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676731	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676731	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676731	factor	time	0 hour
+E-MTAB-9667		ERR4676731	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676732	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676732	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676732	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676732	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676732	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676732	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676732	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676732	factor	time	0 hour
+E-MTAB-9667		ERR4676732	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676733	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676733	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676733	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676733	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676733	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676733	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676733	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676733	factor	time	0 hour
+E-MTAB-9667		ERR4676733	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676734	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676734	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676734	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676734	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676734	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676734	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676734	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676734	factor	time	0 hour
+E-MTAB-9667		ERR4676734	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676735	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676735	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676735	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676735	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676735	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676735	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676735	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676735	factor	time	0 hour
+E-MTAB-9667		ERR4676735	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676736	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676736	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676736	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676736	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676736	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676736	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676736	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676736	factor	time	0 hour
+E-MTAB-9667		ERR4676736	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676737	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676737	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676737	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676737	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676737	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676737	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676737	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676737	factor	time	0 hour
+E-MTAB-9667		ERR4676737	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676738	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676738	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676738	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676738	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676738	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676738	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676738	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676738	factor	time	0 hour
+E-MTAB-9667		ERR4676738	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676739	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676739	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676739	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676739	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676739	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676739	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676739	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676739	factor	time	0 hour
+E-MTAB-9667		ERR4676739	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676740	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676740	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676740	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676740	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676740	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676740	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676740	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676740	factor	time	0 hour
+E-MTAB-9667		ERR4676740	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676741	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676741	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676741	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676741	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676741	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676741	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676741	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676741	factor	time	0 hour
+E-MTAB-9667		ERR4676741	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676742	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676742	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676742	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676742	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676742	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676742	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676742	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676742	factor	time	0 hour
+E-MTAB-9667		ERR4676742	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676743	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676743	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676743	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676743	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676743	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676743	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676743	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676743	factor	time	0 hour
+E-MTAB-9667		ERR4676743	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676744	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676744	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676744	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676744	characteristic	genotype	wild type genotype
+E-MTAB-9667		ERR4676744	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676744	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676744	factor	genotype	wild type genotype
+E-MTAB-9667		ERR4676744	factor	time	0 hour
+E-MTAB-9667		ERR4676744	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676745	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676745	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676745	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676745	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676745	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676745	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676745	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676745	factor	time	24 hour
+E-MTAB-9667		ERR4676745	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676745	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676746	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676746	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676746	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676746	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676746	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676746	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676746	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676746	factor	time	24 hour
+E-MTAB-9667		ERR4676746	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676746	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676747	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676747	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676747	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676747	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676747	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676747	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676747	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676747	factor	time	24 hour
+E-MTAB-9667		ERR4676747	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676747	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676748	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676748	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676748	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676748	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676748	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676748	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676748	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676748	factor	time	24 hour
+E-MTAB-9667		ERR4676748	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676748	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676749	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676749	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676749	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676749	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676749	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676749	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676749	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676749	factor	time	24 hour
+E-MTAB-9667		ERR4676749	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676749	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676750	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676750	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676750	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676750	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676750	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676750	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676750	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676750	factor	time	24 hour
+E-MTAB-9667		ERR4676750	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676750	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676751	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676751	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676751	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676751	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676751	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676751	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676751	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676751	factor	time	24 hour
+E-MTAB-9667		ERR4676751	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676751	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676752	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676752	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676752	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676752	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676752	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676752	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676752	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676752	factor	time	24 hour
+E-MTAB-9667		ERR4676752	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676752	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676753	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676753	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676753	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676753	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676753	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676753	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676753	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676753	factor	time	24 hour
+E-MTAB-9667		ERR4676753	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676753	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676754	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676754	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676754	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676754	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676754	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676754	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676754	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676754	factor	time	24 hour
+E-MTAB-9667		ERR4676754	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676754	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676755	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676755	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676755	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676755	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676755	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676755	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676755	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676755	factor	time	24 hour
+E-MTAB-9667		ERR4676755	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676755	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676756	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676756	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676756	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676756	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676756	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676756	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676756	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676756	factor	time	24 hour
+E-MTAB-9667		ERR4676756	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676756	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676757	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676757	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676757	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676757	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676757	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676757	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676757	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676757	factor	time	24 hour
+E-MTAB-9667		ERR4676757	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676757	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676758	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676758	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676758	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676758	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676758	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676758	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676758	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676758	factor	time	24 hour
+E-MTAB-9667		ERR4676758	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676758	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676759	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676759	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676759	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676759	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676759	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676759	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676759	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676759	factor	time	24 hour
+E-MTAB-9667		ERR4676759	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676759	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676760	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676760	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676760	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676760	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676760	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676760	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676760	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676760	factor	time	24 hour
+E-MTAB-9667		ERR4676760	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676760	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676761	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676761	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676761	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676761	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676761	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676761	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676761	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676761	factor	time	48 hour
+E-MTAB-9667		ERR4676761	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676761	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676762	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676762	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676762	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676762	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676762	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676762	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676762	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676762	factor	time	48 hour
+E-MTAB-9667		ERR4676762	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676762	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676763	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676763	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676763	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676763	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676763	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676763	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676763	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676763	factor	time	48 hour
+E-MTAB-9667		ERR4676763	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676763	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676764	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676764	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676764	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676764	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676764	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676764	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676764	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676764	factor	time	48 hour
+E-MTAB-9667		ERR4676764	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676764	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676765	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676765	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676765	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676765	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676765	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676765	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676765	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676765	factor	time	48 hour
+E-MTAB-9667		ERR4676765	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676765	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676766	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676766	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676766	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676766	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676766	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676766	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676766	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676766	factor	time	48 hour
+E-MTAB-9667		ERR4676766	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676766	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676767	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676767	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676767	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676767	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676767	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676767	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676767	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676767	factor	time	48 hour
+E-MTAB-9667		ERR4676767	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676767	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676768	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676768	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676768	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676768	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676768	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676768	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676768	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676768	factor	time	48 hour
+E-MTAB-9667		ERR4676768	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676768	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676769	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676769	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676769	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676769	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676769	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676769	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676769	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676769	factor	time	48 hour
+E-MTAB-9667		ERR4676769	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676769	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676770	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676770	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676770	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676770	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676770	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676770	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676770	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676770	factor	time	48 hour
+E-MTAB-9667		ERR4676770	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676770	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676771	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676771	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676771	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676771	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676771	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676771	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676771	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676771	factor	time	48 hour
+E-MTAB-9667		ERR4676771	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676771	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676772	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676772	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676772	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676772	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676772	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676772	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676772	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676772	factor	time	48 hour
+E-MTAB-9667		ERR4676772	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676772	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676773	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676773	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676773	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676773	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676773	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676773	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676773	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676773	factor	time	48 hour
+E-MTAB-9667		ERR4676773	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676773	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676774	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676774	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676774	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676774	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676774	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676774	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676774	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676774	factor	time	48 hour
+E-MTAB-9667		ERR4676774	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676774	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676775	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676775	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676775	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676775	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676775	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676775	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676775	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676775	factor	time	48 hour
+E-MTAB-9667		ERR4676775	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676775	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676776	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676776	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676776	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676776	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676776	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676776	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676776	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676776	factor	time	48 hour
+E-MTAB-9667		ERR4676776	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676776	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676777	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676777	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676777	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676777	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676777	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676777	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676777	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676777	factor	time	72 hour
+E-MTAB-9667		ERR4676777	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676777	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676778	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676778	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676778	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676778	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676778	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676778	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676778	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676778	factor	time	72 hour
+E-MTAB-9667		ERR4676778	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676778	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676779	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676779	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676779	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676779	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676779	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676779	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676779	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676779	factor	time	72 hour
+E-MTAB-9667		ERR4676779	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676779	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676780	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676780	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676780	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676780	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676780	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676780	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676780	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676780	factor	time	72 hour
+E-MTAB-9667		ERR4676780	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676780	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676781	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676781	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676781	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676781	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676781	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676781	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676781	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676781	factor	time	72 hour
+E-MTAB-9667		ERR4676781	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676781	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676782	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676782	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676782	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676782	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676782	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676782	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676782	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676782	factor	time	72 hour
+E-MTAB-9667		ERR4676782	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676782	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676783	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676783	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676783	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676783	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676783	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676783	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676783	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676783	factor	time	72 hour
+E-MTAB-9667		ERR4676783	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676783	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676784	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676784	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676784	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676784	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676784	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676784	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676784	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676784	factor	time	72 hour
+E-MTAB-9667		ERR4676784	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676784	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676785	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676785	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676785	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676785	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676785	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676785	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676785	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676785	factor	time	72 hour
+E-MTAB-9667		ERR4676785	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676785	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676786	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676786	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676786	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676786	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676786	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676786	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676786	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676786	factor	time	72 hour
+E-MTAB-9667		ERR4676786	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676786	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676787	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676787	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676787	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676787	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676787	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676787	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676787	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676787	factor	time	72 hour
+E-MTAB-9667		ERR4676787	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676787	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676788	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676788	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676788	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676788	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676788	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676788	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676788	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676788	factor	time	72 hour
+E-MTAB-9667		ERR4676788	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676788	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676789	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676789	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676789	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676789	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676789	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676789	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676789	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676789	factor	time	72 hour
+E-MTAB-9667		ERR4676789	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676789	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676790	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676790	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676790	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676790	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676790	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676790	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676790	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676790	factor	time	72 hour
+E-MTAB-9667		ERR4676790	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676790	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676791	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676791	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676791	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676791	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676791	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676791	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676791	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676791	factor	time	72 hour
+E-MTAB-9667		ERR4676791	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676791	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676792	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676792	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676792	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676792	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676792	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676792	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676792	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676792	factor	time	72 hour
+E-MTAB-9667		ERR4676792	factor	compound	4-hydroxytamoxifen	http://purl.obolibrary.org/obo/CHEBI_44616
+E-MTAB-9667		ERR4676792	factor	dose	400 nanomolar
+E-MTAB-9667		ERR4676793	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676793	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676793	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676793	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676793	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676793	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676793	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676793	factor	time	0 hour
+E-MTAB-9667		ERR4676793	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676794	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676794	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676794	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676794	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676794	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676794	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676794	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676794	factor	time	0 hour
+E-MTAB-9667		ERR4676794	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676795	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676795	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676795	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676795	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676795	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676795	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676795	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676795	factor	time	0 hour
+E-MTAB-9667		ERR4676795	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676796	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676796	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676796	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676796	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676796	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676796	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676796	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676796	factor	time	0 hour
+E-MTAB-9667		ERR4676796	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676797	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676797	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676797	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676797	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676797	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676797	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676797	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676797	factor	time	0 hour
+E-MTAB-9667		ERR4676797	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676798	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676798	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676798	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676798	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676798	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676798	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676798	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676798	factor	time	0 hour
+E-MTAB-9667		ERR4676798	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676799	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676799	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676799	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676799	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676799	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676799	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676799	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676799	factor	time	0 hour
+E-MTAB-9667		ERR4676799	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676800	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676800	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676800	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676800	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676800	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676800	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676800	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676800	factor	time	0 hour
+E-MTAB-9667		ERR4676800	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676801	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676801	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676801	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676801	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676801	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676801	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676801	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676801	factor	time	0 hour
+E-MTAB-9667		ERR4676801	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676802	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676802	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676802	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676802	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676802	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676802	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676802	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676802	factor	time	0 hour
+E-MTAB-9667		ERR4676802	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676803	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676803	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676803	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676803	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676803	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676803	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676803	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676803	factor	time	0 hour
+E-MTAB-9667		ERR4676803	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676804	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676804	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676804	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676804	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676804	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676804	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676804	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676804	factor	time	0 hour
+E-MTAB-9667		ERR4676804	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676805	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676805	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676805	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676805	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676805	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676805	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676805	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676805	factor	time	0 hour
+E-MTAB-9667		ERR4676805	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676806	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676806	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676806	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676806	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676806	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676806	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676806	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676806	factor	time	0 hour
+E-MTAB-9667		ERR4676806	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676807	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676807	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676807	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676807	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676807	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676807	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676807	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676807	factor	time	0 hour
+E-MTAB-9667		ERR4676807	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+E-MTAB-9667		ERR4676808	characteristic	cell line	hTERT-RPE1
+E-MTAB-9667		ERR4676808	characteristic	cell type	epithelial cells	http://purl.obolibrary.org/obo/CL_0000066
+E-MTAB-9667		ERR4676808	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-9667		ERR4676808	characteristic	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676808	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-9667		ERR4676808	characteristic	organism part	pigmented layer of retina	http://purl.obolibrary.org/obo/UBERON_0001782
+E-MTAB-9667		ERR4676808	factor	genotype	MYCN-ER expression
+E-MTAB-9667		ERR4676808	factor	time	0 hour
+E-MTAB-9667		ERR4676808	factor	compound	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236

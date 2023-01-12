@@ -1,0 +1,1876 @@
+E-GEOD-29272	A-AFFY-33	GSM723464	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723464	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723464	characteristic	individual	TYB0001
+E-GEOD-29272	A-AFFY-33	GSM723464	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723464	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723464	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723464	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723465	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723465	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723465	characteristic	individual	TYB0001
+E-GEOD-29272	A-AFFY-33	GSM723465	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723465	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723465	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723465	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723466	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723466	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723466	characteristic	individual	TYB0002
+E-GEOD-29272	A-AFFY-33	GSM723466	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723466	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723466	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723466	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723467	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723467	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723467	characteristic	individual	TYB0002
+E-GEOD-29272	A-AFFY-33	GSM723467	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723467	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723467	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723467	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723468	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723468	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723468	characteristic	individual	TYB0003
+E-GEOD-29272	A-AFFY-33	GSM723468	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723468	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723468	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723468	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723469	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723469	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723469	characteristic	individual	TYB0003
+E-GEOD-29272	A-AFFY-33	GSM723469	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723469	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723469	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723469	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723470	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723470	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723470	characteristic	individual	TYB0004
+E-GEOD-29272	A-AFFY-33	GSM723470	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723470	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723470	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723470	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723471	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723471	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723471	characteristic	individual	TYB0004
+E-GEOD-29272	A-AFFY-33	GSM723471	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723471	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723471	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723471	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723472	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723472	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723472	characteristic	individual	TYB0005
+E-GEOD-29272	A-AFFY-33	GSM723472	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723472	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723472	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723472	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723473	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723473	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723473	characteristic	individual	TYB0005
+E-GEOD-29272	A-AFFY-33	GSM723473	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723473	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723473	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723473	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723474	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723474	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723474	characteristic	individual	TYB0006
+E-GEOD-29272	A-AFFY-33	GSM723474	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723474	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723474	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723474	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723475	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723475	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723475	characteristic	individual	TYB0006
+E-GEOD-29272	A-AFFY-33	GSM723475	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723475	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723475	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723475	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723476	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723476	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723476	characteristic	individual	TYB0007
+E-GEOD-29272	A-AFFY-33	GSM723476	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723476	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723476	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723476	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723477	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723477	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723477	characteristic	individual	TYB0007
+E-GEOD-29272	A-AFFY-33	GSM723477	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723477	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723477	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723477	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723478	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723478	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723478	characteristic	individual	TYB0008
+E-GEOD-29272	A-AFFY-33	GSM723478	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723478	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723478	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723478	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723479	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723479	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723479	characteristic	individual	TYB0008
+E-GEOD-29272	A-AFFY-33	GSM723479	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723479	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723479	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723479	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723480	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723480	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723480	characteristic	individual	TYB0009
+E-GEOD-29272	A-AFFY-33	GSM723480	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723480	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723480	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723480	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723481	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723481	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723481	characteristic	individual	TYB0009
+E-GEOD-29272	A-AFFY-33	GSM723481	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723481	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723481	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723481	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723482	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723482	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723482	characteristic	individual	TYB0010
+E-GEOD-29272	A-AFFY-33	GSM723482	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723482	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723482	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723482	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723483	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723483	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723483	characteristic	individual	TYB0010
+E-GEOD-29272	A-AFFY-33	GSM723483	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723483	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723483	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723483	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723484	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723484	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723484	characteristic	individual	TYB0011
+E-GEOD-29272	A-AFFY-33	GSM723484	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723484	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723484	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723484	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723485	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723485	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723485	characteristic	individual	TYB0011
+E-GEOD-29272	A-AFFY-33	GSM723485	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723485	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723485	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723485	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723486	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723486	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723486	characteristic	individual	TYB0012
+E-GEOD-29272	A-AFFY-33	GSM723486	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723486	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723486	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723486	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723487	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723487	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723487	characteristic	individual	TYB0012
+E-GEOD-29272	A-AFFY-33	GSM723487	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723487	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723487	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723487	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723488	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723488	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723488	characteristic	individual	TYB0013
+E-GEOD-29272	A-AFFY-33	GSM723488	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723488	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723488	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723488	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723489	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723489	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723489	characteristic	individual	TYB0013
+E-GEOD-29272	A-AFFY-33	GSM723489	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723489	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723489	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723489	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723490	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723490	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723490	characteristic	individual	TYB0014
+E-GEOD-29272	A-AFFY-33	GSM723490	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723490	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723490	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723490	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723491	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723491	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723491	characteristic	individual	TYB0014
+E-GEOD-29272	A-AFFY-33	GSM723491	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723491	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723491	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723491	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723492	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723492	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723492	characteristic	individual	TYB0015
+E-GEOD-29272	A-AFFY-33	GSM723492	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723492	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723492	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723492	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723493	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723493	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723493	characteristic	individual	TYB0015
+E-GEOD-29272	A-AFFY-33	GSM723493	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723493	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723493	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723493	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723494	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723494	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723494	characteristic	individual	TYB0016
+E-GEOD-29272	A-AFFY-33	GSM723494	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723494	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723494	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723494	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723495	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723495	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723495	characteristic	individual	TYB0016
+E-GEOD-29272	A-AFFY-33	GSM723495	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723495	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723495	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723495	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723496	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723496	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723496	characteristic	individual	TYB0017
+E-GEOD-29272	A-AFFY-33	GSM723496	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723496	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723496	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723496	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723497	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723497	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723497	characteristic	individual	TYB0017
+E-GEOD-29272	A-AFFY-33	GSM723497	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723497	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723497	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723497	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723498	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723498	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723498	characteristic	individual	TYB0018
+E-GEOD-29272	A-AFFY-33	GSM723498	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723498	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723498	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723498	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723499	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723499	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723499	characteristic	individual	TYB0018
+E-GEOD-29272	A-AFFY-33	GSM723499	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723499	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723499	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723499	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723500	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723500	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723500	characteristic	individual	TYB0019
+E-GEOD-29272	A-AFFY-33	GSM723500	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723500	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723500	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723500	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723501	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723501	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723501	characteristic	individual	TYB0019
+E-GEOD-29272	A-AFFY-33	GSM723501	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723501	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723501	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723501	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723502	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723502	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723502	characteristic	individual	TYB0020
+E-GEOD-29272	A-AFFY-33	GSM723502	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723502	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723502	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723502	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723503	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723503	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723503	characteristic	individual	TYB0020
+E-GEOD-29272	A-AFFY-33	GSM723503	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723503	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723503	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723503	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723504	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723504	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723504	characteristic	individual	TYB0021
+E-GEOD-29272	A-AFFY-33	GSM723504	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723504	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723504	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723504	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723505	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723505	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723505	characteristic	individual	TYB0021
+E-GEOD-29272	A-AFFY-33	GSM723505	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723505	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723505	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723505	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723506	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723506	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723506	characteristic	individual	TYB0022
+E-GEOD-29272	A-AFFY-33	GSM723506	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723506	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723506	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723506	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723507	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723507	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723507	characteristic	individual	TYB0022
+E-GEOD-29272	A-AFFY-33	GSM723507	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723507	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723507	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723507	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723508	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723508	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723508	characteristic	individual	TYB0023
+E-GEOD-29272	A-AFFY-33	GSM723508	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723508	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723508	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723508	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723509	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723509	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723509	characteristic	individual	TYB0023
+E-GEOD-29272	A-AFFY-33	GSM723509	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723509	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723509	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723509	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723510	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723510	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723510	characteristic	individual	TYB0024
+E-GEOD-29272	A-AFFY-33	GSM723510	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723510	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723510	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723510	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723511	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723511	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723511	characteristic	individual	TYB0024
+E-GEOD-29272	A-AFFY-33	GSM723511	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723511	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723511	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723511	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723512	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723512	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723512	characteristic	individual	TYB0025
+E-GEOD-29272	A-AFFY-33	GSM723512	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723512	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723512	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723512	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723513	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723513	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723513	characteristic	individual	TYB0025
+E-GEOD-29272	A-AFFY-33	GSM723513	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723513	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723513	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723513	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723514	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723514	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723514	characteristic	individual	TYB0026
+E-GEOD-29272	A-AFFY-33	GSM723514	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723514	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723514	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723514	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723515	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723515	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723515	characteristic	individual	TYB0026
+E-GEOD-29272	A-AFFY-33	GSM723515	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723515	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723515	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723515	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723516	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723516	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723516	characteristic	individual	TYB0027
+E-GEOD-29272	A-AFFY-33	GSM723516	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723516	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723516	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723516	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723517	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723517	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723517	characteristic	individual	TYB0027
+E-GEOD-29272	A-AFFY-33	GSM723517	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723517	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723517	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723517	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723518	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723518	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723518	characteristic	individual	TYB0028
+E-GEOD-29272	A-AFFY-33	GSM723518	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723518	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723518	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723518	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723519	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723519	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723519	characteristic	individual	TYB0028
+E-GEOD-29272	A-AFFY-33	GSM723519	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723519	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723519	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723519	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723520	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723520	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723520	characteristic	individual	TYB0029
+E-GEOD-29272	A-AFFY-33	GSM723520	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723520	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723520	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723520	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723521	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723521	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723521	characteristic	individual	TYB0029
+E-GEOD-29272	A-AFFY-33	GSM723521	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723521	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723521	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723521	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723522	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723522	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723522	characteristic	individual	TYB0030
+E-GEOD-29272	A-AFFY-33	GSM723522	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723522	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723522	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723522	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723523	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723523	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723523	characteristic	individual	TYB0030
+E-GEOD-29272	A-AFFY-33	GSM723523	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723523	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723523	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723523	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723524	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723524	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723524	characteristic	individual	TYB0031
+E-GEOD-29272	A-AFFY-33	GSM723524	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723524	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723524	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723524	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723525	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723525	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723525	characteristic	individual	TYB0031
+E-GEOD-29272	A-AFFY-33	GSM723525	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723525	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723525	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723525	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723526	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723526	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723526	characteristic	individual	TYB0032
+E-GEOD-29272	A-AFFY-33	GSM723526	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723526	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723526	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723526	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723527	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723527	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723527	characteristic	individual	TYB0032
+E-GEOD-29272	A-AFFY-33	GSM723527	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723527	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723527	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723527	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723528	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723528	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723528	characteristic	individual	TYB0033
+E-GEOD-29272	A-AFFY-33	GSM723528	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723528	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723528	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723528	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723529	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723529	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723529	characteristic	individual	TYB0033
+E-GEOD-29272	A-AFFY-33	GSM723529	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723529	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723529	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723529	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723530	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723530	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723530	characteristic	individual	TYB0034
+E-GEOD-29272	A-AFFY-33	GSM723530	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723530	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723530	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723530	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723531	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723531	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723531	characteristic	individual	TYB0034
+E-GEOD-29272	A-AFFY-33	GSM723531	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723531	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723531	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723531	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723532	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723532	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723532	characteristic	individual	TYB0035
+E-GEOD-29272	A-AFFY-33	GSM723532	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723532	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723532	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723532	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723533	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723533	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723533	characteristic	individual	TYB0035
+E-GEOD-29272	A-AFFY-33	GSM723533	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723533	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723533	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723533	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723534	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723534	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723534	characteristic	individual	TYB0036
+E-GEOD-29272	A-AFFY-33	GSM723534	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723534	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723534	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723534	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723535	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723535	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723535	characteristic	individual	TYB0036
+E-GEOD-29272	A-AFFY-33	GSM723535	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723535	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723535	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723535	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723536	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723536	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723536	characteristic	individual	TYB0037
+E-GEOD-29272	A-AFFY-33	GSM723536	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723536	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723536	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723536	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723537	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723537	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723537	characteristic	individual	TYB0037
+E-GEOD-29272	A-AFFY-33	GSM723537	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723537	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723537	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723537	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723538	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723538	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723538	characteristic	individual	TYB0038
+E-GEOD-29272	A-AFFY-33	GSM723538	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723538	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723538	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723538	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723539	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723539	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723539	characteristic	individual	TYB0038
+E-GEOD-29272	A-AFFY-33	GSM723539	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723539	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723539	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723539	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723540	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723540	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723540	characteristic	individual	TYB0039
+E-GEOD-29272	A-AFFY-33	GSM723540	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723540	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723540	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723540	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723541	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723541	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723541	characteristic	individual	TYB0039
+E-GEOD-29272	A-AFFY-33	GSM723541	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723541	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723541	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723541	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723542	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723542	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723542	characteristic	individual	TYB0040
+E-GEOD-29272	A-AFFY-33	GSM723542	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723542	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723542	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723542	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723543	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723543	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723543	characteristic	individual	TYB0040
+E-GEOD-29272	A-AFFY-33	GSM723543	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723543	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723543	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723543	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723544	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723544	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723544	characteristic	individual	TYB0041
+E-GEOD-29272	A-AFFY-33	GSM723544	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723544	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723544	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723544	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723545	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723545	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723545	characteristic	individual	TYB0041
+E-GEOD-29272	A-AFFY-33	GSM723545	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723545	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723545	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723545	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723546	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723546	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723546	characteristic	individual	TYB0042
+E-GEOD-29272	A-AFFY-33	GSM723546	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723546	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723546	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723546	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723547	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723547	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723547	characteristic	individual	TYB0042
+E-GEOD-29272	A-AFFY-33	GSM723547	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723547	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723547	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723547	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723548	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723548	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723548	characteristic	individual	TYB0043
+E-GEOD-29272	A-AFFY-33	GSM723548	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723548	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723548	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723548	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723549	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723549	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723549	characteristic	individual	TYB0043
+E-GEOD-29272	A-AFFY-33	GSM723549	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723549	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723549	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723549	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723550	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723550	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723550	characteristic	individual	TYB0044
+E-GEOD-29272	A-AFFY-33	GSM723550	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723550	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723550	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723550	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723551	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723551	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723551	characteristic	individual	TYB0044
+E-GEOD-29272	A-AFFY-33	GSM723551	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723551	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723551	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723551	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723552	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723552	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723552	characteristic	individual	TYB0045
+E-GEOD-29272	A-AFFY-33	GSM723552	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723552	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723552	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723552	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723553	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723553	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723553	characteristic	individual	TYB0045
+E-GEOD-29272	A-AFFY-33	GSM723553	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723553	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723553	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723553	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723554	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723554	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723554	characteristic	individual	TYB0046
+E-GEOD-29272	A-AFFY-33	GSM723554	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723554	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723554	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723554	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723555	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723555	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723555	characteristic	individual	TYB0046
+E-GEOD-29272	A-AFFY-33	GSM723555	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723555	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723555	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723555	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723556	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723556	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723556	characteristic	individual	TYB0047
+E-GEOD-29272	A-AFFY-33	GSM723556	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723556	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723556	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723556	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723557	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723557	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723557	characteristic	individual	TYB0047
+E-GEOD-29272	A-AFFY-33	GSM723557	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723557	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723557	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723557	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723558	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723558	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723558	characteristic	individual	TYB0048
+E-GEOD-29272	A-AFFY-33	GSM723558	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723558	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723558	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723558	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723559	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723559	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723559	characteristic	individual	TYB0048
+E-GEOD-29272	A-AFFY-33	GSM723559	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723559	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723559	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723559	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723560	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723560	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723560	characteristic	individual	TYB0049
+E-GEOD-29272	A-AFFY-33	GSM723560	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723560	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723560	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723560	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723561	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723561	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723561	characteristic	individual	TYB0049
+E-GEOD-29272	A-AFFY-33	GSM723561	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723561	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723561	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723561	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723562	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723562	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723562	characteristic	individual	TYB0050
+E-GEOD-29272	A-AFFY-33	GSM723562	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723562	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723562	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723562	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723563	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723563	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723563	characteristic	individual	TYB0050
+E-GEOD-29272	A-AFFY-33	GSM723563	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723563	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723563	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723563	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723564	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723564	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723564	characteristic	individual	TYB0051
+E-GEOD-29272	A-AFFY-33	GSM723564	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723564	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723564	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723564	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723565	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723565	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723565	characteristic	individual	TYB0051
+E-GEOD-29272	A-AFFY-33	GSM723565	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723565	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723565	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723565	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723566	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723566	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723566	characteristic	individual	TYB0052
+E-GEOD-29272	A-AFFY-33	GSM723566	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723566	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723566	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723566	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723567	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723567	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723567	characteristic	individual	TYB0052
+E-GEOD-29272	A-AFFY-33	GSM723567	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723567	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723567	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723567	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723568	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723568	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723568	characteristic	individual	TYB0053
+E-GEOD-29272	A-AFFY-33	GSM723568	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723568	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723568	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723568	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723569	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723569	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723569	characteristic	individual	TYB0053
+E-GEOD-29272	A-AFFY-33	GSM723569	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723569	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723569	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723569	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723570	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723570	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723570	characteristic	individual	TYB0054
+E-GEOD-29272	A-AFFY-33	GSM723570	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723570	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723570	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723570	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723571	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723571	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723571	characteristic	individual	TYB0054
+E-GEOD-29272	A-AFFY-33	GSM723571	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723571	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723571	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723571	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723572	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723572	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723572	characteristic	individual	TYB0055
+E-GEOD-29272	A-AFFY-33	GSM723572	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723572	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723572	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723572	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723573	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723573	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723573	characteristic	individual	TYB0055
+E-GEOD-29272	A-AFFY-33	GSM723573	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723573	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723573	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723573	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723574	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723574	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723574	characteristic	individual	TYB0056
+E-GEOD-29272	A-AFFY-33	GSM723574	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723574	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723574	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723574	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723575	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723575	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723575	characteristic	individual	TYB0056
+E-GEOD-29272	A-AFFY-33	GSM723575	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723575	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723575	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723575	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723576	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723576	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723576	characteristic	individual	TYB0057
+E-GEOD-29272	A-AFFY-33	GSM723576	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723576	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723576	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723576	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723577	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723577	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723577	characteristic	individual	TYB0057
+E-GEOD-29272	A-AFFY-33	GSM723577	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723577	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723577	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723577	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723578	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723578	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723578	characteristic	individual	TYB0058
+E-GEOD-29272	A-AFFY-33	GSM723578	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723578	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723578	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723578	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723579	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723579	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723579	characteristic	individual	TYB0058
+E-GEOD-29272	A-AFFY-33	GSM723579	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723579	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723579	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723579	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723580	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723580	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723580	characteristic	individual	TYB0059
+E-GEOD-29272	A-AFFY-33	GSM723580	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723580	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723580	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723580	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723581	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723581	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723581	characteristic	individual	TYB0059
+E-GEOD-29272	A-AFFY-33	GSM723581	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723581	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723581	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723581	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723582	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723582	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723582	characteristic	individual	TYB0060
+E-GEOD-29272	A-AFFY-33	GSM723582	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723582	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723582	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723582	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723583	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723583	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723583	characteristic	individual	TYB0060
+E-GEOD-29272	A-AFFY-33	GSM723583	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723583	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723583	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723583	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723584	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723584	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723584	characteristic	individual	TYB0061
+E-GEOD-29272	A-AFFY-33	GSM723584	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723584	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723584	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723584	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723585	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723585	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723585	characteristic	individual	TYB0061
+E-GEOD-29272	A-AFFY-33	GSM723585	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723585	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723585	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723585	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723586	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723586	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723586	characteristic	individual	TYB0062
+E-GEOD-29272	A-AFFY-33	GSM723586	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723586	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723586	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723586	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723587	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723587	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723587	characteristic	individual	TYB0062
+E-GEOD-29272	A-AFFY-33	GSM723587	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723587	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723587	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723587	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723588	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723588	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723588	characteristic	individual	TYB0063
+E-GEOD-29272	A-AFFY-33	GSM723588	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723588	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723588	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723588	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723589	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723589	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723589	characteristic	individual	TYB0063
+E-GEOD-29272	A-AFFY-33	GSM723589	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723589	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723589	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723589	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723590	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723590	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723590	characteristic	individual	TYB0064
+E-GEOD-29272	A-AFFY-33	GSM723590	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723590	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723590	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723590	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723591	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723591	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723591	characteristic	individual	TYB0064
+E-GEOD-29272	A-AFFY-33	GSM723591	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723591	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723591	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723591	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723592	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723592	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723592	characteristic	individual	TYB0065
+E-GEOD-29272	A-AFFY-33	GSM723592	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723592	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723592	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723592	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723593	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723593	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723593	characteristic	individual	TYB0065
+E-GEOD-29272	A-AFFY-33	GSM723593	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723593	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723593	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723593	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723594	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723594	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723594	characteristic	individual	TYB0066
+E-GEOD-29272	A-AFFY-33	GSM723594	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723594	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723594	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723594	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723595	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723595	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723595	characteristic	individual	TYB0066
+E-GEOD-29272	A-AFFY-33	GSM723595	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723595	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723595	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723595	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723596	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723596	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723596	characteristic	individual	TYB0067
+E-GEOD-29272	A-AFFY-33	GSM723596	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723596	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723596	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723596	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723597	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723597	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723597	characteristic	individual	TYB0067
+E-GEOD-29272	A-AFFY-33	GSM723597	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723597	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723597	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723597	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723598	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723598	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723598	characteristic	individual	TYB0068
+E-GEOD-29272	A-AFFY-33	GSM723598	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723598	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723598	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723598	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723599	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723599	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723599	characteristic	individual	TYB0068
+E-GEOD-29272	A-AFFY-33	GSM723599	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723599	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723599	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723599	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723600	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723600	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723600	characteristic	individual	TYB0069
+E-GEOD-29272	A-AFFY-33	GSM723600	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723600	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723600	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723600	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723601	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723601	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723601	characteristic	individual	TYB0069
+E-GEOD-29272	A-AFFY-33	GSM723601	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723601	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723601	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723601	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723602	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723602	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723602	characteristic	individual	TYB0070
+E-GEOD-29272	A-AFFY-33	GSM723602	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723602	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723602	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723602	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723603	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723603	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723603	characteristic	individual	TYB0070
+E-GEOD-29272	A-AFFY-33	GSM723603	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723603	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723603	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723603	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723604	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723604	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723604	characteristic	individual	TYB0071
+E-GEOD-29272	A-AFFY-33	GSM723604	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723604	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723604	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723604	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723605	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723605	characteristic	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723605	characteristic	individual	TYB0071
+E-GEOD-29272	A-AFFY-33	GSM723605	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723605	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723605	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723605	factor	disease	gastric non-cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_0008502
+E-GEOD-29272	A-AFFY-33	GSM723606	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723606	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723606	characteristic	individual	TYB0072
+E-GEOD-29272	A-AFFY-33	GSM723606	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723606	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723606	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723606	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723607	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723607	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723607	characteristic	individual	TYB0072
+E-GEOD-29272	A-AFFY-33	GSM723607	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723607	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723607	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723607	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723608	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723608	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723608	characteristic	individual	TYC0001
+E-GEOD-29272	A-AFFY-33	GSM723608	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723608	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723608	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723608	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723609	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723609	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723609	characteristic	individual	TYC0001
+E-GEOD-29272	A-AFFY-33	GSM723609	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723609	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723609	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723609	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723610	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723610	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723610	characteristic	individual	TYC0002
+E-GEOD-29272	A-AFFY-33	GSM723610	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723610	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723610	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723610	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723611	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723611	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723611	characteristic	individual	TYC0002
+E-GEOD-29272	A-AFFY-33	GSM723611	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723611	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723611	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723611	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723612	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723612	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723612	characteristic	individual	TYC0003
+E-GEOD-29272	A-AFFY-33	GSM723612	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723612	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723612	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723612	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723613	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723613	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723613	characteristic	individual	TYC0003
+E-GEOD-29272	A-AFFY-33	GSM723613	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723613	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723613	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723613	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723614	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723614	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723614	characteristic	individual	TYC0004
+E-GEOD-29272	A-AFFY-33	GSM723614	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723614	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723614	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723614	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723615	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723615	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723615	characteristic	individual	TYC0004
+E-GEOD-29272	A-AFFY-33	GSM723615	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723615	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723615	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723615	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723616	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723616	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723616	characteristic	individual	TYC0005
+E-GEOD-29272	A-AFFY-33	GSM723616	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723616	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723616	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723616	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723617	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723617	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723617	characteristic	individual	TYC0005
+E-GEOD-29272	A-AFFY-33	GSM723617	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723617	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723617	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723617	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723618	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723618	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723618	characteristic	individual	TYC0006
+E-GEOD-29272	A-AFFY-33	GSM723618	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723618	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723618	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723618	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723619	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723619	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723619	characteristic	individual	TYC0006
+E-GEOD-29272	A-AFFY-33	GSM723619	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723619	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723619	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723619	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723620	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723620	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723620	characteristic	individual	TYC0007
+E-GEOD-29272	A-AFFY-33	GSM723620	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723620	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723620	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723620	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723621	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723621	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723621	characteristic	individual	TYC0007
+E-GEOD-29272	A-AFFY-33	GSM723621	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723621	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723621	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723621	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723622	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723622	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723622	characteristic	individual	TYC0008
+E-GEOD-29272	A-AFFY-33	GSM723622	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723622	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723622	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723622	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723623	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723623	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723623	characteristic	individual	TYC0008
+E-GEOD-29272	A-AFFY-33	GSM723623	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723623	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723623	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723623	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723624	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723624	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723624	characteristic	individual	TYC0009
+E-GEOD-29272	A-AFFY-33	GSM723624	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723624	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723624	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723624	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723625	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723625	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723625	characteristic	individual	TYC0009
+E-GEOD-29272	A-AFFY-33	GSM723625	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723625	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723625	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723625	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723626	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723626	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723626	characteristic	individual	TYC0010
+E-GEOD-29272	A-AFFY-33	GSM723626	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723626	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723626	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723626	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723627	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723627	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723627	characteristic	individual	TYC0010
+E-GEOD-29272	A-AFFY-33	GSM723627	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723627	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723627	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723627	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723628	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723628	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723628	characteristic	individual	TYC0011
+E-GEOD-29272	A-AFFY-33	GSM723628	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723628	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723628	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723628	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723629	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723629	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723629	characteristic	individual	TYC0011
+E-GEOD-29272	A-AFFY-33	GSM723629	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723629	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723629	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723629	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723630	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723630	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723630	characteristic	individual	TYC0012
+E-GEOD-29272	A-AFFY-33	GSM723630	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723630	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723630	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723630	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723631	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723631	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723631	characteristic	individual	TYC0012
+E-GEOD-29272	A-AFFY-33	GSM723631	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723631	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723631	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723631	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723632	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723632	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723632	characteristic	individual	TYC0013
+E-GEOD-29272	A-AFFY-33	GSM723632	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723632	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723632	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723632	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723633	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723633	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723633	characteristic	individual	TYC0013
+E-GEOD-29272	A-AFFY-33	GSM723633	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723633	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723633	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723633	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723634	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723634	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723634	characteristic	individual	TYC0014
+E-GEOD-29272	A-AFFY-33	GSM723634	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723634	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723634	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723634	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723635	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723635	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723635	characteristic	individual	TYC0014
+E-GEOD-29272	A-AFFY-33	GSM723635	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723635	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723635	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723635	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723636	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723636	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723636	characteristic	individual	TYC0015
+E-GEOD-29272	A-AFFY-33	GSM723636	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723636	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723636	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723636	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723637	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723637	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723637	characteristic	individual	TYC0015
+E-GEOD-29272	A-AFFY-33	GSM723637	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723637	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723637	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723637	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723638	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723638	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723638	characteristic	individual	TYC0016
+E-GEOD-29272	A-AFFY-33	GSM723638	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723638	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723638	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723638	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723639	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723639	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723639	characteristic	individual	TYC0016
+E-GEOD-29272	A-AFFY-33	GSM723639	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723639	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723639	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723639	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723640	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723640	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723640	characteristic	individual	TYC0017
+E-GEOD-29272	A-AFFY-33	GSM723640	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723640	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723640	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723640	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723641	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723641	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723641	characteristic	individual	TYC0017
+E-GEOD-29272	A-AFFY-33	GSM723641	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723641	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723641	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723641	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723642	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723642	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723642	characteristic	individual	TYC0018
+E-GEOD-29272	A-AFFY-33	GSM723642	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723642	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723642	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723642	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723643	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723643	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723643	characteristic	individual	TYC0018
+E-GEOD-29272	A-AFFY-33	GSM723643	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723643	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723643	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723643	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723644	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723644	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723644	characteristic	individual	TYC0019
+E-GEOD-29272	A-AFFY-33	GSM723644	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723644	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723644	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723644	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723645	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723645	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723645	characteristic	individual	TYC0019
+E-GEOD-29272	A-AFFY-33	GSM723645	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723645	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723645	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723645	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723646	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723646	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723646	characteristic	individual	TYC0020
+E-GEOD-29272	A-AFFY-33	GSM723646	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723646	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723646	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723646	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723647	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723647	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723647	characteristic	individual	TYC0020
+E-GEOD-29272	A-AFFY-33	GSM723647	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723647	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723647	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723647	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723648	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723648	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723648	characteristic	individual	TYC0021
+E-GEOD-29272	A-AFFY-33	GSM723648	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723648	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723648	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723648	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723649	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723649	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723649	characteristic	individual	TYC0021
+E-GEOD-29272	A-AFFY-33	GSM723649	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723649	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723649	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723649	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723650	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723650	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723650	characteristic	individual	TYC0022
+E-GEOD-29272	A-AFFY-33	GSM723650	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723650	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723650	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723650	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723651	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723651	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723651	characteristic	individual	TYC0022
+E-GEOD-29272	A-AFFY-33	GSM723651	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723651	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723651	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723651	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723652	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723652	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723652	characteristic	individual	TYC0023
+E-GEOD-29272	A-AFFY-33	GSM723652	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723652	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723652	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723652	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723653	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723653	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723653	characteristic	individual	TYC0023
+E-GEOD-29272	A-AFFY-33	GSM723653	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723653	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723653	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723653	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723654	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723654	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723654	characteristic	individual	TYC0024
+E-GEOD-29272	A-AFFY-33	GSM723654	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723654	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723654	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723654	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723655	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723655	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723655	characteristic	individual	TYC0024
+E-GEOD-29272	A-AFFY-33	GSM723655	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723655	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723655	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723655	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723656	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723656	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723656	characteristic	individual	TYC0025
+E-GEOD-29272	A-AFFY-33	GSM723656	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723656	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723656	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723656	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723657	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723657	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723657	characteristic	individual	TYC0025
+E-GEOD-29272	A-AFFY-33	GSM723657	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723657	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723657	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723657	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723658	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723658	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723658	characteristic	individual	TYC0026
+E-GEOD-29272	A-AFFY-33	GSM723658	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723658	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723658	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723658	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723659	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723659	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723659	characteristic	individual	TYC0026
+E-GEOD-29272	A-AFFY-33	GSM723659	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723659	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723659	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723659	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723660	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723660	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723660	characteristic	individual	TYC0027
+E-GEOD-29272	A-AFFY-33	GSM723660	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723660	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723660	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723660	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723661	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723661	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723661	characteristic	individual	TYC0027
+E-GEOD-29272	A-AFFY-33	GSM723661	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723661	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723661	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723661	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723662	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723662	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723662	characteristic	individual	TYC0028
+E-GEOD-29272	A-AFFY-33	GSM723662	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723662	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723662	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723662	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723663	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723663	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723663	characteristic	individual	TYC0028
+E-GEOD-29272	A-AFFY-33	GSM723663	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723663	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723663	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723663	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723664	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723664	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723664	characteristic	individual	TYC0029
+E-GEOD-29272	A-AFFY-33	GSM723664	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723664	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723664	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723664	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723665	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723665	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723665	characteristic	individual	TYC0029
+E-GEOD-29272	A-AFFY-33	GSM723665	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723665	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723665	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723665	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723666	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723666	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723666	characteristic	individual	TYC0030
+E-GEOD-29272	A-AFFY-33	GSM723666	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723666	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723666	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723666	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723667	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723667	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723667	characteristic	individual	TYC0030
+E-GEOD-29272	A-AFFY-33	GSM723667	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723667	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723667	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723667	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723668	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723668	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723668	characteristic	individual	TYC0031
+E-GEOD-29272	A-AFFY-33	GSM723668	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723668	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723668	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723668	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723669	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723669	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723669	characteristic	individual	TYC0031
+E-GEOD-29272	A-AFFY-33	GSM723669	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723669	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723669	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723669	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723670	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723670	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723670	characteristic	individual	TYC0032
+E-GEOD-29272	A-AFFY-33	GSM723670	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723670	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723670	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723670	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723671	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723671	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723671	characteristic	individual	TYC0032
+E-GEOD-29272	A-AFFY-33	GSM723671	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723671	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723671	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723671	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723672	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723672	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723672	characteristic	individual	TYC0033
+E-GEOD-29272	A-AFFY-33	GSM723672	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723672	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723672	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723672	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723673	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723673	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723673	characteristic	individual	TYC0033
+E-GEOD-29272	A-AFFY-33	GSM723673	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723673	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723673	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723673	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723674	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723674	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723674	characteristic	individual	TYC0034
+E-GEOD-29272	A-AFFY-33	GSM723674	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723674	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723674	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723674	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723675	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723675	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723675	characteristic	individual	TYC0034
+E-GEOD-29272	A-AFFY-33	GSM723675	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723675	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723675	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723675	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723676	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723676	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723676	characteristic	individual	TYC0035
+E-GEOD-29272	A-AFFY-33	GSM723676	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723676	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723676	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723676	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723677	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723677	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723677	characteristic	individual	TYC0035
+E-GEOD-29272	A-AFFY-33	GSM723677	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723677	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723677	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723677	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723678	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723678	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723678	characteristic	individual	TYC0036
+E-GEOD-29272	A-AFFY-33	GSM723678	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723678	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723678	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723678	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723679	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723679	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723679	characteristic	individual	TYC0036
+E-GEOD-29272	A-AFFY-33	GSM723679	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723679	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723679	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723679	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723680	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723680	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723680	characteristic	individual	TYC0037
+E-GEOD-29272	A-AFFY-33	GSM723680	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723680	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723680	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723680	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723681	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723681	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723681	characteristic	individual	TYC0037
+E-GEOD-29272	A-AFFY-33	GSM723681	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723681	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723681	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723681	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723682	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723682	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723682	characteristic	individual	TYC0038
+E-GEOD-29272	A-AFFY-33	GSM723682	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723682	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723682	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723682	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723683	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723683	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723683	characteristic	individual	TYC0038
+E-GEOD-29272	A-AFFY-33	GSM723683	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723683	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723683	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723683	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723684	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723684	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723684	characteristic	individual	TYC0039
+E-GEOD-29272	A-AFFY-33	GSM723684	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723684	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723684	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723684	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723685	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723685	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723685	characteristic	individual	TYC0039
+E-GEOD-29272	A-AFFY-33	GSM723685	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723685	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723685	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723685	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723686	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723686	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723686	characteristic	individual	TYC0040
+E-GEOD-29272	A-AFFY-33	GSM723686	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723686	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723686	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723686	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723687	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723687	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723687	characteristic	individual	TYC0040
+E-GEOD-29272	A-AFFY-33	GSM723687	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723687	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723687	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723687	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723688	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723688	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723688	characteristic	individual	TYC0041
+E-GEOD-29272	A-AFFY-33	GSM723688	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723688	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723688	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723688	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723689	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723689	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723689	characteristic	individual	TYC0041
+E-GEOD-29272	A-AFFY-33	GSM723689	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723689	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723689	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723689	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723690	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723690	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723690	characteristic	individual	TYC0042
+E-GEOD-29272	A-AFFY-33	GSM723690	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723690	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723690	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723690	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723691	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723691	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723691	characteristic	individual	TYC0042
+E-GEOD-29272	A-AFFY-33	GSM723691	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723691	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723691	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723691	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723692	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723692	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723692	characteristic	individual	TYC0043
+E-GEOD-29272	A-AFFY-33	GSM723692	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723692	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723692	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723692	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723693	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723693	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723693	characteristic	individual	TYC0043
+E-GEOD-29272	A-AFFY-33	GSM723693	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723693	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723693	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723693	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723694	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723694	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723694	characteristic	individual	TYC0044
+E-GEOD-29272	A-AFFY-33	GSM723694	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723694	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723694	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723694	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723695	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723695	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723695	characteristic	individual	TYC0044
+E-GEOD-29272	A-AFFY-33	GSM723695	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723695	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723695	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723695	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723696	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723696	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723696	characteristic	individual	TYC0045
+E-GEOD-29272	A-AFFY-33	GSM723696	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723696	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723696	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723696	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723697	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723697	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723697	characteristic	individual	TYC0045
+E-GEOD-29272	A-AFFY-33	GSM723697	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723697	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723697	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723697	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723698	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723698	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723698	characteristic	individual	TYC0046
+E-GEOD-29272	A-AFFY-33	GSM723698	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723698	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723698	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723698	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723699	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723699	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723699	characteristic	individual	TYC0046
+E-GEOD-29272	A-AFFY-33	GSM723699	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723699	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723699	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723699	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723700	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723700	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723700	characteristic	individual	TYC0047
+E-GEOD-29272	A-AFFY-33	GSM723700	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723700	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723700	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723700	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723701	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723701	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723701	characteristic	individual	TYC0047
+E-GEOD-29272	A-AFFY-33	GSM723701	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723701	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723701	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723701	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723702	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723702	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723702	characteristic	individual	TYC0048
+E-GEOD-29272	A-AFFY-33	GSM723702	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723702	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723702	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723702	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723703	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723703	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723703	characteristic	individual	TYC0048
+E-GEOD-29272	A-AFFY-33	GSM723703	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723703	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723703	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723703	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723704	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723704	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723704	characteristic	individual	TYC0049
+E-GEOD-29272	A-AFFY-33	GSM723704	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723704	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723704	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723704	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723705	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723705	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723705	characteristic	individual	TYC0049
+E-GEOD-29272	A-AFFY-33	GSM723705	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723705	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723705	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723705	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723706	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723706	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723706	characteristic	individual	TYC0050
+E-GEOD-29272	A-AFFY-33	GSM723706	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723706	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723706	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723706	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723707	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723707	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723707	characteristic	individual	TYC0050
+E-GEOD-29272	A-AFFY-33	GSM723707	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723707	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723707	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723707	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723708	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723708	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723708	characteristic	individual	TYC0051
+E-GEOD-29272	A-AFFY-33	GSM723708	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723708	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723708	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723708	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723709	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723709	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723709	characteristic	individual	TYC0051
+E-GEOD-29272	A-AFFY-33	GSM723709	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723709	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723709	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723709	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723710	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723710	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723710	characteristic	individual	TYC0052
+E-GEOD-29272	A-AFFY-33	GSM723710	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723710	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723710	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723710	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723711	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723711	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723711	characteristic	individual	TYC0052
+E-GEOD-29272	A-AFFY-33	GSM723711	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723711	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723711	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723711	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723712	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723712	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723712	characteristic	individual	TYC0053
+E-GEOD-29272	A-AFFY-33	GSM723712	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723712	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723712	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723712	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723713	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723713	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723713	characteristic	individual	TYC0053
+E-GEOD-29272	A-AFFY-33	GSM723713	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723713	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723713	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723713	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723714	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723714	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723714	characteristic	individual	TYC0054
+E-GEOD-29272	A-AFFY-33	GSM723714	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723714	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723714	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723714	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723715	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723715	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723715	characteristic	individual	TYC0054
+E-GEOD-29272	A-AFFY-33	GSM723715	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723715	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723715	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723715	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723716	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723716	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723716	characteristic	individual	TYC0055
+E-GEOD-29272	A-AFFY-33	GSM723716	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723716	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723716	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723716	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723717	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723717	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723717	characteristic	individual	TYC0055
+E-GEOD-29272	A-AFFY-33	GSM723717	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723717	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723717	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723717	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723718	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723718	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723718	characteristic	individual	TYC0056
+E-GEOD-29272	A-AFFY-33	GSM723718	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723718	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723718	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723718	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723719	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723719	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723719	characteristic	individual	TYC0056
+E-GEOD-29272	A-AFFY-33	GSM723719	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723719	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723719	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723719	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723720	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723720	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723720	characteristic	individual	TYC0057
+E-GEOD-29272	A-AFFY-33	GSM723720	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723720	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723720	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723720	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723721	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723721	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723721	characteristic	individual	TYC0057
+E-GEOD-29272	A-AFFY-33	GSM723721	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723721	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723721	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723721	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723722	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723722	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723722	characteristic	individual	TYC0058
+E-GEOD-29272	A-AFFY-33	GSM723722	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723722	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723722	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723722	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723723	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723723	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723723	characteristic	individual	TYC0058
+E-GEOD-29272	A-AFFY-33	GSM723723	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723723	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723723	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723723	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723724	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723724	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723724	characteristic	individual	TYC0059
+E-GEOD-29272	A-AFFY-33	GSM723724	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723724	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723724	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723724	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723725	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723725	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723725	characteristic	individual	TYC0059
+E-GEOD-29272	A-AFFY-33	GSM723725	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723725	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723725	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723725	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723726	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723726	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723726	characteristic	individual	TYC0060
+E-GEOD-29272	A-AFFY-33	GSM723726	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723726	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723726	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723726	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723727	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723727	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723727	characteristic	individual	TYC0060
+E-GEOD-29272	A-AFFY-33	GSM723727	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723727	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723727	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723727	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723728	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723728	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723728	characteristic	individual	TYC0061
+E-GEOD-29272	A-AFFY-33	GSM723728	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723728	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723728	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723728	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723729	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723729	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723729	characteristic	individual	TYC0061
+E-GEOD-29272	A-AFFY-33	GSM723729	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723729	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723729	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723729	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723730	characteristic	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723730	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723730	characteristic	individual	TYC0062
+E-GEOD-29272	A-AFFY-33	GSM723730	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723730	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723730	factor	clinical information	normal
+E-GEOD-29272	A-AFFY-33	GSM723730	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723731	characteristic	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723731	characteristic	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252
+E-GEOD-29272	A-AFFY-33	GSM723731	characteristic	individual	TYC0062
+E-GEOD-29272	A-AFFY-33	GSM723731	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-29272	A-AFFY-33	GSM723731	characteristic	organism part	stomach	http://purl.obolibrary.org/obo/UBERON_0000945
+E-GEOD-29272	A-AFFY-33	GSM723731	factor	clinical information	tumor
+E-GEOD-29272	A-AFFY-33	GSM723731	factor	disease	gastric cardia carcinoma	http://www.ebi.ac.uk/efo/EFO_1001252

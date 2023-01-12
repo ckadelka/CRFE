@@ -1,0 +1,32 @@
+Comment[ArrayExpressAccession]	E-GEOD-48350											
+MAGE-TAB Version	1.1											
+Public Release Date	2014-04-21											
+Investigation Title	Alzheimer's Disease Dataset											
+Comment[Submitted Name]	Alzheimer's Disease Dataset											
+Experiment Description	FK506 binding protein 51kDa (FKBP51/FKBP5) is part of a mature heat shock protein 90kDa (Hsp90) chaperone complex that preserves tau. Microarray analysis of human brains reveal that FKBP51 gene expression selectively increased with age and Alzheimer's disease, which correlated with demethylation of the regulatory regions in the FKBP5 gene. Moreover, FKBP51 levels significantly correlated with Braak pathological staging.  In addition, we show that in brains devoid of FKBP51, tau levels are reduced. Recombinant FKBP51 and Hsp90 synergize to block tau clearance through the proteasome and produce T22-positive tau oligomers. Overexpression of FKBP51 in a tau transgenic mouse model revealed that FKBP51 preserved tau species, including phosphorylated and oligomeric tau that have been linked to Alzheimer's disease pathogenesis. FKBP51 blocked amyloid formation and decreased tangle load in the brain. These alterations in tau turnover and aggregate structure culminated in enhanced neurotoxicity. We propose a model where age-associated increases in FKBP51 levels can out-compete the association of other pro-degradation Hsp90 co-chaperones, resulting in neurotoxic tau accumulation. Thus, strategies aimed at attenuating FKBP51 levels or its interaction with Hsp90 could be therapeutically relevant for Alzheimer's disease and other tauopathies. These AD cases were processed simultaneously with the control cases (young and aged) included in GSE11882 Postmortem brain tissue was collected from ADRC brain banks. Cases were preferentially selected where 3 or more brain regions were available											
+Term Source Name	ArrayExpress	EFO										
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl										
+Person Last Name	Berchtold	Berchtold	Cotman									
+Person First Name	Nicole	N	C									
+Person Mid Initials	Claudia	C	W									
+Person Email	nberchto@uci.edu											
+Person Affiliation	UC Irvine											
+Person Phone	949 824 6071											
+Person Address	Institute for Memory Impairments and Neurological Disorders, UC Irvine, 1226 Gillespie Neuroscience Facility, Irvine, CA, USA											
+Person Roles	submitter											
+Protocol Name	P-GSE48350-2	P-GSE48350-1	P-GSE48350-6	P-GSE48350-10	P-GSE48350-11	P-GSE48350-7	P-GSE48350-3	P-GSE48350-4	P-GSE48350-9	P-GSE48350-5	P-GSE48350-12	P-GSE48350-8
+Protocol Description	GC-RMA, using Genespring 7.3. data transformation: measurements <0.01 set to 0.01; per chip: normalized to the 50th percentile; per gene: normalize to median ID_REF =  VALUE = normalized data	GC-RMA expression values were obtained from CEL files using GeneSpring 7.3.1 software.  PLIER expression values were obtained using Expression Console software using default settings.  PLIER and GC-RMA data were processed using GeneSpring 7.0 software, with default normalizations (Data transformation:set values<0.01 to 0.01; per chip: normalize to 50th percentile; per gene: normalize to median). ID_REF =  VALUE = GC-RMA normalized expression values PLIER = PLIER normalized expression values	Total RNA (10 ug) from each sample was used to generate first strand cDNA using a T7-linked-(dT)24 primer, followed by in vitro transcription using the ENZO BioArray High-Yield RNA transcript labeling kit (ENZO Farmingdale, NY) to generate biotin-labeled cRNA target.	Biotinylated cRNA were prepared according to the standard Affymetrix protocol from 10 ug total RNA (Expression Analysis Technical Manual, 2001, Affymetrix) using robotics system (Biomek FX MicroArray Plex SA System; Beckman Coulter) to optimize consistency in processing	Following fragmentation, 30 mg biotin-labeled cRNA were hybridized for 16 hr and rotated at 13 rpm at 50ﾰ C on Affymetrix Human HgU133 plus 2.0 microarrays	Using a robotics system (Biomek FX MicroArray Plex SA System; Beckman Coultier) to optimize consistency in processing and minimize handling variability, each fragmented, biotin-labeled cRNA sample (30 mg) was individually hybridized to an Affymetrix Hg-U133 plus 2.0 chip for 16 hours and rotated at 13 rpm at 50C.	N/A	N/A	Trizol extraction of total RNA, followed by purification using Qiagen quick-spin columns	Total RNA was extracted from 10-200 mg of frozen, unfixed tissue using Trizol reagent (Invitrogen, Carlsbad CA), and purified using quick spin columns (Qiagen, Valencia CA). RNA quality was assessed using the Agilent BioAnalyzer (Agilent Technologies, Palo Alto, CA) and UV spectrophotometer for the presence of sharp peaks and 28S/18S RNA.	Affymetrix Genekeep GCS3000, software version 3.2.2.1515	The chips were scanned using an Affymetrix GeneChip Scanner 3000 7G
+Protocol Type	normalization data transformation protocol	normalization data transformation protocol	labelling protocol	labelling protocol	hybridization protocol	hybridization protocol	sample treatment protocol	growth protocol	nucleic acid extraction protocol	nucleic acid extraction protocol	array scanning protocol	array scanning protocol
+Experimental Factor Name	organism part	disease										
+Experimental Factor Type	organism part	disease										
+Pubmed ID	23999428	23273601										
+Publication DOI	10.1172/JCI69003	10.1016/j.neurobiolaging.2012.11.024										
+Publication Title	Accelerated neurodegeneration through chaperone-mediated oligomerization of tau	Synaptic genes are extensively downregulated across multiple brain regions in normal human aging and Alzheimer's disease										
+Publication Author List	Blair LJ, Nordhues BA, Hill SE, Scaglione KM, O'Leary JC 3rd, Fontaine SN, Breydo L, Zhang B, Li P, Wang L, Cotman C, Paulson HL, Muschol M, Uversky VN, Klengel T, Binder EB, Kayed R, Golde TE, Berchtold N, Dickey CA	Berchtold NC, Coleman PD, Cribbs DH, Rogers J, Gillen DL, Cotman CW										
+Comment[SecondaryAccession]	GSE48350											
+Comment[GEOReleaseDate]	2014-04-21											
+Comment[ArrayExpressSubmissionDate]	2013-06-27											
+Comment[GEOLastUpdateDate]	2014-04-22											
+Comment[AEExperimentType]	transcription profiling by array											
+Comment[AEExperimentDisplayName]	Microarray analysis of Alzheimer's disease patients across 4 brain regions											
+SDRF File	E-GEOD-48350.sdrf.txt											

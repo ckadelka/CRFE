@@ -1,0 +1,30 @@
+Comment[ArrayExpressAccession]	E-MTAB-3073				
+Investigation Title	Molecular Analysis of Brain Neoplasia				
+Comment[Submitted Name]	Molecular Analysis of Brain Neoplasia				
+Experiment Description	The study includes fresh frozen tumors representing different brain tumor types and grades that were collected, processed and analyzed in a standardized fashion to allow for large-scale cross sample analysis. The sample collection was accompanied by careful and prospective clinical data acquisition, allowing matched molecular and clinical data analyses. The aim is to integrate molecular data with clinical annotations to identify new targets for therapy. 				
+Comment[AEExperimentType]	transcription profiling by array				
+Experimental Factor Name	disease				
+Experimental Factor Type	disease				
+Public Release Date	2009-02-10				
+Person Last Name	Zenklusen				
+Person First Name	Jean Claude				
+Person Mid Initials					
+Person Email	zenklusj@mail.nih.gov				
+Person Phone	13014512144				
+Person Address	National Institutes of Health, 31 Center Dr.,  Suite 3A20, Bethesda, MD 20892				
+Person Affiliation	National Cancer Institute (NCI)				
+Person Roles	investigator; submitter				
+PubMed ID	19208739				
+Publication Author List	Madhavan S, Zenklusen JC, Kotliarov Y, Sahni H, Fine HA, Buetow K				
+Publication Title	Rembrandt: helping personalized medicine become a reality through integrative translational research.				
+Publication Status	published				
+Publication DOI	10.1158/1541-7786.MCR-08-0435				
+Protocol Name	P-MTAB-42056	P-MTAB-42057			
+Protocol Type	nucleic acid extraction protocol	normaliation data transformation protocol			
+Protocol Description	Tissue from each tumor (50-80 mg) from each tumor was used to exatract total RNA using the Trizol reagent (Invitrogen) following the manufactures instructions.	Bioconductor RMA http://www.bioconductor.org/help/workflows/oligo-arrays/			
+Protocol Term Source REF	EFO	EFO			
+Protocol Hardware					
+Term Source Name	caArray	NCI_Thesaurus	MO	ArrayExpress	EFO
+Term Source File	https://array.nci.nih.gov	http://nciterms.nci.nih.gov/NCIBrowser/Dictionary.do	http://mged.sourceforge.net/ontologies/MGEDontology.php	http://www.ebi.ac.uk/arrayexpress	http://www.ebi.ac.uk/efo
+Term Source Version	2	07.12a	1.3.1.1		
+SDRF File	E-MTAB-3073.sdrf.txt				

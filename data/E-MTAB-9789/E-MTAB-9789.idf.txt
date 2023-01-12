@@ -1,0 +1,34 @@
+Comment[ArrayExpressAccession]	E-MTAB-9789
+MAGE-TAB Version	1.1
+Comment[Submitted Name]	RNA sequencing of unmanipulated and saline-injected skin in healthy old adults before and after oral vitamin D3 supplementation				
+Investigation Title	RNA sequencing of unmanipulated and saline-injected skin in healthy old adults before and after oral vitamin D3 supplementation
+Experiment Description	Vitamin D insufficiency may exacerbate non-specific inflammation observed in older adults. Here, we tested the hypothesis that an inflammatory gene signature present in old skin following saline injection (as model for non-specific needle injury) normalizes after oral vitamin D3 supplementation. To define the saline-induced signature, we compared gene expression in skin biopsies taken six hours after saline injection in old adults (≥65 years) to biopsies from unmanipulated skin. We then assessed signature expression in saline-injected skin of old and young adults (<40 years), and in paired samples of old adults before and after oral vitamin D3 supplementation (6400 IU/day for 14 weeks), where median serum 25-hydroxyvitamin D increased from 43 nmol/L (interquartile range 36-53 nmol/L) to 131 nmol/L (interquartile range 115-147 nmol/L).  This submission comprises 112 samples from 57 individuals.
+Experimental Factor Name	stimulus	time	age	compound
+Experimental Factor Type	stimulus	time	age	compound
+Experimental Factor Term Source REF		EFO
+Experimental Factor Term Accession Number		EFO_0000721
+Person Last Name	Turner
+Person First Name	Carolin
+Person Mid Initials
+Person Email	carolin.turner@ucl.ac.uk
+Person Phone	447909732928
+Person Fax
+Person Address	Cruciform Building 90 Gower St, London WC1E 6BT
+Person Affiliation	Division of Infection and Immunity, University College London, London, UK
+Person Roles	data analyst;submitter
+Public Release Date	2020-12-31
+Protocol Name	P-MTAB-103395	P-MTAB-103396	P-MTAB-103397	P-MTAB-103398	P-MTAB-103399
+Protocol Type	sample collection protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	normalization data transformation protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0005518	EFO_0002944	EFO_0004184	EFO_0004170	EFO_0003816
+Protocol Description	3 mm punch skin biopsies were taken and collected into RNAlater (Qiagen) for RNA extraction.	Frozen tissue was homogenized using a Precellys Evolution homogenizer (Bertin Instruments), and total RNA was extracted with the RNeasy Mini Kit (Qiagen, Hilden, Germany). RNA was subjected to DNase treatment to remove contaminating genomic DNA using a TURBO DNA-free kit (Ambion, Life Technologies). 	cDNA libraries were generated using the Kapa mRNA Hyperprep kit (Roche).	Sequencing was performed on the Illumina Nextseq using the Nextseq 500/550 High Output 75 cycle kit (Illumina) according to manufacturers’ instructions, giving a median of 23 million (range 2-39 million, interquartile range 22-25 million) 41bp paired end reads per sample.	RNAseq data were mapped to the reference transcriptome (Ensembl Human GRCh38 release 99) using Kallisto. Transcript-level counts were summed on gene level using tximport.
+Protocol Hardware				NextSeq 550
+Protocol Software
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/
+Term Source Version
+Comment[AEExperimentType]	RNA-seq of coding RNA
+Comment[TemplateType]	Human - High-throughput sequencing
+Comment[SecondaryAccession]	ERP125228
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR4859187-ERR4859298
+SDRF File	E-MTAB-9789.sdrf.txt

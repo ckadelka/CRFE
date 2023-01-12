@@ -1,0 +1,33 @@
+MAGE-TAB Version	1.1					
+Experiment Description	We report whole blood gene expression of 12 healthy controls and 190 patients with either oligoarticular (n=43), polyarticular (n=46), or systemic JIA (n=26), or Crohn's disease (n=60) and ulcerative colitis (n=15). The subtypes of JIA are characterized by a gradient of differential gene expression ranging from controls to oligoJIA, polyJIA, sJIA, and IBD. Whole blood samples were obtained from JIA patients age <17 years. Transcriptome profiling was performed with RNA-Seq.					
+Investigation Title	Whole Blood Transcriptome Profiling in Juvenile Idiopathic Arthritis and Inflammatory Bowel Disease					
+Public Release Date	2018-05-29
+Protocol Name	P-GSE112057-1	P-GSE112057-2				
+Protocol Description	Blood was collected via Tempus Tube and RNA was extracted with Tempus Spin RNA isolation kit. RNA sequencing (RNA-seq) libraries were prepared using the Illumina TruSeq stranded mRNA library kit and sequenced on the Illumina HiSeq Rapid Run with paired-end 100-bp reads (Illumina, San Diego, CA).	Reads were mapped to the human genome (hg19) with TopHat 2.0.13 using default parameters, aligned reads were transformed with SAMtools to quantify number of reads at the gene level with HTSeq-0.6.1 using default “union” mode. counts were transformed to RPKM to follow GTEx QC guidelines, retaining 11,924 genes with RPKM>1 and >6 read counts in at least 10 individuals finally, original raw counts of the retained genes were normalized using TMM normalization with edgeR Genome_build: hg19 Supplementary_files_format_and_content: tab-delimited text file include raw counts or normalized read counts at the gene level for each sample				
+Protocol Type	nucleic acid library construction protocol	normalization data transformation protocol				
+Term Source Name	ArrayExpress					
+Term Source File	http://www.ebi.ac.uk/arrayexpress/					
+Experimental Factor Name	age at diagnosis	sex	ancestry	disease		
+Experimental Factor Type	age at diagnosis	sex	ancestry	disease		
+Person Last Name	Mo	Mo	Marigorta	Kugathasan	Prahalad	Gibson
+Person First Name	Angela	Angela	Urko	Subra	Sampath	Greg
+Person Mid Initials			M			
+Person Email	amo3@gatech.edu					
+Person Affiliation	Georgia Institute of Technology					
+Person Address	School of Biological Sciences, Georgia Institute of Technology, 950 Atlantic Drive, Atlanta, GA, USA					
+Person Roles	submitter					
+Publication Title	Disease-specific regulation of gene expression in a comparative analysis of juvenile idiopathic arthritis and inflammatory bowel disease.					
+Publication Author List	Mo A, Marigorta UM, Arafat D, Chan LHK, Ponder L, Jang SR, Prince J, Kugathasan S, Prahalad S, Gibson G					
+PubMed ID	29950172					
+Publication DOI	10.1186/s13073-018-0558-x					
+Comment[SecondaryAccession]	GSE112057					
+Comment[ArrayExpressAccession]	E-GEOD-112057					
+Comment[GEOReleaseDate]	2018-05-29					
+Comment[ArrayExpressSubmissionDate]	2018-03-20					
+Comment[GEOLastUpdateDate]	2018-07-05					
+Comment[AEExperimentType]	RNA-seq of coding RNA					
+SDRF File	E-GEOD-112057.sdrf.txt									
+SDRF File	E-GEOD-112057.sdrf.txt									
+Comment[SecondaryAccession]	SRP136057					
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR6868540-SRR6868741					
+

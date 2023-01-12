@@ -1,0 +1,31 @@
+MAGE-TAB Version	1.1				
+Investigation Title	RNA-seq of 210 treatment-naïve patients of pediatric Crohn's disease and 35 non-IBD controls from the RISK study				
+Experiment Description	We report ileal gene expression at diagnosis in a cohort of 210 treatment-naïve patients of pediatric Crohn's disease and 35 non-IBD controls from the RISK study. After three years of follow-up after diagnosis, 27 of the CD patients progressed to complicated disease (B2 and/or B3). We aim to test whether Transcriptional Risk Scores helps to distinguish between patient subgroups, improving the predictive power gained from Genetic Risk Scores. Ileal biopsies were obtained during diagnostic colonoscopies of children and adolescents (<17 years) who presented with symptoms of IBD. Non-IBD control label corresponds to those with suspected IBD, but without inflammation and normal endoscopic findings. Biopsies were stored at -80 degrees.				
+Public Release Date	2017-06-20				
+Person Last Name	Marigorta	Marigorta	Gibson	Kugathasan	Denson
+Person First Name	Urko M.	Urko	Greg	Subra	Lee
+Person Mid Initials		M			A
+Person Email	urkotxapela@gmail.com				
+Person Affiliation	Georgia Institute of Technology				
+Person Address	School of Biosciences, Georgia Institute of Technology, 950 Atlantic Drive, Atlanta, Georgia, USA				
+Person Roles	submitter				
+Experimental Factor Name	disease				
+Experimental Factor Type	disease				
+Publication Title	Transcriptional risk scores link GWAS to eQTLs and predict complications in Crohn's disease.				
+Publication Author List	Marigorta UM, Denson LA, Hyams JS, Mondal K, Prince J, Walters TD, Griffiths A, Noe JD, Crandall WV, Rosh JR, Mack DR, Kellermayer R, Heyman MB, Baker SS, Stephens MC, Baldassano RN, Markowitz JF, Kim MO, Dubinsky MC, Cho J, Aronow BJ, Kugathasan S, Gibson G				
+PubMed ID	28805827				
+Publication DOI	10.1038/ng.3936				
+Term Source Name	ArrayExpress				
+Term Source File	http://www.ebi.ac.uk/arrayexpress/				
+Protocol Name	P-GSE93624-2	P-GSE93624-1			
+Protocol Description	Reads were mapped to the human genome (hg19) with TopHat 2.0.13 using default parameters, aligned reads were transformed with SAMtools to quantify number of reads at the gene level with HTSeq-0.6.1 using default “union” mode. counts were transformed to RPKM to follow GTEx QC guidelines, retaining 13,769 genes with RPKM>1 and >6 read counts in at least 10 individuals finally, original raw counts of the retained genes were normalized using TMM normalization with edgeR Genome_build: hg19 Supplementary_files_format_and_content: tab-delimited text files include normalized read counts at the gene level for each sample	RNA was isolated using the Qiagen AllPrep RNA/DNA Mini Kit from ileal biopsies stored at -80C. RNA sequencing (RNA-seq) libraries were prepared using the Illumina TruSeq RNA preparation kit and sequenced on the Illumina HiSeq 2000 with single-end 50-bp reads (Illumina, San Diego, CA).			
+Protocol Type	normalization data transformation protocol	nucleic acid library construction protocol			
+Comment[SecondaryAccession]	GSE93624				
+Comment[ArrayExpressAccession]	E-GEOD-93624				
+Comment[GEOReleaseDate]	2017-06-20				
+Comment[ArrayExpressSubmissionDate]	2017-01-13				
+Comment[GEOLastUpdateDate]	2018-07-12				
+Comment[AEExperimentType]	RNA-seq of coding RNA				
+Comment[SecondaryAccession]	SRP096757				
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR5176628-SRR5176872				
+SDRF File	E-GEOD-93624.sdrf.txt				

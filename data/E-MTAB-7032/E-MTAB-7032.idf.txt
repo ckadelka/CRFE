@@ -1,0 +1,41 @@
+MAGE-TAB Version	1.1											
+Investigation Title	Bulk RNA-seq of of human dermal fibroblasts from up to 66 individuals (supplementary)											
+Comment[Submitted Name]	Bulk RNA-seq of of human dermal fibroblasts from up to 66 individuals (supplementary)											
+Experiment Description	Dermal fibroblasts from up to 66 human donors, stimulated with dsRNA (poly I:C) in a time course of 0, 2, 6 hours, profiled using the Smart-seq2 protocol. Donor fibroblast samples were supplied by the Hipsci consortium.											
+Experimental Design	stimulus or stress design											
+Experimental Factor Name	compound	sampling time point										
+Experimental Factor Type	compound	sampling time point										
+Person Last Name	Hagai											
+Person First Name	Tzachi											
+Person Mid Initials												
+Person Email	tzachi@ebi.ac.uk											
+Person Phone												
+Person Fax												
+Person Affiliation	EMBL - EBI & Wellcome Trust Sanger Institute											
+Person Address	Wellcome Genome Campus Hinxton, Cambridge CB10 1SD											
+Person Roles	submitter											
+Date of Experiment	2018-01-01											
+Public Release Date	2018-07-16											
+PubMed ID	30356220											
+Publication DOI	10.1038/s41586-018-0657-2											
+Publication Author List	Hagai T, Chen X, Miragaia RJ, Rostom R, Gomes T, Kunowska N, Henriksson J, Park JE, Proserpio V, Donati G, Bossini-Castillo L, Vieira Braga FA, Naamati G, Fletcher J, Stephenson E, Vegh P, Trynka G, Kondova I, Dennis M, Haniffa M, Nourmohammad A, Lässig M, Teichmann SA											
+Publication Title	Gene expression variability across cells and species shapes innate immunity											
+Publication Status	published											
+Protocol Name	P-MTAB-76997	P-MTAB-76993	P-MTAB-76994	P-MTAB-76995	P-MTAB-76996	P-MTAB-76998						
+Protocol Type	treatment protocol	sample collection protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	normalization data transformation protocol						
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO						
+Protocol Term Accession Number	EFO_0003969	EFO_0005518	EFO_0002944	EFO_0004184	EFO_0004170	EFO_0003816						
+Protocol Description	Cells were stimulated with 0.5ug/mL of  High-Molecular Weight poly I:C (Invivogen, Cat. Code: tlrl-pic), transfected with 1uL/mL Lipofectamin 2,000, for 0,2 or 6 hours before collection.	Cells were washed with PBS and then lysed in RLT plus buffer (Qiagen)	Total RNA was extracted using the RNeasy Plus Mini kit(Qiagen, Cat Number  74136), using QIAcube (Qiagen).	Libraries were produced using the Kapa Stranded mRNA-seq Kit (Kapa Biosystems, Kit code: KK8421). The Kapa library construction protocol was modified for automated library preparation by Bravo (Agilent Technologies). cDNA was amplified in 13 PCR cycles, and purified by Ampure XP beads (Beckman Coulter, Cat Number A63882) (1.8x volume) using Zephyr (Perkin Elmer). Prior to sequencing, libraries were quantified using MiSeq (25bp PE). This data was used for pooling libraries in equimolar amounts by Coulter NX (Span-8, Beckman).	Pooled samples were sequenced on an Illumina HiSeq 2500 instrument, using paired-end 75-bp reads.	Count matrix was created using Salmon mapping on human genome (ENSEMBL version 84).						
+Protocol Parameters												
+Protocol Hardware					Illumina HiSeq 2500							
+Protocol Software												
+Protocol Contact												
+Term Source Name	EFO											
+Term Source File	http://www.ebi.ac.uk/efo/											
+Term Source Version	2.38											
+SDRF File	E-MTAB-7032.sdrf.txt											
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR2699924-ERR2700091											
+Comment[ArrayExpressAccession]	E-MTAB-7032											
+Comment[AEExperimentType]	RNA-seq of coding RNA											
+Comment[SecondaryAccession]	ERP109918											
+Comment[RelatedExperiment]	E-MTAB-5918	E-MTAB-5919	E-MTAB-5920	E-MTAB-5988	E-MTAB-5989	E-MTAB-6066	E-MTAB-6754	E-MTAB-6773	E-MTAB-6831	E-MTAB-7037	E-MTAB-7051	E-MTAB-7052

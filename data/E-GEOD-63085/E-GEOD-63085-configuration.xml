@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="rnaseq_mrna_differential" r_data="1">
+    <analytics>
+        <assay_groups>
+            <assay_group id="g1" label="Lyme disease; 3 weeks later, at the time of treatment completion">
+                <assay>SRR1644105</assay>
+                <assay>SRR1644102</assay>
+                <assay>SRR1644119</assay>
+                <assay>SRR1644112</assay>
+                <assay>SRR1644115</assay>
+                <assay>SRR1644121</assay>
+                <assay>SRR1644116</assay>
+                <assay>SRR1644106</assay>
+                <assay>SRR1644108</assay>
+                <assay>SRR1644114</assay>
+                <assay>SRR1644104</assay>
+                <assay>SRR1644123</assay>
+                <assay>SRR1644111</assay>
+                <assay>SRR1644117</assay>
+                <assay>SRR1644122</assay>
+                <assay>SRR1644101</assay>
+                <assay>SRR1644124</assay>
+                <assay>SRR1644113</assay>
+                <assay>SRR1644110</assay>
+                <assay>SRR1644120</assay>
+                <assay>SRR1644118</assay>
+                <assay>SRR1644100</assay>
+                <assay>SRR1644107</assay>
+                <assay>SRR1644109</assay>
+                <assay>SRR1644103</assay>
+                <assay>SRR1644098</assay>
+                <assay>SRR1644099</assay>
+            </assay_group>
+            <assay_group id="g2" label="Lyme disease; 6 months following treatment completion">
+                <assay>SRR1644146</assay>
+                <assay>SRR1644131</assay>
+                <assay>SRR1644135</assay>
+                <assay>SRR1644128</assay>
+                <assay>SRR1644136</assay>
+                <assay>SRR1644153</assay>
+                <assay>SRR1644137</assay>
+                <assay>SRR1644133</assay>
+                <assay>SRR1644152</assay>
+                <assay>SRR1644129</assay>
+                <assay>SRR1644143</assay>
+                <assay>SRR1644130</assay>
+                <assay>SRR1644125</assay>
+                <assay>SRR1644142</assay>
+                <assay>SRR1644134</assay>
+                <assay>SRR1644127</assay>
+                <assay>SRR1644139</assay>
+                <assay>SRR1644132</assay>
+                <assay>SRR1644138</assay>
+                <assay>SRR1644149</assay>
+                <assay>SRR1644147</assay>
+                <assay>SRR1644150</assay>
+                <assay>SRR1644151</assay>
+                <assay>SRR1644145</assay>
+                <assay>SRR1644144</assay>
+                <assay>SRR1644126</assay>
+                <assay>SRR1644141</assay>
+                <assay>SRR1644140</assay>
+                <assay>SRR1644148</assay>
+            </assay_group>
+            <assay_group id="g3" label="Lyme disease; acute phase of infection, prior to initiation of antibiotic treatment">
+                <assay>SRR1644080</assay>
+                <assay>SRR1644082</assay>
+                <assay>SRR1644070</assay>
+                <assay>SRR1644087</assay>
+                <assay>SRR1644085</assay>
+                <assay>SRR1644091</assay>
+                <assay>SRR1644077</assay>
+                <assay>SRR1644088</assay>
+                <assay>SRR1644097</assay>
+                <assay>SRR1644096</assay>
+                <assay>SRR1644076</assay>
+                <assay>SRR1644095</assay>
+                <assay>SRR1644090</assay>
+                <assay>SRR1644075</assay>
+                <assay>SRR1644071</assay>
+                <assay>SRR1644073</assay>
+                <assay>SRR1644074</assay>
+                <assay>SRR1644081</assay>
+                <assay>SRR1644072</assay>
+                <assay>SRR1644078</assay>
+                <assay>SRR1644089</assay>
+                <assay>SRR1644084</assay>
+                <assay>SRR1644086</assay>
+                <assay>SRR1644083</assay>
+                <assay>SRR1644079</assay>
+                <assay>SRR1644093</assay>
+                <assay>SRR1644094</assay>
+                <assay>SRR1644092</assay>
+            </assay_group>
+            <assay_group id="g4" label="normal; control">
+                <assay>SRR1644185</assay>
+                <assay>SRR1644181</assay>
+                <assay>SRR1644178</assay>
+                <assay>SRR1644183</assay>
+                <assay>SRR1644182</assay>
+                <assay>SRR1644180</assay>
+                <assay>SRR1644186</assay>
+                <assay>SRR1644177</assay>
+                <assay>SRR1644176</assay>
+                <assay>SRR1644179</assay>
+                <assay>SRR1644174</assay>
+                <assay>SRR1644184</assay>
+                <assay>SRR1644175</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g4_g3" cttv_primary="1">
+                <name>'Lyme disease' at 'acute phase of infection, prior to initiation of antibiotic treatment' vs 'normal'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+            <contrast id="g4_g1" cttv_primary="0">
+                <name>'Lyme disease' at '3 weeks later, at the time of treatment completion' vs 'normal'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+            </contrast>
+            <contrast id="g4_g2" cttv_primary="0">
+                <name>'Lyme disease' at '6 months following treatment completion' vs 'normal'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

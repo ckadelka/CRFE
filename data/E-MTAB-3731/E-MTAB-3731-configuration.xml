@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="microarray_1colour_mrna_differential" r_data="1">
+    <analytics>
+        <array_design>A-AFFY-33</array_design>
+        <assay_groups>
+            <assay_group id="g83" label="osteocyte; dexamethasone  and vitamin D3; 1 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007846_HGU133A</assay>
+                <assay>007890_HGU133A</assay>
+                <assay>007934_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g1" label="adipocyte; control; 12 hour">
+                <assay>021275_HGU133A</assay>
+                <assay>021236_HGU133A</assay>
+                <assay>022416_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g99" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 48 hour">
+                <assay>007911_HGU133A</assay>
+                <assay>007955_HGU133A</assay>
+                <assay>007867_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g98" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 3 hour">
+                <assay>007895_HGU133A</assay>
+                <assay>007939_HGU133A</assay>
+                <assay>007851_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g97" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 288 hour">
+                <assay>007927_HGU133A</assay>
+                <assay>007883_HGU133A</assay>
+                <assay>007971_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g34" label="chondrocyte; control; 120 hour">
+                <assay>024941_HGU133A</assay>
+                <assay>024982_HGU133A</assay>
+                <assay>024900_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g101" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 72 hour">
+                <assay>007959_HGU133A</assay>
+                <assay>007915_HGU133A</assay>
+                <assay>007871_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g100" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 6 hour">
+                <assay>007899_HGU133A</assay>
+                <assay>007943_HGU133A</assay>
+                <assay>007855_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g102" label="osteocyte; dexamethasone; 1 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007845_HGU133A</assay>
+                <assay>007933_HGU133A</assay>
+                <assay>007889_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g10" label="adipocyte; dexamethasone and IBMX and rosiglitazone; 12 hour">
+                <assay>021293_HGU133A</assay>
+                <assay>022434_HGU133A</assay>
+                <assay>021254_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g104" label="osteocyte; dexamethasone; 120 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007917_HGU133A</assay>
+                <assay>007873_HGU133A</assay>
+                <assay>007961_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g103" label="osteocyte; dexamethasone; 12 hour">
+                <assay>007901_HGU133A</assay>
+                <assay>007857_HGU133A</assay>
+                <assay>007945_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g105" label="osteocyte; dexamethasone; 192 hour">
+                <assay>007877_HGU133A</assay>
+                <assay>007965_HGU133A</assay>
+                <assay>007921_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g107" label="osteocyte; dexamethasone; 288 hour">
+                <assay>007925_HGU133A</assay>
+                <assay>007881_HGU133A</assay>
+                <assay>007969_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g106" label="osteocyte; dexamethasone; 24 hour">
+                <assay>007949_HGU133A</assay>
+                <assay>007905_HGU133A</assay>
+                <assay>007861_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g108" label="osteocyte; dexamethasone; 3 hour">
+                <assay>007893_HGU133A</assay>
+                <assay>007849_HGU133A</assay>
+                <assay>007937_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g109" label="osteocyte; dexamethasone; 48 hour">
+                <assay>007909_HGU133A</assay>
+                <assay>007953_HGU133A</assay>
+                <assay>007865_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g11" label="adipocyte; dexamethasone and IBMX and rosiglitazone; 120 hour">
+                <assay>021297_HGU133A</assay>
+                <assay>022438_HGU133A</assay>
+                <assay>021258_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g111" label="osteocyte; dexamethasone; 72 hour">
+                <assay>007957_HGU133A</assay>
+                <assay>007869_HGU133A</assay>
+                <assay>007913_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g12" label="adipocyte; dexamethasone and IBMX and rosiglitazone; 24 hour">
+                <assay>022435_HGU133A</assay>
+                <assay>021255_HGU133A</assay>
+                <assay>021294_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g13" label="adipocyte; dexamethasone and IBMX and rosiglitazone; 3 hour">
+                <assay>022432_HGU133A</assay>
+                <assay>021252_HGU133A</assay>
+                <assay>021291_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g15" label="adipocyte; dexamethasone and IBMX and rosiglitazone; 48 hour">
+                <assay>021295_HGU133A</assay>
+                <assay>022436_HGU133A</assay>
+                <assay>021256_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g16" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 12 hour">
+                <assay>021302_HGU133A</assay>
+                <assay>021263_HGU133A</assay>
+                <assay>022443_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g17" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 120 hour">
+                <assay>021306_HGU133A</assay>
+                <assay>022447_HGU133A</assay>
+                <assay>021267_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g18" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 192 hour">
+                <assay>021307_HGU133A</assay>
+                <assay>021268_HGU133A</assay>
+                <assay>022448_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g19" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 24 hour">
+                <assay>022444_HGU133A</assay>
+                <assay>021264_HGU133A</assay>
+                <assay>021303_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g21" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 384 hour">
+                <assay>022449_HGU133A</assay>
+                <assay>021308_HGU133A</assay>
+                <assay>021269_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g2" label="adipocyte; control; 120 hour">
+                <assay>022420_HGU133A</assay>
+                <assay>021279_HGU133A</assay>
+                <assay>021240_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g20" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 3 hour">
+                <assay>021261_HGU133A</assay>
+                <assay>022441_HGU133A</assay>
+                <assay>021300_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g22" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 48 hour">
+                <assay>022445_HGU133A</assay>
+                <assay>021304_HGU133A</assay>
+                <assay>021265_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g24" label="adipocyte; dexamethasone; 12 hour">
+                <assay>022425_HGU133A</assay>
+                <assay>021284_HGU133A</assay>
+                <assay>021245_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g35" label="chondrocyte; control; 192 hour">
+                <assay>024945_HGU133A</assay>
+                <assay>024986_HGU133A</assay>
+                <assay>024904_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g23" label="adipocyte; dexamethasone and bone morphogenetic protein 2; 6 hour">
+                <assay>021262_HGU133A</assay>
+                <assay>021301_HGU133A</assay>
+                <assay>022442_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g26" label="adipocyte; dexamethasone; 3 hour">
+                <assay>022423_HGU133A</assay>
+                <assay>021282_HGU133A</assay>
+                <assay>021243_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g25" label="adipocyte; dexamethasone; 192 hour">
+                <assay>021289_HGU133A</assay>
+                <assay>021250_HGU133A</assay>
+                <assay>022430_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g27" label="adipocyte; dexamethasone; 384 hour">
+                <assay>022431_HGU133A</assay>
+                <assay>021251_HGU133A</assay>
+                <assay>021290_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g28" label="adipocyte; dexamethasone; 48 hour">
+                <assay>021247_HGU133A</assay>
+                <assay>021286_HGU133A</assay>
+                <assay>022427_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g29" label="adipocyte; dexamethasone; 6 hour">
+                <assay>021244_HGU133A</assay>
+                <assay>022424_HGU133A</assay>
+                <assay>021283_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g30" label="adipocyte; dexamethasone; 72 hour">
+                <assay>021248_HGU133A</assay>
+                <assay>021287_HGU133A</assay>
+                <assay>022428_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g3" label="adipocyte; control; 192 hour">
+                <assay>021280_HGU133A</assay>
+                <assay>022421_HGU133A</assay>
+                <assay>021241_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g31" label="adipocyte; proliferation medium; 0 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>022412_HGU133A</assay>
+                <assay>021232_HGU133A</assay>
+                <assay>021233_HGU133A</assay>
+                <assay>022413_HGU133A</assay>
+                <assay>021271_HGU133A</assay>
+                <assay>021272_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g32" label="chondrocyte; control; 0 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>024916_HGU133A</assay>
+                <assay>024957_HGU133A</assay>
+                <assay>024875_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g33" label="chondrocyte; control; 12 hour">
+                <assay>024966_HGU133A</assay>
+                <assay>024884_HGU133A</assay>
+                <assay>024925_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g36" label="chondrocyte; control; 24 hour">
+                <assay>024888_HGU133A</assay>
+                <assay>024929_HGU133A</assay>
+                <assay>024970_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g38" label="chondrocyte; control; 3 hour">
+                <assay>024958_HGU133A</assay>
+                <assay>024917_HGU133A</assay>
+                <assay>024876_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g37" label="chondrocyte; control; 288 hour">
+                <assay>024990_HGU133A</assay>
+                <assay>024949_HGU133A</assay>
+                <assay>024908_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g40" label="chondrocyte; control; 48 hour">
+                <assay>024892_HGU133A</assay>
+                <assay>024974_HGU133A</assay>
+                <assay>024933_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g39" label="chondrocyte; control; 384 hour">
+                <assay>024912_HGU133A</assay>
+                <assay>024995_HGU133A</assay>
+                <assay>024953_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g4" label="adipocyte; control; 24 hour">
+                <assay>021237_HGU133A</assay>
+                <assay>022417_HGU133A</assay>
+                <assay>021276_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g42" label="chondrocyte; control; 72 hour">
+                <assay>024937_HGU133A</assay>
+                <assay>024896_HGU133A</assay>
+                <assay>024978_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g41" label="chondrocyte; control; 6 hour">
+                <assay>024880_HGU133A</assay>
+                <assay>024921_HGU133A</assay>
+                <assay>024962_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g43" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 12 hour">
+                <assay>024927_HGU133A</assay>
+                <assay>024968_HGU133A</assay>
+                <assay>024886_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g44" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 120 hour">
+                <assay>024984_HGU133A</assay>
+                <assay>024902_HGU133A</assay>
+                <assay>024943_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g45" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 192 hour">
+                <assay>024988_HGU133A</assay>
+                <assay>024947_HGU133A</assay>
+                <assay>024906_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g48" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 3 hour">
+                <assay>024960_HGU133A</assay>
+                <assay>024878_HGU133A</assay>
+                <assay>024919_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g46" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 24 hour">
+                <assay>024890_HGU133A</assay>
+                <assay>024972_HGU133A</assay>
+                <assay>024931_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g50" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 48 hour">
+                <assay>024894_HGU133A</assay>
+                <assay>024935_HGU133A</assay>
+                <assay>024976_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g47" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 288 hour">
+                <assay>024910_HGU133A</assay>
+                <assay>024951_HGU133A</assay>
+                <assay>024992_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g56" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 24 hour">
+                <assay>024932_HGU133A</assay>
+                <assay>024891_HGU133A</assay>
+                <assay>024973_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g49" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 384 hour">
+                <assay>024997_HGU133A</assay>
+                <assay>024914_HGU133A</assay>
+                <assay>024955_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g5" label="adipocyte; control; 3 hour">
+                <assay>022414_HGU133A</assay>
+                <assay>021273_HGU133A</assay>
+                <assay>021234_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g51" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 6 hour">
+                <assay>024923_HGU133A</assay>
+                <assay>024882_HGU133A</assay>
+                <assay>024964_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g52" label="chondrocyte; human transforming growth factor beta 1 and bone morphogenetic protein 2; 72 hour">
+                <assay>024980_HGU133A</assay>
+                <assay>024939_HGU133A</assay>
+                <assay>024898_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g53" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 12 hour">
+                <assay>024887_HGU133A</assay>
+                <assay>024969_HGU133A</assay>
+                <assay>024928_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g54" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 120 hour">
+                <assay>024903_HGU133A</assay>
+                <assay>024944_HGU133A</assay>
+                <assay>024985_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g55" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 192 hour">
+                <assay>024989_HGU133A</assay>
+                <assay>024907_HGU133A</assay>
+                <assay>024948_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g58" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 3 hour">
+                <assay>024961_HGU133A</assay>
+                <assay>024920_HGU133A</assay>
+                <assay>024879_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g57" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 288 hour">
+                <assay>024952_HGU133A</assay>
+                <assay>024994_HGU133A</assay>
+                <assay>024911_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g59" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 384 hour">
+                <assay>024998_HGU133A</assay>
+                <assay>024956_HGU133A</assay>
+                <assay>024915_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g6" label="adipocyte; control; 384 hour">
+                <assay>021242_HGU133A</assay>
+                <assay>021281_HGU133A</assay>
+                <assay>022422_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g60" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 48 hour">
+                <assay>024977_HGU133A</assay>
+                <assay>024895_HGU133A</assay>
+                <assay>024936_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g62" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 72 hour">
+                <assay>024981_HGU133A</assay>
+                <assay>024899_HGU133A</assay>
+                <assay>024940_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g61" label="chondrocyte; human transforming growth factor beta 1 and growth differentiation factor 5; 6 hour">
+                <assay>024883_HGU133A</assay>
+                <assay>024924_HGU133A</assay>
+                <assay>024965_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g63" label="chondrocyte; human transforming growth factor beta 1; 12 hour">
+                <assay>024926_HGU133A</assay>
+                <assay>024967_HGU133A</assay>
+                <assay>024885_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g65" label="chondrocyte; human transforming growth factor beta 1; 192 hour">
+                <assay>024987_HGU133A</assay>
+                <assay>024946_HGU133A</assay>
+                <assay>024905_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g64" label="chondrocyte; human transforming growth factor beta 1; 120 hour">
+                <assay>024901_HGU133A</assay>
+                <assay>024942_HGU133A</assay>
+                <assay>024983_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g66" label="chondrocyte; human transforming growth factor beta 1; 24 hour">
+                <assay>024889_HGU133A</assay>
+                <assay>024930_HGU133A</assay>
+                <assay>024971_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g68" label="chondrocyte; human transforming growth factor beta 1; 3 hour">
+                <assay>024877_HGU133A</assay>
+                <assay>024918_HGU133A</assay>
+                <assay>024959_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g67" label="chondrocyte; human transforming growth factor beta 1; 288 hour">
+                <assay>024909_HGU133A</assay>
+                <assay>024950_HGU133A</assay>
+                <assay>024991_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g70" label="chondrocyte; human transforming growth factor beta 1; 48 hour">
+                <assay>024893_HGU133A</assay>
+                <assay>024934_HGU133A</assay>
+                <assay>024975_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g69" label="chondrocyte; human transforming growth factor beta 1; 384 hour">
+                <assay>024954_HGU133A</assay>
+                <assay>024996_HGU133A</assay>
+                <assay>024913_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g7" label="adipocyte; control; 48 hour">
+                <assay>022418_HGU133A</assay>
+                <assay>021238_HGU133A</assay>
+                <assay>021277_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g72" label="chondrocyte; human transforming growth factor beta 1; 72 hour">
+                <assay>024897_HGU133A</assay>
+                <assay>024979_HGU133A</assay>
+                <assay>024938_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g73" label="osteocyte; control; 0 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007884_HGU133A</assay>
+                <assay>007885_HGU133A</assay>
+                <assay>007843_HGU133A</assay>
+                <assay>007928_HGU133A</assay>
+                <assay>007887_HGU133A</assay>
+                <assay>007840_HGU133A</assay>
+                <assay>007841_HGU133A</assay>
+                <assay>007931_HGU133A</assay>
+                <assay>007929_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g71" label="chondrocyte; human transforming growth factor beta 1; 6 hour">
+                <assay>024922_HGU133A</assay>
+                <assay>024881_HGU133A</assay>
+                <assay>024963_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g75" label="osteocyte; control; 12 hour">
+                <assay>007944_HGU133A</assay>
+                <assay>007900_HGU133A</assay>
+                <assay>007856_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g77" label="osteocyte; control; 24 hour">
+                <assay>007860_HGU133A</assay>
+                <assay>007948_HGU133A</assay>
+                <assay>007904_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g76" label="osteocyte; control; 192 hour">
+                <assay>007876_HGU133A</assay>
+                <assay>007964_HGU133A</assay>
+                <assay>007920_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g78" label="osteocyte; control; 288 hour">
+                <assay>007880_HGU133A</assay>
+                <assay>007924_HGU133A</assay>
+                <assay>007968_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g8" label="adipocyte; control; 6 hour">
+                <assay>021235_HGU133A</assay>
+                <assay>021274_HGU133A</assay>
+                <assay>022415_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g79" label="osteocyte; control; 3 hour">
+                <assay>007936_HGU133A</assay>
+                <assay>007892_HGU133A</assay>
+                <assay>007848_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g80" label="osteocyte; control; 48 hour">
+                <assay>007952_HGU133A</assay>
+                <assay>007908_HGU133A</assay>
+                <assay>007864_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g81" label="osteocyte; control; 6 hour">
+                <assay>007852_HGU133A</assay>
+                <assay>007896_HGU133A</assay>
+                <assay>007940_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g82" label="osteocyte; control; 72 hour">
+                <assay>007956_HGU133A</assay>
+                <assay>007868_HGU133A</assay>
+                <assay>007912_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g84" label="osteocyte; dexamethasone  and vitamin D3; 12 hour">
+                <assay>007902_HGU133A</assay>
+                <assay>007946_HGU133A</assay>
+                <assay>007858_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g87" label="osteocyte; dexamethasone  and vitamin D3; 24 hour">
+                <assay>007862_HGU133A</assay>
+                <assay>007906_HGU133A</assay>
+                <assay>007950_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g92" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 1 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007935_HGU133A</assay>
+                <assay>007891_HGU133A</assay>
+                <assay>007847_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g90" label="osteocyte; dexamethasone  and vitamin D3; 6 hour">
+                <assay>007854_HGU133A</assay>
+                <assay>007898_HGU133A</assay>
+                <assay>007942_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g85" label="osteocyte; dexamethasone  and vitamin D3; 120 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007874_HGU133A</assay>
+                <assay>007918_HGU133A</assay>
+                <assay>007962_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g86" label="osteocyte; dexamethasone  and vitamin D3; 192 hour">
+                <assay>007922_HGU133A</assay>
+                <assay>007966_HGU133A</assay>
+                <assay>007878_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g88" label="osteocyte; dexamethasone  and vitamin D3; 288 hour">
+                <assay>007882_HGU133A</assay>
+                <assay>007926_HGU133A</assay>
+                <assay>007970_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g89" label="osteocyte; dexamethasone  and vitamin D3; 48 hour">
+                <assay>007954_HGU133A</assay>
+                <assay>007866_HGU133A</assay>
+                <assay>007910_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g96" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 24 hour">
+                <assay>007863_HGU133A</assay>
+                <assay>007907_HGU133A</assay>
+                <assay>007951_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g91" label="osteocyte; dexamethasone  and vitamin D3; 72 hour">
+                <assay>007870_HGU133A</assay>
+                <assay>007914_HGU133A</assay>
+                <assay>007958_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g93" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 12 hour">
+                <assay>007903_HGU133A</assay>
+                <assay>007947_HGU133A</assay>
+                <assay>007859_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g95" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 192 hour">
+                <assay>007923_HGU133A</assay>
+                <assay>007879_HGU133A</assay>
+                <assay>007967_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g94" label="osteocyte; dexamethasone and bone morphogenetic protein 2; 120 hour">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay>007919_HGU133A</assay>
+                <assay>007963_HGU133A</assay>
+                <assay>007875_HGU133A</assay>
+            </assay_group>
+            <assay_group id="g9" label="adipocyte; control; 72 hour">
+                <assay>021278_HGU133A</assay>
+                <assay>021239_HGU133A</assay>
+                <assay>022419_HGU133A</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g5_g13" cttv_primary="0">
+                <name>'dexamethasone and IBMX and rosiglitazone' vs 'control' in 'adipocyte' at '3 hour'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g13</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021252_HGU133A</assay>
+                            <assay>021234_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021273_HGU133A</assay>
+                            <assay>021291_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022432_HGU133A</assay>
+                            <assay>022414_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g5_g20" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '3 hour'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g20</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021234_HGU133A</assay>
+                            <assay>021261_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021300_HGU133A</assay>
+                            <assay>021273_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022441_HGU133A</assay>
+                            <assay>022414_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g5_g26" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '3 hour'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g26</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021234_HGU133A</assay>
+                            <assay>021243_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021282_HGU133A</assay>
+                            <assay>021273_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022414_HGU133A</assay>
+                            <assay>022423_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g8_g23" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '6 hour'</name>
+                <reference_assay_group>g8</reference_assay_group>
+                <test_assay_group>g23</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021262_HGU133A</assay>
+                            <assay>021235_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021301_HGU133A</assay>
+                            <assay>021274_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022442_HGU133A</assay>
+                            <assay>022415_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g8_g29" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '6 hour'</name>
+                <reference_assay_group>g8</reference_assay_group>
+                <test_assay_group>g29</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021235_HGU133A</assay>
+                            <assay>021244_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021274_HGU133A</assay>
+                            <assay>021283_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022424_HGU133A</assay>
+                            <assay>022415_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g1_g10" cttv_primary="0">
+                <name>'dexamethasone and IBMX and rosiglitazone' vs 'control' in 'adipocyte' at '12 hour'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g10</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021236_HGU133A</assay>
+                            <assay>021254_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021275_HGU133A</assay>
+                            <assay>021293_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022434_HGU133A</assay>
+                            <assay>022416_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g1_g16" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '12 hour'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g16</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021236_HGU133A</assay>
+                            <assay>021263_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021302_HGU133A</assay>
+                            <assay>021275_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022416_HGU133A</assay>
+                            <assay>022443_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g1_g24" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '12 hour'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g24</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021245_HGU133A</assay>
+                            <assay>021236_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021284_HGU133A</assay>
+                            <assay>021275_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022425_HGU133A</assay>
+                            <assay>022416_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g4_g12" cttv_primary="0">
+                <name>'dexamethasone and IBMX and rosiglitazone' vs 'control' in 'adipocyte' at '24 hour'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g12</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021255_HGU133A</assay>
+                            <assay>021237_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021294_HGU133A</assay>
+                            <assay>021276_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022417_HGU133A</assay>
+                            <assay>022435_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g4_g19" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '24 hour'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g19</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021237_HGU133A</assay>
+                            <assay>021264_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021276_HGU133A</assay>
+                            <assay>021303_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022444_HGU133A</assay>
+                            <assay>022417_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g7_g15" cttv_primary="0">
+                <name>'dexamethasone and IBMX and rosiglitazone' vs 'control' in 'adipocyte' at '48 hour'</name>
+                <reference_assay_group>g7</reference_assay_group>
+                <test_assay_group>g15</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021256_HGU133A</assay>
+                            <assay>021238_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021295_HGU133A</assay>
+                            <assay>021277_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022436_HGU133A</assay>
+                            <assay>022418_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g7_g22" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '48 hour'</name>
+                <reference_assay_group>g7</reference_assay_group>
+                <test_assay_group>g22</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021238_HGU133A</assay>
+                            <assay>021265_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021304_HGU133A</assay>
+                            <assay>021277_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022445_HGU133A</assay>
+                            <assay>022418_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g7_g28" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '48 hour'</name>
+                <reference_assay_group>g7</reference_assay_group>
+                <test_assay_group>g28</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021247_HGU133A</assay>
+                            <assay>021238_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021277_HGU133A</assay>
+                            <assay>021286_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022418_HGU133A</assay>
+                            <assay>022427_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g9_g30" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '72 hour'</name>
+                <reference_assay_group>g9</reference_assay_group>
+                <test_assay_group>g30</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021248_HGU133A</assay>
+                            <assay>021239_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021278_HGU133A</assay>
+                            <assay>021287_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022419_HGU133A</assay>
+                            <assay>022428_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g2_g11" cttv_primary="0">
+                <name>'dexamethasone and IBMX and rosiglitazone' vs 'control' in 'adipocyte' at '120 hour'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g11</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021240_HGU133A</assay>
+                            <assay>021258_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021297_HGU133A</assay>
+                            <assay>021279_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022420_HGU133A</assay>
+                            <assay>022438_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g2_g17" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '120 hour'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g17</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021240_HGU133A</assay>
+                            <assay>021267_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021279_HGU133A</assay>
+                            <assay>021306_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022420_HGU133A</assay>
+                            <assay>022447_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g3_g18" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '192 hour'</name>
+                <reference_assay_group>g3</reference_assay_group>
+                <test_assay_group>g18</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021241_HGU133A</assay>
+                            <assay>021268_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021280_HGU133A</assay>
+                            <assay>021307_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022421_HGU133A</assay>
+                            <assay>022448_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g3_g25" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '192 hour'</name>
+                <reference_assay_group>g3</reference_assay_group>
+                <test_assay_group>g25</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021241_HGU133A</assay>
+                            <assay>021250_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021289_HGU133A</assay>
+                            <assay>021280_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022430_HGU133A</assay>
+                            <assay>022421_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g6_g21" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'adipocyte' at '384 hour'</name>
+                <reference_assay_group>g6</reference_assay_group>
+                <test_assay_group>g21</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021242_HGU133A</assay>
+                            <assay>021269_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021308_HGU133A</assay>
+                            <assay>021281_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022449_HGU133A</assay>
+                            <assay>022422_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g6_g27" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'adipocyte' at '384 hour'</name>
+                <reference_assay_group>g6</reference_assay_group>
+                <test_assay_group>g27</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="SeriesA">
+                            <assay>021242_HGU133A</assay>
+                            <assay>021251_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesC">
+                            <assay>021290_HGU133A</assay>
+                            <assay>021281_HGU133A</assay>
+                        </batch>
+                        <batch value="SeriesE">
+                            <assay>022422_HGU133A</assay>
+                            <assay>022431_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g38_g48" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '3 hour'</name>
+                <reference_assay_group>g38</reference_assay_group>
+                <test_assay_group>g48</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024876_HGU133A</assay>
+                            <assay>024878_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024919_HGU133A</assay>
+                            <assay>024917_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024960_HGU133A</assay>
+                            <assay>024958_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g38_g58" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '3 hour'</name>
+                <reference_assay_group>g38</reference_assay_group>
+                <test_assay_group>g58</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024879_HGU133A</assay>
+                            <assay>024876_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024920_HGU133A</assay>
+                            <assay>024917_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024961_HGU133A</assay>
+                            <assay>024958_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g38_g68" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '3 hour'</name>
+                <reference_assay_group>g38</reference_assay_group>
+                <test_assay_group>g68</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024877_HGU133A</assay>
+                            <assay>024876_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024918_HGU133A</assay>
+                            <assay>024917_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024958_HGU133A</assay>
+                            <assay>024959_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g41_g51" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '6 hour'</name>
+                <reference_assay_group>g41</reference_assay_group>
+                <test_assay_group>g51</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024880_HGU133A</assay>
+                            <assay>024882_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024923_HGU133A</assay>
+                            <assay>024921_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024964_HGU133A</assay>
+                            <assay>024962_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g41_g61" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '6 hour'</name>
+                <reference_assay_group>g41</reference_assay_group>
+                <test_assay_group>g61</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024883_HGU133A</assay>
+                            <assay>024880_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024924_HGU133A</assay>
+                            <assay>024921_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024962_HGU133A</assay>
+                            <assay>024965_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g41_g71" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '6 hour'</name>
+                <reference_assay_group>g41</reference_assay_group>
+                <test_assay_group>g71</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024881_HGU133A</assay>
+                            <assay>024880_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024921_HGU133A</assay>
+                            <assay>024922_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024962_HGU133A</assay>
+                            <assay>024963_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g33_g43" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '12 hour'</name>
+                <reference_assay_group>g33</reference_assay_group>
+                <test_assay_group>g43</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024886_HGU133A</assay>
+                            <assay>024884_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024925_HGU133A</assay>
+                            <assay>024927_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024966_HGU133A</assay>
+                            <assay>024968_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g33_g53" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '12 hour'</name>
+                <reference_assay_group>g33</reference_assay_group>
+                <test_assay_group>g53</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024887_HGU133A</assay>
+                            <assay>024884_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024925_HGU133A</assay>
+                            <assay>024928_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024966_HGU133A</assay>
+                            <assay>024969_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g33_g63" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '12 hour'</name>
+                <reference_assay_group>g33</reference_assay_group>
+                <test_assay_group>g63</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024884_HGU133A</assay>
+                            <assay>024885_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024926_HGU133A</assay>
+                            <assay>024925_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024966_HGU133A</assay>
+                            <assay>024967_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g36_g46" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '24 hour'</name>
+                <reference_assay_group>g36</reference_assay_group>
+                <test_assay_group>g46</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024890_HGU133A</assay>
+                            <assay>024888_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024929_HGU133A</assay>
+                            <assay>024931_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024970_HGU133A</assay>
+                            <assay>024972_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g36_g56" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '24 hour'</name>
+                <reference_assay_group>g36</reference_assay_group>
+                <test_assay_group>g56</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024891_HGU133A</assay>
+                            <assay>024888_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024932_HGU133A</assay>
+                            <assay>024929_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024973_HGU133A</assay>
+                            <assay>024970_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g36_g66" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '24 hour'</name>
+                <reference_assay_group>g36</reference_assay_group>
+                <test_assay_group>g66</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024889_HGU133A</assay>
+                            <assay>024888_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024929_HGU133A</assay>
+                            <assay>024930_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024970_HGU133A</assay>
+                            <assay>024971_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g40_g50" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '48 hour'</name>
+                <reference_assay_group>g40</reference_assay_group>
+                <test_assay_group>g50</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024894_HGU133A</assay>
+                            <assay>024892_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024935_HGU133A</assay>
+                            <assay>024933_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024976_HGU133A</assay>
+                            <assay>024974_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g40_g60" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '48 hour'</name>
+                <reference_assay_group>g40</reference_assay_group>
+                <test_assay_group>g60</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024895_HGU133A</assay>
+                            <assay>024892_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024936_HGU133A</assay>
+                            <assay>024933_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024974_HGU133A</assay>
+                            <assay>024977_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g40_g70" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '48 hour'</name>
+                <reference_assay_group>g40</reference_assay_group>
+                <test_assay_group>g70</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024892_HGU133A</assay>
+                            <assay>024893_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024933_HGU133A</assay>
+                            <assay>024934_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024975_HGU133A</assay>
+                            <assay>024974_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g42_g52" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '72 hour'</name>
+                <reference_assay_group>g42</reference_assay_group>
+                <test_assay_group>g52</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024896_HGU133A</assay>
+                            <assay>024898_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024939_HGU133A</assay>
+                            <assay>024937_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024980_HGU133A</assay>
+                            <assay>024978_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g42_g62" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '72 hour'</name>
+                <reference_assay_group>g42</reference_assay_group>
+                <test_assay_group>g62</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024899_HGU133A</assay>
+                            <assay>024896_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024937_HGU133A</assay>
+                            <assay>024940_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024978_HGU133A</assay>
+                            <assay>024981_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g42_g72" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '72 hour'</name>
+                <reference_assay_group>g42</reference_assay_group>
+                <test_assay_group>g72</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024896_HGU133A</assay>
+                            <assay>024897_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024938_HGU133A</assay>
+                            <assay>024937_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024979_HGU133A</assay>
+                            <assay>024978_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g34_g44" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '120 hour'</name>
+                <reference_assay_group>g34</reference_assay_group>
+                <test_assay_group>g44</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024902_HGU133A</assay>
+                            <assay>024900_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024943_HGU133A</assay>
+                            <assay>024941_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024984_HGU133A</assay>
+                            <assay>024982_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g34_g54" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '120 hour'</name>
+                <reference_assay_group>g34</reference_assay_group>
+                <test_assay_group>g54</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024903_HGU133A</assay>
+                            <assay>024900_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024944_HGU133A</assay>
+                            <assay>024941_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024982_HGU133A</assay>
+                            <assay>024985_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g34_g64" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '120 hour'</name>
+                <reference_assay_group>g34</reference_assay_group>
+                <test_assay_group>g64</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024901_HGU133A</assay>
+                            <assay>024900_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024942_HGU133A</assay>
+                            <assay>024941_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024983_HGU133A</assay>
+                            <assay>024982_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g35_g45" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '192 hour'</name>
+                <reference_assay_group>g35</reference_assay_group>
+                <test_assay_group>g45</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024906_HGU133A</assay>
+                            <assay>024904_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024947_HGU133A</assay>
+                            <assay>024945_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024986_HGU133A</assay>
+                            <assay>024988_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g35_g55" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '192 hour'</name>
+                <reference_assay_group>g35</reference_assay_group>
+                <test_assay_group>g55</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024904_HGU133A</assay>
+                            <assay>024907_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024945_HGU133A</assay>
+                            <assay>024948_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024989_HGU133A</assay>
+                            <assay>024986_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g35_g65" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '192 hour'</name>
+                <reference_assay_group>g35</reference_assay_group>
+                <test_assay_group>g65</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024905_HGU133A</assay>
+                            <assay>024904_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024946_HGU133A</assay>
+                            <assay>024945_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024986_HGU133A</assay>
+                            <assay>024987_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g37_g47" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '288 hour'</name>
+                <reference_assay_group>g37</reference_assay_group>
+                <test_assay_group>g47</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024910_HGU133A</assay>
+                            <assay>024908_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024949_HGU133A</assay>
+                            <assay>024951_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024992_HGU133A</assay>
+                            <assay>024990_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g37_g57" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '288 hour'</name>
+                <reference_assay_group>g37</reference_assay_group>
+                <test_assay_group>g57</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024908_HGU133A</assay>
+                            <assay>024911_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024949_HGU133A</assay>
+                            <assay>024952_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024990_HGU133A</assay>
+                            <assay>024994_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g37_g67" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '288 hour'</name>
+                <reference_assay_group>g37</reference_assay_group>
+                <test_assay_group>g67</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024909_HGU133A</assay>
+                            <assay>024908_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024950_HGU133A</assay>
+                            <assay>024949_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024991_HGU133A</assay>
+                            <assay>024990_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g39_g49" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and bone morphogenetic protein 2' vs 'control' in 'chondrocyte' at '384 hour'</name>
+                <reference_assay_group>g39</reference_assay_group>
+                <test_assay_group>g49</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024914_HGU133A</assay>
+                            <assay>024912_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024953_HGU133A</assay>
+                            <assay>024955_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024997_HGU133A</assay>
+                            <assay>024995_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g39_g59" cttv_primary="0">
+                <name>'human transforming growth factor beta 1 and growth differentiation factor 5' vs 'control' in 'chondrocyte' at '384 hour'</name>
+                <reference_assay_group>g39</reference_assay_group>
+                <test_assay_group>g59</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024915_HGU133A</assay>
+                            <assay>024912_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024956_HGU133A</assay>
+                            <assay>024953_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024998_HGU133A</assay>
+                            <assay>024995_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g39_g69" cttv_primary="0">
+                <name>'human transforming growth factor beta 1' vs 'control' in 'chondrocyte' at '384 hour'</name>
+                <reference_assay_group>g39</reference_assay_group>
+                <test_assay_group>g69</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>024912_HGU133A</assay>
+                            <assay>024913_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>024953_HGU133A</assay>
+                            <assay>024954_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>024996_HGU133A</assay>
+                            <assay>024995_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g79_g98" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '3 hour'</name>
+                <reference_assay_group>g79</reference_assay_group>
+                <test_assay_group>g98</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007939_HGU133A</assay>
+                            <assay>007892_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007848_HGU133A</assay>
+                            <assay>007851_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007895_HGU133A</assay>
+                            <assay>007936_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g79_g108" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '3 hour'</name>
+                <reference_assay_group>g79</reference_assay_group>
+                <test_assay_group>g108</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007892_HGU133A</assay>
+                            <assay>007937_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007848_HGU133A</assay>
+                            <assay>007849_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007936_HGU133A</assay>
+                            <assay>007893_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g81_g90" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '6 hour'</name>
+                <reference_assay_group>g81</reference_assay_group>
+                <test_assay_group>g90</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007942_HGU133A</assay>
+                            <assay>007940_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007852_HGU133A</assay>
+                            <assay>007854_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007896_HGU133A</assay>
+                            <assay>007898_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g81_g100" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '6 hour'</name>
+                <reference_assay_group>g81</reference_assay_group>
+                <test_assay_group>g100</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007899_HGU133A</assay>
+                            <assay>007940_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007855_HGU133A</assay>
+                            <assay>007852_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007896_HGU133A</assay>
+                            <assay>007943_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g75_g84" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '12 hour'</name>
+                <reference_assay_group>g75</reference_assay_group>
+                <test_assay_group>g84</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007856_HGU133A</assay>
+                            <assay>007858_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007902_HGU133A</assay>
+                            <assay>007900_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007946_HGU133A</assay>
+                            <assay>007944_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g75_g93" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '12 hour'</name>
+                <reference_assay_group>g75</reference_assay_group>
+                <test_assay_group>g93</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007856_HGU133A</assay>
+                            <assay>007859_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007947_HGU133A</assay>
+                            <assay>007900_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007944_HGU133A</assay>
+                            <assay>007903_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g75_g103" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '12 hour'</name>
+                <reference_assay_group>g75</reference_assay_group>
+                <test_assay_group>g103</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007945_HGU133A</assay>
+                            <assay>007856_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007900_HGU133A</assay>
+                            <assay>007857_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007944_HGU133A</assay>
+                            <assay>007901_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g77_g87" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '24 hour'</name>
+                <reference_assay_group>g77</reference_assay_group>
+                <test_assay_group>g87</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007948_HGU133A</assay>
+                            <assay>007950_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007904_HGU133A</assay>
+                            <assay>007906_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007860_HGU133A</assay>
+                            <assay>007862_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g77_g96" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '24 hour'</name>
+                <reference_assay_group>g77</reference_assay_group>
+                <test_assay_group>g96</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007907_HGU133A</assay>
+                            <assay>007948_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007863_HGU133A</assay>
+                            <assay>007904_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007951_HGU133A</assay>
+                            <assay>007860_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g77_g106" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '24 hour'</name>
+                <reference_assay_group>g77</reference_assay_group>
+                <test_assay_group>g106</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007861_HGU133A</assay>
+                            <assay>007948_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007904_HGU133A</assay>
+                            <assay>007905_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007860_HGU133A</assay>
+                            <assay>007949_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g80_g89" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '48 hour'</name>
+                <reference_assay_group>g80</reference_assay_group>
+                <test_assay_group>g89</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007910_HGU133A</assay>
+                            <assay>007864_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007954_HGU133A</assay>
+                            <assay>007908_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007952_HGU133A</assay>
+                            <assay>007866_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g80_g99" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '48 hour'</name>
+                <reference_assay_group>g80</reference_assay_group>
+                <test_assay_group>g99</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007864_HGU133A</assay>
+                            <assay>007867_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007955_HGU133A</assay>
+                            <assay>007908_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007952_HGU133A</assay>
+                            <assay>007911_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g80_g109" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '48 hour'</name>
+                <reference_assay_group>g80</reference_assay_group>
+                <test_assay_group>g109</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007864_HGU133A</assay>
+                            <assay>007953_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007908_HGU133A</assay>
+                            <assay>007865_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007952_HGU133A</assay>
+                            <assay>007909_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g82_g91" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '72 hour'</name>
+                <reference_assay_group>g82</reference_assay_group>
+                <test_assay_group>g91</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007958_HGU133A</assay>
+                            <assay>007912_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007870_HGU133A</assay>
+                            <assay>007868_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007914_HGU133A</assay>
+                            <assay>007956_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g82_g101" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '72 hour'</name>
+                <reference_assay_group>g82</reference_assay_group>
+                <test_assay_group>g101</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007912_HGU133A</assay>
+                            <assay>007915_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007959_HGU133A</assay>
+                            <assay>007868_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007956_HGU133A</assay>
+                            <assay>007871_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g82_g111" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '72 hour'</name>
+                <reference_assay_group>g82</reference_assay_group>
+                <test_assay_group>g111</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007912_HGU133A</assay>
+                            <assay>007869_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007868_HGU133A</assay>
+                            <assay>007913_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007957_HGU133A</assay>
+                            <assay>007956_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g76_g86" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '192 hour'</name>
+                <reference_assay_group>g76</reference_assay_group>
+                <test_assay_group>g86</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007920_HGU133A</assay>
+                            <assay>007966_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007876_HGU133A</assay>
+                            <assay>007922_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007964_HGU133A</assay>
+                            <assay>007878_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g76_g95" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '192 hour'</name>
+                <reference_assay_group>g76</reference_assay_group>
+                <test_assay_group>g95</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007920_HGU133A</assay>
+                            <assay>007923_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007876_HGU133A</assay>
+                            <assay>007879_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007967_HGU133A</assay>
+                            <assay>007964_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g76_g105" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '192 hour'</name>
+                <reference_assay_group>g76</reference_assay_group>
+                <test_assay_group>g105</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007877_HGU133A</assay>
+                            <assay>007920_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007876_HGU133A</assay>
+                            <assay>007921_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007964_HGU133A</assay>
+                            <assay>007965_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g78_g88" cttv_primary="0">
+                <name>'dexamethasone  and vitamin D3' vs 'control' in 'osteocyte' at '288 hour'</name>
+                <reference_assay_group>g78</reference_assay_group>
+                <test_assay_group>g88</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007880_HGU133A</assay>
+                            <assay>007882_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007968_HGU133A</assay>
+                            <assay>007970_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007924_HGU133A</assay>
+                            <assay>007926_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g78_g97" cttv_primary="0">
+                <name>'dexamethasone and bone morphogenetic protein 2' vs 'control' in 'osteocyte' at '288 hour'</name>
+                <reference_assay_group>g78</reference_assay_group>
+                <test_assay_group>g97</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007927_HGU133A</assay>
+                            <assay>007880_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007968_HGU133A</assay>
+                            <assay>007883_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007924_HGU133A</assay>
+                            <assay>007971_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g78_g107" cttv_primary="0">
+                <name>'dexamethasone' vs 'control' in 'osteocyte' at '288 hour'</name>
+                <reference_assay_group>g78</reference_assay_group>
+                <test_assay_group>g107</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="block">
+                        <batch value="Series1">
+                            <assay>007881_HGU133A</assay>
+                            <assay>007880_HGU133A</assay>
+                        </batch>
+                        <batch value="Series2">
+                            <assay>007968_HGU133A</assay>
+                            <assay>007925_HGU133A</assay>
+                        </batch>
+                        <batch value="Series3">
+                            <assay>007924_HGU133A</assay>
+                            <assay>007969_HGU133A</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>
