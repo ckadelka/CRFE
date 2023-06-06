@@ -1,0 +1,1290 @@
+E-MTAB-6516		ERR2321842	characteristic	age	70 year
+E-MTAB-6516		ERR2321842	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321842	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321842	characteristic	individual	HT98
+E-MTAB-6516		ERR2321842	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321842	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321842	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321842	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321842	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321842	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321843	characteristic	age	70 year
+E-MTAB-6516		ERR2321843	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321843	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321843	characteristic	individual	HT98
+E-MTAB-6516		ERR2321843	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321843	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321843	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321843	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321843	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321843	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321844	characteristic	age	70 year
+E-MTAB-6516		ERR2321844	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321844	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321844	characteristic	individual	HT98
+E-MTAB-6516		ERR2321844	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321844	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321844	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321844	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321844	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321844	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321845	characteristic	age	70 year
+E-MTAB-6516		ERR2321845	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321845	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321845	characteristic	individual	HT98
+E-MTAB-6516		ERR2321845	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321845	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321845	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321845	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321845	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321845	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321846	characteristic	age	70 year
+E-MTAB-6516		ERR2321846	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321846	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321846	characteristic	individual	HT98
+E-MTAB-6516		ERR2321846	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321846	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321846	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321846	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321846	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321846	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321847	characteristic	age	70 year
+E-MTAB-6516		ERR2321847	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321847	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321847	characteristic	individual	HT98
+E-MTAB-6516		ERR2321847	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321847	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321847	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321847	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321847	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321847	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321848	characteristic	age	70 year
+E-MTAB-6516		ERR2321848	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321848	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321848	characteristic	individual	HT98
+E-MTAB-6516		ERR2321848	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321848	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321848	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321848	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321848	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321848	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321849	characteristic	age	70 year
+E-MTAB-6516		ERR2321849	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321849	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321849	characteristic	individual	HT98
+E-MTAB-6516		ERR2321849	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321849	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321849	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321849	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321849	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321849	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321850	characteristic	age	70 year
+E-MTAB-6516		ERR2321850	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321850	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321850	characteristic	individual	HT98
+E-MTAB-6516		ERR2321850	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321850	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321850	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321850	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321850	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321850	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321851	characteristic	age	70 year
+E-MTAB-6516		ERR2321851	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321851	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321851	characteristic	individual	HT98
+E-MTAB-6516		ERR2321851	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321851	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321851	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321851	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321851	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321851	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321852	characteristic	age	70 year
+E-MTAB-6516		ERR2321852	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321852	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321852	characteristic	individual	HT98
+E-MTAB-6516		ERR2321852	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321852	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321852	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321852	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321852	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321852	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321853	characteristic	age	70 year
+E-MTAB-6516		ERR2321853	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321853	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321853	characteristic	individual	HT98
+E-MTAB-6516		ERR2321853	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321853	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321853	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321853	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321853	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321853	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321854	characteristic	age	70 year
+E-MTAB-6516		ERR2321854	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321854	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321854	characteristic	individual	HT98
+E-MTAB-6516		ERR2321854	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321854	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321854	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321854	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321854	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321854	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321855	characteristic	age	70 year
+E-MTAB-6516		ERR2321855	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321855	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321855	characteristic	individual	HT98
+E-MTAB-6516		ERR2321855	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321855	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321855	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321855	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321855	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321855	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321856	characteristic	age	70 year
+E-MTAB-6516		ERR2321856	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321856	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321856	characteristic	individual	HT98
+E-MTAB-6516		ERR2321856	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321856	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321856	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321856	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321856	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321856	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321857	characteristic	age	70 year
+E-MTAB-6516		ERR2321857	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321857	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321857	characteristic	individual	HT98
+E-MTAB-6516		ERR2321857	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321857	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321857	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321857	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321857	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321857	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321858	characteristic	age	70 year
+E-MTAB-6516		ERR2321858	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321858	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321858	characteristic	individual	HT98
+E-MTAB-6516		ERR2321858	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321858	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321858	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321858	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321858	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321858	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321859	characteristic	age	70 year
+E-MTAB-6516		ERR2321859	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321859	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321859	characteristic	individual	HT98
+E-MTAB-6516		ERR2321859	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321859	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321859	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321859	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321859	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321859	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321860	characteristic	age	70 year
+E-MTAB-6516		ERR2321860	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321860	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321860	characteristic	individual	HT98
+E-MTAB-6516		ERR2321860	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321860	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321860	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321860	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321860	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321860	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321861	characteristic	age	70 year
+E-MTAB-6516		ERR2321861	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321861	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321861	characteristic	individual	HT98
+E-MTAB-6516		ERR2321861	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321861	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321861	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321861	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321861	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321861	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321862	characteristic	age	59 year
+E-MTAB-6516		ERR2321862	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321862	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321862	characteristic	individual	HT99
+E-MTAB-6516		ERR2321862	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321862	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321862	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321862	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321862	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321862	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321863	characteristic	age	59 year
+E-MTAB-6516		ERR2321863	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321863	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321863	characteristic	individual	HT99
+E-MTAB-6516		ERR2321863	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321863	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321863	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321863	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321863	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321863	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321864	characteristic	age	59 year
+E-MTAB-6516		ERR2321864	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321864	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321864	characteristic	individual	HT99
+E-MTAB-6516		ERR2321864	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321864	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321864	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321864	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321864	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321864	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321865	characteristic	age	59 year
+E-MTAB-6516		ERR2321865	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321865	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321865	characteristic	individual	HT99
+E-MTAB-6516		ERR2321865	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321865	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321865	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321865	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321865	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321865	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321866	characteristic	age	59 year
+E-MTAB-6516		ERR2321866	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321866	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321866	characteristic	individual	HT99
+E-MTAB-6516		ERR2321866	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321866	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321866	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321866	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321866	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321866	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321867	characteristic	age	59 year
+E-MTAB-6516		ERR2321867	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321867	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321867	characteristic	individual	HT101
+E-MTAB-6516		ERR2321867	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321867	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321867	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321867	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321867	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321867	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321868	characteristic	age	59 year
+E-MTAB-6516		ERR2321868	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321868	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321868	characteristic	individual	HT101
+E-MTAB-6516		ERR2321868	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321868	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321868	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321868	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321868	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321868	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321869	characteristic	age	59 year
+E-MTAB-6516		ERR2321869	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321869	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321869	characteristic	individual	HT101
+E-MTAB-6516		ERR2321869	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321869	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321869	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321869	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321869	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321869	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321870	characteristic	age	59 year
+E-MTAB-6516		ERR2321870	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321870	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321870	characteristic	individual	HT101
+E-MTAB-6516		ERR2321870	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321870	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321870	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321870	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321870	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321870	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321871	characteristic	age	59 year
+E-MTAB-6516		ERR2321871	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321871	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321871	characteristic	individual	HT101
+E-MTAB-6516		ERR2321871	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321871	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321871	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321871	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321871	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321871	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321872	characteristic	age	59 year
+E-MTAB-6516		ERR2321872	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321872	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321872	characteristic	individual	HT101
+E-MTAB-6516		ERR2321872	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321872	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321872	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321872	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321872	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321872	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321873	characteristic	age	59 year
+E-MTAB-6516		ERR2321873	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321873	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321873	characteristic	individual	HT101
+E-MTAB-6516		ERR2321873	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321873	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321873	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321873	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321873	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321873	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321874	characteristic	age	59 year
+E-MTAB-6516		ERR2321874	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321874	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321874	characteristic	individual	HT101
+E-MTAB-6516		ERR2321874	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321874	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321874	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321874	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321874	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321874	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321875	characteristic	age	59 year
+E-MTAB-6516		ERR2321875	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321875	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321875	characteristic	individual	HT101
+E-MTAB-6516		ERR2321875	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321875	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321875	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321875	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321875	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321875	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321876	characteristic	age	59 year
+E-MTAB-6516		ERR2321876	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321876	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321876	characteristic	individual	HT101
+E-MTAB-6516		ERR2321876	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321876	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321876	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321876	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321876	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321876	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321877	characteristic	age	63 year
+E-MTAB-6516		ERR2321877	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321877	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321877	characteristic	individual	HT103
+E-MTAB-6516		ERR2321877	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321877	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321877	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321877	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321877	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321877	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321878	characteristic	age	63 year
+E-MTAB-6516		ERR2321878	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321878	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321878	characteristic	individual	HT103
+E-MTAB-6516		ERR2321878	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321878	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321878	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321878	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321878	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321878	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321879	characteristic	age	63 year
+E-MTAB-6516		ERR2321879	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321879	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321879	characteristic	individual	HT103
+E-MTAB-6516		ERR2321879	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321879	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321879	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321879	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321879	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321879	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321880	characteristic	age	63 year
+E-MTAB-6516		ERR2321880	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321880	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321880	characteristic	individual	HT103
+E-MTAB-6516		ERR2321880	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321880	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321880	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321880	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321880	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321880	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321881	characteristic	age	63 year
+E-MTAB-6516		ERR2321881	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321881	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321881	characteristic	individual	HT103
+E-MTAB-6516		ERR2321881	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321881	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321881	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321881	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321881	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321881	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321882	characteristic	age	63 year
+E-MTAB-6516		ERR2321882	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321882	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321882	characteristic	individual	HT103
+E-MTAB-6516		ERR2321882	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321882	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321882	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321882	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321882	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321882	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321883	characteristic	age	63 year
+E-MTAB-6516		ERR2321883	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321883	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321883	characteristic	individual	HT103
+E-MTAB-6516		ERR2321883	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321883	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321883	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321883	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321883	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321883	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321884	characteristic	age	63 year
+E-MTAB-6516		ERR2321884	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321884	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321884	characteristic	individual	HT103
+E-MTAB-6516		ERR2321884	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321884	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321884	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321884	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321884	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321884	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321885	characteristic	age	63 year
+E-MTAB-6516		ERR2321885	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321885	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321885	characteristic	individual	HT103
+E-MTAB-6516		ERR2321885	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321885	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321885	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321885	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321885	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321885	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321886	characteristic	age	63 year
+E-MTAB-6516		ERR2321886	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321886	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321886	characteristic	individual	HT103
+E-MTAB-6516		ERR2321886	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321886	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321886	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321886	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321886	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321886	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321887	characteristic	age	61 year
+E-MTAB-6516		ERR2321887	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321887	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321887	characteristic	individual	HT102
+E-MTAB-6516		ERR2321887	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321887	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321887	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321887	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321887	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321887	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321888	characteristic	age	61 year
+E-MTAB-6516		ERR2321888	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321888	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321888	characteristic	individual	HT102
+E-MTAB-6516		ERR2321888	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321888	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321888	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321888	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321888	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321888	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321889	characteristic	age	61 year
+E-MTAB-6516		ERR2321889	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321889	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321889	characteristic	individual	HT102
+E-MTAB-6516		ERR2321889	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321889	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321889	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321889	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321889	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321889	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321890	characteristic	age	61 year
+E-MTAB-6516		ERR2321890	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321890	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321890	characteristic	individual	HT102
+E-MTAB-6516		ERR2321890	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321890	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321890	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321890	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321890	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321890	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321891	characteristic	age	61 year
+E-MTAB-6516		ERR2321891	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321891	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321891	characteristic	individual	HT102
+E-MTAB-6516		ERR2321891	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321891	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321891	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321891	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321891	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321891	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321892	characteristic	age	61 year
+E-MTAB-6516		ERR2321892	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321892	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321892	characteristic	individual	HT102
+E-MTAB-6516		ERR2321892	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321892	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321892	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321892	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321892	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321892	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321893	characteristic	age	61 year
+E-MTAB-6516		ERR2321893	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321893	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321893	characteristic	individual	HT102
+E-MTAB-6516		ERR2321893	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321893	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321893	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321893	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321893	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321893	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321894	characteristic	age	61 year
+E-MTAB-6516		ERR2321894	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321894	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321894	characteristic	individual	HT102
+E-MTAB-6516		ERR2321894	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321894	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321894	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321894	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321894	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321894	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321895	characteristic	age	61 year
+E-MTAB-6516		ERR2321895	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321895	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321895	characteristic	individual	HT102
+E-MTAB-6516		ERR2321895	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321895	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321895	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321895	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321895	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321895	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321896	characteristic	age	61 year
+E-MTAB-6516		ERR2321896	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321896	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321896	characteristic	individual	HT102
+E-MTAB-6516		ERR2321896	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321896	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321896	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321896	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321896	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321896	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321897	characteristic	age	51 year
+E-MTAB-6516		ERR2321897	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321897	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321897	characteristic	individual	HT104
+E-MTAB-6516		ERR2321897	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321897	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321897	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321897	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321897	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321897	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321898	characteristic	age	51 year
+E-MTAB-6516		ERR2321898	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321898	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321898	characteristic	individual	HT104
+E-MTAB-6516		ERR2321898	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321898	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321898	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321898	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321898	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321898	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321899	characteristic	age	51 year
+E-MTAB-6516		ERR2321899	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321899	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321899	characteristic	individual	HT104
+E-MTAB-6516		ERR2321899	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321899	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321899	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321899	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321899	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321899	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321900	characteristic	age	51 year
+E-MTAB-6516		ERR2321900	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321900	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321900	characteristic	individual	HT104
+E-MTAB-6516		ERR2321900	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321900	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321900	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321900	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321900	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321900	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321901	characteristic	age	51 year
+E-MTAB-6516		ERR2321901	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321901	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321901	characteristic	individual	HT104
+E-MTAB-6516		ERR2321901	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321901	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321901	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321901	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321901	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321901	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321902	characteristic	age	51 year
+E-MTAB-6516		ERR2321902	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321902	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321902	characteristic	individual	HT104
+E-MTAB-6516		ERR2321902	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321902	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321902	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321902	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321902	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321902	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321903	characteristic	age	51 year
+E-MTAB-6516		ERR2321903	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321903	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321903	characteristic	individual	HT104
+E-MTAB-6516		ERR2321903	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321903	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321903	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321903	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321903	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321903	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321904	characteristic	age	51 year
+E-MTAB-6516		ERR2321904	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321904	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321904	characteristic	individual	HT104
+E-MTAB-6516		ERR2321904	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321904	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321904	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321904	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321904	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321904	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321905	characteristic	age	51 year
+E-MTAB-6516		ERR2321905	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321905	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321905	characteristic	individual	HT104
+E-MTAB-6516		ERR2321905	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321905	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321905	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321905	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321905	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321905	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321906	characteristic	age	51 year
+E-MTAB-6516		ERR2321906	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321906	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321906	characteristic	individual	HT104
+E-MTAB-6516		ERR2321906	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321906	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321906	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321906	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321906	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321906	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321907	characteristic	age	19 year
+E-MTAB-6516		ERR2321907	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321907	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321907	characteristic	individual	HT105
+E-MTAB-6516		ERR2321907	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321907	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321907	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321907	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321907	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321907	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321908	characteristic	age	19 year
+E-MTAB-6516		ERR2321908	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321908	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321908	characteristic	individual	HT105
+E-MTAB-6516		ERR2321908	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321908	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321908	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321908	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321908	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321908	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321909	characteristic	age	19 year
+E-MTAB-6516		ERR2321909	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321909	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321909	characteristic	individual	HT105
+E-MTAB-6516		ERR2321909	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321909	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321909	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321909	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321909	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321909	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321910	characteristic	age	19 year
+E-MTAB-6516		ERR2321910	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321910	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321910	characteristic	individual	HT105
+E-MTAB-6516		ERR2321910	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321910	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321910	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321910	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321910	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321910	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321911	characteristic	age	19 year
+E-MTAB-6516		ERR2321911	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321911	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321911	characteristic	individual	HT105
+E-MTAB-6516		ERR2321911	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321911	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321911	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321911	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321911	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321911	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321912	characteristic	age	19 year
+E-MTAB-6516		ERR2321912	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321912	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321912	characteristic	individual	HT105
+E-MTAB-6516		ERR2321912	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321912	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321912	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321912	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321912	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321912	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321913	characteristic	age	19 year
+E-MTAB-6516		ERR2321913	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321913	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321913	characteristic	individual	HT105
+E-MTAB-6516		ERR2321913	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321913	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321913	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321913	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321913	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321913	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321914	characteristic	age	19 year
+E-MTAB-6516		ERR2321914	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321914	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321914	characteristic	individual	HT105
+E-MTAB-6516		ERR2321914	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321914	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321914	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321914	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321914	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321914	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321915	characteristic	age	19 year
+E-MTAB-6516		ERR2321915	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321915	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321915	characteristic	individual	HT105
+E-MTAB-6516		ERR2321915	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321915	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321915	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321915	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321915	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321915	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321916	characteristic	age	19 year
+E-MTAB-6516		ERR2321916	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321916	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321916	characteristic	individual	HT105
+E-MTAB-6516		ERR2321916	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321916	characteristic	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321916	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321916	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321916	factor	organism part	colon	http://purl.obolibrary.org/obo/UBERON_0001155
+E-MTAB-6516		ERR2321916	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321917	characteristic	age	51 year
+E-MTAB-6516		ERR2321917	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321917	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321917	characteristic	individual	HT104
+E-MTAB-6516		ERR2321917	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321917	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321917	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321917	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321917	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321917	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321918	characteristic	age	51 year
+E-MTAB-6516		ERR2321918	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321918	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321918	characteristic	individual	HT104
+E-MTAB-6516		ERR2321918	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321918	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321918	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321918	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321918	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321918	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321919	characteristic	age	51 year
+E-MTAB-6516		ERR2321919	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321919	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321919	characteristic	individual	HT104
+E-MTAB-6516		ERR2321919	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321919	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321919	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321919	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321919	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321919	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321920	characteristic	age	51 year
+E-MTAB-6516		ERR2321920	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321920	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321920	characteristic	individual	HT104
+E-MTAB-6516		ERR2321920	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321920	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321920	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321920	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321920	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321920	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321921	characteristic	age	51 year
+E-MTAB-6516		ERR2321921	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321921	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321921	characteristic	individual	HT104
+E-MTAB-6516		ERR2321921	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321921	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321921	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321921	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321921	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321921	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321922	characteristic	age	51 year
+E-MTAB-6516		ERR2321922	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321922	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321922	characteristic	individual	HT104
+E-MTAB-6516		ERR2321922	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321922	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321922	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321922	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321922	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321922	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321923	characteristic	age	51 year
+E-MTAB-6516		ERR2321923	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321923	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321923	characteristic	individual	HT104
+E-MTAB-6516		ERR2321923	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321923	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321923	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321923	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321923	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321923	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321924	characteristic	age	51 year
+E-MTAB-6516		ERR2321924	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321924	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321924	characteristic	individual	HT104
+E-MTAB-6516		ERR2321924	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321924	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321924	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321924	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321924	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321924	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321925	characteristic	age	51 year
+E-MTAB-6516		ERR2321925	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321925	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321925	characteristic	individual	HT104
+E-MTAB-6516		ERR2321925	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321925	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321925	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321925	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321925	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321925	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321926	characteristic	age	19 year
+E-MTAB-6516		ERR2321926	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321926	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321926	characteristic	individual	HT105
+E-MTAB-6516		ERR2321926	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321926	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321926	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321926	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321926	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321926	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321927	characteristic	age	19 year
+E-MTAB-6516		ERR2321927	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321927	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321927	characteristic	individual	HT105
+E-MTAB-6516		ERR2321927	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321927	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321927	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321927	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321927	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321927	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321928	characteristic	age	19 year
+E-MTAB-6516		ERR2321928	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321928	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321928	characteristic	individual	HT105
+E-MTAB-6516		ERR2321928	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321928	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321928	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321928	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321928	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321928	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321929	characteristic	age	19 year
+E-MTAB-6516		ERR2321929	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321929	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321929	characteristic	individual	HT105
+E-MTAB-6516		ERR2321929	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321929	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321929	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321929	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321929	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321929	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321930	characteristic	age	19 year
+E-MTAB-6516		ERR2321930	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321930	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321930	characteristic	individual	HT105
+E-MTAB-6516		ERR2321930	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321930	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321930	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321930	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321930	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321930	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321931	characteristic	age	19 year
+E-MTAB-6516		ERR2321931	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321931	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321931	characteristic	individual	HT105
+E-MTAB-6516		ERR2321931	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321931	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321931	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321931	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321931	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321931	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321932	characteristic	age	19 year
+E-MTAB-6516		ERR2321932	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321932	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321932	characteristic	individual	HT105
+E-MTAB-6516		ERR2321932	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321932	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321932	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321932	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321932	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321932	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321933	characteristic	age	19 year
+E-MTAB-6516		ERR2321933	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321933	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321933	characteristic	individual	HT105
+E-MTAB-6516		ERR2321933	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321933	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321933	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321933	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321933	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321933	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321934	characteristic	age	19 year
+E-MTAB-6516		ERR2321934	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321934	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321934	characteristic	individual	HT105
+E-MTAB-6516		ERR2321934	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321934	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321934	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321934	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321934	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321934	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321935	characteristic	age	19 year
+E-MTAB-6516		ERR2321935	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321935	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321935	characteristic	individual	HT105
+E-MTAB-6516		ERR2321935	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321935	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321935	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-MTAB-6516		ERR2321935	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321935	factor	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-MTAB-6516		ERR2321935	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321936	characteristic	age	67 year
+E-MTAB-6516		ERR2321936	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321936	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321936	characteristic	individual	HT117
+E-MTAB-6516		ERR2321936	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321936	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321936	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321936	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321936	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321936	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321937	characteristic	age	67 year
+E-MTAB-6516		ERR2321937	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321937	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321937	characteristic	individual	HT117
+E-MTAB-6516		ERR2321937	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321937	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321937	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321937	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321937	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321937	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321938	characteristic	age	67 year
+E-MTAB-6516		ERR2321938	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321938	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321938	characteristic	individual	HT117
+E-MTAB-6516		ERR2321938	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321938	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321938	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321938	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321938	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321938	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321939	characteristic	age	67 year
+E-MTAB-6516		ERR2321939	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321939	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321939	characteristic	individual	HT117
+E-MTAB-6516		ERR2321939	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321939	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321939	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321939	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321939	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321939	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321940	characteristic	age	67 year
+E-MTAB-6516		ERR2321940	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321940	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321940	characteristic	individual	HT117
+E-MTAB-6516		ERR2321940	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321940	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321940	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321940	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321940	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321940	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321941	characteristic	age	67 year
+E-MTAB-6516		ERR2321941	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321941	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321941	characteristic	individual	HT117
+E-MTAB-6516		ERR2321941	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321941	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321941	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321941	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321941	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321941	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321942	characteristic	age	67 year
+E-MTAB-6516		ERR2321942	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321942	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321942	characteristic	individual	HT117
+E-MTAB-6516		ERR2321942	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321942	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321942	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321942	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321942	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321942	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321943	characteristic	age	67 year
+E-MTAB-6516		ERR2321943	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321943	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321943	characteristic	individual	HT117
+E-MTAB-6516		ERR2321943	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321943	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321943	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321943	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321943	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321943	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321944	characteristic	age	67 year
+E-MTAB-6516		ERR2321944	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321944	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321944	characteristic	individual	HT117
+E-MTAB-6516		ERR2321944	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321944	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321944	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321944	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321944	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321944	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321945	characteristic	age	67 year
+E-MTAB-6516		ERR2321945	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321945	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321945	characteristic	individual	HT117
+E-MTAB-6516		ERR2321945	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321945	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321945	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321945	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321945	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321945	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321946	characteristic	age	67 year
+E-MTAB-6516		ERR2321946	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321946	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321946	characteristic	individual	HT117
+E-MTAB-6516		ERR2321946	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321946	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321946	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321946	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321946	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321946	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321947	characteristic	age	67 year
+E-MTAB-6516		ERR2321947	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321947	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321947	characteristic	individual	HT117
+E-MTAB-6516		ERR2321947	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321947	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321947	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321947	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321947	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321947	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321948	characteristic	age	67 year
+E-MTAB-6516		ERR2321948	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321948	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321948	characteristic	individual	HT117
+E-MTAB-6516		ERR2321948	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321948	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321948	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321948	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321948	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321948	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321949	characteristic	age	67 year
+E-MTAB-6516		ERR2321949	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321949	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321949	characteristic	individual	HT117
+E-MTAB-6516		ERR2321949	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321949	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321949	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321949	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321949	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321949	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321950	characteristic	age	67 year
+E-MTAB-6516		ERR2321950	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321950	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321950	characteristic	individual	HT117
+E-MTAB-6516		ERR2321950	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321950	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321950	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321950	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321950	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321950	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321951	characteristic	age	67 year
+E-MTAB-6516		ERR2321951	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321951	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321951	characteristic	individual	HT117
+E-MTAB-6516		ERR2321951	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321951	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321951	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321951	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321951	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321951	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321952	characteristic	age	67 year
+E-MTAB-6516		ERR2321952	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321952	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321952	characteristic	individual	HT117
+E-MTAB-6516		ERR2321952	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321952	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321952	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321952	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321952	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321952	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321953	characteristic	age	67 year
+E-MTAB-6516		ERR2321953	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321953	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321953	characteristic	individual	HT117
+E-MTAB-6516		ERR2321953	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321953	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321953	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321953	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321953	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321953	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321954	characteristic	age	67 year
+E-MTAB-6516		ERR2321954	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321954	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321954	characteristic	individual	HT117
+E-MTAB-6516		ERR2321954	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321954	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321954	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321954	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321954	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321954	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321955	characteristic	age	67 year
+E-MTAB-6516		ERR2321955	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321955	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321955	characteristic	individual	HT117
+E-MTAB-6516		ERR2321955	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321955	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321955	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321955	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321955	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321955	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321956	characteristic	age	46 year
+E-MTAB-6516		ERR2321956	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321956	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321956	characteristic	individual	HT115
+E-MTAB-6516		ERR2321956	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321956	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321956	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321956	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321956	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321956	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321957	characteristic	age	46 year
+E-MTAB-6516		ERR2321957	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321957	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321957	characteristic	individual	HT115
+E-MTAB-6516		ERR2321957	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321957	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321957	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321957	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321957	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321957	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321958	characteristic	age	46 year
+E-MTAB-6516		ERR2321958	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321958	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321958	characteristic	individual	HT115
+E-MTAB-6516		ERR2321958	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321958	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321958	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321958	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321958	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321958	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321959	characteristic	age	46 year
+E-MTAB-6516		ERR2321959	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321959	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321959	characteristic	individual	HT115
+E-MTAB-6516		ERR2321959	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321959	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321959	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321959	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321959	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321959	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321960	characteristic	age	46 year
+E-MTAB-6516		ERR2321960	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321960	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321960	characteristic	individual	HT115
+E-MTAB-6516		ERR2321960	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321960	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321960	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321960	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321960	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321960	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321961	characteristic	age	46 year
+E-MTAB-6516		ERR2321961	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321961	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321961	characteristic	individual	HT115
+E-MTAB-6516		ERR2321961	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321961	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321961	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321961	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321961	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321961	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321962	characteristic	age	46 year
+E-MTAB-6516		ERR2321962	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321962	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321962	characteristic	individual	HT115
+E-MTAB-6516		ERR2321962	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321962	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321962	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321962	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321962	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321962	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321963	characteristic	age	46 year
+E-MTAB-6516		ERR2321963	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321963	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321963	characteristic	individual	HT115
+E-MTAB-6516		ERR2321963	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321963	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321963	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321963	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321963	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321963	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321964	characteristic	age	46 year
+E-MTAB-6516		ERR2321964	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321964	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321964	characteristic	individual	HT115
+E-MTAB-6516		ERR2321964	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321964	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321964	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321964	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321964	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321964	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321965	characteristic	age	46 year
+E-MTAB-6516		ERR2321965	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321965	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321965	characteristic	individual	HT115
+E-MTAB-6516		ERR2321965	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321965	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321965	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321965	characteristic	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321965	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321965	factor	specimen with known storage state	fresh specimen	http://purl.obolibrary.org/obo/OBI_0000971
+E-MTAB-6516		ERR2321966	characteristic	age	46 year
+E-MTAB-6516		ERR2321966	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321966	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321966	characteristic	individual	HT115
+E-MTAB-6516		ERR2321966	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321966	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321966	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321966	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321966	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321966	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321967	characteristic	age	46 year
+E-MTAB-6516		ERR2321967	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321967	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321967	characteristic	individual	HT115
+E-MTAB-6516		ERR2321967	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321967	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321967	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321967	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321967	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321967	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321968	characteristic	age	46 year
+E-MTAB-6516		ERR2321968	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321968	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321968	characteristic	individual	HT115
+E-MTAB-6516		ERR2321968	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321968	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321968	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321968	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321968	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321968	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321969	characteristic	age	46 year
+E-MTAB-6516		ERR2321969	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321969	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321969	characteristic	individual	HT115
+E-MTAB-6516		ERR2321969	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321969	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321969	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321969	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321969	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321969	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321970	characteristic	age	46 year
+E-MTAB-6516		ERR2321970	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-MTAB-6516		ERR2321970	characteristic	growth condition	organoid culture
+E-MTAB-6516		ERR2321970	characteristic	individual	HT115
+E-MTAB-6516		ERR2321970	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6516		ERR2321970	characteristic	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321970	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-MTAB-6516		ERR2321970	characteristic	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922
+E-MTAB-6516		ERR2321970	factor	organism part	duodenum	http://purl.obolibrary.org/obo/UBERON_0002114
+E-MTAB-6516		ERR2321970	factor	specimen with known storage state	frozen specimen	http://purl.obolibrary.org/obo/OBI_0000922

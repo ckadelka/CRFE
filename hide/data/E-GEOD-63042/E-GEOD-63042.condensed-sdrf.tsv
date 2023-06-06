@@ -1,0 +1,774 @@
+E-GEOD-63042		SRR1656462	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656462	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656462	characteristic	individual	001-0061
+E-GEOD-63042		SRR1656462	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656462	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656462	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656463	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656463	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656463	characteristic	individual	001-0091
+E-GEOD-63042		SRR1656463	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656463	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656463	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656464	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656464	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656464	characteristic	individual	001-0121
+E-GEOD-63042		SRR1656464	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656464	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656464	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656465	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656465	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656465	characteristic	individual	001-0161
+E-GEOD-63042		SRR1656465	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656465	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656465	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656466	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656466	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656466	characteristic	individual	001-0187
+E-GEOD-63042		SRR1656466	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656466	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656466	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656467	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656467	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656467	characteristic	individual	002-0018
+E-GEOD-63042		SRR1656467	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656467	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656467	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656468	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656468	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656468	characteristic	individual	002-0100
+E-GEOD-63042		SRR1656468	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656468	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656468	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656469	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656469	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656469	characteristic	individual	002-0101
+E-GEOD-63042		SRR1656469	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656469	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656469	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656470	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656470	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656470	characteristic	individual	002-0103
+E-GEOD-63042		SRR1656470	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656470	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656470	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656471	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656471	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656471	characteristic	individual	002-0136
+E-GEOD-63042		SRR1656471	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656471	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656471	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656472	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656472	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656472	characteristic	individual	002-0155
+E-GEOD-63042		SRR1656472	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656472	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656472	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656473	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656473	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656473	characteristic	individual	002-0162
+E-GEOD-63042		SRR1656473	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656473	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656473	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656474	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656474	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656474	characteristic	individual	002-0174
+E-GEOD-63042		SRR1656474	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656474	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656474	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656475	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656475	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656475	characteristic	individual	002-0179
+E-GEOD-63042		SRR1656475	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656475	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656475	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656476	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656476	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656476	characteristic	individual	002-0192
+E-GEOD-63042		SRR1656476	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656476	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656476	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656477	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656477	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656477	characteristic	individual	002-0197
+E-GEOD-63042		SRR1656477	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656477	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656477	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656478	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656478	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656478	characteristic	individual	002-0205
+E-GEOD-63042		SRR1656478	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656478	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656478	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656479	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656479	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656479	characteristic	individual	002-0206
+E-GEOD-63042		SRR1656479	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656479	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656479	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656480	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656480	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656480	characteristic	individual	002-0246
+E-GEOD-63042		SRR1656480	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656480	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656480	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656481	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656481	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656481	characteristic	individual	002-0265
+E-GEOD-63042		SRR1656481	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656481	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656481	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656482	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656482	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656482	characteristic	individual	002-0292
+E-GEOD-63042		SRR1656482	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656482	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656482	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656483	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656483	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656483	characteristic	individual	002-0317
+E-GEOD-63042		SRR1656483	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656483	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656483	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656484	characteristic	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656484	characteristic	disease	systemic inflammatory response syndrome	http://www.ebi.ac.uk/efo/EFO_1001478
+E-GEOD-63042		SRR1656484	characteristic	individual	002-0327
+E-GEOD-63042		SRR1656484	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656484	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656484	factor	clinical information	systemic inflammatory response syndrome
+E-GEOD-63042		SRR1656485	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656485	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656485	characteristic	individual	001-0025
+E-GEOD-63042		SRR1656485	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656485	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656485	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656486	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656486	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656486	characteristic	individual	001-0029
+E-GEOD-63042		SRR1656486	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656486	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656486	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656487	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656487	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656487	characteristic	individual	001-0037
+E-GEOD-63042		SRR1656487	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656487	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656487	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656488	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656488	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656488	characteristic	individual	001-0205
+E-GEOD-63042		SRR1656488	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656488	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656488	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656489	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656489	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656489	characteristic	individual	001-0284
+E-GEOD-63042		SRR1656489	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656489	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656489	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656490	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656490	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656490	characteristic	individual	001-0347
+E-GEOD-63042		SRR1656490	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656490	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656490	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656491	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656491	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656491	characteristic	individual	001-0360
+E-GEOD-63042		SRR1656491	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656491	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656491	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656492	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656492	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656492	characteristic	individual	001-0366
+E-GEOD-63042		SRR1656492	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656492	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656492	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656493	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656493	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656493	characteristic	individual	001-0387
+E-GEOD-63042		SRR1656493	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656493	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656493	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656494	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656494	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656494	characteristic	individual	002-0013
+E-GEOD-63042		SRR1656494	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656494	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656494	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656495	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656495	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656495	characteristic	individual	002-0022
+E-GEOD-63042		SRR1656495	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656495	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656495	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656496	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656496	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656496	characteristic	individual	002-0025
+E-GEOD-63042		SRR1656496	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656496	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656496	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656497	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656497	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656497	characteristic	individual	002-0059
+E-GEOD-63042		SRR1656497	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656497	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656497	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656498	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656498	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656498	characteristic	individual	002-0079
+E-GEOD-63042		SRR1656498	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656498	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656498	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656499	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656499	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656499	characteristic	individual	002-0082
+E-GEOD-63042		SRR1656499	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656499	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656499	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656500	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656500	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656500	characteristic	individual	002-0106
+E-GEOD-63042		SRR1656500	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656500	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656500	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656501	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656501	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656501	characteristic	individual	002-0111
+E-GEOD-63042		SRR1656501	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656501	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656501	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656502	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656502	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656502	characteristic	individual	002-0138
+E-GEOD-63042		SRR1656502	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656502	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656502	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656503	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656503	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656503	characteristic	individual	002-0161
+E-GEOD-63042		SRR1656503	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656503	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656503	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656504	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656504	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656504	characteristic	individual	002-0189
+E-GEOD-63042		SRR1656504	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656504	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656504	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656505	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656505	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656505	characteristic	individual	002-0196
+E-GEOD-63042		SRR1656505	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656505	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656505	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656506	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656506	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656506	characteristic	individual	002-0201
+E-GEOD-63042		SRR1656506	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656506	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656506	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656507	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656507	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656507	characteristic	individual	002-0207
+E-GEOD-63042		SRR1656507	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656507	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656507	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656508	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656508	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656508	characteristic	individual	002-0230
+E-GEOD-63042		SRR1656508	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656508	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656508	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656509	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656509	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656509	characteristic	individual	002-0240
+E-GEOD-63042		SRR1656509	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656509	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656509	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656510	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656510	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656510	characteristic	individual	002-0241
+E-GEOD-63042		SRR1656510	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656510	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656510	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656511	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656511	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656511	characteristic	individual	002-0244
+E-GEOD-63042		SRR1656511	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656511	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656511	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656512	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656512	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656512	characteristic	individual	002-0258
+E-GEOD-63042		SRR1656512	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656512	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656512	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656513	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656513	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656513	characteristic	individual	002-0311
+E-GEOD-63042		SRR1656513	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656513	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656513	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656514	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656514	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656514	characteristic	individual	002-0319
+E-GEOD-63042		SRR1656514	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656514	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656514	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656515	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656515	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656515	characteristic	individual	002-0325
+E-GEOD-63042		SRR1656515	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656515	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656515	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656516	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656516	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656516	characteristic	individual	002-0330
+E-GEOD-63042		SRR1656516	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656516	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656516	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656517	characteristic	clinical information	septic shock
+E-GEOD-63042		SRR1656517	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656517	characteristic	individual	002-0346
+E-GEOD-63042		SRR1656517	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656517	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656517	factor	clinical information	septic shock
+E-GEOD-63042		SRR1656518	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656518	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656518	characteristic	individual	001-0038
+E-GEOD-63042		SRR1656518	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656518	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656518	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656519	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656519	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656519	characteristic	individual	001-0039
+E-GEOD-63042		SRR1656519	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656519	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656519	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656520	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656520	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656520	characteristic	individual	001-0249
+E-GEOD-63042		SRR1656520	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656520	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656520	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656521	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656521	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656521	characteristic	individual	001-0303
+E-GEOD-63042		SRR1656521	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656521	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656521	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656522	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656522	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656522	characteristic	individual	001-0307
+E-GEOD-63042		SRR1656522	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656522	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656522	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656523	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656523	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656523	characteristic	individual	002-0010
+E-GEOD-63042		SRR1656523	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656523	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656523	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656524	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656524	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656524	characteristic	individual	002-0011
+E-GEOD-63042		SRR1656524	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656524	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656524	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656525	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656525	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656525	characteristic	individual	002-0033
+E-GEOD-63042		SRR1656525	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656525	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656525	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656526	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656526	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656526	characteristic	individual	002-0057
+E-GEOD-63042		SRR1656526	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656526	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656526	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656527	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656527	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656527	characteristic	individual	002-0086
+E-GEOD-63042		SRR1656527	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656527	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656527	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656528	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656528	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656528	characteristic	individual	002-0098
+E-GEOD-63042		SRR1656528	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656528	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656528	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656529	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656529	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656529	characteristic	individual	002-0099
+E-GEOD-63042		SRR1656529	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656529	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656529	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656530	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656530	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656530	characteristic	individual	002-0124
+E-GEOD-63042		SRR1656530	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656530	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656530	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656531	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656531	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656531	characteristic	individual	002-0158
+E-GEOD-63042		SRR1656531	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656531	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656531	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656532	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656532	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656532	characteristic	individual	002-0159
+E-GEOD-63042		SRR1656532	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656532	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656532	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656533	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656533	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656533	characteristic	individual	002-0194
+E-GEOD-63042		SRR1656533	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656533	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656533	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656534	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656534	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656534	characteristic	individual	002-0213
+E-GEOD-63042		SRR1656534	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656534	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656534	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656535	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656535	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656535	characteristic	individual	002-0217
+E-GEOD-63042		SRR1656535	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656535	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656535	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656536	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656536	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656536	characteristic	individual	002-0236
+E-GEOD-63042		SRR1656536	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656536	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656536	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656537	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656537	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656537	characteristic	individual	002-0296
+E-GEOD-63042		SRR1656537	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656537	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656537	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656538	characteristic	clinical information	severe sepsis
+E-GEOD-63042		SRR1656538	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656538	characteristic	individual	002-0304
+E-GEOD-63042		SRR1656538	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656538	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656538	factor	clinical information	severe sepsis
+E-GEOD-63042		SRR1656539	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656539	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656539	characteristic	individual	001-0068
+E-GEOD-63042		SRR1656539	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656539	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656539	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656540	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656540	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656540	characteristic	individual	001-0188
+E-GEOD-63042		SRR1656540	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656540	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656540	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656541	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656541	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656541	characteristic	individual	001-0246
+E-GEOD-63042		SRR1656541	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656541	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656541	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656542	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656542	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656542	characteristic	individual	001-0253
+E-GEOD-63042		SRR1656542	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656542	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656542	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656543	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656543	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656543	characteristic	individual	001-0283
+E-GEOD-63042		SRR1656543	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656543	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656543	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656544	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656544	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656544	characteristic	individual	001-0299
+E-GEOD-63042		SRR1656544	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656544	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656544	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656545	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656545	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656545	characteristic	individual	001-0309
+E-GEOD-63042		SRR1656545	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656545	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656545	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656546	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656546	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656546	characteristic	individual	001-0315
+E-GEOD-63042		SRR1656546	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656546	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656546	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656547	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656547	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656547	characteristic	individual	001-0364
+E-GEOD-63042		SRR1656547	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656547	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656547	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656548	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656548	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656548	characteristic	individual	002-0002
+E-GEOD-63042		SRR1656548	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656548	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656548	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656549	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656549	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656549	characteristic	individual	002-0020
+E-GEOD-63042		SRR1656549	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656549	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656549	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656550	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656550	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656550	characteristic	individual	002-0037
+E-GEOD-63042		SRR1656550	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656550	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656550	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656551	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656551	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656551	characteristic	individual	002-0068
+E-GEOD-63042		SRR1656551	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656551	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656551	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656552	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656552	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656552	characteristic	individual	002-0076
+E-GEOD-63042		SRR1656552	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656552	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656552	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656553	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656553	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656553	characteristic	individual	002-0083
+E-GEOD-63042		SRR1656553	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656553	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656553	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656554	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656554	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656554	characteristic	individual	002-0097
+E-GEOD-63042		SRR1656554	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656554	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656554	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656555	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656555	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656555	characteristic	individual	002-0104
+E-GEOD-63042		SRR1656555	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656555	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656555	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656556	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656556	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656556	characteristic	individual	002-0107
+E-GEOD-63042		SRR1656556	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656556	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656556	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656557	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656557	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656557	characteristic	individual	002-0126
+E-GEOD-63042		SRR1656557	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656557	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656557	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656558	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656558	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656558	characteristic	individual	002-0128
+E-GEOD-63042		SRR1656558	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656558	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656558	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656559	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656559	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656559	characteristic	individual	002-0210
+E-GEOD-63042		SRR1656559	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656559	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656559	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656560	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656560	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656560	characteristic	individual	002-0216
+E-GEOD-63042		SRR1656560	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656560	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656560	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656561	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656561	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656561	characteristic	individual	002-0225
+E-GEOD-63042		SRR1656561	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656561	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656561	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656562	characteristic	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656562	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656562	characteristic	individual	002-0348
+E-GEOD-63042		SRR1656562	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656562	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656562	factor	clinical information	uncomplicated sepsis
+E-GEOD-63042		SRR1656563	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656563	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656563	characteristic	individual	002-0184
+E-GEOD-63042		SRR1656563	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656563	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656563	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656564	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656564	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656564	characteristic	individual	002-0202
+E-GEOD-63042		SRR1656564	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656564	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656564	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656565	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656565	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656565	characteristic	individual	002-0286
+E-GEOD-63042		SRR1656565	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656565	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656565	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656566	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656566	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656566	characteristic	individual	002-0314
+E-GEOD-63042		SRR1656566	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656566	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656566	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656567	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656567	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656567	characteristic	individual	002-0188
+E-GEOD-63042		SRR1656567	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656567	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656567	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656568	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656568	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656568	characteristic	individual	002-0193
+E-GEOD-63042		SRR1656568	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656568	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656568	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656569	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656569	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656569	characteristic	individual	002-0190
+E-GEOD-63042		SRR1656569	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656569	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656569	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656570	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656570	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656570	characteristic	individual	002-0275
+E-GEOD-63042		SRR1656570	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656570	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656570	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656571	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656571	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656571	characteristic	individual	002-0310
+E-GEOD-63042		SRR1656571	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656571	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656571	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656572	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656572	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656572	characteristic	individual	001-0326
+E-GEOD-63042		SRR1656572	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656572	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656572	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656573	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656573	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656573	characteristic	individual	002-0102
+E-GEOD-63042		SRR1656573	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656573	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656573	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656574	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656574	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656574	characteristic	individual	002-0295
+E-GEOD-63042		SRR1656574	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656574	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656574	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656575	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656575	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656575	characteristic	individual	001-0155
+E-GEOD-63042		SRR1656575	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656575	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656575	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656576	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656576	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656576	characteristic	individual	002-0231
+E-GEOD-63042		SRR1656576	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656576	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656576	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656577	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656577	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656577	characteristic	individual	002-0045
+E-GEOD-63042		SRR1656577	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656577	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656577	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656578	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656578	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656578	characteristic	individual	002-0274
+E-GEOD-63042		SRR1656578	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656578	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656578	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656579	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656579	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656579	characteristic	individual	001-0084
+E-GEOD-63042		SRR1656579	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656579	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656579	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656580	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656580	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656580	characteristic	individual	002-0203
+E-GEOD-63042		SRR1656580	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656580	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656580	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656581	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656581	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656581	characteristic	individual	002-0301
+E-GEOD-63042		SRR1656581	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656581	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656581	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656582	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656582	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656582	characteristic	individual	002-0027
+E-GEOD-63042		SRR1656582	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656582	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656582	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656583	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656583	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656583	characteristic	individual	001-0194
+E-GEOD-63042		SRR1656583	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656583	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656583	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656584	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656584	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656584	characteristic	individual	002-0287
+E-GEOD-63042		SRR1656584	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656584	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656584	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656585	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656585	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656585	characteristic	individual	002-0040
+E-GEOD-63042		SRR1656585	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656585	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656585	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656586	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656586	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656586	characteristic	individual	002-0006
+E-GEOD-63042		SRR1656586	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656586	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656586	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656587	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656587	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656587	characteristic	individual	002-0270
+E-GEOD-63042		SRR1656587	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656587	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656587	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656588	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656588	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656588	characteristic	individual	002-0120
+E-GEOD-63042		SRR1656588	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656588	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656588	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656589	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656589	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656589	characteristic	individual	002-0195
+E-GEOD-63042		SRR1656589	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656589	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656589	factor	clinical information	sepsis death
+E-GEOD-63042		SRR1656590	characteristic	clinical information	sepsis death
+E-GEOD-63042		SRR1656590	characteristic	disease	sepsis	http://purl.obolibrary.org/obo/HP_0100806
+E-GEOD-63042		SRR1656590	characteristic	individual	002-0081
+E-GEOD-63042		SRR1656590	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63042		SRR1656590	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63042		SRR1656590	factor	clinical information	sepsis death

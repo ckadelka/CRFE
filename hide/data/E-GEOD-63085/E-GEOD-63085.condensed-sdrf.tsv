@@ -1,0 +1,679 @@
+E-GEOD-63085		SRR1644070	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644070	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644070	characteristic	individual	patient 01-20
+E-GEOD-63085		SRR1644070	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644070	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644070	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644070	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644071	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644071	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644071	characteristic	individual	patient 01-23
+E-GEOD-63085		SRR1644071	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644071	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644071	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644071	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644072	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644072	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644072	characteristic	individual	patient 01-24
+E-GEOD-63085		SRR1644072	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644072	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644072	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644072	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644073	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644073	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644073	characteristic	individual	patient 01-25
+E-GEOD-63085		SRR1644073	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644073	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644073	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644073	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644074	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644074	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644074	characteristic	individual	patient 01-26
+E-GEOD-63085		SRR1644074	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644074	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644074	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644074	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644075	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644075	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644075	characteristic	individual	patient 01-27
+E-GEOD-63085		SRR1644075	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644075	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644075	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644075	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644076	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644076	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644076	characteristic	individual	patient 01-28
+E-GEOD-63085		SRR1644076	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644076	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644076	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644076	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644077	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644077	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644077	characteristic	individual	patient 01-29
+E-GEOD-63085		SRR1644077	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644077	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644077	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644077	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644078	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644078	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644078	characteristic	individual	patient 01-30
+E-GEOD-63085		SRR1644078	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644078	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644078	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644078	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644079	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644079	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644079	characteristic	individual	patient 01-31
+E-GEOD-63085		SRR1644079	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644079	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644079	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644079	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644080	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644080	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644080	characteristic	individual	patient 01-32
+E-GEOD-63085		SRR1644080	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644080	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644080	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644080	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644081	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644081	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644081	characteristic	individual	patient 01-33
+E-GEOD-63085		SRR1644081	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644081	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644081	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644081	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644082	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644082	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644082	characteristic	individual	patient 01-34
+E-GEOD-63085		SRR1644082	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644082	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644082	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644082	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644083	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644083	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644083	characteristic	individual	patient 01-36
+E-GEOD-63085		SRR1644083	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644083	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644083	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644083	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644084	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644084	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644084	characteristic	individual	patient 01-37
+E-GEOD-63085		SRR1644084	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644084	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644084	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644084	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644085	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644085	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644085	characteristic	individual	patient 01-39
+E-GEOD-63085		SRR1644085	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644085	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644085	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644085	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644086	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644086	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644086	characteristic	individual	patient 01-40
+E-GEOD-63085		SRR1644086	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644086	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644086	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644086	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644087	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644087	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644087	characteristic	individual	patient 01-42
+E-GEOD-63085		SRR1644087	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644087	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644087	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644087	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644088	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644088	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644088	characteristic	individual	patient 01-44
+E-GEOD-63085		SRR1644088	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644088	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644088	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644088	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644089	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644089	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644089	characteristic	individual	patient 01-45
+E-GEOD-63085		SRR1644089	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644089	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644089	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644089	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644090	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644090	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644090	characteristic	individual	patient 01-46
+E-GEOD-63085		SRR1644090	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644090	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644090	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644090	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644091	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644091	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644091	characteristic	individual	patient 01-47
+E-GEOD-63085		SRR1644091	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644091	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644091	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644091	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644092	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644092	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644092	characteristic	individual	patient 01-48
+E-GEOD-63085		SRR1644092	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644092	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644092	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644092	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644093	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644093	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644093	characteristic	individual	patient 01-49
+E-GEOD-63085		SRR1644093	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644093	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644093	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644093	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644094	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644094	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644094	characteristic	individual	patient 01-50
+E-GEOD-63085		SRR1644094	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644094	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644094	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644094	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644095	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644095	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644095	characteristic	individual	patient 01-52
+E-GEOD-63085		SRR1644095	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644095	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644095	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644095	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644096	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644096	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644096	characteristic	individual	patient 01-53
+E-GEOD-63085		SRR1644096	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644096	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644096	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644096	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644097	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644097	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644097	characteristic	individual	patient 01-54
+E-GEOD-63085		SRR1644097	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644097	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644097	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644097	factor	sampling time point	acute phase of infection, prior to initiation of antibiotic treatment
+E-GEOD-63085		SRR1644098	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644098	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644098	characteristic	individual	patient 01-20
+E-GEOD-63085		SRR1644098	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644098	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644098	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644098	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644099	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644099	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644099	characteristic	individual	patient 01-23
+E-GEOD-63085		SRR1644099	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644099	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644099	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644099	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644100	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644100	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644100	characteristic	individual	patient 01-24
+E-GEOD-63085		SRR1644100	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644100	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644100	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644100	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644101	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644101	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644101	characteristic	individual	patient 01-25
+E-GEOD-63085		SRR1644101	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644101	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644101	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644101	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644102	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644102	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644102	characteristic	individual	patient 01-26
+E-GEOD-63085		SRR1644102	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644102	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644102	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644102	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644103	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644103	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644103	characteristic	individual	patient 01-27
+E-GEOD-63085		SRR1644103	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644103	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644103	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644103	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644104	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644104	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644104	characteristic	individual	patient 01-28
+E-GEOD-63085		SRR1644104	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644104	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644104	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644104	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644105	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644105	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644105	characteristic	individual	patient 01-29
+E-GEOD-63085		SRR1644105	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644105	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644105	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644105	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644106	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644106	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644106	characteristic	individual	patient 01-30
+E-GEOD-63085		SRR1644106	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644106	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644106	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644106	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644107	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644107	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644107	characteristic	individual	patient 01-31
+E-GEOD-63085		SRR1644107	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644107	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644107	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644107	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644108	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644108	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644108	characteristic	individual	patient 01-32
+E-GEOD-63085		SRR1644108	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644108	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644108	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644108	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644109	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644109	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644109	characteristic	individual	patient 01-33
+E-GEOD-63085		SRR1644109	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644109	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644109	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644109	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644110	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644110	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644110	characteristic	individual	patient 01-34
+E-GEOD-63085		SRR1644110	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644110	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644110	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644110	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644111	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644111	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644111	characteristic	individual	patient 01-37
+E-GEOD-63085		SRR1644111	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644111	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644111	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644111	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644112	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644112	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644112	characteristic	individual	patient 01-39
+E-GEOD-63085		SRR1644112	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644112	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644112	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644112	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644113	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644113	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644113	characteristic	individual	patient 01-40
+E-GEOD-63085		SRR1644113	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644113	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644113	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644113	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644114	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644114	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644114	characteristic	individual	patient 01-44
+E-GEOD-63085		SRR1644114	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644114	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644114	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644114	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644115	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644115	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644115	characteristic	individual	patient 01-45
+E-GEOD-63085		SRR1644115	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644115	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644115	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644115	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644116	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644116	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644116	characteristic	individual	patient 01-46
+E-GEOD-63085		SRR1644116	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644116	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644116	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644116	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644117	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644117	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644117	characteristic	individual	patient 01-47
+E-GEOD-63085		SRR1644117	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644117	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644117	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644117	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644118	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644118	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644118	characteristic	individual	patient 01-48
+E-GEOD-63085		SRR1644118	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644118	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644118	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644118	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644119	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644119	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644119	characteristic	individual	patient 01-49
+E-GEOD-63085		SRR1644119	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644119	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644119	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644119	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644120	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644120	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644120	characteristic	individual	patient 01-50
+E-GEOD-63085		SRR1644120	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644120	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644120	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644120	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644121	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644121	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644121	characteristic	individual	patient 01-51
+E-GEOD-63085		SRR1644121	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644121	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644121	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644121	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644122	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644122	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644122	characteristic	individual	patient 01-52
+E-GEOD-63085		SRR1644122	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644122	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644122	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644122	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644123	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644123	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644123	characteristic	individual	patient 01-53
+E-GEOD-63085		SRR1644123	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644123	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644123	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644123	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644124	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644124	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644124	characteristic	individual	patient 01-54
+E-GEOD-63085		SRR1644124	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644124	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644124	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644124	factor	sampling time point	3 weeks later, at the time of treatment completion
+E-GEOD-63085		SRR1644125	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644125	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644125	characteristic	individual	patient 01-20
+E-GEOD-63085		SRR1644125	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644125	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644125	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644125	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644126	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644126	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644126	characteristic	individual	patient 01-23
+E-GEOD-63085		SRR1644126	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644126	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644126	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644126	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644127	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644127	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644127	characteristic	individual	patient 01-24
+E-GEOD-63085		SRR1644127	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644127	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644127	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644127	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644128	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644128	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644128	characteristic	individual	patient 01-25
+E-GEOD-63085		SRR1644128	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644128	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644128	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644128	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644129	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644129	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644129	characteristic	individual	patient 01-26
+E-GEOD-63085		SRR1644129	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644129	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644129	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644129	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644130	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644130	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644130	characteristic	individual	patient 01-27
+E-GEOD-63085		SRR1644130	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644130	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644130	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644130	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644131	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644131	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644131	characteristic	individual	patient 01-28
+E-GEOD-63085		SRR1644131	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644131	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644131	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644131	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644132	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644132	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644132	characteristic	individual	patient 01-29
+E-GEOD-63085		SRR1644132	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644132	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644132	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644132	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644133	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644133	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644133	characteristic	individual	patient 01-30
+E-GEOD-63085		SRR1644133	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644133	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644133	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644133	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644134	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644134	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644134	characteristic	individual	patient 01-31
+E-GEOD-63085		SRR1644134	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644134	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644134	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644134	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644135	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644135	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644135	characteristic	individual	patient 01-32
+E-GEOD-63085		SRR1644135	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644135	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644135	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644135	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644136	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644136	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644136	characteristic	individual	patient 01-33
+E-GEOD-63085		SRR1644136	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644136	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644136	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644136	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644137	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644137	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644137	characteristic	individual	patient 01-34
+E-GEOD-63085		SRR1644137	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644137	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644137	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644137	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644138	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644138	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644138	characteristic	individual	patient 01-36
+E-GEOD-63085		SRR1644138	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644138	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644138	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644138	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644139	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644139	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644139	characteristic	individual	patient 01-37
+E-GEOD-63085		SRR1644139	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644139	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644139	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644139	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644140	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644140	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644140	characteristic	individual	patient 01-39
+E-GEOD-63085		SRR1644140	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644140	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644140	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644140	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644141	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644141	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644141	characteristic	individual	patient 01-40
+E-GEOD-63085		SRR1644141	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644141	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644141	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644141	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644142	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644142	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644142	characteristic	individual	patient 01-42
+E-GEOD-63085		SRR1644142	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644142	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644142	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644142	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644143	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644143	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644143	characteristic	individual	patient 01-44
+E-GEOD-63085		SRR1644143	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644143	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644143	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644143	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644144	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644144	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644144	characteristic	individual	patient 01-45
+E-GEOD-63085		SRR1644144	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644144	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644144	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644144	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644145	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644145	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644145	characteristic	individual	patient 01-46
+E-GEOD-63085		SRR1644145	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644145	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644145	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644145	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644146	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644146	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644146	characteristic	individual	patient 01-47
+E-GEOD-63085		SRR1644146	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644146	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644146	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644146	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644147	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644147	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644147	characteristic	individual	patient 01-48
+E-GEOD-63085		SRR1644147	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644147	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644147	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644147	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644148	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644148	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644148	characteristic	individual	patient 01-49
+E-GEOD-63085		SRR1644148	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644148	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644148	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644148	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644149	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644149	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644149	characteristic	individual	patient 01-50
+E-GEOD-63085		SRR1644149	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644149	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644149	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644149	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644150	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644150	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644150	characteristic	individual	patient 01-51
+E-GEOD-63085		SRR1644150	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644150	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644150	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644150	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644151	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644151	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644151	characteristic	individual	patient 01-52
+E-GEOD-63085		SRR1644151	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644151	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644151	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644151	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644152	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644152	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644152	characteristic	individual	patient 01-53
+E-GEOD-63085		SRR1644152	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644152	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644152	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644152	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644153	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644153	characteristic	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644153	characteristic	individual	patient 01-54
+E-GEOD-63085		SRR1644153	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644153	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644153	factor	disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510
+E-GEOD-63085		SRR1644153	factor	sampling time point	6 months following treatment completion
+E-GEOD-63085		SRR1644174	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644174	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644174	characteristic	individual	control 02-18
+E-GEOD-63085		SRR1644174	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644174	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644174	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644174	factor	sampling time point	control
+E-GEOD-63085		SRR1644175	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644175	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644175	characteristic	individual	control 02-19
+E-GEOD-63085		SRR1644175	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644175	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644175	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644175	factor	sampling time point	control
+E-GEOD-63085		SRR1644176	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644176	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644176	characteristic	individual	control 02-21
+E-GEOD-63085		SRR1644176	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644176	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644176	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644176	factor	sampling time point	control
+E-GEOD-63085		SRR1644177	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644177	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644177	characteristic	individual	control 02-22
+E-GEOD-63085		SRR1644177	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644177	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644177	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644177	factor	sampling time point	control
+E-GEOD-63085		SRR1644178	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644178	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644178	characteristic	individual	control 02-41
+E-GEOD-63085		SRR1644178	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644178	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644178	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644178	factor	sampling time point	control
+E-GEOD-63085		SRR1644179	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644179	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644179	characteristic	individual	control 02-55
+E-GEOD-63085		SRR1644179	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644179	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644179	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644179	factor	sampling time point	control
+E-GEOD-63085		SRR1644180	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644180	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644180	characteristic	individual	control 02-56
+E-GEOD-63085		SRR1644180	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644180	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644180	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644180	factor	sampling time point	control
+E-GEOD-63085		SRR1644181	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644181	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644181	characteristic	individual	control 02-57
+E-GEOD-63085		SRR1644181	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644181	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644181	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644181	factor	sampling time point	control
+E-GEOD-63085		SRR1644182	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644182	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644182	characteristic	individual	control 02-58
+E-GEOD-63085		SRR1644182	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644182	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644182	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644182	factor	sampling time point	control
+E-GEOD-63085		SRR1644183	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644183	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644183	characteristic	individual	control 02-59
+E-GEOD-63085		SRR1644183	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644183	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644183	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644183	factor	sampling time point	control
+E-GEOD-63085		SRR1644184	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644184	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644184	characteristic	individual	control 02-60
+E-GEOD-63085		SRR1644184	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644184	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644184	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644184	factor	sampling time point	control
+E-GEOD-63085		SRR1644185	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644185	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644185	characteristic	individual	control 02-61
+E-GEOD-63085		SRR1644185	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644185	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644185	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644185	factor	sampling time point	control
+E-GEOD-63085		SRR1644186	characteristic	cell type	peripheral blood mononuclear cell	http://purl.obolibrary.org/obo/CL_2000001
+E-GEOD-63085		SRR1644186	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644186	characteristic	individual	control 02-83
+E-GEOD-63085		SRR1644186	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-63085		SRR1644186	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-63085		SRR1644186	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-63085		SRR1644186	factor	sampling time point	control

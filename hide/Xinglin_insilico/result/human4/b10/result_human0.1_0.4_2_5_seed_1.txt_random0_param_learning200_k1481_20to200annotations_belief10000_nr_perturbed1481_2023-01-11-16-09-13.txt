@@ -1,0 +1,68 @@
+Creation Time:	2023-01-11 16:09:13
+
+INPUT:
+File name:	crfe_v019_b10copy.py
+Annotations file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human_anno.txt
+Gene file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human0.1_0.4_2_5_seed_1.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	200
+k (number of perturbed categories):	1481
+threshold:	0
+threshold type:	levels
+belief:	10.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	10000
+MCMC steps:	20000
+Maximal value for alpha and beta:	0.275
+Maximal possible value for alpha and beta:	0.275
+Probability parameter change:	0.2
+seed for RNG:	1441542478
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2291
+Total number of genes:	11704
+Number of perturbed genes:	1481
+Proportion perturbed genes:	0.12653793574846206
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.11000000000000001
+beta (FNR):	0.275
+q (penalization parameter):	0.001 (fixed)
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-4199.301189852236 +- 3.5662506512634837
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Average position perturbed genes	Term Name
+1	64	36	1.0	0.0	1.413e+03	0.064	0.461	GO:0030509
+2	185	118	0.98713	0.03861	1.015e+04	0.129	0.451	GO:0098609
+3	187	146	0.9467	0.1599	6.834e+03	0.325	0.407	GO:0031396
+4	22	15	0.84284	0.23413	1.340e+02	0.247	0.409	GO:0010718
+5	33	18	0.13356	0.22766	3.907e+02	0.055	0.462	GO:0010770
+6	135	108	0.10654	0.15973	3.291e+03	0.339	0.412	GO:0031398
+7	107	81	0.10347	0.19168	2.455e+03	0.302	0.403	GO:1903321
+8	100	77	0.07398	0.13693	2.046e+03	0.292	0.437	GO:0051340
+9	24	9	0.06242	0.14999	2.678e+02	-0.001	0.347	GO:0060334
+10	72	55	0.04276	0.09907	1.088e+03	0.311	0.414	GO:0051352
+11	86	65	0.04235	0.07072	1.595e+03	0.287	0.424	GO:0051351
+12	29	14	0.04154	0.06754	3.318e+02	-0.078	0.583	GO:0007157
+13	22	15	0.04118	0.05841	1.340e+02	0.235	0.359	GO:0016338
+14	78	61	0.04052	0.05973	1.190e+03	0.314	0.429	GO:0051439
+15	26	10	0.03861	0.05324	3.088e+02	-0.091	0.537	GO:0045814
+16	141	92	0.03564	0.04621	5.721e+03	0.14	0.449	GO:0007156
+17	101	77	0.03284	0.0511	2.146e+03	0.316	0.396	GO:0031397
+18	72	56	0.02206	0.03566	1.032e+03	0.317	0.421	GO:0051437
+19	40	19	0.0155	0.04648	6.324e+02	-0.044	0.456	GO:0010717
+20	21	8	0.01523	0.04569	2.049e+02	-0.09	0.547	GO:0006342
+21	26	16	0.01392	0.01837	2.159e+02	0.071	0.511	GO:0016339
+22	82	64	0.01186	0.03385	1.323e+03	0.313	0.429	GO:0051443
+23	67	51	0.00893	0.01724	9.522e+02	0.31	0.41	GO:0051436
+24	96	76	0.00889	0.01913	1.729e+03	0.314	0.442	GO:0051438
+25	26	12	0.00788	0.02359	2.758e+02	-0.066	0.358	GO:0048701
+26	23	9	0.00409	0.01227	2.408e+02	-0.116	0.606	GO:0000083
+27	80	61	0.00298	0.00894	1.349e+03	0.284	0.425	GO:0031145
+28	25	9	0.00012	0.00038	2.968e+02	-0.033	0.347	GO:0060330

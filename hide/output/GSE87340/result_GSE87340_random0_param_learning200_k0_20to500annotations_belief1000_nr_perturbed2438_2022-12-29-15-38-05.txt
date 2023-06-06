@@ -1,0 +1,94 @@
+Creation Time:	2022-12-29 15:38:05
+
+INPUT:
+File name:	/home/ahphan/RotationData/Kadelka/CRFE/gith/crfe_v017.py
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.2
+threshold type:	proportion
+belief:	1.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	25000
+MCMC steps:	25000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	2068482933
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	2438
+Proportion perturbed genes:	0.20001640823693495
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.19516129032258064
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.004
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-6091.717977879871 +- 1.4530643693129237
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	31	17	0.88289	0.13804	3.438e+02	0.211	central nervous system neuron development
+2	21	12	0.59594	0.28541	1.539e+02	0.852	sister chromatid segregation
+3	70	34	0.58994	0.42874	1.890e+03	0.764	collagen catabolic process
+4	45	24	0.56091	0.46201	7.352e+02	0.615	chromatin assembly or disassembly
+5	25	14	0.51007	0.30659	2.209e+02	0.543	regulation of mesonephros development
+6	97	47	0.41658	0.4774	3.622e+03	0.513	nucleosome assembly
+7	20	11	0.31627	0.18439	1.449e+02	0.586	calcium-independent cell-cell adhesion
+8	35	17	0.30986	0.25347	4.786e+02	0.615	DNA strand elongation
+9	57	26	0.23672	0.12431	1.310e+03	0.495	digestion
+10	23	12	0.2288	0.19252	1.989e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+11	77	36	0.2045	0.28092	2.343e+03	0.664	multicellular organismal catabolic process
+12	78	36	0.17738	0.256	2.423e+03	0.628	extracellular matrix disassembly
+13	22	12	0.17696	0.23518	1.759e+02	0.594	regulation of branching involved in ureteric bud morphogenesis
+14	33	16	0.13963	0.11385	4.266e+02	0.508	DNA strand elongation involved in DNA replication
+15	25	12	0.13848	0.14799	2.488e+02	0.635	regulation of chromosome segregation
+16	32	15	0.0987	0.11714	4.107e+02	0.323	serine family amino acid metabolic process
+17	25	12	0.09729	0.06831	2.488e+02	0.404	tumor necrosis factor-mediated signaling pathway
+18	20	10	0.08728	0.08609	1.559e+02	0.336	retinoic acid metabolic process
+19	44	19	0.08085	0.10736	8.120e+02	0.36	glycolytic process
+20	28	13	0.0722	0.07697	3.178e+02	0.83	keratinization
+21	48	21	0.06719	0.08558	9.568e+02	0.36	cellular modified amino acid biosynthetic process
+22	40	18	0.06484	0.10372	6.553e+02	0.592	endocrine pancreas development
+23	66	29	0.06395	0.05894	1.794e+03	0.384	alpha-amino acid biosynthetic process
+24	102	43	0.03546	0.05101	4.368e+03	0.42	cellular amino acid biosynthetic process
+25	32	14	0.02208	0.03157	4.296e+02	0.383	dolichol-linked oligosaccharide biosynthetic process
+26	20	9	0.02173	0.0652	1.679e+02	0.629	positive regulation of tissue remodeling
+27	110	50	0.02167	0.065	4.848e+03	0.455	protein-DNA complex assembly
+28	80	36	0.01726	0.05178	2.590e+03	0.593	collagen metabolic process
+29	21	11	0.01163	0.02141	1.659e+02	0.936	neuron fate specification
+30	20	9	0.0113	0.02877	1.679e+02	0.269	pyrimidine nucleoside triphosphate metabolic process
+31	34	15	0.00977	0.02329	4.816e+02	0.484	base-excision repair
+32	24	11	0.00714	0.01327	2.368e+02	0.355	alditol metabolic process
+33	22	10	0.00709	0.01535	2.009e+02	0.204	regulation of astrocyte differentiation
+34	22	10	0.0042	0.00977	2.009e+02	0.342	glycerol metabolic process
+35	20	7	0.0029	0.00871	1.949e+02	0.166	establishment or maintenance of apical/basal cell polarity & establishment or maintenance of bipolar cell polarity
+36	31	12	0.00228	0.00684	4.346e+02	0.169	one-carbon metabolic process
+37	31	10	0.00208	0.00624	4.775e+02	0.245	pyrimidine nucleoside biosynthetic process
+38	55	22	0.00197	0.0059	1.322e+03	0.355	keratinocyte differentiation
+39	29	12	0.00176	0.00528	3.667e+02	0.327	developmental induction
+40	23	8	0.00161	0.00482	2.568e+02	0.147	pyrimidine ribonucleotide biosynthetic process
+41	21	7	0.00152	0.00457	2.198e+02	0.339	positive regulation of release of cytochrome c from mitochondria
+42	25	14	0.0015	0.0045	2.209e+02	0.576	chromatin remodeling at centromere
+43	32	11	0.00116	0.00348	4.925e+02	0.459	embryonic skeletal system development
+44	28	6	0.00072	0.00216	4.575e+02	-0.229	hair follicle morphogenesis
+45	21	6	0.00057	0.00172	2.358e+02	-0.121	cell differentiation involved in kidney development
+46	32	10	0.00056	0.00169	5.154e+02	0.376	mitotic recombination
+47	28	8	0.00051	0.00154	4.126e+02	0.176	deoxyribose phosphate metabolic process
+48	23	13	0.00044	0.00131	1.859e+02	0.551	DNA replication-independent nucleosome assembly & CENP-A containing nucleosome assembly & DNA replication-independent nucleosome organization
+49	28	11	0.00035	0.00104	3.527e+02	0.243	nucleotide-sugar metabolic process
+50	29	12	0.00035	0.00104	3.667e+02	0.444	sympathetic nervous system development
+51	23	10	0.00034	0.00103	2.259e+02	0.468	DNA replication initiation
+52	30	13	0.00019	0.00056	3.807e+02	0.336	cell-cell signaling involved in cell fate commitment
+53	22	7	9e-05	0.00028	2.458e+02	-0.064	regulation of macrophage activation
+54	25	7	4e-05	0.00011	3.337e+02	0.096	rhythmic behavior

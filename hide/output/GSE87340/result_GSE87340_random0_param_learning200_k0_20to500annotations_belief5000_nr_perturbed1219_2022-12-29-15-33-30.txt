@@ -1,0 +1,60 @@
+Creation Time:	2022-12-29 15:33:30
+
+INPUT:
+File name:	/home/ahphan/RotationData/Kadelka/CRFE/gith/crfe_v017.py
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.1
+threshold type:	proportion
+belief:	5.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	25000
+MCMC steps:	25000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	1357249150
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	1219
+Proportion perturbed genes:	0.10000820411846748
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.08870967741935484
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.004
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-4055.861090567438 +- 0.7170220884598126
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	57	22	1.0	0.0	1.448e+03	0.495	digestion
+2	70	24	0.98756	0.03601	2.314e+03	0.764	collagen catabolic process
+3	21	11	0.94402	0.1325	1.659e+02	0.852	sister chromatid segregation
+4	20	7	0.6872	0.24371	1.949e+02	0.586	calcium-independent cell-cell adhesion
+5	29	11	0.39643	0.23385	3.857e+02	0.444	sympathetic nervous system development
+6	21	8	0.38403	0.30336	2.049e+02	0.936	neuron fate specification
+7	22	9	0.16495	0.14875	2.149e+02	0.594	regulation of branching involved in ureteric bud morphogenesis
+8	25	11	0.13796	0.17013	2.638e+02	0.635	regulation of chromosome segregation
+9	28	8	0.13048	0.10125	4.126e+02	0.83	keratinization
+10	20	7	0.103	0.15949	1.949e+02	0.629	positive regulation of tissue remodeling
+11	51	16	0.09104	0.11363	1.289e+03	0.59	O-glycan processing
+12	23	9	0.07259	0.11233	2.409e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+13	25	10	0.06554	0.08909	2.798e+02	0.543	regulation of mesonephros development
+14	40	13	0.01702	0.02806	7.851e+02	0.592	endocrine pancreas development
+15	22	7	0.0129	0.03871	2.458e+02	0.472	cochlea morphogenesis
+16	29	10	0.01262	0.03787	4.057e+02	0.354	intermediate filament cytoskeleton organization
+17	77	25	0.01244	0.03601	2.869e+03	0.664	multicellular organismal catabolic process
+18	25	6	0.00658	0.01389	3.537e+02	0.659	proximal/distal pattern formation
+19	22	6	0.00134	0.00401	2.628e+02	0.268	negative regulation of glial cell differentiation
+20	36	10	0.0005	0.00149	6.832e+02	0.373	neurogenesis

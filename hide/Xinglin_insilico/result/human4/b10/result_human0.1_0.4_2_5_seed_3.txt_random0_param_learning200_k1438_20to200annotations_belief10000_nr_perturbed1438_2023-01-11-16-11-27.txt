@@ -1,0 +1,54 @@
+Creation Time:	2023-01-11 16:11:27
+
+INPUT:
+File name:	crfe_v019_b10copy.py
+Annotations file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human_anno.txt
+Gene file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human0.1_0.4_2_5_seed_3.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	200
+k (number of perturbed categories):	1438
+threshold:	0
+threshold type:	levels
+belief:	10.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	10000
+MCMC steps:	20000
+Maximal value for alpha and beta:	0.275
+Maximal possible value for alpha and beta:	0.275
+Probability parameter change:	0.2
+seed for RNG:	335786677
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2291
+Total number of genes:	11704
+Number of perturbed genes:	1438
+Proportion perturbed genes:	0.12286397812713602
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.11000000000000001
+beta (FNR):	0.275
+q (penalization parameter):	0.001 (fixed)
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-4227.630666100913 +- 4.749961301119129
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Average position perturbed genes	Term Name
+1	42	31	1.0	0.0	4.078e+02	0.194	0.533	GO:0031100
+2	40	26	0.85881	0.29812	4.697e+02	0.221	0.403	GO:0006953
+3	192	139	0.69144	0.3565	8.777e+03	0.265	0.383	GO:0010498
+4	29	21	0.68076	0.3995	2.049e+02	0.258	0.436	GO:0031128
+5	21	10	0.4032	0.29049	1.779e+02	-0.087	0.502	GO:0043300
+6	30	21	0.31397	0.40336	2.349e+02	0.228	0.436	GO:0045168
+7	187	136	0.30855	0.3565	8.243e+03	0.268	0.384	GO:0043161
+8	83	33	0.159	0.1771	3.000e+03	-0.128	0.506	GO:0017157
+9	22	10	0.15428	0.27814	2.009e+02	-0.102	0.502	GO:0002886
+10	58	29	0.1181	0.29803	1.275e+03	0.01	0.421	GO:0002526
+11	28	12	0.02044	0.04857	3.348e+02	-0.054	0.479	GO:0017158
+12	30	13	0.00528	0.01584	3.807e+02	-0.068	0.459	GO:0003156
+13	22	7	0.00266	0.008	2.458e+02	-0.172	0.539	GO:0030325
+14	26	10	0.00147	0.00441	3.088e+02	-0.184	0.608	GO:0009954

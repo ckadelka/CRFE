@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="rnaseq_mrna_differential" r_data="1">
+    <analytics>
+        <assay_groups>
+            <assay_group id="g1" label="lesion; 0 week">
+                <assay>ERR2788587</assay>
+                <assay>ERR2788585</assay>
+                <assay>ERR2788586</assay>
+                <assay>ERR2788525</assay>
+                <assay>ERR2788527</assay>
+                <assay>ERR2788526</assay>
+                <assay>ERR2788557</assay>
+                <assay>ERR2788556</assay>
+                <assay>ERR2788534</assay>
+                <assay>ERR2788536</assay>
+                <assay>ERR2788535</assay>
+                <assay>ERR2788565</assay>
+                <assay>ERR2788566</assay>
+                <assay>ERR2788564</assay>
+                <assay>ERR2788604</assay>
+                <assay>ERR2788603</assay>
+                <assay>ERR2788605</assay>
+                <assay>ERR2788544</assay>
+                <assay>ERR2788543</assay>
+                <assay>ERR2788545</assay>
+                <assay>ERR2788575</assay>
+                <assay>ERR2788573</assay>
+                <assay>ERR2788574</assay>
+                <assay>ERR2788513</assay>
+                <assay>ERR2788515</assay>
+                <assay>ERR2788514</assay>
+                <assay>ERR2788594</assay>
+                <assay>ERR2788596</assay>
+                <assay>ERR2788595</assay>
+            </assay_group>
+            <assay_group id="g2" label="lesion; 1 week">
+                <assay>ERR2788539</assay>
+                <assay>ERR2788537</assay>
+                <assay>ERR2788538</assay>
+                <assay>ERR2788550</assay>
+                <assay>ERR2788549</assay>
+                <assay>ERR2788551</assay>
+                <assay>ERR2788520</assay>
+                <assay>ERR2788521</assay>
+                <assay>ERR2788516</assay>
+                <assay>ERR2788519</assay>
+                <assay>ERR2788518</assay>
+                <assay>ERR2788517</assay>
+                <assay>ERR2788599</assay>
+                <assay>ERR2788597</assay>
+                <assay>ERR2788598</assay>
+                <assay>ERR2788568</assay>
+                <assay>ERR2788569</assay>
+                <assay>ERR2788567</assay>
+                <assay>ERR2788529</assay>
+                <assay>ERR2788530</assay>
+                <assay>ERR2788528</assay>
+                <assay>ERR2788606</assay>
+                <assay>ERR2788607</assay>
+                <assay>ERR2788608</assay>
+                <assay>ERR2788576</assay>
+                <assay>ERR2788577</assay>
+                <assay>ERR2788578</assay>
+                <assay>ERR2788560</assay>
+                <assay>ERR2788558</assay>
+                <assay>ERR2788559</assay>
+                <assay>ERR2788590</assay>
+                <assay>ERR2788588</assay>
+                <assay>ERR2788589</assay>
+            </assay_group>
+            <assay_group id="g3" label="lesion; 12 week">
+                <assay>ERR2788582</assay>
+                <assay>ERR2788583</assay>
+                <assay>ERR2788584</assay>
+                <assay>ERR2788554</assay>
+                <assay>ERR2788553</assay>
+                <assay>ERR2788552</assay>
+                <assay>ERR2788532</assay>
+                <assay>ERR2788533</assay>
+                <assay>ERR2788531</assay>
+                <assay>ERR2788561</assay>
+                <assay>ERR2788563</assay>
+                <assay>ERR2788562</assay>
+                <assay>ERR2788570</assay>
+                <assay>ERR2788572</assay>
+                <assay>ERR2788571</assay>
+                <assay>ERR2788609</assay>
+                <assay>ERR2788611</assay>
+                <assay>ERR2788610</assay>
+                <assay>ERR2788541</assay>
+                <assay>ERR2788540</assay>
+                <assay>ERR2788542</assay>
+                <assay>ERR2788600</assay>
+                <assay>ERR2788601</assay>
+                <assay>ERR2788602</assay>
+                <assay>ERR2788523</assay>
+                <assay>ERR2788524</assay>
+                <assay>ERR2788522</assay>
+                <assay>ERR2788593</assay>
+                <assay>ERR2788592</assay>
+                <assay>ERR2788591</assay>
+            </assay_group>
+            <assay_group id="g4" label="normal tissue adjacent to lesion; 0 week">
+                <assay>ERR2788445</assay>
+                <assay>ERR2788444</assay>
+                <assay>ERR2788446</assay>
+                <assay>ERR2788505</assay>
+                <assay>ERR2788506</assay>
+                <assay>ERR2788504</assay>
+                <assay>ERR2788497</assay>
+                <assay>ERR2788495</assay>
+                <assay>ERR2788496</assay>
+                <assay>ERR2788467</assay>
+                <assay>ERR2788465</assay>
+                <assay>ERR2788466</assay>
+                <assay>ERR2788458</assay>
+                <assay>ERR2788457</assay>
+                <assay>ERR2788456</assay>
+                <assay>ERR2788475</assay>
+                <assay>ERR2788476</assay>
+                <assay>ERR2788474</assay>
+                <assay>ERR2788548</assay>
+                <assay>ERR2788547</assay>
+                <assay>ERR2788546</assay>
+                <assay>ERR2788615</assay>
+                <assay>ERR2788616</assay>
+                <assay>ERR2788617</assay>
+                <assay>ERR2788488</assay>
+                <assay>ERR2788486</assay>
+                <assay>ERR2788487</assay>
+                <assay>ERR2788449</assay>
+                <assay>ERR2788448</assay>
+                <assay>ERR2788447</assay>
+            </assay_group>
+            <assay_group id="g5" label="normal tissue adjacent to lesion; 1 week">
+                <assay>ERR2788469</assay>
+                <assay>ERR2788470</assay>
+                <assay>ERR2788507</assay>
+                <assay>ERR2788509</assay>
+                <assay>ERR2788508</assay>
+                <assay>ERR2788490</assay>
+                <assay>ERR2788491</assay>
+                <assay>ERR2788489</assay>
+                <assay>ERR2788478</assay>
+                <assay>ERR2788479</assay>
+                <assay>ERR2788477</assay>
+                <assay>ERR2788480</assay>
+                <assay>ERR2788481</assay>
+                <assay>ERR2788482</assay>
+                <assay>ERR2788460</assay>
+                <assay>ERR2788461</assay>
+                <assay>ERR2788459</assay>
+                <assay>ERR2788500</assay>
+                <assay>ERR2788498</assay>
+                <assay>ERR2788499</assay>
+                <assay>ERR2788619</assay>
+                <assay>ERR2788620</assay>
+                <assay>ERR2788618</assay>
+                <assay>ERR2788581</assay>
+                <assay>ERR2788579</assay>
+                <assay>ERR2788580</assay>
+                <assay>ERR2788450</assay>
+                <assay>ERR2788452</assay>
+                <assay>ERR2788451</assay>
+            </assay_group>
+            <assay_group id="g6" label="normal tissue adjacent to lesion; 12 week">
+                <assay>ERR2788463</assay>
+                <assay>ERR2788462</assay>
+                <assay>ERR2788464</assay>
+                <assay>ERR2788454</assay>
+                <assay>ERR2788453</assay>
+                <assay>ERR2788455</assay>
+                <assay>ERR2788622</assay>
+                <assay>ERR2788623</assay>
+                <assay>ERR2788621</assay>
+                <assay>ERR2788510</assay>
+                <assay>ERR2788511</assay>
+                <assay>ERR2788512</assay>
+                <assay>ERR2788472</assay>
+                <assay>ERR2788473</assay>
+                <assay>ERR2788471</assay>
+                <assay>ERR2788613</assay>
+                <assay>ERR2788614</assay>
+                <assay>ERR2788612</assay>
+                <assay>ERR2788502</assay>
+                <assay>ERR2788501</assay>
+                <assay>ERR2788503</assay>
+                <assay>ERR2788493</assay>
+                <assay>ERR2788492</assay>
+                <assay>ERR2788494</assay>
+                <assay>ERR2788483</assay>
+                <assay>ERR2788485</assay>
+                <assay>ERR2788484</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g4_g1" cttv_primary="0">
+                <name>'lesion' vs 'normal tissue adjacent to lesion' in '0 week'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+            </contrast>
+            <contrast id="g5_g2" cttv_primary="0">
+                <name>'lesion' vs 'normal tissue adjacent to lesion' in '1 week'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+            </contrast>
+            <contrast id="g6_g3" cttv_primary="0">
+                <name>'lesion' vs 'normal tissue adjacent to lesion' in '12 week'</name>
+                <reference_assay_group>g6</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+            <contrast id="g1_g2" cttv_primary="0">
+                <name>'1 week' vs '0 week' in 'lesion'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+            </contrast>
+            <contrast id="g1_g3" cttv_primary="0">
+                <name>'12 week' vs '0 week' in 'lesion'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+            <contrast id="g2_g3" cttv_primary="0">
+                <name>'12 week' vs '1 week' in 'lesion'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

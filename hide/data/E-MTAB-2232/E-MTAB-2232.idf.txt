@@ -1,0 +1,67 @@
+MAGE-TAB Version	1.1						
+Investigation Title	Genetics of gene expression across innate immune stimulation in primary monocytes						
+							
+Experimental Design	ex_vivo_design	individual_genetic_characteristics_design	co-expression_design				
+Experimental Design Term Source REF							
+Experimental Design Term Accession Number							
+							
+Experimental Factor Name	time	compound	dose	stimulus			
+Experimental Factor Type	time	compound	dose	stimulus			
+Experimental Factor Term Source REF							
+Experimental Factor Term Accession Number							
+							
+Person Last Name	Makino						
+Person First Name	Seiko						
+Person Mid Initials							
+Person Email	seiko@well.ox.ac.uk						
+Person Phone	+44(0)1865287531						
+Person Fax							
+Person Affiliation	Wellcome Trust Centre for Human Genetics, University of Oxford						
+Person Address							
+Person Roles	submitter						
+Person Roles Term Source REF							
+Person Roles Term Accession Number							
+							
+Quality Control Type	biological_replicate						
+Quality Control Term Source REF	EFO						
+Quality Control Term Accession Number							
+							
+Replicate Type							
+Replicate Term Source REF							
+Replicate Term Accession Number							
+							
+Normalization Type							
+Normalization Term Source REF							
+Normalization Term Accession Number							
+							
+Date of Experiment							
+Public Release Date	2014-03-26						
+							
+PubMed ID	26870787	26151758	24604202				
+Publication DOI	None	10.1038/ncomms8545	10.1126/science.1246949				
+Publication Author List	Naranbhai V, Fletcher HA, Tanner R, OShea MK, McShane H, Fairfax BP, Knight JC, Hill AV.	Naranbhai V, Fairfax BP, Makino S, Humburg P, Wong D, Ng E, Hill AV, Knight JC.	Fairfax BP, Humburg P, Makino S, Naranbhai V, Wong D, Lau E, Jostins L, Plant K, Andrews R, McGee C, Knight JC				
+Publication Title	Distinct Transcriptional and Anti-Mycobacterial Profiles of Peripheral Blood Monocytes Dependent on the Ratio of Monocytes: Lymphocytes.	Genomic modulators of gene expression in human neutrophils.	Innate immune activity conditions the effect of regulatory variants upon monocyte gene expression.				
+Publication Status							
+Publication Status Term Source REF							
+Publication Status Term Accession Number							
+							
+Experiment Description	Gene expression arrays and genotyping data in primary human monocytes from healthy individuals of European ancestry that have either been unstimulated (naive) or exposed to IFN gamma (24h) or Lipopolysaccharide (2 or 24h duration).						
+							
+Protocol Name	P-MTAB-37469	P-MTAB-25271	P-MTAB-37466	P-MTAB-37467	P-MTAB-37468	P-MTAB-25262	P-MTAB-25265
+Protocol Type	normalization data transformation protocol	hybridization	growth protocol	treatment protocol	nucleic acid extraction protocol	image_acquisition	labeling
+Protocol Term Source REF	EFO	ArrayExpress	EFO	EFO	EFO	ArrayExpress	ArrayExpress
+Protocol Term Accession Number							
+Protocol Description	Scanned array images were exported using Illumina GenomeStudio software. The data were processed by using the R packages lumi, limma and ComBat. The raw data was VST transformed and both cell type datasets were normalized together using the robust spline normalization method (RSN) within lumi. Batch effects were corrected using ComBat. A linear model incorporating data from 63 untreated, incubated samples and 421 untreated, non-incubated samples was used to regress out the effect of incubation on gene expression.	200 ng of total RNA from monocytes and B-cells were analyzed using the Illumina HumanHT-12v4 BeadChip gene expression array platform which was performed by the Wellcome Trust Sanger Institute Microarray Services. Briefly, total RNA was labelled and hybridized with BeadChips at 58C overnight.	50 ml of whole blood samples were collected into anticoagulant EDTA-containing blood collection tubes from a total of 432 healthy volunteers of European ancestry.	Peripheral blood mono-nuclear cells (PBMCs) were purified by the Ficoll gradient method using Ficoll-paque (GE). PBMCs were washed twice with Hanks buffered saline solution (HBSS) without Ca2+ and Mg2+. Magnetic activating cell sorting methods (MACS) were used to separate CD14+ cells as monocytes (Miltenyi). 4x5^10 CD14+ monocytes were incubated in RPMI1640 medium with 20% fetal calf serum, 2mM L-glutamate and antibiotics (penicilin 100U/ml, streptomycin 100ug/ml) at cell density 1x10^6 cells/ml overnight at 37C, 5% CO2. Following day the cells were stimulated for 24h with Interferon-gamma at 20ng/ml (R&D Systems), or 24h or 2h with lipopolysaccaride at 20ng/ml (InvivoGen).	Minimum 5x10^5 cells for naive cells or 4x10^5 stimulated cells were resuspended in RLT buffer (Qiagen) and stored at -80 C for RNA extraction. Total RNA was extracted from using the RNeasy mini kit following the manufacturer's instruction (Qiagen). Total RNA was quantified by Nanodrop (Thermo Scientific). A subset of RNA was analyzed using Bioanalyzer (Agilent) for quality control purpose.	The image was acquired using Illumina iScan.	Labeling
+Protocol Parameters							
+Protocol Hardware							
+Protocol Software		Illumina GenomeStudio				Illumina iScan	
+Protocol Contact							
+							
+Term Source Name	ArrayExpress	EFO	ArrayExpress				
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/				
+Term Source Version	1.1	2.38					
+							
+SDRF File	E-MTAB-2232.sdrf.txt						
+Comment [Submitted Name]	Genetics of gene expression across innate immune stimulation in primary monocytes						
+Comment [AEExperimentType]	transcription profiling by array						
+Comment[ArrayExpressAccession]	E-MTAB-2232						

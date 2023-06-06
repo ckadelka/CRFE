@@ -1,0 +1,1776 @@
+E-MTAB-6558	A-AFFY-44	3001-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3001-D0-hybridization	characteristic	individual	3001-D0
+E-MTAB-6558	A-AFFY-44	3001-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3001-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3001-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3001-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3001-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3001-D6-hybridization	characteristic	individual	3001-D6
+E-MTAB-6558	A-AFFY-44	3001-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3001-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3001-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3001-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3002-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3002-D0-hybridization	characteristic	individual	3002-D0
+E-MTAB-6558	A-AFFY-44	3002-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3002-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3002-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3002-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3002-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3002-D6-hybridization	characteristic	individual	3002-D6
+E-MTAB-6558	A-AFFY-44	3002-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3002-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3002-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3002-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3002-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3002-D91-hybridization	characteristic	individual	3002-D91
+E-MTAB-6558	A-AFFY-44	3002-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3002-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3002-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3002-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3003-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3003-D6-hybridization	characteristic	individual	3003-D6
+E-MTAB-6558	A-AFFY-44	3003-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3003-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3003-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3003-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3003-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3003-D91-hybridization	characteristic	individual	3003-D91
+E-MTAB-6558	A-AFFY-44	3003-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3003-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3003-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3003-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3004-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3004-D0-hybridization	characteristic	individual	3004-D0
+E-MTAB-6558	A-AFFY-44	3004-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3004-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3004-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3004-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3004-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3004-D6-hybridization	characteristic	individual	3004-D6
+E-MTAB-6558	A-AFFY-44	3004-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3004-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3004-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3004-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3004-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3004-D91-hybridization	characteristic	individual	3004-D91
+E-MTAB-6558	A-AFFY-44	3004-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3004-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3004-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3004-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3005-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3005-D0-hybridization	characteristic	individual	3005-D0
+E-MTAB-6558	A-AFFY-44	3005-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3005-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3005-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3005-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3005-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3005-D6-hybridization	characteristic	individual	3005-D6
+E-MTAB-6558	A-AFFY-44	3005-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3005-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3005-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3005-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3005-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3005-D91-hybridization	characteristic	individual	3005-D91
+E-MTAB-6558	A-AFFY-44	3005-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3005-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3005-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3005-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3006-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3006-D0-hybridization	characteristic	individual	3006-D0
+E-MTAB-6558	A-AFFY-44	3006-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3006-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3006-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3006-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3006-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3006-D6-hybridization	characteristic	individual	3006-D6
+E-MTAB-6558	A-AFFY-44	3006-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3006-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3006-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3006-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3006-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3006-D91-hybridization	characteristic	individual	3006-D91
+E-MTAB-6558	A-AFFY-44	3006-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3006-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3006-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3006-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3007-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3007-D0-hybridization	characteristic	individual	3007-D0
+E-MTAB-6558	A-AFFY-44	3007-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3007-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3007-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3007-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3007-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3007-D6-hybridization	characteristic	individual	3007-D6
+E-MTAB-6558	A-AFFY-44	3007-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3007-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3007-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3007-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3007-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3007-D91-hybridization	characteristic	individual	3007-D91
+E-MTAB-6558	A-AFFY-44	3007-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3007-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3007-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3007-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3008-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3008-D6-hybridization	characteristic	individual	3008-D6
+E-MTAB-6558	A-AFFY-44	3008-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3008-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3008-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3008-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3009-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3009-D0-hybridization	characteristic	individual	3009-D0
+E-MTAB-6558	A-AFFY-44	3009-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3009-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3009-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3009-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3009-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3009-D6-hybridization	characteristic	individual	3009-D6
+E-MTAB-6558	A-AFFY-44	3009-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3009-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3009-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3009-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3009-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3009-D91-hybridization	characteristic	individual	3009-D91
+E-MTAB-6558	A-AFFY-44	3009-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3009-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3009-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3009-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3010-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3010-D0-hybridization	characteristic	individual	3010-D0
+E-MTAB-6558	A-AFFY-44	3010-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3010-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3010-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3010-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3010-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3010-D6-hybridization	characteristic	individual	3010-D6
+E-MTAB-6558	A-AFFY-44	3010-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3010-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3010-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3010-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3010-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3010-D91-hybridization	characteristic	individual	3010-D91
+E-MTAB-6558	A-AFFY-44	3010-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3010-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3010-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3010-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3011-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3011-D0-hybridization	characteristic	individual	3011-D0
+E-MTAB-6558	A-AFFY-44	3011-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3011-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3011-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3011-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3011-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3011-D6-hybridization	characteristic	individual	3011-D6
+E-MTAB-6558	A-AFFY-44	3011-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3011-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3011-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3011-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3011-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3011-D91-hybridization	characteristic	individual	3011-D91
+E-MTAB-6558	A-AFFY-44	3011-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3011-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3011-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3011-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3012-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3012-D6-hybridization	characteristic	individual	3012-D6
+E-MTAB-6558	A-AFFY-44	3012-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3012-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3012-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3012-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3012-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3012-D91-hybridization	characteristic	individual	3012-D91
+E-MTAB-6558	A-AFFY-44	3012-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3012-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3012-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3012-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3013-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3013-D0-hybridization	characteristic	individual	3013-D0
+E-MTAB-6558	A-AFFY-44	3013-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3013-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3013-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3013-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3013-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3013-D6-hybridization	characteristic	individual	3013-D6
+E-MTAB-6558	A-AFFY-44	3013-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3013-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3013-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3013-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3013-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3013-D91-hybridization	characteristic	individual	3013-D91
+E-MTAB-6558	A-AFFY-44	3013-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3013-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3013-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3013-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3014-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3014-D0-hybridization	characteristic	individual	3014-D0
+E-MTAB-6558	A-AFFY-44	3014-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3014-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3014-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3014-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3014-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3014-D6-hybridization	characteristic	individual	3014-D6
+E-MTAB-6558	A-AFFY-44	3014-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3014-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3014-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3014-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3014-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3014-D91-hybridization	characteristic	individual	3014-D91
+E-MTAB-6558	A-AFFY-44	3014-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3014-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3014-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3014-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3015-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3015-D0-hybridization	characteristic	individual	3015-D0
+E-MTAB-6558	A-AFFY-44	3015-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3015-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3015-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3015-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3015-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3015-D6-hybridization	characteristic	individual	3015-D6
+E-MTAB-6558	A-AFFY-44	3015-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3015-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3015-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3015-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3015-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3015-D91-hybridization	characteristic	individual	3015-D91
+E-MTAB-6558	A-AFFY-44	3015-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3015-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3015-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3015-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3016-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3016-D0-hybridization	characteristic	individual	3016-D0
+E-MTAB-6558	A-AFFY-44	3016-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3016-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3016-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3016-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3016-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3016-D6-hybridization	characteristic	individual	3016-D6
+E-MTAB-6558	A-AFFY-44	3016-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3016-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3016-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3016-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3016-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3016-D91-hybridization	characteristic	individual	3016-D91
+E-MTAB-6558	A-AFFY-44	3016-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3016-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3016-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3016-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3017-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3017-D0-hybridization	characteristic	individual	3017-D0
+E-MTAB-6558	A-AFFY-44	3017-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3017-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3017-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3017-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3017-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3017-D6-hybridization	characteristic	individual	3017-D6
+E-MTAB-6558	A-AFFY-44	3017-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3017-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3017-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3017-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3017-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3017-D91-hybridization	characteristic	individual	3017-D91
+E-MTAB-6558	A-AFFY-44	3017-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3017-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3017-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3017-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3018-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3018-D0-hybridization	characteristic	individual	3018-D0
+E-MTAB-6558	A-AFFY-44	3018-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3018-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3018-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3018-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3018-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3018-D6-hybridization	characteristic	individual	3018-D6
+E-MTAB-6558	A-AFFY-44	3018-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3018-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3018-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3018-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3018-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3018-D91-hybridization	characteristic	individual	3018-D91
+E-MTAB-6558	A-AFFY-44	3018-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3018-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3018-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3018-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3019-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3019-D0-hybridization	characteristic	individual	3019-D0
+E-MTAB-6558	A-AFFY-44	3019-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3019-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3019-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3019-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3019-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3019-D6-hybridization	characteristic	individual	3019-D6
+E-MTAB-6558	A-AFFY-44	3019-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3019-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3019-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3019-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3019-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3019-D91-hybridization	characteristic	individual	3019-D91
+E-MTAB-6558	A-AFFY-44	3019-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3019-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3019-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3019-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3020-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3020-D0-hybridization	characteristic	individual	3020-D0
+E-MTAB-6558	A-AFFY-44	3020-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3020-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3020-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3020-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3020-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3020-D6-hybridization	characteristic	individual	3020-D6
+E-MTAB-6558	A-AFFY-44	3020-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3020-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3020-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3020-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3020-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3020-D91-hybridization	characteristic	individual	3020-D91
+E-MTAB-6558	A-AFFY-44	3020-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3020-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3020-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3020-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3021-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3021-D0-hybridization	characteristic	individual	3021-D0
+E-MTAB-6558	A-AFFY-44	3021-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3021-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3021-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3021-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3022-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3022-D0-hybridization	characteristic	individual	3022-D0
+E-MTAB-6558	A-AFFY-44	3022-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3022-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3022-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3022-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3022-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3022-D6-hybridization	characteristic	individual	3022-D6
+E-MTAB-6558	A-AFFY-44	3022-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3022-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3022-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3022-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3022-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3022-D91-hybridization	characteristic	individual	3022-D91
+E-MTAB-6558	A-AFFY-44	3022-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3022-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3022-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3022-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3023-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3023-D0-hybridization	characteristic	individual	3023-D0
+E-MTAB-6558	A-AFFY-44	3023-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3023-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3023-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3023-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3023-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3023-D6-hybridization	characteristic	individual	3023-D6
+E-MTAB-6558	A-AFFY-44	3023-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3023-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3023-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3023-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3023-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3023-D91-hybridization	characteristic	individual	3023-D91
+E-MTAB-6558	A-AFFY-44	3023-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3023-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3023-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3023-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3024-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3024-D0-hybridization	characteristic	individual	3024-D0
+E-MTAB-6558	A-AFFY-44	3024-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3024-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3024-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3024-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3024-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3024-D6-hybridization	characteristic	individual	3024-D6
+E-MTAB-6558	A-AFFY-44	3024-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3024-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3024-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3024-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3024-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3024-D91-hybridization	characteristic	individual	3024-D91
+E-MTAB-6558	A-AFFY-44	3024-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3024-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3024-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3024-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3025-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3025-D0-hybridization	characteristic	individual	3025-D0
+E-MTAB-6558	A-AFFY-44	3025-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3025-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3025-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3025-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3025-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3025-D6-hybridization	characteristic	individual	3025-D6
+E-MTAB-6558	A-AFFY-44	3025-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3025-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3025-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3025-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3025-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3025-D91-hybridization	characteristic	individual	3025-D91
+E-MTAB-6558	A-AFFY-44	3025-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3025-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3025-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3025-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3026-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3026-D0-hybridization	characteristic	individual	3026-D0
+E-MTAB-6558	A-AFFY-44	3026-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3026-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3026-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3026-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3026-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3026-D6-hybridization	characteristic	individual	3026-D6
+E-MTAB-6558	A-AFFY-44	3026-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3026-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3026-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3026-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3026-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3026-D91-hybridization	characteristic	individual	3026-D91
+E-MTAB-6558	A-AFFY-44	3026-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3026-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3026-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3026-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3027-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3027-D0-hybridization	characteristic	individual	3027-D0
+E-MTAB-6558	A-AFFY-44	3027-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3027-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3027-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3027-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3027-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3027-D6-hybridization	characteristic	individual	3027-D6
+E-MTAB-6558	A-AFFY-44	3027-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3027-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3027-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3027-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3028-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3028-D0-hybridization	characteristic	individual	3028-D0
+E-MTAB-6558	A-AFFY-44	3028-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3028-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3028-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3028-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3028-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3028-D6-hybridization	characteristic	individual	3028-D6
+E-MTAB-6558	A-AFFY-44	3028-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3028-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3028-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3028-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3028-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3028-D91-hybridization	characteristic	individual	3028-D91
+E-MTAB-6558	A-AFFY-44	3028-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3028-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3028-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3028-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3029-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3029-D0-hybridization	characteristic	individual	3029-D0
+E-MTAB-6558	A-AFFY-44	3029-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3029-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3029-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3029-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3029-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3029-D6-hybridization	characteristic	individual	3029-D6
+E-MTAB-6558	A-AFFY-44	3029-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3029-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3029-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3029-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3029-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3029-D91-hybridization	characteristic	individual	3029-D91
+E-MTAB-6558	A-AFFY-44	3029-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3029-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3029-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3029-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3030-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3030-D0-hybridization	characteristic	individual	3030-D0
+E-MTAB-6558	A-AFFY-44	3030-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3030-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3030-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3030-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3030-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3030-D6-hybridization	characteristic	individual	3030-D6
+E-MTAB-6558	A-AFFY-44	3030-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3030-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3030-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3030-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3031-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3031-D0-hybridization	characteristic	individual	3031-D0
+E-MTAB-6558	A-AFFY-44	3031-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3031-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3031-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3031-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3031-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3031-D6-hybridization	characteristic	individual	3031-D6
+E-MTAB-6558	A-AFFY-44	3031-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3031-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3031-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3031-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3031-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3031-D91-hybridization	characteristic	individual	3031-D91
+E-MTAB-6558	A-AFFY-44	3031-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3031-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3031-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3031-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3032-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3032-D0-hybridization	characteristic	individual	3032-D0
+E-MTAB-6558	A-AFFY-44	3032-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3032-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3032-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3032-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3032-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3032-D6-hybridization	characteristic	individual	3032-D6
+E-MTAB-6558	A-AFFY-44	3032-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3032-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3032-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3032-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3032-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3032-D91-hybridization	characteristic	individual	3032-D91
+E-MTAB-6558	A-AFFY-44	3032-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3032-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3032-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3032-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3033-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3033-D6-hybridization	characteristic	individual	3033-D6
+E-MTAB-6558	A-AFFY-44	3033-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3033-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3033-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3033-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3033-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3033-D91-hybridization	characteristic	individual	3033-D91
+E-MTAB-6558	A-AFFY-44	3033-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3033-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3033-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3033-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3034-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3034-D0-hybridization	characteristic	individual	3034-D0
+E-MTAB-6558	A-AFFY-44	3034-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3034-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3034-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3034-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3034-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3034-D6-hybridization	characteristic	individual	3034-D6
+E-MTAB-6558	A-AFFY-44	3034-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3034-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3034-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3034-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3034-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3034-D91-hybridization	characteristic	individual	3034-D91
+E-MTAB-6558	A-AFFY-44	3034-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3034-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3034-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3034-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3035-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3035-D0-hybridization	characteristic	individual	3035-D0
+E-MTAB-6558	A-AFFY-44	3035-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3035-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3035-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3035-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3035-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3035-D6-hybridization	characteristic	individual	3035-D6
+E-MTAB-6558	A-AFFY-44	3035-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3035-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3035-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3035-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3036-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3036-D0-hybridization	characteristic	individual	3036-D0
+E-MTAB-6558	A-AFFY-44	3036-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3036-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3036-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3036-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3036-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3036-D6-hybridization	characteristic	individual	3036-D6
+E-MTAB-6558	A-AFFY-44	3036-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3036-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3036-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3036-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3036-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3036-D91-hybridization	characteristic	individual	3036-D91
+E-MTAB-6558	A-AFFY-44	3036-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3036-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3036-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3036-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3037-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3037-D0-hybridization	characteristic	individual	3037-D0
+E-MTAB-6558	A-AFFY-44	3037-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3037-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3037-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3037-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3037-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3037-D91-hybridization	characteristic	individual	3037-D91
+E-MTAB-6558	A-AFFY-44	3037-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3037-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3037-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3037-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3038-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3038-D0-hybridization	characteristic	individual	3038-D0
+E-MTAB-6558	A-AFFY-44	3038-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3038-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3038-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3038-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3038-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3038-D6-hybridization	characteristic	individual	3038-D6
+E-MTAB-6558	A-AFFY-44	3038-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3038-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3038-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3038-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3038-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3038-D91-hybridization	characteristic	individual	3038-D91
+E-MTAB-6558	A-AFFY-44	3038-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3038-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3038-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3038-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3039-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3039-D0-hybridization	characteristic	individual	3039-D0
+E-MTAB-6558	A-AFFY-44	3039-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3039-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3039-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3039-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3039-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3039-D6-hybridization	characteristic	individual	3039-D6
+E-MTAB-6558	A-AFFY-44	3039-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3039-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3039-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3039-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3039-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3039-D91-hybridization	characteristic	individual	3039-D91
+E-MTAB-6558	A-AFFY-44	3039-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3039-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3039-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3039-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3040-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3040-D0-hybridization	characteristic	individual	3040-D0
+E-MTAB-6558	A-AFFY-44	3040-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3040-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3040-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3040-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3040-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3040-D6-hybridization	characteristic	individual	3040-D6
+E-MTAB-6558	A-AFFY-44	3040-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3040-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3040-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3040-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3040-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3040-D91-hybridization	characteristic	individual	3040-D91
+E-MTAB-6558	A-AFFY-44	3040-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3040-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3040-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3040-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3041-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3041-D0-hybridization	characteristic	individual	3041-D0
+E-MTAB-6558	A-AFFY-44	3041-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3041-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3041-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3041-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3041-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3041-D6-hybridization	characteristic	individual	3041-D6
+E-MTAB-6558	A-AFFY-44	3041-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3041-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3041-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3041-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3041-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3041-D91-hybridization	characteristic	individual	3041-D91
+E-MTAB-6558	A-AFFY-44	3041-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3041-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3041-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3041-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3042-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3042-D0-hybridization	characteristic	individual	3042-D0
+E-MTAB-6558	A-AFFY-44	3042-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3042-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3042-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3042-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3042-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3042-D6-hybridization	characteristic	individual	3042-D6
+E-MTAB-6558	A-AFFY-44	3042-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3042-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3042-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3042-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3043-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3043-D0-hybridization	characteristic	individual	3043-D0
+E-MTAB-6558	A-AFFY-44	3043-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3043-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3043-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3043-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3043-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3043-D91-hybridization	characteristic	individual	3043-D91
+E-MTAB-6558	A-AFFY-44	3043-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3043-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3043-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3043-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3044-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3044-D0-hybridization	characteristic	individual	3044-D0
+E-MTAB-6558	A-AFFY-44	3044-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3044-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3044-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3044-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3044-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3044-D6-hybridization	characteristic	individual	3044-D6
+E-MTAB-6558	A-AFFY-44	3044-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3044-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3044-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3044-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3044-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3044-D91-hybridization	characteristic	individual	3044-D91
+E-MTAB-6558	A-AFFY-44	3044-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3044-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3044-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3044-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3045-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3045-D0-hybridization	characteristic	individual	3045-D0
+E-MTAB-6558	A-AFFY-44	3045-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3045-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3045-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3045-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3045-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3045-D6-hybridization	characteristic	individual	3045-D6
+E-MTAB-6558	A-AFFY-44	3045-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3045-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3045-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3045-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3045-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3045-D91-hybridization	characteristic	individual	3045-D91
+E-MTAB-6558	A-AFFY-44	3045-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3045-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3045-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3045-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3046-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3046-D0-hybridization	characteristic	individual	3046-D0
+E-MTAB-6558	A-AFFY-44	3046-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3046-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3046-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3046-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3046-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3046-D6-hybridization	characteristic	individual	3046-D6
+E-MTAB-6558	A-AFFY-44	3046-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3046-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3046-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3046-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3046-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3046-D91-hybridization	characteristic	individual	3046-D91
+E-MTAB-6558	A-AFFY-44	3046-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3046-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3046-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3046-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3047-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3047-D0-hybridization	characteristic	individual	3047-D0
+E-MTAB-6558	A-AFFY-44	3047-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3047-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3047-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3047-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3047-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3047-D6-hybridization	characteristic	individual	3047-D6
+E-MTAB-6558	A-AFFY-44	3047-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3047-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3047-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3047-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3047-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3047-D91-hybridization	characteristic	individual	3047-D91
+E-MTAB-6558	A-AFFY-44	3047-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3047-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3047-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3047-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3048-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3048-D0-hybridization	characteristic	individual	3048-D0
+E-MTAB-6558	A-AFFY-44	3048-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3048-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3048-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3048-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3048-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3048-D6-hybridization	characteristic	individual	3048-D6
+E-MTAB-6558	A-AFFY-44	3048-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3048-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3048-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3048-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3049-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3049-D0-hybridization	characteristic	individual	3049-D0
+E-MTAB-6558	A-AFFY-44	3049-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3049-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3049-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3049-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3049-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3049-D91-hybridization	characteristic	individual	3049-D91
+E-MTAB-6558	A-AFFY-44	3049-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3049-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3049-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3049-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3050-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3050-D0-hybridization	characteristic	individual	3050-D0
+E-MTAB-6558	A-AFFY-44	3050-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3050-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3050-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3050-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3050-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3050-D6-hybridization	characteristic	individual	3050-D6
+E-MTAB-6558	A-AFFY-44	3050-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3050-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3050-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3050-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3050-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3050-D91-hybridization	characteristic	individual	3050-D91
+E-MTAB-6558	A-AFFY-44	3050-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3050-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3050-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3050-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3051-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3051-D0-hybridization	characteristic	individual	3051-D0
+E-MTAB-6558	A-AFFY-44	3051-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3051-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3051-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3051-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3051-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3051-D6-hybridization	characteristic	individual	3051-D6
+E-MTAB-6558	A-AFFY-44	3051-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3051-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3051-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3051-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3051-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3051-D91-hybridization	characteristic	individual	3051-D91
+E-MTAB-6558	A-AFFY-44	3051-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3051-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3051-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3051-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3052-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3052-D0-hybridization	characteristic	individual	3052-D0
+E-MTAB-6558	A-AFFY-44	3052-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3052-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3052-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3052-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3052-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3052-D6-hybridization	characteristic	individual	3052-D6
+E-MTAB-6558	A-AFFY-44	3052-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3052-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3052-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3052-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3052-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3052-D91-hybridization	characteristic	individual	3052-D91
+E-MTAB-6558	A-AFFY-44	3052-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3052-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3052-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3052-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3053-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3053-D0-hybridization	characteristic	individual	3053-D0
+E-MTAB-6558	A-AFFY-44	3053-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3053-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3053-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3053-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3053-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3053-D6-hybridization	characteristic	individual	3053-D6
+E-MTAB-6558	A-AFFY-44	3053-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3053-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3053-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3053-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3053-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3053-D91-hybridization	characteristic	individual	3053-D91
+E-MTAB-6558	A-AFFY-44	3053-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3053-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3053-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3053-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3054-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3054-D0-hybridization	characteristic	individual	3054-D0
+E-MTAB-6558	A-AFFY-44	3054-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3054-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3054-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3054-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3054-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3054-D6-hybridization	characteristic	individual	3054-D6
+E-MTAB-6558	A-AFFY-44	3054-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3054-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3054-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3054-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3054-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3054-D91-hybridization	characteristic	individual	3054-D91
+E-MTAB-6558	A-AFFY-44	3054-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3054-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3054-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3054-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3055-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3055-D6-hybridization	characteristic	individual	3055-D6
+E-MTAB-6558	A-AFFY-44	3055-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3055-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3055-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3055-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3055-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3055-D91-hybridization	characteristic	individual	3055-D91
+E-MTAB-6558	A-AFFY-44	3055-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3055-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3055-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3055-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3056-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3056-D0-hybridization	characteristic	individual	3056-D0
+E-MTAB-6558	A-AFFY-44	3056-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3056-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3056-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3056-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3056-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3056-D91-hybridization	characteristic	individual	3056-D91
+E-MTAB-6558	A-AFFY-44	3056-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3056-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3056-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3056-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3057-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3057-D0-hybridization	characteristic	individual	3057-D0
+E-MTAB-6558	A-AFFY-44	3057-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3057-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3057-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3057-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3057-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3057-D6-hybridization	characteristic	individual	3057-D6
+E-MTAB-6558	A-AFFY-44	3057-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3057-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3057-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3057-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3057-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3057-D91-hybridization	characteristic	individual	3057-D91
+E-MTAB-6558	A-AFFY-44	3057-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3057-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3057-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3057-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3058-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3058-D0-hybridization	characteristic	individual	3058-D0
+E-MTAB-6558	A-AFFY-44	3058-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3058-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3058-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3058-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3058-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3058-D6-hybridization	characteristic	individual	3058-D6
+E-MTAB-6558	A-AFFY-44	3058-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3058-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3058-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3058-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3059-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3059-D0-hybridization	characteristic	individual	3059-D0
+E-MTAB-6558	A-AFFY-44	3059-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3059-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3059-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3059-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3059-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3059-D6-hybridization	characteristic	individual	3059-D6
+E-MTAB-6558	A-AFFY-44	3059-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3059-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3059-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3059-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3060-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3060-D0-hybridization	characteristic	individual	3060-D0
+E-MTAB-6558	A-AFFY-44	3060-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3060-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3060-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3060-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3060-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3060-D6-hybridization	characteristic	individual	3060-D6
+E-MTAB-6558	A-AFFY-44	3060-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3060-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3060-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3060-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3060-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3060-D91-hybridization	characteristic	individual	3060-D91
+E-MTAB-6558	A-AFFY-44	3060-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3060-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3060-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3060-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3061-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3061-D0-hybridization	characteristic	individual	3061-D0
+E-MTAB-6558	A-AFFY-44	3061-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3061-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3061-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3061-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3061-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3061-D6-hybridization	characteristic	individual	3061-D6
+E-MTAB-6558	A-AFFY-44	3061-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3061-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3061-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3061-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3061-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3061-D91-hybridization	characteristic	individual	3061-D91
+E-MTAB-6558	A-AFFY-44	3061-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3061-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3061-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3061-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3062-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3062-D0-hybridization	characteristic	individual	3062-D0
+E-MTAB-6558	A-AFFY-44	3062-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3062-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3062-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3062-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3062-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3062-D6-hybridization	characteristic	individual	3062-D6
+E-MTAB-6558	A-AFFY-44	3062-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3062-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3062-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3062-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3062-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3062-D91-hybridization	characteristic	individual	3062-D91
+E-MTAB-6558	A-AFFY-44	3062-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3062-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3062-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3062-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3063-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3063-D0-hybridization	characteristic	individual	3063-D0
+E-MTAB-6558	A-AFFY-44	3063-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3063-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3063-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3063-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3063-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3063-D6-hybridization	characteristic	individual	3063-D6
+E-MTAB-6558	A-AFFY-44	3063-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3063-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3063-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3063-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3063-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3063-D91-hybridization	characteristic	individual	3063-D91
+E-MTAB-6558	A-AFFY-44	3063-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3063-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3063-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3063-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3064-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3064-D0-hybridization	characteristic	individual	3064-D0
+E-MTAB-6558	A-AFFY-44	3064-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3064-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3064-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3064-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3064-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3064-D6-hybridization	characteristic	individual	3064-D6
+E-MTAB-6558	A-AFFY-44	3064-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3064-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3064-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3064-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3065-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3065-D0-hybridization	characteristic	individual	3065-D0
+E-MTAB-6558	A-AFFY-44	3065-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3065-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3065-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3065-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3065-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3065-D6-hybridization	characteristic	individual	3065-D6
+E-MTAB-6558	A-AFFY-44	3065-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3065-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3065-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3065-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3065-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3065-D91-hybridization	characteristic	individual	3065-D91
+E-MTAB-6558	A-AFFY-44	3065-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3065-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3065-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3065-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3066-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3066-D0-hybridization	characteristic	individual	3066-D0
+E-MTAB-6558	A-AFFY-44	3066-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3066-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3066-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3066-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3066-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3066-D91-hybridization	characteristic	individual	3066-D91
+E-MTAB-6558	A-AFFY-44	3066-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3066-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3066-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3066-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3067-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3067-D0-hybridization	characteristic	individual	3067-D0
+E-MTAB-6558	A-AFFY-44	3067-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3067-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3067-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3067-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3067-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3067-D6-hybridization	characteristic	individual	3067-D6
+E-MTAB-6558	A-AFFY-44	3067-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3067-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3067-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3067-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3067-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3067-D91-hybridization	characteristic	individual	3067-D91
+E-MTAB-6558	A-AFFY-44	3067-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3067-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3067-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3067-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3068-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3068-D0-hybridization	characteristic	individual	3068-D0
+E-MTAB-6558	A-AFFY-44	3068-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3068-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3068-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3068-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3068-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3068-D6-hybridization	characteristic	individual	3068-D6
+E-MTAB-6558	A-AFFY-44	3068-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3068-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3068-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3068-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3068-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3068-D91-hybridization	characteristic	individual	3068-D91
+E-MTAB-6558	A-AFFY-44	3068-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3068-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3068-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3068-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3069-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3069-D0-hybridization	characteristic	individual	3069-D0
+E-MTAB-6558	A-AFFY-44	3069-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3069-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3069-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3069-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3069-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3069-D6-hybridization	characteristic	individual	3069-D6
+E-MTAB-6558	A-AFFY-44	3069-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3069-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3069-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3069-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3069-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3069-D91-hybridization	characteristic	individual	3069-D91
+E-MTAB-6558	A-AFFY-44	3069-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3069-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3069-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3069-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3070-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3070-D0-hybridization	characteristic	individual	3070-D0
+E-MTAB-6558	A-AFFY-44	3070-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3070-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3070-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3070-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3070-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3070-D6-hybridization	characteristic	individual	3070-D6
+E-MTAB-6558	A-AFFY-44	3070-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3070-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3070-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3070-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3070-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3070-D91-hybridization	characteristic	individual	3070-D91
+E-MTAB-6558	A-AFFY-44	3070-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3070-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3070-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3070-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3071-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3071-D0-hybridization	characteristic	individual	3071-D0
+E-MTAB-6558	A-AFFY-44	3071-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3071-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3071-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3071-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3071-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3071-D6-hybridization	characteristic	individual	3071-D6
+E-MTAB-6558	A-AFFY-44	3071-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3071-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3071-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3071-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3071-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3071-D91-hybridization	characteristic	individual	3071-D91
+E-MTAB-6558	A-AFFY-44	3071-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3071-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3071-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3071-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3072-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3072-D0-hybridization	characteristic	individual	3072-D0
+E-MTAB-6558	A-AFFY-44	3072-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3072-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3072-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3072-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3072-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3072-D6-hybridization	characteristic	individual	3072-D6
+E-MTAB-6558	A-AFFY-44	3072-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3072-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3072-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3072-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3073-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3073-D0-hybridization	characteristic	individual	3073-D0
+E-MTAB-6558	A-AFFY-44	3073-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3073-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3073-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3073-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3073-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3073-D6-hybridization	characteristic	individual	3073-D6
+E-MTAB-6558	A-AFFY-44	3073-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3073-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3073-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3073-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3073-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3073-D91-hybridization	characteristic	individual	3073-D91
+E-MTAB-6558	A-AFFY-44	3073-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3073-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3073-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3073-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3074-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3074-D0-hybridization	characteristic	individual	3074-D0
+E-MTAB-6558	A-AFFY-44	3074-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3074-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3074-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3074-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3074-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3074-D6-hybridization	characteristic	individual	3074-D6
+E-MTAB-6558	A-AFFY-44	3074-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3074-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3074-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3074-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3075-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3075-D0-hybridization	characteristic	individual	3075-D0
+E-MTAB-6558	A-AFFY-44	3075-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3075-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3075-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3075-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3075-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3075-D6-hybridization	characteristic	individual	3075-D6
+E-MTAB-6558	A-AFFY-44	3075-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3075-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3075-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3075-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3075-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3075-D91-hybridization	characteristic	individual	3075-D91
+E-MTAB-6558	A-AFFY-44	3075-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3075-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3075-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3075-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3076-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3076-D0-hybridization	characteristic	individual	3076-D0
+E-MTAB-6558	A-AFFY-44	3076-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3076-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3076-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3076-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3076-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3076-D91-hybridization	characteristic	individual	3076-D91
+E-MTAB-6558	A-AFFY-44	3076-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3076-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3076-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3076-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3077-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3077-D0-hybridization	characteristic	individual	3077-D0
+E-MTAB-6558	A-AFFY-44	3077-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3077-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3077-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3077-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3077-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3077-D6-hybridization	characteristic	individual	3077-D6
+E-MTAB-6558	A-AFFY-44	3077-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3077-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3077-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3077-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3078-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3078-D0-hybridization	characteristic	individual	3078-D0
+E-MTAB-6558	A-AFFY-44	3078-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3078-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3078-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3078-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3078-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3078-D6-hybridization	characteristic	individual	3078-D6
+E-MTAB-6558	A-AFFY-44	3078-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3078-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3078-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3078-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3078-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3078-D91-hybridization	characteristic	individual	3078-D91
+E-MTAB-6558	A-AFFY-44	3078-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3078-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3078-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3078-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3079-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3079-D0-hybridization	characteristic	individual	3079-D0
+E-MTAB-6558	A-AFFY-44	3079-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3079-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3079-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3079-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3079-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3079-D6-hybridization	characteristic	individual	3079-D6
+E-MTAB-6558	A-AFFY-44	3079-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3079-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3079-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3079-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3079-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3079-D91-hybridization	characteristic	individual	3079-D91
+E-MTAB-6558	A-AFFY-44	3079-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3079-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3079-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3079-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3080-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3080-D0-hybridization	characteristic	individual	3080-D0
+E-MTAB-6558	A-AFFY-44	3080-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3080-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3080-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3080-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3080-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3080-D6-hybridization	characteristic	individual	3080-D6
+E-MTAB-6558	A-AFFY-44	3080-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3080-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3080-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3080-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3080-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3080-D91-hybridization	characteristic	individual	3080-D91
+E-MTAB-6558	A-AFFY-44	3080-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3080-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3080-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3080-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3081-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3081-D0-hybridization	characteristic	individual	3081-D0
+E-MTAB-6558	A-AFFY-44	3081-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3081-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3081-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3081-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3081-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3081-D6-hybridization	characteristic	individual	3081-D6
+E-MTAB-6558	A-AFFY-44	3081-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3081-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3081-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3081-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3081-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3081-D91-hybridization	characteristic	individual	3081-D91
+E-MTAB-6558	A-AFFY-44	3081-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3081-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3081-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3081-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3082-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3082-D0-hybridization	characteristic	individual	3082-D0
+E-MTAB-6558	A-AFFY-44	3082-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3082-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3082-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3082-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3082-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3082-D6-hybridization	characteristic	individual	3082-D6
+E-MTAB-6558	A-AFFY-44	3082-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3082-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3082-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3082-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3082-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3082-D91-hybridization	characteristic	individual	3082-D91
+E-MTAB-6558	A-AFFY-44	3082-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3082-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3082-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3082-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3083-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3083-D0-hybridization	characteristic	individual	3083-D0
+E-MTAB-6558	A-AFFY-44	3083-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3083-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3083-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3083-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3083-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3083-D6-hybridization	characteristic	individual	3083-D6
+E-MTAB-6558	A-AFFY-44	3083-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3083-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3083-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3083-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3083-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3083-D91-hybridization	characteristic	individual	3083-D91
+E-MTAB-6558	A-AFFY-44	3083-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3083-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3083-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3083-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3084-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3084-D0-hybridization	characteristic	individual	3084-D0
+E-MTAB-6558	A-AFFY-44	3084-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3084-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3084-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3084-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3084-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3084-D6-hybridization	characteristic	individual	3084-D6
+E-MTAB-6558	A-AFFY-44	3084-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3084-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3084-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3084-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3084-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3084-D91-hybridization	characteristic	individual	3084-D91
+E-MTAB-6558	A-AFFY-44	3084-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3084-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3084-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3084-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3085-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3085-D0-hybridization	characteristic	individual	3085-D0
+E-MTAB-6558	A-AFFY-44	3085-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3085-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3085-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3085-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3085-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3085-D6-hybridization	characteristic	individual	3085-D6
+E-MTAB-6558	A-AFFY-44	3085-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3085-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3085-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3085-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3085-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3085-D91-hybridization	characteristic	individual	3085-D91
+E-MTAB-6558	A-AFFY-44	3085-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3085-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3085-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3085-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3086-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3086-D6-hybridization	characteristic	individual	3086-D6
+E-MTAB-6558	A-AFFY-44	3086-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3086-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3086-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3086-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3086-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3086-D91-hybridization	characteristic	individual	3086-D91
+E-MTAB-6558	A-AFFY-44	3086-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3086-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3086-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3086-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3087-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3087-D0-hybridization	characteristic	individual	3087-D0
+E-MTAB-6558	A-AFFY-44	3087-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3087-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3087-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3087-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3087-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3087-D6-hybridization	characteristic	individual	3087-D6
+E-MTAB-6558	A-AFFY-44	3087-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3087-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3087-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3087-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3087-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3087-D91-hybridization	characteristic	individual	3087-D91
+E-MTAB-6558	A-AFFY-44	3087-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3087-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3087-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3087-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3088-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3088-D0-hybridization	characteristic	individual	3088-D0
+E-MTAB-6558	A-AFFY-44	3088-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3088-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3088-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3088-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3088-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3088-D6-hybridization	characteristic	individual	3088-D6
+E-MTAB-6558	A-AFFY-44	3088-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3088-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3088-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3088-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3088-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3088-D91-hybridization	characteristic	individual	3088-D91
+E-MTAB-6558	A-AFFY-44	3088-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3088-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3088-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3088-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3089-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3089-D6-hybridization	characteristic	individual	3089-D6
+E-MTAB-6558	A-AFFY-44	3089-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3089-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3089-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3089-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3089-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3089-D91-hybridization	characteristic	individual	3089-D91
+E-MTAB-6558	A-AFFY-44	3089-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3089-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3089-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3089-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3090-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3090-D0-hybridization	characteristic	individual	3090-D0
+E-MTAB-6558	A-AFFY-44	3090-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3090-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3090-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3090-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3090-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3090-D6-hybridization	characteristic	individual	3090-D6
+E-MTAB-6558	A-AFFY-44	3090-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3090-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3090-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3090-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3090-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3090-D91-hybridization	characteristic	individual	3090-D91
+E-MTAB-6558	A-AFFY-44	3090-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3090-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3090-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3090-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3091-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3091-D0-hybridization	characteristic	individual	3091-D0
+E-MTAB-6558	A-AFFY-44	3091-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3091-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3091-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3091-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3091-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3091-D6-hybridization	characteristic	individual	3091-D6
+E-MTAB-6558	A-AFFY-44	3091-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3091-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3091-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3091-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3091-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3091-D91-hybridization	characteristic	individual	3091-D91
+E-MTAB-6558	A-AFFY-44	3091-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3091-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3091-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3091-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3092-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3092-D0-hybridization	characteristic	individual	3092-D0
+E-MTAB-6558	A-AFFY-44	3092-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3092-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3092-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3092-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3092-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3092-D6-hybridization	characteristic	individual	3092-D6
+E-MTAB-6558	A-AFFY-44	3092-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3092-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3092-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3092-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3093-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3093-D0-hybridization	characteristic	individual	3093-D0
+E-MTAB-6558	A-AFFY-44	3093-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3093-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3093-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3093-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3093-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3093-D6-hybridization	characteristic	individual	3093-D6
+E-MTAB-6558	A-AFFY-44	3093-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3093-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3093-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3093-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3093-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3093-D91-hybridization	characteristic	individual	3093-D91
+E-MTAB-6558	A-AFFY-44	3093-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3093-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3093-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3093-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3094-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3094-D0-hybridization	characteristic	individual	3094-D0
+E-MTAB-6558	A-AFFY-44	3094-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3094-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3094-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3094-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3094-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3094-D6-hybridization	characteristic	individual	3094-D6
+E-MTAB-6558	A-AFFY-44	3094-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3094-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3094-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3094-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3094-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3094-D91-hybridization	characteristic	individual	3094-D91
+E-MTAB-6558	A-AFFY-44	3094-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3094-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3094-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3094-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3095-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3095-D6-hybridization	characteristic	individual	3095-D6
+E-MTAB-6558	A-AFFY-44	3095-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3095-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3095-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3095-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3095-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3095-D91-hybridization	characteristic	individual	3095-D91
+E-MTAB-6558	A-AFFY-44	3095-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3095-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3095-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3095-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3096-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3096-D6-hybridization	characteristic	individual	3096-D6
+E-MTAB-6558	A-AFFY-44	3096-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3096-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3096-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3096-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3096-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3096-D91-hybridization	characteristic	individual	3096-D91
+E-MTAB-6558	A-AFFY-44	3096-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3096-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3096-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3096-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3097-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3097-D0-hybridization	characteristic	individual	3097-D0
+E-MTAB-6558	A-AFFY-44	3097-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3097-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3097-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3097-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3097-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3097-D6-hybridization	characteristic	individual	3097-D6
+E-MTAB-6558	A-AFFY-44	3097-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3097-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3097-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3097-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3097-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3097-D91-hybridization	characteristic	individual	3097-D91
+E-MTAB-6558	A-AFFY-44	3097-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3097-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3097-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3097-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3098-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3098-D6-hybridization	characteristic	individual	3098-D6
+E-MTAB-6558	A-AFFY-44	3098-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3098-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3098-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3098-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3098-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3098-D91-hybridization	characteristic	individual	3098-D91
+E-MTAB-6558	A-AFFY-44	3098-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3098-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3098-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3098-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3099-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3099-D0-hybridization	characteristic	individual	3099-D0
+E-MTAB-6558	A-AFFY-44	3099-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3099-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3099-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3099-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3099-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3099-D6-hybridization	characteristic	individual	3099-D6
+E-MTAB-6558	A-AFFY-44	3099-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3099-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3099-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3099-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3099-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3099-D91-hybridization	characteristic	individual	3099-D91
+E-MTAB-6558	A-AFFY-44	3099-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3099-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3099-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3099-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3100-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3100-D0-hybridization	characteristic	individual	3100-D0
+E-MTAB-6558	A-AFFY-44	3100-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3100-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3100-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3100-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3100-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3100-D91-hybridization	characteristic	individual	3100-D91
+E-MTAB-6558	A-AFFY-44	3100-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3100-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3100-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3100-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3101-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3101-D6-hybridization	characteristic	individual	3101-D6
+E-MTAB-6558	A-AFFY-44	3101-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3101-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3101-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3101-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3101-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3101-D91-hybridization	characteristic	individual	3101-D91
+E-MTAB-6558	A-AFFY-44	3101-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3101-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3101-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3101-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3102-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3102-D6-hybridization	characteristic	individual	3102-D6
+E-MTAB-6558	A-AFFY-44	3102-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3102-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3102-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3102-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3102-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3102-D91-hybridization	characteristic	individual	3102-D91
+E-MTAB-6558	A-AFFY-44	3102-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3102-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3102-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3102-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3103-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3103-D0-hybridization	characteristic	individual	3103-D0
+E-MTAB-6558	A-AFFY-44	3103-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3103-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3103-D0-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3103-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3103-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3103-D6-hybridization	characteristic	individual	3103-D6
+E-MTAB-6558	A-AFFY-44	3103-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3103-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3103-D6-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3103-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3103-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3103-D91-hybridization	characteristic	individual	3103-D91
+E-MTAB-6558	A-AFFY-44	3103-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3103-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3103-D91-hybridization	factor	cohort	smoking abstinence
+E-MTAB-6558	A-AFFY-44	3103-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3104-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3104-D0-hybridization	characteristic	individual	3104-D0
+E-MTAB-6558	A-AFFY-44	3104-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3104-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3104-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3104-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3104-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3104-D6-hybridization	characteristic	individual	3104-D6
+E-MTAB-6558	A-AFFY-44	3104-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3104-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3104-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3104-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3104-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3104-D91-hybridization	characteristic	individual	3104-D91
+E-MTAB-6558	A-AFFY-44	3104-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3104-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3104-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3104-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3105-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3105-D6-hybridization	characteristic	individual	3105-D6
+E-MTAB-6558	A-AFFY-44	3105-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3105-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3105-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3105-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3106-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3106-D0-hybridization	characteristic	individual	3106-D0
+E-MTAB-6558	A-AFFY-44	3106-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3106-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3106-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3106-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3106-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3106-D6-hybridization	characteristic	individual	3106-D6
+E-MTAB-6558	A-AFFY-44	3106-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3106-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3106-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3106-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3106-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3106-D91-hybridization	characteristic	individual	3106-D91
+E-MTAB-6558	A-AFFY-44	3106-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3106-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3106-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3106-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3107-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3107-D0-hybridization	characteristic	individual	3107-D0
+E-MTAB-6558	A-AFFY-44	3107-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3107-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3107-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3107-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3107-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3107-D91-hybridization	characteristic	individual	3107-D91
+E-MTAB-6558	A-AFFY-44	3107-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3107-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3107-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3107-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3108-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3108-D0-hybridization	characteristic	individual	3108-D0
+E-MTAB-6558	A-AFFY-44	3108-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3108-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3108-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3108-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3108-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3108-D91-hybridization	characteristic	individual	3108-D91
+E-MTAB-6558	A-AFFY-44	3108-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3108-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3108-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3108-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3109-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3109-D0-hybridization	characteristic	individual	3109-D0
+E-MTAB-6558	A-AFFY-44	3109-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3109-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3109-D0-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3109-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3109-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3109-D6-hybridization	characteristic	individual	3109-D6
+E-MTAB-6558	A-AFFY-44	3109-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3109-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3109-D6-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3109-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3109-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3109-D91-hybridization	characteristic	individual	3109-D91
+E-MTAB-6558	A-AFFY-44	3109-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3109-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3109-D91-hybridization	factor	cohort	tobacco heating system 2.2 menthol
+E-MTAB-6558	A-AFFY-44	3109-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3110-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3110-D0-hybridization	characteristic	individual	3110-D0
+E-MTAB-6558	A-AFFY-44	3110-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3110-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3110-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3110-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3110-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3110-D6-hybridization	characteristic	individual	3110-D6
+E-MTAB-6558	A-AFFY-44	3110-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3110-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3110-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3110-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3110-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3110-D91-hybridization	characteristic	individual	3110-D91
+E-MTAB-6558	A-AFFY-44	3110-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3110-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3110-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3110-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3111-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3111-D0-hybridization	characteristic	individual	3111-D0
+E-MTAB-6558	A-AFFY-44	3111-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3111-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3111-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3111-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3111-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3111-D6-hybridization	characteristic	individual	3111-D6
+E-MTAB-6558	A-AFFY-44	3111-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3111-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3111-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3111-D6-hybridization	factor	time	6 day
+E-MTAB-6558	A-AFFY-44	3111-D91-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3111-D91-hybridization	characteristic	individual	3111-D91
+E-MTAB-6558	A-AFFY-44	3111-D91-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3111-D91-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3111-D91-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3111-D91-hybridization	factor	time	91 day
+E-MTAB-6558	A-AFFY-44	3112-D0-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3112-D0-hybridization	characteristic	individual	3112-D0
+E-MTAB-6558	A-AFFY-44	3112-D0-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3112-D0-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3112-D0-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3112-D0-hybridization	factor	time	0 day
+E-MTAB-6558	A-AFFY-44	3112-D6-hybridization	characteristic	developmental stage	adult	http://www.ebi.ac.uk/efo/EFO_0001272
+E-MTAB-6558	A-AFFY-44	3112-D6-hybridization	characteristic	individual	3112-D6
+E-MTAB-6558	A-AFFY-44	3112-D6-hybridization	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-MTAB-6558	A-AFFY-44	3112-D6-hybridization	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-MTAB-6558	A-AFFY-44	3112-D6-hybridization	factor	cohort	menthol conventional cigarette
+E-MTAB-6558	A-AFFY-44	3112-D6-hybridization	factor	time	6 day

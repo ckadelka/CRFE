@@ -1,0 +1,65 @@
+Creation Time:	2022-12-29 15:32:09
+
+INPUT:
+File name:	/home/ahphan/RotationData/Kadelka/CRFE/gith/crfe_v017.py
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.1
+threshold type:	proportion
+belief:	5.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	25000
+MCMC steps:	25000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	835994899
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2410
+Total number of genes:	10923
+Number of perturbed genes:	1092
+Proportion perturbed genes:	0.09997253501785223
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.08870967741935484
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.004
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-3587.080370831706 +- 1.4758118518126404
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	44	19	1.0	0.0	8.120e+02	1.016	chromatin assembly or disassembly
+2	38	19	1.0	0.0	5.515e+02	1.478	digestion
+3	21	13	0.997	0.00901	1.409e+02	1.584	sister chromatid segregation
+4	25	12	0.98912	0.03265	2.488e+02	1.3	regulation of chromosome segregation
+5	23	10	0.9756	0.05975	2.259e+02	1.119	regulation of transcription involved in G1/S transition of mitotic cell cycle
+6	49	16	0.94385	0.09525	1.169e+03	0.972	O-glycan processing
+7	23	8	0.84647	0.24742	2.568e+02	1.03	keratinization
+8	21	10	0.67337	0.3012	1.779e+02	0.778	sympathetic nervous system development
+9	66	21	0.63208	0.4265	2.132e+03	0.795	collagen catabolic process
+10	20	8	0.3596	0.26825	1.809e+02	0.782	regulation of branching involved in ureteric bud morphogenesis
+11	31	11	0.33309	0.34182	4.556e+02	0.693	endocrine pancreas development
+12	73	23	0.18178	0.30762	2.616e+03	0.734	multicellular organismal catabolic process
+13	74	24	0.17997	0.29031	2.652e+03	0.66	extracellular matrix disassembly
+14	32	11	0.14632	0.19161	4.925e+02	0.8	drug metabolic process
+15	23	8	0.0723	0.16902	2.568e+02	0.573	regulation of mesonephros development
+16	20	6	0.02239	0.04606	2.099e+02	0.547	calcium-independent cell-cell adhesion
+17	33	11	0.01758	0.03754	5.314e+02	0.667	placenta development
+18	24	8	0.01192	0.03576	2.848e+02	0.927	chromosome organization involved in meiosis
+19	23	6	0.00552	0.01655	2.918e+02	0.486	proximal/distal pattern formation
+20	31	11	0.00526	0.01579	4.556e+02	0.972	DNA packaging
+21	26	10	0.00495	0.01486	3.088e+02	1.072	chromosome condensation
+22	32	9	0.00461	0.01382	5.394e+02	0.941	spindle assembly checkpoint
+23	75	21	0.00307	0.0092	2.902e+03	0.633	terpenoid metabolic process
+24	81	31	0.003	0.00901	2.919e+03	0.994	chromosome segregation
+25	26	9	0.00082	0.00247	3.267e+02	0.982	histone exchange

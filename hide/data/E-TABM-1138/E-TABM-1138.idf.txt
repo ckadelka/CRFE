@@ -1,0 +1,28 @@
+Comment[ArrayExpressAccession]	E-TABM-1138			
+Investigation Title	Baseline and Post-Bortezomib gene expression profiling of CD138 purified bone marrow plasma cells from multiple myeloma patients			
+Comment[Submitted Name]	Baseline and Post-Bortezomib gene expression profiling of CD138 purified bone marrow plasma cells from multiple myeloma patients			
+Comment[AEExperimentType]	transcription profiling by array			
+Comment[AEExperimentDisplayName]	Transcription profiling by array of paired samples from 142 patients before and after 48 hours of treatment with bortezomid			
+Experimental Design	compound_treatment_design, in_vivo_design, co-expression_design			
+Experimental Factor Name	clinical treatment			
+Experimental Factor Type	clinical treatment			
+Person Last Name	Qu			
+Person First Name	Pingping			
+Person Email	pingpingq@crab.org			
+Person Address	1730 Minor Ave STE 1900, Seattle, WA, 98101, USA			
+Person Affiliation	Cancer Research and Biostatistics			
+Person Roles	submitter			
+Public Release Date	2012-03-31			
+Comment[ArrayExpressSubmissionDate]	2011-03-31			
+PubMed ID	21628408			
+Publication DOI	10.1182/blood-2010-12-328252			
+Publication Author List	Shaughnessy JD Jr, Qu P, Usmani S, Heuck CJ, Zhang Q, Zhou Y, Tian E, Hanamura I, van Rhee F, Anaissie E, Epstein J, Nair B, Stephens O, Williams R, Waheed S, Alsayed Y, Crowley J, Barlogie B			
+Publication Title	Pharmacogenomics of bortezomib test-dosing identifies hyperexpression of proteasome genes, especially PSMD4, as novel high-risk feature in myeloma treated with Total Therapy 3.			
+Experiment Description	High PSMD4 expression levels in plasma cells are linked to poor prognosis in multiple myeloma. Additional file available-E-TABM-1138.additional.zip			
+Protocol Name	P-TABM-5855	P-TABM-5856	P-TABM-5857	P-TABM-5858
+Protocol Type	nucleic_acid_extraction	labeling	hybridization	bioassay_data_transformation
+Protocol Description	RNA was extracted using the Qiagen RNeasy kit (Quiagen, Valencia, Ca).	cDNA was prepared and biotinylated using the Affymetrix GeneChip HT 3 IVT Express Kit (Affymetrix, Santa Clara, CA). 	Samples were hybridized to an Affymetrix U133Plus2.0 microarray according to the manufacturer's recommendations and then read on a GeneChip Scanner 3000 (Affymetrix, Santa Clara, CA).	The data were analyzed with Microarray Suite version 5.0 (MAS 5.0) using Affymetrix default analysis settings and global scaling as normalization method. The trimmed mean target intensity of each array was arbitrarily set to 500. Gene expression levels are log2 transformed.
+Protocol Parameters				
+Protocol Software				
+Comment[AdditionalFile]	clinical_data_and_others.txt			
+SDRF File	E-TABM-1138.sdrf.txt			

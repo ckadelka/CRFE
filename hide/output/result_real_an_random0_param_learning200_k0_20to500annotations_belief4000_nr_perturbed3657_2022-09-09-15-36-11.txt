@@ -1,0 +1,107 @@
+Creation Time:	2022-09-09 15:36:11
+
+INPUT:
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.3
+threshold type:	proportion
+belief:	4.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	1
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	3176091197
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	3657
+Proportion perturbed genes:	0.3000246123554024
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.2838709677419355
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.005985634477254589
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-7641.944110827105 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	57	28	1.0	0.0	1.247e+03	0.495	digestion
+2	51	23	1.0	0.0	1.058e+03	0.59	O-glycan processing
+3	20	11	0.94066	0.0	1.449e+02	0.586	calcium-independent cell-cell adhesion
+4	109	48	0.89392	0.0	4.853e+03	0.5	epidermis development
+5	97	54	0.8892	0.0	3.261e+03	0.513	nucleosome assembly
+6	70	40	0.76038	0.0	1.663e+03	0.764	collagen catabolic process
+7	40	19	0.74366	0.0	6.323e+02	0.592	endocrine pancreas development
+8	102	56	0.73888	0.0	3.649e+03	0.42	cellular amino acid biosynthetic process
+9	84	46	0.70966	0.0	2.485e+03	0.519	chromosome segregation
+10	25	13	0.7071	0.0	2.348e+02	0.404	tumor necrosis factor-mediated signaling pathway
+11	44	22	0.47416	0.0	7.371e+02	0.36	glycolytic process
+12	25	17	0.46916	0.0	1.729e+02	0.543	regulation of mesonephros development
+13	33	20	0.43298	0.0	3.517e+02	0.508	DNA strand elongation involved in DNA replication
+14	22	15	0.42972	0.0	1.339e+02	0.594	regulation of branching involved in ureteric bud morphogenesis
+15	31	18	0.28432	0.0	3.258e+02	0.211	central nervous system neuron development
+16	35	21	0.2728	0.0	3.997e+02	0.615	DNA strand elongation
+17	198	92	0.26112	0.0	1.539e+04	0.231	alpha-amino acid metabolic process
+18	21	12	0.25716	0.0	1.539e+02	0.936	neuron fate specification
+19	111	49	0.2516	0.0	5.025e+03	0.334	carbohydrate catabolic process
+20	155	68	0.24708	0.0	9.800e+03	0.295	skeletal system development
+21	25	15	0.23732	0.0	2.059e+02	0.635	regulation of chromosome segregation
+22	77	42	0.22964	0.0	2.097e+03	0.664	multicellular organismal catabolic process
+23	120	54	0.19802	0.0	5.798e+03	0.337	regulation of nuclear division
+24	38	17	0.19392	0.0	5.943e+02	0.082	peripheral nervous system development
+25	26	14	0.17962	0.0	2.468e+02	0.46	regulation of meiosis
+26	40	24	0.17036	0.0	5.205e+02	0.481	purine nucleobase metabolic process
+27	22	11	0.142	0.0	1.879e+02	0.342	glycerol metabolic process
+28	34	19	0.11284	0.0	4.057e+02	0.484	base-excision repair
+29	110	58	0.1108	0.0	4.383e+03	0.455	protein-DNA complex assembly
+30	21	15	0.10322	0.0	1.120e+02	0.852	sister chromatid segregation
+31	30	15	0.09446	0.0	3.457e+02	0.484	chromosome condensation
+32	36	15	0.08406	0.0	5.584e+02	0.373	neurogenesis
+33	87	35	0.05496	0.0	3.271e+03	0.064	neuropeptide signaling pathway
+34	28	10	0.05362	0.0	3.716e+02	-0.074	smooth muscle cell differentiation
+35	26	9	0.05298	0.0	3.267e+02	0.274	ephrin receptor signaling pathway
+36	28	15	0.05218	0.0	2.868e+02	0.83	keratinization
+37	38	19	0.04668	0.0	5.514e+02	0.405	monosaccharide catabolic process
+38	21	7	0.04052	0.0	2.198e+02	0.17	regulation of lymphocyte migration
+39	23	13	0.03748	0.0	1.859e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+40	105	45	0.03494	0.0	4.580e+03	0.333	single-organism carbohydrate catabolic process
+41	23	10	0.029	0.0	2.258e+02	0.219	branching involved in mammary gland duct morphogenesis
+42	22	13	0.028	0.0	1.629e+02	0.204	regulation of astrocyte differentiation
+43	20	11	0.02686	0.0	1.449e+02	0.629	positive regulation of tissue remodeling
+44	54	25	0.0244	0.0	1.165e+03	0.217	regulation of kidney development
+45	30	15	0.02388	0.0	3.457e+02	0.406	regulation of meiotic cell cycle
+46	24	12	0.01812	0.0	2.228e+02	0.355	alditol metabolic process
+47	20	8	0.0171	0.0	1.809e+02	0.252	regulation of keratinocyte differentiation
+48	20	9	0.01584	0.0	1.679e+02	0.166	establishment or maintenance of apical/basal cell polarity & establishment or maintenance of bipolar cell polarity
+49	92	48	0.01528	0.0	3.096e+03	0.229	protein N-linked glycosylation via asparagine
+50	29	13	0.0148	0.0	3.487e+02	0.444	sympathetic nervous system development
+51	30	15	0.01392	0.0	3.457e+02	0.336	cell-cell signaling involved in cell fate commitment
+52	32	12	0.01182	0.0	4.705e+02	0.242	regulation of tyrosine phosphorylation of Stat3 protein
+53	86	44	0.00998	0.0	2.746e+03	0.529	multicellular organismal macromolecule metabolic process
+54	27	12	0.00996	0.0	3.047e+02	-0.043	cytokine secretion
+55	22	6	0.00904	0.0	2.628e+02	-0.156	embryonic eye morphogenesis
+56	25	18	0.00858	0.0	1.549e+02	0.576	chromatin remodeling at centromere
+57	32	18	0.00778	0.0	3.577e+02	0.383	dolichol-linked oligosaccharide biosynthetic process
+58	85	35	0.00776	0.0	3.082e+03	0.176	regulation of cyclin-dependent protein serine/threonine kinase activity
+59	26	8	0.00606	0.0	3.456e+02	-0.014	cardiac muscle cell development
+60	22	11	0.00288	0.0	1.879e+02	0.268	negative regulation of glial cell differentiation
+61	37	15	0.0027	0.0	5.993e+02	0.099	neural precursor cell proliferation
+62	28	12	0.00238	0.0	3.347e+02	0.237	apoptotic DNA fragmentation
+63	29	10	0.00218	0.0	4.056e+02	0.161	regulation of cytokinesis
+64	21	10	0.00198	0.0	1.779e+02	0.182	response to X-ray
+65	30	12	0.00146	0.0	3.996e+02	0.153	midbrain development
+66	60	30	0.00136	0.0	1.364e+03	0.246	pigment metabolic process
+67	34	12	0.0004	0.0	5.473e+02	-0.067	embryo implantation
+68	25	9	0.00036	0.0	2.967e+02	0.096	rhythmic behavior

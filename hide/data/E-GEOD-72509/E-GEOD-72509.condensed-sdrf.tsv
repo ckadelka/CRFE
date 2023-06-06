@@ -1,0 +1,585 @@
+E-GEOD-72509		SRR2443147	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443147	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443147	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443147	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443147	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443148	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443148	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443148	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443148	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443148	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443149	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443149	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443149	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443149	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443149	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443150	characteristic	clinical information	Interferon Signature Metric low, anti-Ro antibody high
+E-GEOD-72509		SRR2443150	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443150	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443150	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443150	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443151	characteristic	clinical information	Interferon Signature Metric low, anti-Ro antibody medium
+E-GEOD-72509		SRR2443151	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443151	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443151	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443151	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443152	characteristic	clinical information	Interferon Signature Metric low, anti-Ro antibody medium
+E-GEOD-72509		SRR2443152	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443152	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443152	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443152	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443153	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443153	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443153	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443153	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443153	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443154	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443154	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443154	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443154	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443154	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443155	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443155	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443155	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443155	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443155	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443156	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443156	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443156	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443156	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443156	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443157	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443157	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443157	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443157	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443157	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443158	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443158	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443158	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443158	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443158	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443159	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443159	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443159	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443159	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443159	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443160	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443160	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443160	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443160	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443160	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443161	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443161	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443161	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443161	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443161	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443162	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443162	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443162	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443162	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443162	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443163	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443163	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443163	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443163	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443163	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443164	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443164	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443164	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443164	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443164	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443165	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443165	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443165	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443165	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443165	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443166	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443166	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443166	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443166	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443166	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443167	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443167	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443167	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443167	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443167	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443168	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443168	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443168	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443168	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443168	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443169	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443169	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443169	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443169	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443169	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443170	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443170	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443170	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443170	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443170	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443171	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443171	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443171	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443171	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443171	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443172	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443172	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443172	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443172	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443172	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443173	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443173	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443173	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443173	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443173	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443174	characteristic	clinical information	Interferon Signature Metric low, none anti-Ro antibody
+E-GEOD-72509		SRR2443174	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443174	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443174	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443174	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443175	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443175	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443175	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443175	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443175	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443176	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443176	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443176	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443176	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443176	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443177	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443177	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443177	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443177	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443177	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443178	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443178	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443178	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443178	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443178	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443179	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443179	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443179	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443179	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443179	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443180	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443180	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443180	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443180	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443180	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443181	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443181	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443181	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443181	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443181	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443182	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443182	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443182	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443182	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443182	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443183	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443183	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443183	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443183	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443183	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443184	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443184	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443184	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443184	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443184	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443185	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443185	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443185	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443185	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443185	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443186	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443186	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443186	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443186	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443186	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443187	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443187	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443187	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443187	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443187	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443188	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443188	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443188	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443188	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443188	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443189	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443189	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443189	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443189	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443189	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443190	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443190	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443190	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443190	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443190	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443191	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443191	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443191	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443191	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443191	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443192	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443192	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443192	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443192	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443192	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443193	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443193	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443193	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443193	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443193	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443194	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443194	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443194	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443194	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443194	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443195	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody high
+E-GEOD-72509		SRR2443195	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443195	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443195	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443195	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443196	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443196	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443196	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443196	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443196	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443197	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443197	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443197	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443197	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443197	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443198	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443198	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443198	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443198	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443198	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443199	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443199	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443199	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443199	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443199	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443200	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443200	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443200	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443200	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443200	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443201	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443201	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443201	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443201	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443201	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443202	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443202	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443202	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443202	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443202	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443203	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443203	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443203	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443203	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443203	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443204	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443204	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443204	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443204	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443204	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443205	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443205	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443205	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443205	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443205	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443206	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443206	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443206	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443206	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443206	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443207	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443207	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443207	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443207	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443207	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443208	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443208	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443208	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443208	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443208	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443209	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443209	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443209	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443209	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443209	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443210	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443210	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443210	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443210	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443210	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443211	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443211	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443211	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443211	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443211	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443212	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443212	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443212	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443212	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443212	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443213	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443213	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443213	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443213	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443213	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443214	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443214	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443214	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443214	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443214	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443215	characteristic	clinical information	Interferon Signature Metric high, anti-Ro antibody medium
+E-GEOD-72509		SRR2443215	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443215	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443215	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443215	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443216	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443216	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443216	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443216	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443216	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443217	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443217	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443217	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443217	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443217	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443218	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443218	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443218	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443218	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443218	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443219	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443219	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443219	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443219	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443219	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443220	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443220	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443220	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443220	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443220	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443221	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443221	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443221	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443221	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443221	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443222	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443222	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443222	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443222	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443222	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443223	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443223	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443223	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443223	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443223	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443224	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443224	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443224	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443224	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443224	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443225	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443225	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443225	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443225	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443225	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443226	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443226	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443226	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443226	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443226	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443227	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443227	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443227	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443227	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443227	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443228	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443228	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443228	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443228	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443228	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443229	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443229	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443229	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443229	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443229	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443230	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443230	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443230	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443230	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443230	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443231	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443231	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443231	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443231	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443231	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443232	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443232	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443232	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443232	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443232	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443233	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443233	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443233	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443233	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443233	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443234	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443234	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443234	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443234	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443234	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443235	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443235	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443235	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443235	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443235	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443236	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443236	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443236	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443236	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443236	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443237	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443237	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443237	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443237	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443237	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443238	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443238	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443238	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443238	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443238	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443239	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443239	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443239	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443239	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443239	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443240	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443240	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443240	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443240	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443240	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443241	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443241	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443241	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443241	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443241	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443242	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443242	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443242	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443242	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443242	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443243	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443243	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443243	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443243	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443243	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443244	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443244	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443244	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443244	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443244	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443245	characteristic	clinical information	Interferon Signature Metric high, none anti-Ro antibody
+E-GEOD-72509		SRR2443245	characteristic	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443245	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443245	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443245	factor	disease	systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690
+E-GEOD-72509		SRR2443246	characteristic	clinical information	control
+E-GEOD-72509		SRR2443246	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443246	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443246	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443246	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443247	characteristic	clinical information	control
+E-GEOD-72509		SRR2443247	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443247	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443247	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443247	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443248	characteristic	clinical information	control
+E-GEOD-72509		SRR2443248	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443248	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443248	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443248	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443249	characteristic	clinical information	control
+E-GEOD-72509		SRR2443249	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443249	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443249	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443249	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443250	characteristic	clinical information	control
+E-GEOD-72509		SRR2443250	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443250	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443250	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443250	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443251	characteristic	clinical information	control
+E-GEOD-72509		SRR2443251	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443251	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443251	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443251	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443252	characteristic	clinical information	control
+E-GEOD-72509		SRR2443252	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443252	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443252	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443252	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443253	characteristic	clinical information	control
+E-GEOD-72509		SRR2443253	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443253	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443253	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443253	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443254	characteristic	clinical information	control
+E-GEOD-72509		SRR2443254	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443254	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443254	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443254	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443255	characteristic	clinical information	control
+E-GEOD-72509		SRR2443255	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443255	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443255	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443255	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443256	characteristic	clinical information	control
+E-GEOD-72509		SRR2443256	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443256	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443256	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443256	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443257	characteristic	clinical information	control
+E-GEOD-72509		SRR2443257	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443257	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443257	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443257	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443258	characteristic	clinical information	control
+E-GEOD-72509		SRR2443258	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443258	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443258	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443258	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443259	characteristic	clinical information	control
+E-GEOD-72509		SRR2443259	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443259	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443259	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443259	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443260	characteristic	clinical information	control
+E-GEOD-72509		SRR2443260	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443260	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443260	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443260	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443261	characteristic	clinical information	control
+E-GEOD-72509		SRR2443261	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443261	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443261	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443261	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443262	characteristic	clinical information	control
+E-GEOD-72509		SRR2443262	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443262	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443262	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443262	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443263	characteristic	clinical information	control
+E-GEOD-72509		SRR2443263	characteristic	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461
+E-GEOD-72509		SRR2443263	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-72509		SRR2443263	characteristic	organism part	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+E-GEOD-72509		SRR2443263	factor	disease	normal	http://purl.obolibrary.org/obo/PATO_0000461

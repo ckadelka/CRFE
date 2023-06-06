@@ -1,0 +1,33 @@
+Comment[ArrayExpressAccession]	E-GEOD-75011										
+MAGE-TAB Version	1.1										
+Public Release Date	2016-06-01										
+Investigation Title	Transcriptional profiling of TH2 cells identifies pathogenic features associated with asthma										
+Comment[Submitted Name]	Transcriptional profiling of TH2 cells identifies pathogenic features associated with asthma										
+Experiment Description	Allergic asthma and rhinitis are two common chronic allergic diseases that affect the lungs and nose, respectively. Both diseases share clinical and pathological features characteristic of excessive allergen-induced type 2 inflammation, orchestrated by memory CD4+ T cells that produce type 2 cytokines (TH2 cells). However, a large majority of subjects with allergic rhinitis do not develop asthma, suggesting divergence in disease mechanisms. Since TH2 cells play a pathogenic role in both these diseases and are also present in healthy non-allergic subjects, we performed global transcriptional profiling to determine whether there are qualitative differences in TH2 cells from subjects with allergic asthma, rhinitis and healthy controls. TH2 cells from asthmatic subjects expressed higher levels of several genes that promote their survival as well as alter their metabolic pathways to favor persistence at sites of allergic inflammation. In addition, genes that enhanced TH2 polarization and TH2 cytokine production were also upregulated in asthma. Several genes that oppose T cell activation were downregulated in asthma, suggesting enhanced activation potential of TH2 cells from asthmatic subjects. Many novel genes with poorly defined functions were also differentially expressed in asthma. Thus, our transcriptomic analysis of circulating TH2 cells has identified several molecules that are likely to confer pathogenic features to TH2 cells that are either unique or common to both asthma and rhinitis. RNA-sequencing of circulating TH2 cells isolated from a cohort of patients with allergic rhinitis (25), asthma (40) patients and healthy non allergic subjects (15). Cells were directly isolated from blood by flow cytometry. Total RNA was extracted, messenger RNA was selected and cDNA was amplified linearly with a PCR based method (Picelli et al. 2014). Libraries were prepared using the NexteraXT Illumina sequencing platform.										
+Term Source Name	ArrayExpress	EFO									
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl									
+Person Last Name	Vijayanand	Seumois	Zapardiel-Gonzalo	White	Singh	Schulten	Dillon	Hinz	Sette	Peters	Vijayanand
+Person First Name	Pandurangan	Gregory	Jose	Brandie	Divya	Veronique	Myles	Denize	Alessandro	Bjoern	Pandurangan
+Person Email	vijay@lji.org										
+Person Affiliation	La Jolla Institute for Allergy and Immunology										
+Person Address	La Jolla Institute for Allergy and Immunology, 9420 Athena Cir, La Jolla, CA, USA										
+Person Roles	submitter										
+Protocol Name	P-GSE75011-3	P-GSE75011-2	P-GSE75011-1								
+Protocol Description	Bulk RNA-seq data was mapped against the human hg19 reference using TopHat43 (v1.4.1., --library-type fr-secondstrand -C) and the RefSeq gene annotation downloaded from the UCSC Genome Bioinformatics site. Sequencing read coverage per gene was counted using HTSeq-count (-m union -s yes -t exon -i gene_id) Genome_build: hg19 Supplementary_files_format_and_content: abundance measurements as a matrix table	Cells were sorted directly into Trizol LS buffer by Flow cytometry. Total RNA was purified using a miRNAeasy micro kit (Qiagen, USA) and quantified by qPCR as described previously (Seumois et al., 2012) Purified total RNA (5 ng) was amplified following the smart-seq2 protocol (16 cycles of cDNA amplification) (Picelli et al., 2014). cDNA was purified using AMPure XP beads (Beckman Coulter). From this step, 1 ng of cDNA was used to prepare a standard Nextera XT sequencing library (Nextera XT DNA sample preparation kit and index kit, Illumina).	Cells were directly isolated from samples and lysed, no culture were involved.								
+Protocol Type	normalization data transformation protocol	nucleic acid library construction protocol	growth protocol								
+Experimental Factor Name	disease										
+Experimental Factor Type	disease										
+PubMed ID	27271570										
+Publication DOI	10.4049/jimmunol.1600397										
+Publication Title	Transcriptional Profiling of Th2 Cells Identifies Pathogenic Features Associated with Asthma										
+Publication Author List	Seumois G, Zapardiel-Gonzalo J, White B, Singh D, Schulten V, Dillon M, Hinz D, Broide DH, Sette A, Peters B, Vijayanand P										
+Comment[SecondaryAccession]	GSE75011										
+Comment[GEOReleaseDate]	2016-06-01										
+Comment[ArrayExpressSubmissionDate]	2015-11-13										
+Comment[GEOLastUpdateDate]	2016-06-01										
+Comment[AEExperimentType]	RNA-seq of coding RNA										
+Comment[AdditionalFile:Data1]	GSE75011_Raw_counts.tsv										
+Comment[SecondaryAccession]	SRP066197										
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR2922017-SRR2922176										
+Comment[AEExperimentDisplayName]	RNA-seq of Th2 cells from subjects with allergic asthma, allergic rhinitis or healthy non-atopic subjects										
+SDRF File	E-GEOD-75011.sdrf.txt										

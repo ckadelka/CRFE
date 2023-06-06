@@ -1,0 +1,69 @@
+MAGE-TAB Version	1.1
+Investigation Title	RNA-seq of human neurons derived from H9 embryonic stem cell lines treated with BDNF, TrkB agonist ZEB 85 or NT4 against untreated controls
+
+Experimental Design	compound treatment design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO:0001755
+
+Experimental Factor Name	stimulus	sampling time point
+Experimental Factor Type	stimulus	sampling time point
+Experimental Factor Term Source REF
+Experimental Factor Term Accession Number
+
+Person Last Name	Merkouris
+Person First Name	Spyros
+Person Mid Initials
+Person Email	Merkouriss@cardiff.ac.uk
+Person Phone
+Person Fax
+Person Affiliation	Cardiff University
+Person Address	Cardiff University, School of Biosciences The Sir Martin Evans Building BIOSI 3 2.01 Museum Avenue CF10 3AX, Cardiff
+Person Roles	submitter
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2017-02-13
+Public Release Date	2018-07-13
+
+PubMed ID
+Publication DOI
+Publication Author List
+Publication Title
+Publication Status
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	As a result of a large number of in vitro as well as in vivo experiments with rodents, brain-derived neurotrophic factor (BDNF) and its tyrosine kinase receptor TrkB are now widely appreciated to play major roles in brain function. There is also a growing appreciation that decreased BDNF signalling may be a significant component in a wide range of brain dysfunction in humans based on the discovery of mutations and polymorphisms in the corresponding genes. Human neurons generated in vitro had been shown to be responsive to TrkB phosphorylation upon treatment with BNDF, TrkB agonist ZEB85, the related factor neurotrophin-4 (NT4). In order to compare the transcriptional changes upon treatment with the three TrkB ligands RNA-seq analysis was deployed. Cultures had been treated in triplicates with BDNF, ZEB85 or NT4 for 30 minutes, 2 hours, 12 hours and 24 hours, while non treated controls were lysed at each time-point.
+
+Protocol Name	P-MTAB-76659	P-MTAB-76656	P-MTAB-76655	P-MTAB-76658	P-MTAB-76657	P-MTAB-76660	P-MTAB-76661
+Protocol Type	normalization data transformation protocol	nucleic acid extraction protocol	sample collection protocol	nucleic acid sequencing protocol	nucleic acid library construction protocol	growth protocol	treatment protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003816	EFO_0002944	EFO_0005518	EFO_0004170	EFO_0004184	EFO_0003789	EFO_0003969
+Protocol Description	RNA-seq single-end fastq files were mapped to human assembly genome using the STAR package. Transcript counts were produced with FeatureCounts and data normalized using the Bioconductor package.	Total RNA was extracted from human neurons using the RNeasy Mini kit (Qiagen,).	Cultures were washed with D-PBS and lysed with 350 μl of RLT RNA lysis buffer containing 1 % β-mercaptoethanol.	RNA-sequencing was performed on an Illumina HiSeq 2500 sequencing system at a sequencing depth of 50 million 50 nucleotide single-pair end reads using the Truseq stranded mRNA guidelines (HT protocol).	The TruSeq® Stranded mRNA Sample Preparation Guide and the high-throughput (HT) kit from Illumina was used according to the manufacturer’s instructions.	Human H9 ES cells were plated on matrigel-coated plates (Corning, VWR) and maintained in mTSER medium (STEMCELL Technologies) supplemented with 10 ng/ml of FGF2 (Peprotech). hES cells were passaged by manual dissociation with 0.02% EDTA in Dulbecco’s PBS (0.5mM), pH 7.2 (Sigma) and seeded for an 8-day phase of neuronal induction in SLI medium which contained Advanced DMEM F-12 medium supplemented with glutamax, penicillin and streptomycin (ADF, Life Technologies) and 2% NeuroBrew-21 without retinoic acid (Miltenyi), the SMAD pathway inhibitors LDN193189 (1μM) and SB431542 (10μM), and the WNT pathway inhibitor IWR1 (1.5μM) (Tocris; [59]). Subsequently, neural progenitors were dissociated with Accutase (Life Technologies) and re-seeded for expansion to day 16 in LIA medium which contained ADF medium with 2% NeuroBrew-21 without retinoic acid (Miltenyi), LDN193189 (0.2μM), IWR1 (1.5μM) (Tocris) and 25 ng/ml of Activin A (Peprotech). Neuronal differentiation was initiated by seeding neural progenitors on a substrate of growth factor-reduced matrigel (Corning, VWR) & poly- L- lysine (Sigma) at a density of 100K cells/cm2 and cultured for 7 days in SynaptoJuice A medium which contained Advanced DMEM:F12 (with Glutamax), 1% penicillin/streptomycin, 2 % NeuroBrew21 with retinoic acid (Miltenyi Biotec), 2 µM PD0332991 (Selleckchem), 10 µM DAPT (Sigma-Aldrich), 0.6 mM CaCl2 (to give 1.8 mM CaCl2 in final complete medium (Sigma-Aldrich)), and 200 mM ascorbic acid (Sigma-Aldrich). The medium was replaced at day 7 post-plating by SynaptoJuice B medium which contained equal parts Advanced DMEM/F12 (with Glutamax) and Neurobasal A (Life Technologies), 1% penicillin/streptomycin (Life Technologies), 2% NeuroBrew-21 with retinoic acid (Miltenyi Biotec), 2 µM PD0332991 (Selleckchem), 3 µM CHIR 99021 (Tocris Bioscience), 0.3 mM CaCl2 (1.8 mM CaCl2 final), and 200 µM ascorbic acid (Sigma-Aldrich). Plated neurons were maintained for up to 14 days before exposure to TrkB ligands (see below).	H9 ES cell-derived neurons were treated for 30 min, 2 h, 12 h and 24 h with BDNF (50 ng/ml), ZEB85  (5 μg/ml) and NT4 (75 ng/ml).
+Protocol Parameters
+Protocol Hardware				NextSeq 500
+Protocol Software
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-6975.sdrf.txt
+Comment [Submitted Name]	RNA-seq of human neurons derived from H9 embryonic stem cell lines treated with BDNF, TrkB agonist ZEB 85 or NT4 against untreated controls
+Comment [SecondaryAccession]	ERP109789
+Comment [SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR2685833-ERR2686024
+Comment [AEExperimentType]	RNA-seq of coding RNA
+Comment[ArrayExpressAccession]	E-MTAB-6975
