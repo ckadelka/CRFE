@@ -3,7 +3,7 @@ described in C. Kadelka, M. Brandon, T. M. Murali, Concise Functional Enrichment
 of Ranked Gene Lists. 
 See www.math.vt.edu/people/claus89/crfe/ for help.'''
 
-#v021:  cleaned up version
+#v021:  cleaned up version, deleted nr_categories from argument list (always nr_categories==0, which leads to 2x speed up)
 #v019:  re-added the possibility of specifying alpha and beta and not learning them during the MCMC by setting proportion_parameter_change=0
 #       modified alpha_beta_max so that the highest false rate <= 0.5, that is alpha, beta <= (1+b)/(4b)
 #v018:  added an additional column (mean position of perturbed genes) in output file
@@ -38,14 +38,13 @@ class CRFE:
     ###  Initializing Methods  ###
     ##############################
     
-    def __init__(self, repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
+    def __init__(self, repeats, lower_cutoff, upper_cutoff, belief, 
                  threshold, threshold_type, burnin_steps, MCMC_steps, 
                  alpha_beta_max, proportion_parameter_change, A, P, 
                  gene_file, annotations_file, output_folder, out_str='', 
                  seed=-1, max_belief=10, B=10,
                  LEARN_BELIEF=False,LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=False,alpha=0.1,beta=0.25):        
         self.repeats = repeats
-        #self.nr_categories = nr_categories
         self.lower_cutoff = lower_cutoff
         self.upper_cutoff = upper_cutoff
         self.belief = belief
@@ -101,69 +100,13 @@ class CRFE:
         n = data.shape[0]
         if data.shape[1]==1: #add fake levels if none are provided
             data['level'] = np.arange(n-1,-1,-1)/(n-1)
+            self.LEVEL_LIST_PROVIDED = False
         else:
             data = data.sort_values(by=[data.columns[1]],ascending=False)
+            self.LEVEL_LIST_PROVIDED = True
         self.level_list = np.array(data.iloc[:,1],dtype=float)
         self.genes_list = np.array(data.iloc[:,0])            
 
-    # def find_min_level_of_activation(self,threshold):
-    #     nr_active=int(round(self.n_genes*float(threshold)))
-    #     assert nr_active>0
-    #     counter=0
-    #     for i in range(len(self.genes_list)):
-    #         try:
-    #             self.dict_genes_list_in_unique_genes[i]
-    #             counter+=1
-    #             if counter>=nr_active:
-    #                 return self.level_list[i]
-    #         except KeyError:
-    #             pass
-    #     return self.level_list[-1]
-
-    # def get_list_of_active_categories(self):
-    #     """Create list of active categories, where each active category consists of indices to self.unique_genes"""
-        
-    #     self.G=[]
-    #     self.dict_G = dict()
-    #     if self.threshold_type == 'levels':
-    #         all_levels = np.array(list(set(self.levels)))
-    #         all_levels_greater_or_equal_threshold = all_levels[all_levels>=self.threshold]
-    #         try:
-    #             assert self.nr_categories == len(all_levels_greater_or_equal_threshold)
-    #         except AssertionError:
-    #             print('\n!!! Warning:\nThe chosen number of active categories (%i) is different from the number of different levels >= %f in the expression data (%i). Number of active categories set to %i\n' % (self.nr_categories, self.threshold, len(all_levels_greater_or_equal_threshold), len(all_levels_greater_or_equal_threshold)))
-    #             self.nr_categories = len(all_levels_greater_or_equal_threshold)
-                
-    #         all_levels_greater_or_equal_threshold = np.sort(all_levels_greater_or_equal_threshold)[::-1]
-    #         for i,level in enumerate(all_levels_greater_or_equal_threshold):
-    #             indices = np.where(self.levels==level)[0]
-    #             self.dict_G.update(zip(indices,i*np.ones(len(indices),dtype=int)))
-    #             self.G.append(set(indices))
-    #         indices = np.where(self.levels<self.threshold)[0]
-    #         self.G.append(set(indices))
-    #         #self.dict_G.update(zip(indices,self.nr_categories*np.ones(len(indices),dtype=int)))
-            
-    #     elif self.nr_categories==0: #Singleton: self.nr_categories really is len(bounds)-2 in this case as well
-    #         indices_sorted_by_level_ascending = np.argsort(self.levels)
-    #         nr_above_threshold = sum(self.levels>=self.threshold_for_activation) 
-    #         for i,ind in enumerate(indices_sorted_by_level_ascending[:(-1*nr_above_threshold-1):-1]):
-    #             self.G.append(set([ind]))
-    #             self.dict_G.update({ind:i})
-    #         self.G.append(set(indices_sorted_by_level_ascending[:-1*nr_above_threshold]))
-
-    #     else:
-    #         indices_sorted_by_level_descending = np.argsort(self.levels)[::-1]
-    #         nr_above_threshold = sum(self.levels>=self.threshold_for_activation)
-    #         size_per_category=nr_above_threshold/self.nr_categories
-    #         for i in range(self.nr_categories):
-    #             indices = indices_sorted_by_level_descending[int(round(size_per_category*i)):int(round(size_per_category*(i+1)))]
-    #             self.dict_G.update(zip(indices,i*np.ones(len(indices),dtype=int)))
-    #             self.G.append(set(indices))
-    #         indices = indices_sorted_by_level_descending[nr_above_threshold:]
-    #         self.G.append(set(indices))
-    #         #self.dict_G.update(zip(indices,self.nr_categories*np.ones(len(indices),dtype=int)))
-    
-    #     self.Sn_max=self.n_genes  
 
     #################################
     ###  Basic Algorirthm Methods ###
@@ -182,10 +125,6 @@ class CRFE:
    
     def propose_MCMC_state(self,neighborhood_size):
         self.term_id_to_toggle, self.term_id_to_remove, self.term_id_to_add = -1,-1,-1
-
-        s=self.nr_categories
-        if s==0:
-            s=self.n_perturbed_genes
         
         r=random.random()
         if r > self.proportion_parameter_change: #add, delete, or switch a term
@@ -198,14 +137,14 @@ class CRFE:
                 if self.LEARN_PENALIZATION_PARAMETER:
                     #learn self.penalization_parameter every time because it is easy
                     self.old_nr_penalization_parameter=self.nr_penalization_parameter
-                    self.old_penalization_parameter=self.penalization_parameter                
-                    self.nr_penalization_parameter=min(max(1,self.n_terms-self.number_of_unselected_sets),self.P)
+                    self.old_penalization_parameter=self.penalization_parameter
+                    self.nr_penalization_parameter=min(max(1,self.number_of_selected_terms),self.P)	
                     self.penalization_parameter=self.nr_penalization_parameter*1./self.n_terms
             else: #switch two terms
                 proposal -= self.n_terms
-                
-                selected_term_pos = proposal // self.number_of_unselected_sets +  self.number_of_unselected_sets
-                unselected_term_pos = proposal % self.number_of_unselected_sets
+     
+                selected_term_pos = proposal // self.number_of_unselected_terms 
+                unselected_term_pos = proposal % self.number_of_unselected_terms + self.number_of_selected_terms
                 
                 self.term_id_to_remove = self.internal_list_of_terms_for_MCMC[selected_term_pos]
                 self.term_id_to_add = self.internal_list_of_terms_for_MCMC[unselected_term_pos]
@@ -219,11 +158,7 @@ class CRFE:
                 self.nr_alpha=int(random.random()*self.A)
                 self.alpha = self.possible_values_for_alpha_and_beta[self.nr_alpha]
                 self.log_alphas=self.possible_log_alphas[self.nr_belief][self.nr_alpha]
-                self.alpha_fractions = self.possible_alpha_fractions[self.nr_belief][self.nr_alpha]
-                if s == self.n_perturbed_genes:
-                    self.NP_log_alpha = np.sum(self.log_alphas[self.n_explained_perturbed_genes_per_category==0])#np.dot(self.log_alphas,self.n_perturbed_genes_per_category-self.n_explained_perturbed_genes_per_category)                    
-                else:
-                    self.NP_log_alpha = sum([a*(b-c) for a,b,c in zip(self.log_alphas,self.n_perturbed_genes_per_category,self.n_explained_perturbed_genes_per_category)])#np.dot(self.log_alphas,self.n_perturbed_genes_per_category-self.n_explained_perturbed_genes_per_category)
+                self.NP_log_alpha = np.sum(self.log_alphas[self.n_annotations_per_perturbed_gene==0])
                 self.parameter_changed = 'alpha'
             elif self.LEARN_BELIEF==False or r < self.proportion_parameter_change*2/3: #change beta
                 self.old_nr_beta = self.nr_beta
@@ -231,10 +166,7 @@ class CRFE:
                 self.nr_beta=int(random.random()*self.A)
                 self.beta = self.possible_values_for_alpha_and_beta[self.nr_beta]
                 self.log_1_m_betas=self.possible_log_1_minus_betas[self.nr_belief][self.nr_beta]
-                if s == self.n_perturbed_genes:
-                    self.EP_log_1_minus_beta = np.dot(self.log_1_m_betas,self.n_explained_perturbed_genes_per_category)
-                else:
-                    self.EP_log_1_minus_beta = sum([a*b for a,b in zip(self.log_1_m_betas,self.n_explained_perturbed_genes_per_category)])#np.dot(self.log_1_m_betas,self.n_explained_perturbed_genes_per_category)
+                self.EP_log_1_minus_beta = np.dot(self.log_1_m_betas,self.n_annotations_per_perturbed_gene)
                 self.parameter_changed = 'beta'
             else: #change belief parameter
                 self.old_nr_belief = self.nr_belief
@@ -244,34 +176,29 @@ class CRFE:
                 self.belief = self.possible_values_for_belief[self.nr_belief]
                 self.log_alphas=self.possible_log_alphas[self.nr_belief][self.nr_alpha]
                 self.log_1_m_betas=self.possible_log_1_minus_betas[self.nr_belief][self.nr_beta]             
-                if s == self.n_perturbed_genes:
-                    self.NP_log_alpha = np.sum(self.log_alphas[self.n_explained_perturbed_genes_per_category==0])#np.dot(self.log_alphas,self.n_perturbed_genes_per_category-self.n_explained_perturbed_genes_per_category)                    
-                    self.EP_log_1_minus_beta = np.dot(self.log_1_m_betas,self.n_explained_perturbed_genes_per_category)
-                else:
-                    self.NP_log_alpha = sum([a*(b-c) for a,b,c in zip(self.log_alphas,self.n_perturbed_genes_per_category,self.n_explained_perturbed_genes_per_category)])#np.dot(self.log_alphas,self.n_perturbed_genes_per_category-self.n_explained_perturbed_genes_per_category)
-                    self.EP_log_1_minus_beta = sum([a*b for a,b in zip(self.log_1_m_betas,self.n_explained_perturbed_genes_per_category)])#np.dot(self.log_1_m_betas,self.n_explained_perturbed_genes_per_category)
+                self.NP_log_alpha = np.sum(self.log_alphas[self.n_annotations_per_perturbed_gene==0])#np.dot(self.log_alphas,self.n_perturbed_genes_per_category-self.n_annotations_per_perturbed_gene)                    
+                self.EP_log_1_minus_beta = np.dot(self.log_1_m_betas,self.n_annotations_per_perturbed_gene)
                 self.parameter_changed = 'belief'
                 
 
     def new_gene_annotated_to_selected_terms(self,gene):
-        category_nr = self.category_of_gene[gene]
-        if category_nr==-1:#gene is unperturbed
+        if gene < self.n_perturbed_genes: #gene is perturbed
+            self.n_annotations_per_perturbed_gene[gene] = 1
+            self.EP_log_1_minus_beta+=self.log_1_m_betas[gene]
+            self.NP_log_alpha-=self.log_alphas[gene]
+        else:#gene is unperturbed
             self.EU+=1
             self.NU-=1
-        else:#gene is perturbed
-            self.n_explained_perturbed_genes_per_category[category_nr]+=1
-            self.EP_log_1_minus_beta+=self.log_1_m_betas[category_nr]
-            self.NP_log_alpha-=self.log_alphas[category_nr]
 
     def gene_no_longer_annotated_to_selected_terms(self,gene):           
-        category_nr = self.category_of_gene[gene]
-        if category_nr==-1:#gene is unperturbed
+        if gene < self.n_perturbed_genes: #gene is perturbed
+            self.n_annotations_per_perturbed_gene[gene] = 0
+            self.EP_log_1_minus_beta-=self.log_1_m_betas[gene]
+            self.NP_log_alpha+=self.log_alphas[gene]  
+        else: #gene is perturbed
             self.EU-=1
             self.NU+=1
-        else:#gene is perturbed
-            self.n_explained_perturbed_genes_per_category[category_nr]-=1
-            self.EP_log_1_minus_beta-=self.log_1_m_betas[category_nr]
-            self.NP_log_alpha+=self.log_alphas[category_nr]   
+
 
     def add_term(self,term_id_to_add):
         if self.TERM_IS_CURRENTLY_SELECTED[term_id_to_add]:
@@ -285,15 +212,18 @@ class CRFE:
             if self.n_selected_terms_gene_is_annotated_to[gene]==1:
                 self.new_gene_annotated_to_selected_terms(gene)
                 
-        self.number_of_unselected_sets-=1
-        if self.number_of_unselected_sets > 0:
-            #internal sorting of the list that allows to quickly grab terms to be switched in propose_MCMC_state
-            pos = self.position_of_term_in_internal_list[term_id_to_add]
-            e0 = self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets]
-            self.internal_list_of_terms_for_MCMC[pos] = e0
-            self.position_of_term_in_internal_list[e0] = pos
-            self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets] = term_id_to_add
-            self.position_of_term_in_internal_list[term_id_to_add] = self.number_of_unselected_sets
+        self.number_of_unselected_terms-=1
+        if self.number_of_unselected_terms > 0: #otherwise, already sorted the way we want it	
+            #internal sorting of the list that allows to quickly grab terms to be switched in propose_MCMC_state	
+            pos = self.position_of_term_in_internal_list[term_id_to_add]	
+            e0 = self.internal_list_of_terms_for_MCMC[self.number_of_selected_terms]	
+            self.internal_list_of_terms_for_MCMC[pos] = e0	
+            self.position_of_term_in_internal_list[e0] = pos	
+            self.internal_list_of_terms_for_MCMC[self.number_of_selected_terms] = term_id_to_add	
+            self.position_of_term_in_internal_list[term_id_to_add] = self.number_of_selected_terms	
+        self.number_of_selected_terms += 1
+
+
 
     def remove_term(self,term_id_to_remove):
         if self.TERM_IS_CURRENTLY_SELECTED[term_id_to_remove]==False:
@@ -307,15 +237,16 @@ class CRFE:
             if (self.n_selected_terms_gene_is_annotated_to[gene] == 0):
                 self.gene_no_longer_annotated_to_selected_terms(gene)
         
-        if self.number_of_unselected_sets < (self.n_terms-1):
+        self.number_of_selected_terms -= 1	
+        if self.number_of_selected_terms > 0: #otherwise, already sorted the way we want it	
             #internal sorting of the list that allows to quickly grab terms to be switched in propose_MCMC_state
             pos = self.position_of_term_in_internal_list[term_id_to_remove]
-            e1 = self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets]
+            e1 = self.internal_list_of_terms_for_MCMC[self.number_of_selected_terms]
             self.internal_list_of_terms_for_MCMC[pos] = e1
             self.position_of_term_in_internal_list[e1] = pos
-            self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets] = term_id_to_remove
-            self.position_of_term_in_internal_list[term_id_to_remove] = self.number_of_unselected_sets
-        self.number_of_unselected_sets+=1
+            self.internal_list_of_terms_for_MCMC[self.number_of_selected_terms] = term_id_to_remove
+            self.position_of_term_in_internal_list[term_id_to_remove] = self.number_of_selected_terms
+        self.number_of_unselected_terms+=1
 
     def toggle_term(self,term_id_to_toggle):        
         if self.TERM_IS_CURRENTLY_SELECTED[term_id_to_toggle]:
@@ -355,31 +286,20 @@ class CRFE:
         with respect to self.selected terms, alpha, beta and prob'''
         L = self.EP_log_1_minus_beta + self.NP_log_alpha + math.log(self.beta)*self.EU + math.log(1-self.alpha) * self.NU
         if self.penalization_parameter!=1:
-            L += math.log(self.penalization_parameter) * (self.n_terms - self.number_of_unselected_sets) + math.log(1.0-self.penalization_parameter) * self.number_of_unselected_sets
+            L += math.log(self.penalization_parameter) * self.number_of_selected_terms + math.log(1.0-self.penalization_parameter) * self.number_of_unselected_terms
         return L
 
     def initialize(self,initial_set_of_terms=[]):
-        self.n_unperturbed_genes = len(self.G[-1])
-        self.n_perturbed_genes=self.n_genes-self.n_unperturbed_genes
-        self.n_perturbed_genes_per_category = list(map(len,self.G[:-1]))
+        self.n_unperturbed_genes = self.n_genes-self.n_perturbed_genes
         
-        s=self.nr_categories
-        if s==0:
-            s=self.n_perturbed_genes  
-            
-        self.n_explained_perturbed_genes_per_category = np.zeros(s,dtype=int)#[0]*s
+        self.n_annotations_per_perturbed_gene = np.zeros(self.n_perturbed_genes,dtype=int)#[0]*s
         self.n_selected_terms_gene_is_annotated_to=[0]*self.n_genes
         self.TERM_IS_CURRENTLY_SELECTED=[False]*self.n_terms
-        self.number_of_unselected_sets=self.n_terms
+        self.number_of_unselected_terms=self.n_terms
+        self.number_of_selected_terms=0
         
         if self.proportion_parameter_change>0:
-            if s == self.n_perturbed_genes: #if each gene is in its own category, use simple formula for self.alpha_beta_max_upperbound
-                self.alpha_beta_max_upperbound = (1+self.max_belief) / (4*self.max_belief)
-            else:
-                denominator = 0
-                for i in range(1,s+1):
-                    denominator += (s-i+(i-1)*self.max_belief)*self.n_perturbed_genes_per_category[i-1]
-                self.alpha_beta_max_upperbound = 0.5*denominator/((s-1)*self.max_belief*self.n_perturbed_genes)#1./(1 + ((s-1)*self.max_belief*self.n_perturbed_genes)*1./denominator)
+            self.alpha_beta_max_upperbound = (1+self.max_belief) / (4*self.max_belief)
             if self.alpha_beta_max<=self.alpha_beta_max_upperbound:
                 self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max,self.A+1)[1:])
             else:
@@ -394,42 +314,34 @@ class CRFE:
             
             self.possible_log_alphas = []
             self.possible_log_1_minus_betas = []
-            self.possible_alpha_fractions = []
             for i in range(self.B):
-                self.belief = self.possible_values_for_belief[i]
-                possible_alphas_and_betas=np.array([self.get_specific_rates(self.possible_values_for_alpha_and_beta[i]) for i in range(self.A)])
-                sum_possible_alphas_and_betas = sum(possible_alphas_and_betas)
+                possible_alphas_and_betas=np.array([self.get_specific_rates(self.possible_values_for_alpha_and_beta[i],self.n_perturbed_genes,self.belief) for i in range(self.A)])
                 self.possible_log_alphas.append( [np.array(el) for el in np.log(possible_alphas_and_betas)])
                 self.possible_log_1_minus_betas.append( [np.array(el) for el in np.log(1-possible_alphas_and_betas)] )
-                self.possible_alpha_fractions.append( list(possible_alphas_and_betas/sum_possible_alphas_and_betas) )
                 
-            (self.alpha,self.nr_alpha)=self.discretize(self.possible_values_for_alpha_and_beta,0.1)
-            (self.beta,self.nr_beta)=self.discretize(self.possible_values_for_alpha_and_beta,0.25)
+            (self.alpha,self.nr_alpha)=self.discretize(self.possible_values_for_alpha_and_beta,self.alpha)
+            (self.beta,self.nr_beta)=self.discretize(self.possible_values_for_alpha_and_beta,self.beta)
             (self.belief,self.nr_belief)=self.discretize(self.possible_values_for_belief,self.initial_belief)
             
             self.log_alphas=self.possible_log_alphas[self.nr_belief][self.nr_alpha]
             self.log_1_m_betas=self.possible_log_1_minus_betas[self.nr_belief][self.nr_beta]
             
         else:
-            alphas=self.get_specific_rates(self.alpha)
-            betas=self.get_specific_rates(self.beta)
+            alphas=self.get_specific_rates(self.alpha,self.n_perturbed_genes,self.belief_alpha) #xxxxx, add number of rates
+            betas=self.get_specific_rates(self.beta,self.n_perturbed_genes,self.belief_beta) #xxxxx
             self.log_alphas = [math.log(el) for el in alphas]
             self.log_1_m_betas = [math.log(1-el) for el in betas]
 
         if self.LEARN_PENALIZATION_PARAMETER:
             self.penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)*1./self.n_terms
             self.nr_penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)-1
-            
-        self.category_of_gene = [-1]*self.n_genes
-        for i,category in enumerate(self.G[:-1]):
-            for perturbed_gene in category:
-                self.category_of_gene[perturbed_gene] = i
-            
+        
+        #this list keeps track of which terms are currently selected (the first self.number_of_selected_terms)
         self.internal_list_of_terms_for_MCMC=list(range(self.n_terms))
         self.position_of_term_in_internal_list=list(range(self.n_terms))
 
         #Initially, no term is selected
-        self.NP_log_alpha = sum([a*b for a,b in zip(self.log_alphas,self.n_perturbed_genes_per_category)])
+        self.NP_log_alpha = sum(self.log_alphas)
         self.NU = self.n_unperturbed_genes
         self.EU,self.EP_log_1_minus_beta = 0,0
 
@@ -441,10 +353,8 @@ class CRFE:
         self.max_score_step = -1
         self.max_score_alpha = self.alpha
         self.max_score_beta = self.beta
-        if self.LEARN_PENALIZATION_PARAMETER:
-            self.max_score_prob = self.penalization_parameter
-        else:
-            self.max_score_prob = 0
+        self.max_score_prob = self.penalization_parameter
+        
         self.best_set = initial_set_of_terms
 
         self.n_term_selected_in_MCMC = [0]*self.n_terms
@@ -463,7 +373,7 @@ class CRFE:
         penalization_parameter_count = [0]*self.P
         belief_count = [0]*self.B
 
-        neighborhood_size = self.n_terms + self.number_of_unselected_sets * (self.n_terms - self.number_of_unselected_sets)
+        neighborhood_size = self.n_terms + self.number_of_unselected_terms * self.number_of_selected_terms
         
         PRINT_AFTER_X_STEPS=(50000 if total_steps>500000 else total_steps/5)
         
@@ -471,7 +381,7 @@ class CRFE:
             self.propose_MCMC_state(neighborhood_size)
             new_score = self.get_score()
             if self.term_id_to_toggle!=-1:
-                new_neighborhood_size = self.n_terms + self.number_of_unselected_sets * (self.n_terms - self.number_of_unselected_sets)
+                new_neighborhood_size = self.n_terms + self.number_of_unselected_terms * self.number_of_selected_terms
                 log_accept_probability = (new_score - self.score) + math.log(neighborhood_size*1./new_neighborhood_size)
             else:
                 log_accept_probability = new_score - self.score
@@ -490,14 +400,11 @@ class CRFE:
                 self.max_score_step = self.step
                 self.max_score_alpha = self.alpha
                 self.max_score_beta = self.beta
-                if self.LEARN_PENALIZATION_PARAMETER:
-                    self.max_score_prob = self.penalization_parameter
-                else:
-                    self.max_score_prob = 0
-                self.best_set = self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets:self.n_terms]
+                self.max_score_prob = self.penalization_parameter
+                self.best_set = self.internal_list_of_terms_for_MCMC[self.number_of_unselected_terms:self.n_terms]
                           
             if self.step>=self.burnin_steps:
-                for i in range(self.number_of_unselected_sets,self.n_terms):
+                for i in range(self.number_of_selected_terms):
                     self.n_term_selected_in_MCMC[self.internal_list_of_terms_for_MCMC[i]] += 1
                 if self.proportion_parameter_change>0:
                     alpha_count[self.nr_alpha] += 1
@@ -508,10 +415,10 @@ class CRFE:
 
             if self.GET_INFO_ON_CURRENT_SETS:
                 if self.step==self.burnin_steps:                    
-                    self.current_set_at_burnin = self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets : self.n_terms]
+                    self.current_set_at_burnin = self.internal_list_of_terms_for_MCMC[:self.number_of_selected_terms]
     
                 if self.step == total_steps - 1:                    
-                    self.current_set_at_end = self.internal_list_of_terms_for_MCMC[self.number_of_unselected_sets : self.n_terms]
+                    self.current_set_at_end = self.internal_list_of_terms_for_MCMC[:self.number_of_selected_terms]
                         
             self.step += 1
                 
@@ -520,7 +427,7 @@ class CRFE:
                     print("%i out of %i steps completed; passed MCMC time %f" % (self.step,total_steps,time.time()-MCMC_start))
                     if verbose>1:
                         print(self.step, self.score, self.alpha,self.beta, self.belief, str(self.nr_penalization_parameter)+'/'+str(self.n_terms) if self.LEARN_PENALIZATION_PARAMETER else 0, self.EP_log_1_minus_beta,self.NP_log_alpha,self.EU,self.NU)
-                learned_params.append([self.step,self.score,self.alpha,self.beta,self.belief,str(int(round(self.penalization_parameter*len(self.T))))+"/"+str(self.n_terms),self.penalization_parameter,self.n_terms - self.number_of_unselected_sets])
+                learned_params.append([self.step,self.score,self.alpha,self.beta,self.belief,str(int(round(self.penalization_parameter*len(self.T))))+"/"+str(self.n_terms),self.penalization_parameter,self.number_of_selected_terms])
             
         #Get posterior probability distribution
         Final_Distribution = np.array(self.n_term_selected_in_MCMC)*1./self.MCMC_steps #Final_Distribution = x*1./self.MCMC_steps for x in self.n_term_selected_in_MCMC]  
@@ -542,44 +449,24 @@ class CRFE:
     ###  Data analysis/plotting methods  ###
     ########################################
 
-    def mean_gene_level(self,list_of_terms,indices_of_categories_of_G=[]):
+    def mean_gene_level(self,list_of_terms):
         """For a list of GO terms, C, this method returns the average prediction level of all genes annotated by a term"""
-        TT=[0 for t in self.T]
-        if indices_of_categories_of_G!=[]:
-            Gunion=set.union(*[set([])] + [self.G[i] for i in indices_of_categories_of_G])
-            for c in list_of_terms:
-                TT[c]=list(set(self.T[c])&Gunion)
         output=[]
         for term in list_of_terms:
-            if indices_of_categories_of_G!=[]:
-                helper=[self.levels[TT[term][i]] for i in range(len(TT[term]))]
-            else:
-                helper=[self.levels[self.T[term][i]] for i in range(len(self.T[term]))]
+            helper=[self.levels[self.T[term][i]] for i in range(len(self.T[term]))]
             res=np.mean(helper) if helper!=[] else 0
             output.append(res)
         return output
 
     def mean_position_perturbed_genes(self,list_of_terms):
         """For a list of GO terms, C, this method returns the average position (in % of all perturbed genes) of all perturbed genes annotated by a term"""
-        output=[]
-        dict_position = {}
-        count=0
-        for i in range(len(self.G)-1):
-            for gene in list(self.G[i]):
-                dict_position.update({gene:count})
-                count+=1
         output = []
         for term in list_of_terms:
-            all_positions = []
-            for gene in self.T[term]:
-                try:
-                    all_positions.append(dict_position[gene])
-                except KeyError:
-                    pass
-            if len(all_positions)==0:
+            if self.T[term][0]>=self.n_perturbed_genes: #if no perturbed gene is annotated to the term
                 output.append(-1)
             else:
-                output.append(np.mean(all_positions)/self.n_perturbed_genes) 
+                index = sum(np.array(self.T[term]) < self.n_perturbed_genes)
+                output.append(np.mean(self.T[term][:index]))
         return output
 
     def jaccard(self, liste,verbose=False):
@@ -629,13 +516,13 @@ class CRFE:
             s+=CRFE.hypergeometric_pmf(i,n_annotated_genes,n_genes-n_annotated_genes,n_perturbed_genes)
         return s
     
-    def p_values_of_list(self, liste):
+    def p_values_of_list(self, list_of_terms):
         ps = []
         
-        perturbed_genes = set.union(*[set([])] + [set(g) for g in self.G[:-1]])
+        perturbed_genes = set(range(self.n_perturbed_genes))
         
-        for i in range(len(liste)):
-            annotated_genes = set(self.T[liste[i]])
+        for term in list_of_terms:
+            annotated_genes = set(self.T[term])
             n_annotated_genes = len(annotated_genes)
             n_annotated_perturbed_genes = len(annotated_genes & perturbed_genes)
             ps.append(self.p_value(n_annotated_perturbed_genes,n_annotated_genes,self.n_genes,self.n_perturbed_genes))
@@ -770,6 +657,9 @@ class CRFE:
             self.P = int(np.floor(0.5*self.n_terms))
         #remove genes that are no longer annotated by any term
         self.remove_genes_not_annotated_to_any_term(verbose)
+        
+        #sort genes in self.T and self.unique_genes to align with the ranking, e.g. gene 0 is the top ranked gene
+        pass
     
     def create_annotation_data(self,verbose):
         """creates all the important variables from the annotations_file."""
@@ -791,7 +681,7 @@ class CRFE:
                 except KeyError:
                     pass
             #T[-1]= np.sort(T[-1])
-        self.T = np.array(T)
+        self.T = np.array(T,dtype=object)	
         #self.T = np.array([np.sort(list(map(lambda x: dict_genes[x],genes.split(' ')))) for genes in data['genes']])
         
         self.n_genes_per_term = np.array(list(map(len,self.T)))
@@ -813,9 +703,9 @@ class CRFE:
     ########################
     
     def get_filename(self,method,LONG=False):
-        filename='%s_random%s_param_learning%s_k%s_%sto%sannotations' % (self.out_str,int(1000*method[1]),int(self.proportion_parameter_change*1000),self.nr_categories,self.lower_cutoff,self.upper_cutoff)
+        filename='%s_random%s_param_learning%s_%sto%sannotations' % (self.out_str,int(1000*method[1]),int(self.proportion_parameter_change*1000),self.lower_cutoff,self.upper_cutoff)
         if LONG:
-            filename+='_belief%s_nr_perturbed%s' % (int(self.belief*1000),int(self.n_genes-len(self.G[-1])))
+            filename+='_belief%s_nr_perturbed%i' % (int(self.belief*1000),int(self.n_perturbed_genes))
         now = datetime.datetime.now()
         filename+=now.strftime("_%Y-%m-%d-%H-%M-%S")
         return filename
@@ -884,9 +774,8 @@ class CRFE:
         text=["Creation Time:\t" + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")+"\n"]
         text.append("INPUT:")
         
-        str1 = "File name:\t%s\nAnnotations file:\t%s\nGene file:\t%s\nlower limit annotations/process:\t%s\nupper limit annotations/process:\t%s\nk (number of perturbed categories):\t%s\nthreshold:\t%s\nthreshold type:\t%s\nbelief:\t%s\nMethod:\t%s\nrepeats:\t%s\nburnin steps:\t%s\nMCMC steps:\t%s\nMaximal value for alpha and beta:\t%s\nMaximal possible value for alpha and beta:\t%s\nProbability parameter change:\t%s\nseed for RNG:\t%s\n" % (sys.argv[0],self.annotations_file, 
+        str1 = "File name:\t%s\nAnnotations file:\t%s\nGene file:\t%s\nlower limit annotations/process:\t%s\nupper limit annotations/process:\t%s\nthreshold:\t%s\nthreshold type:\t%s\nbelief:\t%s\nMethod:\t%s\nrepeats:\t%s\nburnin steps:\t%s\nMCMC steps:\t%s\nMaximal value for alpha and beta:\t%s\nMaximal possible value for alpha and beta:\t%s\nProbability parameter change:\t%s\nseed for RNG:\t%s\n" % (sys.argv[0],self.annotations_file, 
         self.gene_file, self.lower_cutoff, self.upper_cutoff if self.upper_cutoff>=self.lower_cutoff else "0 (i.e., None)",
-        self.nr_categories if self.nr_categories>1 and self.nr_categories<=len(self.T) else "0 (i.e., each perturbed gene in its own category)", 
         self.threshold,self.threshold_type,
         self.belief, method[0], self.repeats, self.burnin_steps, self.MCMC_steps, 
         self.alpha_beta_max if self.proportion_parameter_change>0 else 'fixed', self.alpha_beta_max_upperbound if self.proportion_parameter_change>0 else 'fixed',
@@ -914,7 +803,8 @@ class CRFE:
         if self.show_genes_in_output: 
             text.append("\tExplained Perturbed Genes") 
               
-        out_list = [str(count+1) + "\t" + str(i[2]) + "\t" + str(i[2]-len(set(self.T[i[0]])&set(self.G[len(self.G)-1]))) for (count,i) in zip(range(len(enriched)),enriched)]
+        set_perturbed_genes = set(self.genes_list[:self.n_perturbed_genes])
+        out_list = [str(count+1) + "\t" + str(i[2]) + "\t" + str(len(set(self.T[i[0]])&set_perturbed_genes)) for (count,i) in zip(range(len(enriched)),enriched)]
         
         for i in range(len(out_list)):
             out_list[i]+="\t"+str(round(avg_posteriors[i],5))+"\t"+str(round(std_posteriors[i],5))
@@ -972,18 +862,31 @@ class CRFE:
         
         #If a gene is in expression data but not in annotation data, it is ignored.
         
-        sort_dummy = self.genes_list.argsort()
-        position_unique_genes_in_genes_list = sort_dummy[np.searchsorted(self.genes_list,self.unique_genes,sorter = sort_dummy)]
-        self.dict_genes_list_in_unique_genes = dict(zip(position_unique_genes_in_genes_list,np.arange(self.n_genes)))
-        self.levels=self.level_list[position_unique_genes_in_genes_list]
+        #up to v19, genes in self.unique_genes were sorted alphabetically, since v20 we sort by ranking in expression data
+        
+        pos_unique_genes = dict(zip(self.unique_genes,range(self.n_genes)))
+        dict_new_old_index_unique_genes = dict()
+        count=0
+        self.levels = []
+        self.unique_genes = []
+        for gene,level in zip(self.genes_list,self.level_list): #self.genes_list is sorted already by expression value, top to bottom
+            try:
+                pos = pos_unique_genes[gene]
+                dict_new_old_index_unique_genes.update({pos:count})
+                count+=1
+                self.levels.append(level)
+                self.unique_genes.append(gene)
+            except KeyError:
+                continue
+            
+        for i in range(self.n_terms):
+            self.T[i] = [dict_new_old_index_unique_genes[gene] for gene in self.T[i]]
         
         if self.threshold_type=='proportion':
-            self.threshold_for_activation=self.find_min_level_of_activation(self.threshold)
+            self.n_perturbed_genes = int(np.round(self.n_genes * self.threshold))
         else:
-            self.threshold_for_activation=self.threshold 
-            
-        self.get_list_of_active_categories()
-                                
+            self.n_perturbed_genes = sum(np.array(self.levels) >= self.threshold)
+                           
         #set random seeds for both random number generators (both are used for performance boosts)
         if self.seed==-1:
             self.seed=np.random.randint(2**32 - 1)
@@ -1081,12 +984,10 @@ def main():
             
     p.add_option('--annotations_file', '-a', default='human-taxon-id-gene2go-with-annotation-status-closed-bioprocess-only.csv', help='Annotation data (csv or txt). Each row contains the term name followed by a tab, followed by all annotated genes separated by space. No header!')        
     p.add_option('--gene_file', '-g', default='bkz_gene_list.csv', help='Expression data (csv or txt). Each row contains the gene name, optionally followed by tab plus expression level. No header!')
-    p.add_option('--threshold', '-t', default='0.3', help='Minimal expression/prediction level for a gene to be considered perturbed (default 0.3)')
+    p.add_option('--threshold', '-t', default='0.3', help='If threshold_type==proportion, this describes the proportion of genes considered perturbed, otherwise it describes the threshold in the expression values to be used (default 0.3)')
     p.add_option('--threshold_type', '-T', default='proportion', help="Whether threshold should be interpreted as 1. a value, 2. proportion ('proportion') of perturbed genes, or 3. different levels of genes already provided in the expression data ('levels'), (default proportion)")
     p.add_option('--lower_cutoff', '-c', default ='20', help='Only terms with at least this many annotations are considered (default 5)')
     p.add_option('--upper_cutoff', '-C', default ='200', help='Only terms with at most this many annotations are considered. Use 0 to excluded an upper cutoff (default 200).')
-
-    p.add_option('--nr_categories', '-k', default='0', help='Number of different categories of perturbed genes. If k=0, each gene is in its own category.') 
     p.add_option('--belief', '-b', default='5', help='Belief for how much more active the highest gene set is compared to the least active gene set (default 5)')
 
     p.add_option('--repeats', '-n', default='1', help='Number of independent repeats of CRFE (default 1).')
@@ -1114,11 +1015,6 @@ def main():
         upper_cutoff = int(options.upper_cutoff)
     except ValueError:
         upper_cutoff = 200
-        
-    try:
-        nr_categories = int(options.nr_categories)
-    except ValueError:
-        nr_categories = 2
 
     try:
         repeats = int(options.repeats)
@@ -1194,29 +1090,15 @@ def main():
     out_str = options.identifier
     output_folder = options.output_folder
     
-    myGOAlgo = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, threshold, threshold_type, burnin_steps, MCMC_steps, alpha_beta_max, proportion_parameter_change, A, P, gene_file, annotations_file, output_folder, out_str, seed)
+    myGOAlgo = CRFE(repeats, lower_cutoff, upper_cutoff, belief, threshold, threshold_type, burnin_steps, MCMC_steps, alpha_beta_max, proportion_parameter_change, A, P, gene_file, annotations_file, output_folder, out_str, seed)
     myGOAlgo.runMe(verbose,parameter_initial_MCMC_set)
     return myGOAlgo
     
 ##Main Part
 
 if __name__ == '__main__':
-#    main()
+    main()
 
-    lower_cutoff=4
-    upper_cutoff=0
-    nr_categories=0
-    belief=5
-    burnin=5000
-    steps=50000
-    repeats=3
-    gene_file = 'data/sample_gene_file.txt'
-    #gene_file = 'data/test_gene_file_keting4.txt'
-    #gene_file = 'HC_RGLM_PLS_express_tab.txt'
-    annotation_file = 'data/sample_annotation_file.txt'
-    #annotation_file = 'goToGene_F.txt'
-    identifier = 'test'
-    
     # old data: doesn't work right now
     # lower_cutoff=20
     # upper_cutoff=200
@@ -1228,36 +1110,36 @@ if __name__ == '__main__':
     # new data: lung cancer RNA_seq
     lower_cutoff=20
     upper_cutoff=500
-    nr_categories=0
     belief=10
     burnin=50000
     steps=50000
     repeats=1
     threshold=0.3
-    annotation_file = 'data/GOhuman_named.txt'
-    #gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
+    annotation_file = 'data/GOhuman_ft_named.txt'
+    gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
     gene_file = 'data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt'
-    identifier = 'real_an'
+    identifier = 'real_hshdfsdf'
     
-    m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
+    m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
                                         threshold, 'proportion', burnin, steps, 1,0,20,20, gene_file,
                                       annotation_file,'output/', identifier, seed=-1,
-                                      LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True,max_belief=belief)
+                                      LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
     
     annotation_file = 'data/GOhuman_ft_named.txt'
     gene_file = 'adeno_symbol.txt'    
-    identifier = 'adeno'
+    identifier = 'adeno'    
     repeats = 1
     burnin=25000
     steps=25000
-    m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
+    m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
                                         threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
                                       annotation_file,'output/', identifier, seed=-1,
                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)    
     
-X = set(range(m.n_genes)) - set(list(map(lambda x: ,m.G[-1])#set(m.unique_genes[:m.n_perturbed_genes])
+    
+X = set(range(m.n_perturbed_genes))#set(m.unique_genes[:m.n_perturbed_genes])
 len_X = len(X)
 U = set(range(m.n_perturbed_genes,m.n_genes))#set(m.unique_genes[m.n_perturbed_genes:])
 len_U = len(U)
@@ -1333,7 +1215,6 @@ for t in C[:50]:
 
 #     lower_cutoff=20
 #     upper_cutoff=500
-#     nr_categories=0
 #     belief=10
 #     burnin=5000
 #     steps=50000
@@ -1349,7 +1230,7 @@ for t in C[:50]:
 #     learned_betas = []
 #     proportions_perturbed = np.arange(0.05,0.51,0.1)
 #     for threshold in proportions_perturbed:
-#         m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
+#         m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
 #                                             threshold, 'proportion', burnin, steps, 1,0.2,20,20, gene_file,
 #                                           annotation_file,'output/', identifier, seed=-1)
 #         (C,avgs,stds)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
@@ -1374,7 +1255,6 @@ for t in C[:50]:
 
 # lower_cutoff=20
 # upper_cutoff=500
-# nr_categories=0
 # belief=10
 # burnin=5000
 # steps=50000
@@ -1383,7 +1263,7 @@ for t in C[:50]:
 # annotation_file = 'data/GOhuman_ft_named.txt'
 # gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
 # identifier = 'real_an'
-# m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
+# m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
 #                                     threshold, 'proportion', burnin, steps, 1,0.2,20,20, gene_file,
 #                                   annotation_file,'output/', identifier, seed=-1)
 
@@ -1396,27 +1276,3 @@ for t in C[:50]:
 
 # with open('runtime_cProfile3.txt', 'w+') as f:
 #     f.write(s.getvalue())
-
-first_x = 600
-a = m.jaccard(range(first_x))
-b = list(map(len,m.T[:first_x]))
-bins = [40,80,150,300,500]
-n_bins = len(bins)
-bb = [sum(el>np.array(bins)) for el in b]
-a_binned = [[[] for j in range(n_bins)] for i in range(n_bins)]
-for i in range(first_x):
-    for j in range(i+1,first_x):
-        a_binned[bb[i]][bb[j]].append(a[i][j])
-        a_binned[bb[j]][bb[i]].append(a[i][j])
-
-means = np.zeros((n_bins,n_bins))
-stds = np.zeros((n_bins,n_bins))
-for i in range(n_bins):
-    for j in range(n_bins):
-        means[i,j] = np.mean(a_binned[i][j])
-        stds[i,j] = np.std(a_binned[i][j])
-        
-        
-        
-
-
