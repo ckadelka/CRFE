@@ -1,0 +1,1715 @@
+E-GEOD-93624		SRR5176628	characteristic	age at diagnosis	13.25 year
+E-GEOD-93624		SRR5176628	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176628	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176628	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176628	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176628	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176628	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176629	characteristic	age at diagnosis	7.75 year
+E-GEOD-93624		SRR5176629	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176629	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176629	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176629	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176629	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176629	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176630	characteristic	age at diagnosis	7.75 year
+E-GEOD-93624		SRR5176630	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176630	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176630	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176630	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176630	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176630	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176631	characteristic	age at diagnosis	11.42 year
+E-GEOD-93624		SRR5176631	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176631	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176631	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176631	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176631	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176631	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176632	characteristic	age at diagnosis	11.5 year
+E-GEOD-93624		SRR5176632	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176632	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176632	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176632	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176632	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176632	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176633	characteristic	age at diagnosis	15.75 year
+E-GEOD-93624		SRR5176633	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176633	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176633	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176633	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176633	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176633	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176634	characteristic	age at diagnosis	13.58 year
+E-GEOD-93624		SRR5176634	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176634	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176634	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176634	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176634	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176634	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176635	characteristic	age at diagnosis	13.17 year
+E-GEOD-93624		SRR5176635	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176635	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176635	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176635	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176635	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176635	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176636	characteristic	age at diagnosis	10.33 year
+E-GEOD-93624		SRR5176636	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176636	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176636	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176636	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176636	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176636	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176637	characteristic	age at diagnosis	14.75 year
+E-GEOD-93624		SRR5176637	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176637	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176637	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176637	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176637	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176637	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176638	characteristic	age at diagnosis	10.5 year
+E-GEOD-93624		SRR5176638	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176638	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176638	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176638	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176638	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176638	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176639	characteristic	age at diagnosis	10.33 year
+E-GEOD-93624		SRR5176639	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176639	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176639	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176639	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176639	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176639	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176640	characteristic	age at diagnosis	16.75 year
+E-GEOD-93624		SRR5176640	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176640	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176640	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176640	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176640	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176640	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176641	characteristic	age at diagnosis	13.08 year
+E-GEOD-93624		SRR5176641	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176641	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176641	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176641	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176641	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176641	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176642	characteristic	age at diagnosis	11.33 year
+E-GEOD-93624		SRR5176642	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176642	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176642	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176642	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176642	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176642	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176643	characteristic	age at diagnosis	14.08 year
+E-GEOD-93624		SRR5176643	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176643	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176643	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176643	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176643	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176643	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176644	characteristic	age at diagnosis	5.75 year
+E-GEOD-93624		SRR5176644	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176644	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176644	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176644	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176644	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176644	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176645	characteristic	age at diagnosis	14.17 year
+E-GEOD-93624		SRR5176645	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176645	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176645	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176645	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176645	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176645	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176646	characteristic	age at diagnosis	16.25 year
+E-GEOD-93624		SRR5176646	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176646	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176646	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176646	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176646	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176646	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176647	characteristic	age at diagnosis	14.5 year
+E-GEOD-93624		SRR5176647	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176647	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176647	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176647	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176647	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176647	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176648	characteristic	age at diagnosis	15.83 year
+E-GEOD-93624		SRR5176648	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176648	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176648	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176648	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176648	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176648	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176649	characteristic	age at diagnosis	15.5 year
+E-GEOD-93624		SRR5176649	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176649	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176649	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176649	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176649	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176649	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176650	characteristic	age at diagnosis	10.83 year
+E-GEOD-93624		SRR5176650	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176650	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176650	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176650	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176650	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176650	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176651	characteristic	age at diagnosis	12 year
+E-GEOD-93624		SRR5176651	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176651	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176651	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176651	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176651	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176651	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176652	characteristic	age at diagnosis	16.08 year
+E-GEOD-93624		SRR5176652	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176652	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176652	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176652	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176652	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176652	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176653	characteristic	age at diagnosis	12.5 year
+E-GEOD-93624		SRR5176653	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176653	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176653	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176653	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176653	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176653	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176654	characteristic	age at diagnosis	9.67 year
+E-GEOD-93624		SRR5176654	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176654	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176654	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176654	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176654	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176654	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176655	characteristic	age at diagnosis	16.5 year
+E-GEOD-93624		SRR5176655	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176655	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176655	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176655	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176655	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176655	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176656	characteristic	age at diagnosis	4.83 year
+E-GEOD-93624		SRR5176656	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176656	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176656	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176656	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176656	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176656	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176657	characteristic	age at diagnosis	12.17 year
+E-GEOD-93624		SRR5176657	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176657	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176657	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176657	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176657	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176657	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176658	characteristic	age at diagnosis	12 year
+E-GEOD-93624		SRR5176658	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176658	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176658	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176658	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176658	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176658	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176659	characteristic	age at diagnosis	9.75 year
+E-GEOD-93624		SRR5176659	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176659	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176659	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176659	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176659	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176659	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176660	characteristic	age at diagnosis	2.25 year
+E-GEOD-93624		SRR5176660	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176660	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176660	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176660	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176660	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176660	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176661	characteristic	age at diagnosis	8.75 year
+E-GEOD-93624		SRR5176661	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176661	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176661	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176661	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176661	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176661	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176662	characteristic	age at diagnosis	5.42 year
+E-GEOD-93624		SRR5176662	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176662	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176662	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176662	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176662	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176662	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176663	characteristic	age at diagnosis	13.75 year
+E-GEOD-93624		SRR5176663	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176663	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176663	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176663	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176663	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176663	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176664	characteristic	age at diagnosis	15.5 year
+E-GEOD-93624		SRR5176664	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176664	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176664	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176664	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176664	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176664	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176665	characteristic	age at diagnosis	16.33 year
+E-GEOD-93624		SRR5176665	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176665	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176665	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176665	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176665	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176665	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176666	characteristic	age at diagnosis	4.58 year
+E-GEOD-93624		SRR5176666	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176666	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176666	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176666	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176666	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176666	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176667	characteristic	age at diagnosis	10 year
+E-GEOD-93624		SRR5176667	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176667	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176667	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176667	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176667	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176667	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176668	characteristic	age at diagnosis	15.08 year
+E-GEOD-93624		SRR5176668	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176668	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176668	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176668	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176668	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176668	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176669	characteristic	age at diagnosis	16.25 year
+E-GEOD-93624		SRR5176669	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176669	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176669	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176669	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176669	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176669	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176670	characteristic	age at diagnosis	15.33 year
+E-GEOD-93624		SRR5176670	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176670	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176670	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176670	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176670	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176670	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176671	characteristic	age at diagnosis	10.58 year
+E-GEOD-93624		SRR5176671	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176671	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176671	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176671	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176671	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176671	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176672	characteristic	age at diagnosis	9.75 year
+E-GEOD-93624		SRR5176672	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176672	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176672	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176672	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176672	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176672	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176673	characteristic	age at diagnosis	5.42 year
+E-GEOD-93624		SRR5176673	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176673	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176673	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176673	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176673	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176673	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176674	characteristic	age at diagnosis	9 year
+E-GEOD-93624		SRR5176674	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176674	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176674	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176674	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176674	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176674	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176675	characteristic	age at diagnosis	15 year
+E-GEOD-93624		SRR5176675	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176675	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176675	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176675	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176675	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176675	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176676	characteristic	age at diagnosis	14.58 year
+E-GEOD-93624		SRR5176676	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176676	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176676	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176676	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176676	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176676	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176677	characteristic	age at diagnosis	15.17 year
+E-GEOD-93624		SRR5176677	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176677	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176677	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176677	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176677	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176677	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176678	characteristic	age at diagnosis	14.83 year
+E-GEOD-93624		SRR5176678	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176678	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176678	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176678	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176678	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176678	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176679	characteristic	age at diagnosis	9.5 year
+E-GEOD-93624		SRR5176679	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176679	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176679	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176679	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176679	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176679	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176680	characteristic	age at diagnosis	10.83 year
+E-GEOD-93624		SRR5176680	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176680	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176680	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176680	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176680	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176680	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176681	characteristic	age at diagnosis	9.33 year
+E-GEOD-93624		SRR5176681	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176681	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176681	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176681	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176681	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176681	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176682	characteristic	age at diagnosis	11.58 year
+E-GEOD-93624		SRR5176682	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176682	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176682	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176682	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176682	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176682	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176683	characteristic	age at diagnosis	11.17 year
+E-GEOD-93624		SRR5176683	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176683	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176683	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176683	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176683	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176683	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176684	characteristic	age at diagnosis	15.58 year
+E-GEOD-93624		SRR5176684	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176684	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176684	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176684	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176684	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176684	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176685	characteristic	age at diagnosis	8.83 year
+E-GEOD-93624		SRR5176685	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176685	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176685	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176685	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176685	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176685	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176686	characteristic	age at diagnosis	12.08 year
+E-GEOD-93624		SRR5176686	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176686	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176686	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176686	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176686	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176686	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176687	characteristic	age at diagnosis	8.42 year
+E-GEOD-93624		SRR5176687	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176687	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176687	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176687	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176687	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176687	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176688	characteristic	age at diagnosis	10.58 year
+E-GEOD-93624		SRR5176688	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176688	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176688	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176688	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176688	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176688	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176689	characteristic	age at diagnosis	9.75 year
+E-GEOD-93624		SRR5176689	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176689	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176689	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176689	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176689	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176689	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176690	characteristic	age at diagnosis	8.83 year
+E-GEOD-93624		SRR5176690	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176690	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176690	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176690	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176690	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176690	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176691	characteristic	age at diagnosis	10.83 year
+E-GEOD-93624		SRR5176691	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176691	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176691	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176691	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176691	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176691	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176692	characteristic	age at diagnosis	9.25 year
+E-GEOD-93624		SRR5176692	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176692	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176692	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176692	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176692	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176692	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176693	characteristic	age at diagnosis	11.33 year
+E-GEOD-93624		SRR5176693	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176693	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176693	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176693	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176693	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176693	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176694	characteristic	age at diagnosis	12.08 year
+E-GEOD-93624		SRR5176694	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176694	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176694	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176694	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176694	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176694	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176695	characteristic	age at diagnosis	13.25 year
+E-GEOD-93624		SRR5176695	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176695	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176695	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176695	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176695	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176695	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176696	characteristic	age at diagnosis	16.75 year
+E-GEOD-93624		SRR5176696	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176696	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176696	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176696	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176696	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176696	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176697	characteristic	age at diagnosis	13.42 year
+E-GEOD-93624		SRR5176697	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176697	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176697	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176697	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176697	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176697	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176698	characteristic	age at diagnosis	14.83 year
+E-GEOD-93624		SRR5176698	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176698	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176698	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176698	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176698	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176698	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176699	characteristic	age at diagnosis	15.75 year
+E-GEOD-93624		SRR5176699	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176699	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176699	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176699	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176699	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176699	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176700	characteristic	age at diagnosis	10.75 year
+E-GEOD-93624		SRR5176700	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176700	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176700	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176700	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176700	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176700	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176701	characteristic	age at diagnosis	8.83 year
+E-GEOD-93624		SRR5176701	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176701	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176701	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176701	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176701	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176701	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176702	characteristic	age at diagnosis	15.92 year
+E-GEOD-93624		SRR5176702	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176702	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176702	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176702	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176702	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176702	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176703	characteristic	age at diagnosis	14.75 year
+E-GEOD-93624		SRR5176703	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176703	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176703	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176703	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176703	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176703	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176704	characteristic	age at diagnosis	15.83 year
+E-GEOD-93624		SRR5176704	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176704	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176704	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176704	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176704	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176704	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176705	characteristic	age at diagnosis	14.33 year
+E-GEOD-93624		SRR5176705	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176705	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176705	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176705	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176705	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176705	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176706	characteristic	age at diagnosis	11.58 year
+E-GEOD-93624		SRR5176706	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176706	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176706	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176706	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176706	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176706	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176707	characteristic	age at diagnosis	15.92 year
+E-GEOD-93624		SRR5176707	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176707	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176707	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176707	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176707	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176707	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176708	characteristic	age at diagnosis	15.17 year
+E-GEOD-93624		SRR5176708	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176708	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176708	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176708	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176708	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176708	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176709	characteristic	age at diagnosis	15.75 year
+E-GEOD-93624		SRR5176709	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176709	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176709	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176709	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176709	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176709	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176710	characteristic	age at diagnosis	14.83 year
+E-GEOD-93624		SRR5176710	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176710	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176710	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176710	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176710	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176710	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176711	characteristic	age at diagnosis	14.33 year
+E-GEOD-93624		SRR5176711	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176711	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176711	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176711	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176711	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176711	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176712	characteristic	age at diagnosis	11.25 year
+E-GEOD-93624		SRR5176712	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176712	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176712	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176712	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176712	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176712	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176713	characteristic	age at diagnosis	11.42 year
+E-GEOD-93624		SRR5176713	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176713	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176713	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176713	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176713	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176713	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176714	characteristic	age at diagnosis	10.83 year
+E-GEOD-93624		SRR5176714	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176714	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176714	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176714	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176714	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176714	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176715	characteristic	age at diagnosis	16.83 year
+E-GEOD-93624		SRR5176715	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176715	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176715	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176715	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176715	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176715	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176716	characteristic	age at diagnosis	7.92 year
+E-GEOD-93624		SRR5176716	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176716	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176716	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176716	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176716	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176716	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176717	characteristic	age at diagnosis	13.5 year
+E-GEOD-93624		SRR5176717	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176717	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176717	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176717	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176717	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176717	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176718	characteristic	age at diagnosis	8.92 year
+E-GEOD-93624		SRR5176718	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176718	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176718	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176718	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176718	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176718	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176719	characteristic	age at diagnosis	9.42 year
+E-GEOD-93624		SRR5176719	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176719	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176719	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176719	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176719	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176719	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176720	characteristic	age at diagnosis	10.83 year
+E-GEOD-93624		SRR5176720	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176720	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176720	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176720	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176720	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176720	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176721	characteristic	age at diagnosis	13.17 year
+E-GEOD-93624		SRR5176721	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176721	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176721	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176721	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176721	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176721	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176722	characteristic	age at diagnosis	7.33 year
+E-GEOD-93624		SRR5176722	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176722	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176722	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176722	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176722	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176722	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176723	characteristic	age at diagnosis	13.83 year
+E-GEOD-93624		SRR5176723	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176723	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176723	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176723	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176723	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176723	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176724	characteristic	age at diagnosis	14.92 year
+E-GEOD-93624		SRR5176724	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176724	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176724	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176724	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176724	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176724	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176725	characteristic	age at diagnosis	16.08 year
+E-GEOD-93624		SRR5176725	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176725	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176725	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176725	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176725	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176725	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176726	characteristic	age at diagnosis	5.08 year
+E-GEOD-93624		SRR5176726	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176726	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176726	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176726	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176726	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176726	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176727	characteristic	age at diagnosis	13.42 year
+E-GEOD-93624		SRR5176727	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176727	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176727	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176727	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176727	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176727	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176728	characteristic	age at diagnosis	11.17 year
+E-GEOD-93624		SRR5176728	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176728	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176728	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176728	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176728	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176728	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176729	characteristic	age at diagnosis	9.17 year
+E-GEOD-93624		SRR5176729	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176729	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176729	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176729	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176729	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176729	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176730	characteristic	age at diagnosis	8.5 year
+E-GEOD-93624		SRR5176730	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176730	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176730	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176730	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176730	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176730	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176731	characteristic	age at diagnosis	11.92 year
+E-GEOD-93624		SRR5176731	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176731	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176731	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176731	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176731	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176731	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176732	characteristic	age at diagnosis	13.25 year
+E-GEOD-93624		SRR5176732	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176732	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176732	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176732	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176732	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176732	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176733	characteristic	age at diagnosis	13.92 year
+E-GEOD-93624		SRR5176733	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176733	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176733	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176733	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176733	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176733	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176734	characteristic	age at diagnosis	7.67 year
+E-GEOD-93624		SRR5176734	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176734	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176734	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176734	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176734	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176734	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176735	characteristic	age at diagnosis	8.92 year
+E-GEOD-93624		SRR5176735	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176735	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176735	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176735	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176735	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176735	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176736	characteristic	age at diagnosis	9.58 year
+E-GEOD-93624		SRR5176736	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176736	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176736	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176736	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176736	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176736	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176737	characteristic	age at diagnosis	13.58 year
+E-GEOD-93624		SRR5176737	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176737	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176737	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176737	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176737	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176737	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176738	characteristic	age at diagnosis	9 year
+E-GEOD-93624		SRR5176738	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176738	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176738	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176738	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176738	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176738	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176739	characteristic	age at diagnosis	15 year
+E-GEOD-93624		SRR5176739	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176739	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176739	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176739	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176739	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176739	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176740	characteristic	age at diagnosis	10.17 year
+E-GEOD-93624		SRR5176740	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176740	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176740	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176740	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176740	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176740	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176741	characteristic	age at diagnosis	7.25 year
+E-GEOD-93624		SRR5176741	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176741	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176741	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176741	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176741	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176741	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176742	characteristic	age at diagnosis	14.92 year
+E-GEOD-93624		SRR5176742	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176742	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176742	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176742	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176742	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176742	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176743	characteristic	age at diagnosis	10.08 year
+E-GEOD-93624		SRR5176743	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176743	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176743	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176743	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176743	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176743	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176744	characteristic	age at diagnosis	10.33 year
+E-GEOD-93624		SRR5176744	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176744	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176744	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176744	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176744	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176744	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176745	characteristic	age at diagnosis	12 year
+E-GEOD-93624		SRR5176745	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176745	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176745	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176745	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176745	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176745	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176746	characteristic	age at diagnosis	12 year
+E-GEOD-93624		SRR5176746	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176746	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176746	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176746	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176746	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176746	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176747	characteristic	age at diagnosis	10.67 year
+E-GEOD-93624		SRR5176747	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176747	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176747	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176747	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176747	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176747	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176748	characteristic	age at diagnosis	12.75 year
+E-GEOD-93624		SRR5176748	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176748	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176748	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176748	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176748	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176748	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176749	characteristic	age at diagnosis	8.67 year
+E-GEOD-93624		SRR5176749	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176749	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176749	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176749	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176749	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176749	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176750	characteristic	age at diagnosis	7.75 year
+E-GEOD-93624		SRR5176750	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176750	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176750	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176750	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176750	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176750	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176751	characteristic	age at diagnosis	16.67 year
+E-GEOD-93624		SRR5176751	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176751	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176751	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176751	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176751	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176751	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176752	characteristic	age at diagnosis	11.83 year
+E-GEOD-93624		SRR5176752	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176752	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176752	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176752	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176752	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176752	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176753	characteristic	age at diagnosis	9.25 year
+E-GEOD-93624		SRR5176753	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176753	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176753	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176753	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176753	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176753	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176754	characteristic	age at diagnosis	10.67 year
+E-GEOD-93624		SRR5176754	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176754	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176754	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176754	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176754	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176754	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176755	characteristic	age at diagnosis	13 year
+E-GEOD-93624		SRR5176755	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176755	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176755	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176755	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176755	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176755	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176756	characteristic	age at diagnosis	4.5 year
+E-GEOD-93624		SRR5176756	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176756	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176756	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176756	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176756	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176756	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176757	characteristic	age at diagnosis	7.58 year
+E-GEOD-93624		SRR5176757	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176757	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176757	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176757	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176757	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176757	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176758	characteristic	age at diagnosis	13.17 year
+E-GEOD-93624		SRR5176758	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176758	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176758	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176758	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176758	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176758	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176759	characteristic	age at diagnosis	11.92 year
+E-GEOD-93624		SRR5176759	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176759	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176759	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176759	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176759	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176759	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176760	characteristic	age at diagnosis	15.42 year
+E-GEOD-93624		SRR5176760	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176760	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176760	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176760	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176760	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176760	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176761	characteristic	age at diagnosis	14.75 year
+E-GEOD-93624		SRR5176761	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176761	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176761	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176761	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176761	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176761	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176762	characteristic	age at diagnosis	11.08 year
+E-GEOD-93624		SRR5176762	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176762	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176762	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176762	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176762	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176762	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176763	characteristic	age at diagnosis	11.58 year
+E-GEOD-93624		SRR5176763	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176763	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176763	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176763	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176763	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176763	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176764	characteristic	age at diagnosis	12.58 year
+E-GEOD-93624		SRR5176764	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176764	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176764	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176764	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176764	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176764	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176765	characteristic	age at diagnosis	8.42 year
+E-GEOD-93624		SRR5176765	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176765	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176765	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176765	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176765	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176765	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176766	characteristic	age at diagnosis	12.83 year
+E-GEOD-93624		SRR5176766	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176766	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176766	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176766	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176766	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176766	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176767	characteristic	age at diagnosis	11.92 year
+E-GEOD-93624		SRR5176767	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176767	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176767	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176767	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176767	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176767	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176768	characteristic	age at diagnosis	12.67 year
+E-GEOD-93624		SRR5176768	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176768	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176768	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176768	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176768	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176768	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176769	characteristic	age at diagnosis	16.75 year
+E-GEOD-93624		SRR5176769	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176769	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176769	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176769	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176769	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176769	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176770	characteristic	age at diagnosis	10.75 year
+E-GEOD-93624		SRR5176770	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176770	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176770	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176770	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176770	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176770	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176771	characteristic	age at diagnosis	12.42 year
+E-GEOD-93624		SRR5176771	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176771	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176771	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176771	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176771	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176771	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176772	characteristic	age at diagnosis	11 year
+E-GEOD-93624		SRR5176772	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176772	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176772	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176772	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176772	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176772	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176773	characteristic	age at diagnosis	14.25 year
+E-GEOD-93624		SRR5176773	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176773	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176773	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176773	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176773	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176773	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176774	characteristic	age at diagnosis	12.33 year
+E-GEOD-93624		SRR5176774	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176774	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176774	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176774	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176774	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176774	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176775	characteristic	age at diagnosis	15.25 year
+E-GEOD-93624		SRR5176775	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176775	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176775	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176775	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176775	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176775	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176776	characteristic	age at diagnosis	15.83 year
+E-GEOD-93624		SRR5176776	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176776	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176776	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176776	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176776	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176776	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176777	characteristic	age at diagnosis	6.58 year
+E-GEOD-93624		SRR5176777	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176777	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176777	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176777	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176777	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176777	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176778	characteristic	age at diagnosis	14.75 year
+E-GEOD-93624		SRR5176778	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176778	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176778	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176778	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176778	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176778	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176779	characteristic	age at diagnosis	11.58 year
+E-GEOD-93624		SRR5176779	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176779	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176779	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176779	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176779	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176779	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176780	characteristic	age at diagnosis	6.17 year
+E-GEOD-93624		SRR5176780	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176780	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176780	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176780	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176780	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176780	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176781	characteristic	age at diagnosis	10.75 year
+E-GEOD-93624		SRR5176781	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176781	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176781	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176781	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176781	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176781	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176782	characteristic	age at diagnosis	15.17 year
+E-GEOD-93624		SRR5176782	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176782	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176782	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176782	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176782	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176782	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176783	characteristic	age at diagnosis	11.75 year
+E-GEOD-93624		SRR5176783	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176783	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176783	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176783	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176783	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176783	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176784	characteristic	age at diagnosis	9.83 year
+E-GEOD-93624		SRR5176784	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176784	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176784	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176784	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176784	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176784	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176785	characteristic	age at diagnosis	6.5 year
+E-GEOD-93624		SRR5176785	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176785	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176785	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176785	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176785	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176785	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176786	characteristic	age at diagnosis	11.25 year
+E-GEOD-93624		SRR5176786	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176786	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176786	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176786	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176786	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176786	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176787	characteristic	age at diagnosis	6.25 year
+E-GEOD-93624		SRR5176787	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176787	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176787	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176787	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176787	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176787	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176788	characteristic	age at diagnosis	14.42 year
+E-GEOD-93624		SRR5176788	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176788	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176788	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176788	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176788	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176788	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176789	characteristic	age at diagnosis	6.58 year
+E-GEOD-93624		SRR5176789	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176789	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176789	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176789	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176789	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176789	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176790	characteristic	age at diagnosis	8.17 year
+E-GEOD-93624		SRR5176790	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176790	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176790	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176790	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176790	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176790	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176791	characteristic	age at diagnosis	15.08 year
+E-GEOD-93624		SRR5176791	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176791	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176791	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176791	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176791	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176791	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176792	characteristic	age at diagnosis	15 year
+E-GEOD-93624		SRR5176792	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176792	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176792	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176792	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176792	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176792	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176793	characteristic	age at diagnosis	16.75 year
+E-GEOD-93624		SRR5176793	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176793	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176793	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176793	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176793	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176793	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176794	characteristic	age at diagnosis	13.92 year
+E-GEOD-93624		SRR5176794	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176794	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176794	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176794	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176794	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176794	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176795	characteristic	age at diagnosis	11 year
+E-GEOD-93624		SRR5176795	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176795	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176795	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176795	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176795	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176795	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176796	characteristic	age at diagnosis	13.25 year
+E-GEOD-93624		SRR5176796	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176796	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176796	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176796	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176796	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176796	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176797	characteristic	age at diagnosis	7.17 year
+E-GEOD-93624		SRR5176797	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176797	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176797	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176797	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176797	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176797	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176798	characteristic	age at diagnosis	15.75 year
+E-GEOD-93624		SRR5176798	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176798	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176798	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176798	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176798	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176798	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176799	characteristic	age at diagnosis	16.92 year
+E-GEOD-93624		SRR5176799	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176799	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176799	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176799	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176799	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176799	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176800	characteristic	age at diagnosis	10.33 year
+E-GEOD-93624		SRR5176800	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176800	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176800	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176800	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176800	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176800	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176801	characteristic	age at diagnosis	11.5 year
+E-GEOD-93624		SRR5176801	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176801	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176801	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176801	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176801	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176801	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176802	characteristic	age at diagnosis	12.5 year
+E-GEOD-93624		SRR5176802	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176802	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176802	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176802	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176802	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176802	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176803	characteristic	age at diagnosis	11.5 year
+E-GEOD-93624		SRR5176803	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176803	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176803	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176803	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176803	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176803	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176804	characteristic	age at diagnosis	8.83 year
+E-GEOD-93624		SRR5176804	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176804	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176804	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176804	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176804	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176804	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176805	characteristic	age at diagnosis	13.92 year
+E-GEOD-93624		SRR5176805	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176805	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176805	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176805	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176805	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176805	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176806	characteristic	age at diagnosis	14.92 year
+E-GEOD-93624		SRR5176806	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176806	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176806	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176806	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176806	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176806	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176807	characteristic	age at diagnosis	9.17 year
+E-GEOD-93624		SRR5176807	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176807	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176807	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176807	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176807	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176807	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176808	characteristic	age at diagnosis	10.67 year
+E-GEOD-93624		SRR5176808	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176808	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176808	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176808	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176808	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176808	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176809	characteristic	age at diagnosis	12.75 year
+E-GEOD-93624		SRR5176809	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176809	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176809	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176809	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176809	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176809	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176810	characteristic	age at diagnosis	15.92 year
+E-GEOD-93624		SRR5176810	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176810	characteristic	ethnic group	African	http://purl.obolibrary.org/obo/HANCESTRO_0010
+E-GEOD-93624		SRR5176810	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176810	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176810	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176810	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176811	characteristic	age at diagnosis	10.17 year
+E-GEOD-93624		SRR5176811	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176811	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176811	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176811	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176811	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176811	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176812	characteristic	age at diagnosis	12.42 year
+E-GEOD-93624		SRR5176812	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176812	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176812	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176812	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176812	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176812	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176813	characteristic	age at diagnosis	12.42 year
+E-GEOD-93624		SRR5176813	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176813	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176813	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176813	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176813	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176813	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176814	characteristic	age at diagnosis	12.67 year
+E-GEOD-93624		SRR5176814	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176814	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176814	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176814	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176814	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176814	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176815	characteristic	age at diagnosis	10.58 year
+E-GEOD-93624		SRR5176815	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176815	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176815	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176815	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176815	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176815	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176816	characteristic	age at diagnosis	10.42 year
+E-GEOD-93624		SRR5176816	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176816	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176816	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176816	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176816	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176816	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176817	characteristic	age at diagnosis	8 year
+E-GEOD-93624		SRR5176817	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176817	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176817	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176817	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176817	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176817	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176818	characteristic	age at diagnosis	15.67 year
+E-GEOD-93624		SRR5176818	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176818	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176818	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176818	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176818	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176818	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176819	characteristic	age at diagnosis	14.08 year
+E-GEOD-93624		SRR5176819	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176819	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176819	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176819	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176819	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176819	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176820	characteristic	age at diagnosis	10.67 year
+E-GEOD-93624		SRR5176820	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176820	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176820	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176820	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176820	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176820	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176821	characteristic	age at diagnosis	8.5 year
+E-GEOD-93624		SRR5176821	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176821	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176821	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176821	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176821	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176821	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176822	characteristic	age at diagnosis	8.83 year
+E-GEOD-93624		SRR5176822	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176822	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176822	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176822	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176822	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176822	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176823	characteristic	age at diagnosis	9.17 year
+E-GEOD-93624		SRR5176823	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176823	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176823	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176823	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176823	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176823	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176824	characteristic	age at diagnosis	13.58 year
+E-GEOD-93624		SRR5176824	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176824	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176824	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176824	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176824	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176824	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176825	characteristic	age at diagnosis	12.08 year
+E-GEOD-93624		SRR5176825	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176825	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176825	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176825	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176825	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176825	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176826	characteristic	age at diagnosis	13.17 year
+E-GEOD-93624		SRR5176826	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176826	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176826	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176826	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176826	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176826	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176827	characteristic	age at diagnosis	15.42 year
+E-GEOD-93624		SRR5176827	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176827	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176827	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176827	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176827	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176827	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176828	characteristic	age at diagnosis	13.75 year
+E-GEOD-93624		SRR5176828	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176828	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176828	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176828	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176828	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176828	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176829	characteristic	age at diagnosis	12.83 year
+E-GEOD-93624		SRR5176829	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176829	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176829	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176829	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176829	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176829	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176830	characteristic	age at diagnosis	12.5 year
+E-GEOD-93624		SRR5176830	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176830	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176830	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176830	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176830	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176830	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176831	characteristic	age at diagnosis	14.42 year
+E-GEOD-93624		SRR5176831	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176831	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176831	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176831	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176831	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176831	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176832	characteristic	age at diagnosis	8.58 year
+E-GEOD-93624		SRR5176832	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176832	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176832	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176832	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176832	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176832	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176833	characteristic	age at diagnosis	5.92 year
+E-GEOD-93624		SRR5176833	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176833	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176833	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176833	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176833	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176833	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176834	characteristic	age at diagnosis	13.67 year
+E-GEOD-93624		SRR5176834	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176834	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176834	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176834	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176834	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176834	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176835	characteristic	age at diagnosis	10.67 year
+E-GEOD-93624		SRR5176835	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176835	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176835	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176835	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176835	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176835	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176836	characteristic	age at diagnosis	16.58 year
+E-GEOD-93624		SRR5176836	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176836	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176836	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176836	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176836	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176836	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176837	characteristic	age at diagnosis	13.75 year
+E-GEOD-93624		SRR5176837	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176837	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176837	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176837	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176837	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176837	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176838	characteristic	age at diagnosis	16.5 year
+E-GEOD-93624		SRR5176838	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176838	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176838	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176838	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176838	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176838	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176839	characteristic	age at diagnosis	15.17 year
+E-GEOD-93624		SRR5176839	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176839	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176839	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176839	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176839	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176839	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176840	characteristic	age at diagnosis	12.58 year
+E-GEOD-93624		SRR5176840	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176840	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176840	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176840	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176840	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176840	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176841	characteristic	age at diagnosis	15.33 year
+E-GEOD-93624		SRR5176841	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176841	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176841	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176841	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176841	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176841	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176842	characteristic	age at diagnosis	10.33 year
+E-GEOD-93624		SRR5176842	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176842	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176842	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176842	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176842	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176842	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176843	characteristic	age at diagnosis	10.25 year
+E-GEOD-93624		SRR5176843	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176843	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176843	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176843	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176843	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176843	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176844	characteristic	age at diagnosis	9.92 year
+E-GEOD-93624		SRR5176844	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176844	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176844	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176844	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176844	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176844	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176845	characteristic	age at diagnosis	9.5 year
+E-GEOD-93624		SRR5176845	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176845	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176845	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176845	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176845	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176845	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176846	characteristic	age at diagnosis	11.25 year
+E-GEOD-93624		SRR5176846	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176846	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176846	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176846	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176846	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176846	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176847	characteristic	age at diagnosis	10.5 year
+E-GEOD-93624		SRR5176847	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176847	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176847	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176847	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176847	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176847	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176848	characteristic	age at diagnosis	11.5 year
+E-GEOD-93624		SRR5176848	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176848	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176848	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176848	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176848	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176848	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176849	characteristic	age at diagnosis	10.5 year
+E-GEOD-93624		SRR5176849	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176849	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176849	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176849	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176849	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176849	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176850	characteristic	age at diagnosis	16.92 year
+E-GEOD-93624		SRR5176850	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176850	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176850	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176850	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176850	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176850	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176851	characteristic	age at diagnosis	8.67 year
+E-GEOD-93624		SRR5176851	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176851	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176851	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176851	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176851	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176851	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176852	characteristic	age at diagnosis	16.92 year
+E-GEOD-93624		SRR5176852	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176852	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176852	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176852	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176852	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176852	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176853	characteristic	age at diagnosis	15.33 year
+E-GEOD-93624		SRR5176853	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176853	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176853	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176853	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176853	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176853	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176854	characteristic	age at diagnosis	15.33 year
+E-GEOD-93624		SRR5176854	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176854	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176854	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176854	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176854	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176854	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176855	characteristic	age at diagnosis	12.58 year
+E-GEOD-93624		SRR5176855	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176855	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176855	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176855	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176855	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176855	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176856	characteristic	age at diagnosis	10.5 year
+E-GEOD-93624		SRR5176856	characteristic	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176856	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176856	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176856	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176856	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176856	factor	disease	non inflammatory bowel disease control
+E-GEOD-93624		SRR5176857	characteristic	age at diagnosis	12.08 year
+E-GEOD-93624		SRR5176857	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176857	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176857	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176857	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176857	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176857	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176858	characteristic	age at diagnosis	16.5 year
+E-GEOD-93624		SRR5176858	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176858	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176858	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176858	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176858	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176858	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176859	characteristic	age at diagnosis	10.17 year
+E-GEOD-93624		SRR5176859	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176859	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176859	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176859	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176859	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176859	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176860	characteristic	age at diagnosis	16.67 year
+E-GEOD-93624		SRR5176860	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176860	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176860	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176860	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176860	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176860	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176861	characteristic	age at diagnosis	5.42 year
+E-GEOD-93624		SRR5176861	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176861	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176861	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176861	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176861	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176861	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176862	characteristic	age at diagnosis	10.75 year
+E-GEOD-93624		SRR5176862	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176862	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176862	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176862	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176862	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176862	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176863	characteristic	age at diagnosis	12 year
+E-GEOD-93624		SRR5176863	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176863	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176863	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176863	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176863	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176863	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176864	characteristic	age at diagnosis	16.5 year
+E-GEOD-93624		SRR5176864	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176864	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176864	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176864	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176864	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176864	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176865	characteristic	age at diagnosis	12.75 year
+E-GEOD-93624		SRR5176865	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176865	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176865	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176865	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176865	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176865	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176866	characteristic	age at diagnosis	15.5 year
+E-GEOD-93624		SRR5176866	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176866	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176866	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176866	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176866	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176866	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176867	characteristic	age at diagnosis	13.83 year
+E-GEOD-93624		SRR5176867	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176867	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176867	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176867	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176867	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176867	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176868	characteristic	age at diagnosis	16.17 year
+E-GEOD-93624		SRR5176868	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176868	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176868	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176868	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176868	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176868	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176869	characteristic	age at diagnosis	16.42 year
+E-GEOD-93624		SRR5176869	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176869	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176869	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176869	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176869	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176869	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176870	characteristic	age at diagnosis	13.92 year
+E-GEOD-93624		SRR5176870	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176870	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176870	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176870	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176870	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176870	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176871	characteristic	age at diagnosis	13.08 year
+E-GEOD-93624		SRR5176871	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176871	characteristic	ethnic group	Other/Mixed
+E-GEOD-93624		SRR5176871	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176871	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176871	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-93624		SRR5176871	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176872	characteristic	age at diagnosis	9.58 year
+E-GEOD-93624		SRR5176872	characteristic	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384
+E-GEOD-93624		SRR5176872	characteristic	ethnic group	European	http://purl.obolibrary.org/obo/HANCESTRO_0005
+E-GEOD-93624		SRR5176872	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-93624		SRR5176872	characteristic	organism part	ileum	http://purl.obolibrary.org/obo/UBERON_0002116
+E-GEOD-93624		SRR5176872	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-93624		SRR5176872	factor	disease	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384

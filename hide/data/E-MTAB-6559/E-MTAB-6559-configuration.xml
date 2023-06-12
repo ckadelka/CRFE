@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="microarray_1colour_mrna_differential" r_data="1">
+    <analytics>
+        <array_design>A-AFFY-44</array_design>
+        <assay_groups>
+            <assay_group id="g1" label="menthol conventional cigarette; 0 day">
+                <assay>A377635-1-hybridization</assay>
+                <assay>A377247-1-hybridization</assay>
+                <assay>A377588-1-hybridization</assay>
+                <assay>B087604-1-hybridization</assay>
+                <assay>B086695-1-hybridization</assay>
+                <assay>A377538-1-hybridization</assay>
+                <assay>B087464-1-hybridization</assay>
+                <assay>B087734-1-hybridization</assay>
+                <assay>B087574-1-hybridization</assay>
+                <assay>A377679-1-hybridization</assay>
+                <assay>A377306-1-hybridization</assay>
+                <assay>A377686-1-hybridization</assay>
+                <assay>A377598-1-hybridization</assay>
+                <assay>B087265-1-hybridization</assay>
+                <assay>B087675-1-hybridization</assay>
+                <assay>A377269-1-hybridization</assay>
+                <assay>A377527-1-hybridization</assay>
+                <assay>B087714-2-hybridization</assay>
+                <assay>A377688-1-hybridization</assay>
+                <assay>B087554-1-hybridization</assay>
+                <assay>B086814-1-hybridization</assay>
+                <assay>B087615-1-hybridization</assay>
+                <assay>A377618-1-hybridization</assay>
+                <assay>B086825-1-hybridization</assay>
+                <assay>A377656-1-hybridization</assay>
+                <assay>B086975-1-hybridization</assay>
+                <assay>B086935-1-hybridization</assay>
+                <assay>A377609-1-hybridization</assay>
+                <assay>A377626-1-hybridization</assay>
+                <assay>A377648-1-hybridization</assay>
+                <assay>A377658-1-hybridization</assay>
+            </assay_group>
+            <assay_group id="g2" label="menthol conventional cigarette; 6 day">
+                <assay>B087554-3-hybridization</assay>
+                <assay>B086975-3-hybridization</assay>
+                <assay>A377588-3-hybridization</assay>
+                <assay>A377618-3-hybridization</assay>
+                <assay>B087725-3-hybridization</assay>
+                <assay>B087265-3-hybridization</assay>
+                <assay>A377679-3-hybridization</assay>
+                <assay>A377598-3-hybridization</assay>
+                <assay>A377538-3-hybridization</assay>
+                <assay>A377656-3-hybridization</assay>
+                <assay>A377648-3-hybridization</assay>
+                <assay>A377269-3-hybridization</assay>
+                <assay>B087734-3-hybridization</assay>
+                <assay>B087675-3-hybridization</assay>
+                <assay>B087615-3-hybridization</assay>
+                <assay>B087604-3-hybridization</assay>
+                <assay>A377306-3-hybridization</assay>
+                <assay>A377658-3-hybridization</assay>
+                <assay>B087574-3-hybridization</assay>
+                <assay>A377609-3-hybridization</assay>
+                <assay>A377635-3-hybridization</assay>
+                <assay>B086695-3-hybridization</assay>
+                <assay>A377686-3-hybridization</assay>
+                <assay>B087464-3-hybridization</assay>
+                <assay>B086814-4-hybridization</assay>
+                <assay>B086825-3-hybridization</assay>
+                <assay>B086935-4-hybridization</assay>
+                <assay>B087714-3-hybridization</assay>
+                <assay>A377527-3-hybridization</assay>
+                <assay>A377247-3-hybridization</assay>
+                <assay>A377626-3-hybridization</assay>
+                <assay>A377688-3-hybridization</assay>
+            </assay_group>
+            <assay_group id="g3" label="menthol conventional cigarette; 91 day">
+                <assay>B086975-5-hybridization</assay>
+                <assay>B087604-5-hybridization</assay>
+                <assay>A377626-5-hybridization</assay>
+                <assay>B087554-5-hybridization</assay>
+                <assay>A377247-5-hybridization</assay>
+                <assay>B087464-5-hybridization</assay>
+                <assay>A377598-5-hybridization</assay>
+                <assay>A377588-5-hybridization</assay>
+                <assay>B086825-5-hybridization</assay>
+                <assay>B087734-5-hybridization</assay>
+                <assay>A377679-5-hybridization</assay>
+                <assay>B087574-5-hybridization</assay>
+                <assay>B086935-5-hybridization</assay>
+                <assay>B087675-5-hybridization</assay>
+                <assay>A377688-5-hybridization</assay>
+                <assay>A377538-5-hybridization</assay>
+                <assay>A377686-6-hybridization</assay>
+                <assay>A377609-5-hybridization</assay>
+                <assay>A377306-5-hybridization</assay>
+                <assay>A377635-5-hybridization</assay>
+                <assay>B086695-5-hybridization</assay>
+                <assay>B087265-5-hybridization</assay>
+                <assay>B087714-5-hybridization</assay>
+                <assay>B087725-5-hybridization</assay>
+                <assay>A377648-5-hybridization</assay>
+                <assay>B086814-5-hybridization</assay>
+                <assay>B087585-6-hybridization</assay>
+                <assay>B087615-5-hybridization</assay>
+                <assay>A377269-5-hybridization</assay>
+                <assay>A377527-5-hybridization</assay>
+                <assay>A377658-5-hybridization</assay>
+                <assay>A377656-5-hybridization</assay>
+                <assay>A377618-5-hybridization</assay>
+            </assay_group>
+            <assay_group id="g4" label="smoking abstinence; 0 day">
+                <assay>B087844-1-hybridization</assay>
+                <assay>A377267-1-hybridization</assay>
+                <assay>A377239-1-hybridization</assay>
+                <assay>B087024-1-hybridization</assay>
+                <assay>B087395-1-hybridization</assay>
+                <assay>A377546-1-hybridization</assay>
+                <assay>A377589-1-hybridization</assay>
+                <assay>A377548-1-hybridization</assay>
+                <assay>A377246-1-hybridization</assay>
+                <assay>B087545-1-hybridization</assay>
+                <assay>B086984-1-hybridization</assay>
+                <assay>A377667-1-hybridization</assay>
+                <assay>B086995-1-hybridization</assay>
+                <assay>A377258-1-hybridization</assay>
+                <assay>B087375-1-hybridization</assay>
+                <assay>A377616-1-hybridization</assay>
+                <assay>A377668-1-hybridization</assay>
+                <assay>A377559-1-hybridization</assay>
+                <assay>B087765-1-hybridization</assay>
+                <assay>A377629-1-hybridization</assay>
+                <assay>B087835-1-hybridization</assay>
+                <assay>A377529-1-hybridization</assay>
+                <assay>B087774-1-hybridization</assay>
+                <assay>A377687-1-hybridization</assay>
+                <assay>B086834-1-hybridization</assay>
+                <assay>A377655-1-hybridization</assay>
+                <assay>A377669-1-hybridization</assay>
+                <assay>A377579-1-hybridization</assay>
+                <assay>B087384-1-hybridization</assay>
+            </assay_group>
+            <assay_group id="g5" label="smoking abstinence; 6 day">
+                <assay>B086995-3-hybridization</assay>
+                <assay>B087844-3-hybridization</assay>
+                <assay>A377546-3-hybridization</assay>
+                <assay>B086834-3-hybridization</assay>
+                <assay>B087375-3-hybridization</assay>
+                <assay>A377579-3-hybridization</assay>
+                <assay>A377258-3-hybridization</assay>
+                <assay>B087024-3-hybridization</assay>
+                <assay>B087765-3-hybridization</assay>
+                <assay>A377559-3-hybridization</assay>
+                <assay>A377668-3-hybridization</assay>
+                <assay>A377655-3-hybridization</assay>
+                <assay>A377687-3-hybridization</assay>
+                <assay>A377616-3-hybridization</assay>
+                <assay>A377589-3-hybridization</assay>
+                <assay>A377239-3-hybridization</assay>
+                <assay>B087395-3-hybridization</assay>
+                <assay>B086984-3-hybridization</assay>
+                <assay>A377667-3-hybridization</assay>
+                <assay>A377246-3-hybridization</assay>
+                <assay>A377267-3-hybridization</assay>
+                <assay>A377529-3-hybridization</assay>
+                <assay>B087545-3-hybridization</assay>
+                <assay>B087774-3-hybridization</assay>
+                <assay>A377548-3-hybridization</assay>
+                <assay>B087835-3-hybridization</assay>
+                <assay>B087384-3-hybridization</assay>
+                <assay>A377669-3-hybridization</assay>
+                <assay>A377629-3-hybridization</assay>
+            </assay_group>
+            <assay_group id="g6" label="smoking abstinence; 91 day">
+                <assay>B087765-5-hybridization</assay>
+                <assay>A377559-5-hybridization</assay>
+                <assay>A377548-5-hybridization</assay>
+                <assay>A377687-5-hybridization</assay>
+                <assay>B086995-5-hybridization</assay>
+                <assay>A377668-5-hybridization</assay>
+                <assay>B087384-5-hybridization</assay>
+                <assay>A377546-5-hybridization</assay>
+                <assay>A377529-5-hybridization</assay>
+                <assay>A377246-5-hybridization</assay>
+                <assay>A377267-5-hybridization</assay>
+                <assay>A377595-5-hybridization</assay>
+                <assay>A377616-5-hybridization</assay>
+                <assay>A377655-5-hybridization</assay>
+                <assay>A377258-5-hybridization</assay>
+                <assay>A377239-5-hybridization</assay>
+                <assay>A377579-5-hybridization</assay>
+                <assay>B086984-5-hybridization</assay>
+                <assay>A377669-5-hybridization</assay>
+                <assay>B087774-5-hybridization</assay>
+                <assay>B087835-5-hybridization</assay>
+                <assay>B087844-5-hybridization</assay>
+                <assay>A377629-5-hybridization</assay>
+                <assay>B087024-5-hybridization</assay>
+                <assay>B086834-5-hybridization</assay>
+                <assay>A377589-5-hybridization</assay>
+                <assay>B087375-5-hybridization</assay>
+                <assay>A377667-5-hybridization</assay>
+                <assay>B087395-5-hybridization</assay>
+            </assay_group>
+            <assay_group id="g7" label="tobacco heating system 2.2 menthol; 0 day">
+                <assay>B087624-1-hybridization</assay>
+                <assay>A377236-1-hybridization</assay>
+                <assay>B087404-1-hybridization</assay>
+                <assay>A377637-1-hybridization</assay>
+                <assay>B087065-1-hybridization</assay>
+                <assay>A377576-2-hybridization</assay>
+                <assay>A377558-1-hybridization</assay>
+                <assay>B087435-1-hybridization</assay>
+                <assay>B087534-1-hybridization</assay>
+                <assay>B087594-1-hybridization</assay>
+                <assay>B086764-1-hybridization</assay>
+                <assay>B087705-1-hybridization</assay>
+                <assay>A377646-1-hybridization</assay>
+                <assay>B086854-1-hybridization</assay>
+                <assay>B087644-1-hybridization</assay>
+                <assay>A377545-1-hybridization</assay>
+                <assay>B086684-1-hybridization</assay>
+                <assay>A377599-1-hybridization</assay>
+                <assay>B087855-1-hybridization</assay>
+                <assay>A377657-1-hybridization</assay>
+                <assay>A377615-1-hybridization</assay>
+                <assay>B087805-1-hybridization</assay>
+                <assay>A377678-1-hybridization</assay>
+                <assay>A377305-1-hybridization</assay>
+                <assay>A377607-1-hybridization</assay>
+                <assay>B086704-1-hybridization</assay>
+                <assay>A377677-1-hybridization</assay>
+                <assay>A377566-1-hybridization</assay>
+                <assay>B087334-1-hybridization</assay>
+                <assay>B086805-1-hybridization</assay>
+                <assay>B086724-1-hybridization</assay>
+                <assay>A377539-1-hybridization</assay>
+                <assay>A377627-1-hybridization</assay>
+                <assay>B086735-1-hybridization</assay>
+                <assay>B087035-1-hybridization</assay>
+                <assay>B087525-1-hybridization</assay>
+                <assay>B087455-1-hybridization</assay>
+                <assay>B087635-1-hybridization</assay>
+                <assay>B087255-1-hybridization</assay>
+                <assay>A377235-1-hybridization</assay>
+                <assay>A377569-1-hybridization</assay>
+                <assay>A377647-1-hybridization</assay>
+                <assay>A377675-1-hybridization</assay>
+                <assay>B087004-1-hybridization</assay>
+                <assay>A377567-1-hybridization</assay>
+                <assay>B087054-1-hybridization</assay>
+                <assay>A377568-1-hybridization</assay>
+                <assay>A377639-1-hybridization</assay>
+                <assay>B086755-1-hybridization</assay>
+                <assay>B086715-1-hybridization</assay>
+                <assay>B087475-1-hybridization</assay>
+                <assay>B087785-1-hybridization</assay>
+                <assay>A377536-1-hybridization</assay>
+                <assay>B087015-1-hybridization</assay>
+                <assay>B087794-1-hybridization</assay>
+                <assay>B086955-1-hybridization</assay>
+                <assay>B087505-1-hybridization</assay>
+                <assay>A377597-1-hybridization</assay>
+                <assay>B086944-1-hybridization</assay>
+                <assay>A377268-1-hybridization</assay>
+                <assay>A377636-1-hybridization</assay>
+                <assay>B086865-1-hybridization</assay>
+            </assay_group>
+            <assay_group id="g8" label="tobacco heating system 2.2 menthol; 6 day">
+                <assay>B086755-3-hybridization</assay>
+                <assay>A377235-3-hybridization</assay>
+                <assay>B086865-3-hybridization</assay>
+                <assay>B086704-3-hybridization</assay>
+                <assay>A377615-3-hybridization</assay>
+                <assay>B087594-3-hybridization</assay>
+                <assay>B087745-3-hybridization</assay>
+                <assay>A377647-3-hybridization</assay>
+                <assay>A377597-3-hybridization</assay>
+                <assay>B087794-3-hybridization</assay>
+                <assay>B087404-3-hybridization</assay>
+                <assay>B086735-3-hybridization</assay>
+                <assay>B087624-3-hybridization</assay>
+                <assay>B087635-3-hybridization</assay>
+                <assay>B087065-3-hybridization</assay>
+                <assay>B087334-3-hybridization</assay>
+                <assay>B087015-3-hybridization</assay>
+                <assay>A377569-3-hybridization</assay>
+                <assay>B087785-3-hybridization</assay>
+                <assay>B086724-4-hybridization</assay>
+                <assay>B087475-3-hybridization</assay>
+                <assay>B087505-3-hybridization</assay>
+                <assay>A377657-3-hybridization</assay>
+                <assay>B086955-3-hybridization</assay>
+                <assay>B086715-3-hybridization</assay>
+                <assay>A377567-3-hybridization</assay>
+                <assay>B086764-3-hybridization</assay>
+                <assay>B087004-3-hybridization</assay>
+                <assay>A377236-3-hybridization</assay>
+                <assay>B087644-3-hybridization</assay>
+                <assay>A377678-3-hybridization</assay>
+                <assay>A377599-3-hybridization</assay>
+                <assay>A377646-3-hybridization</assay>
+                <assay>B087054-4-hybridization</assay>
+                <assay>A377677-3-hybridization</assay>
+                <assay>A377576-3-hybridization</assay>
+                <assay>B087855-3-hybridization</assay>
+                <assay>B087435-3-hybridization</assay>
+                <assay>B087705-3-hybridization</assay>
+                <assay>A377636-3-hybridization</assay>
+                <assay>B087035-3-hybridization</assay>
+                <assay>B087525-3-hybridization</assay>
+                <assay>B087534-3-hybridization</assay>
+                <assay>B086684-3-hybridization</assay>
+                <assay>B086805-3-hybridization</assay>
+                <assay>A377305-3-hybridization</assay>
+                <assay>B087455-3-hybridization</assay>
+                <assay>A377639-3-hybridization</assay>
+                <assay>A377268-3-hybridization</assay>
+                <assay>A377566-3-hybridization</assay>
+                <assay>B086854-3-hybridization</assay>
+                <assay>A377568-3-hybridization</assay>
+                <assay>A377637-3-hybridization</assay>
+                <assay>A377536-3-hybridization</assay>
+                <assay>A377627-3-hybridization</assay>
+                <assay>A377675-3-hybridization</assay>
+                <assay>B086944-3-hybridization</assay>
+                <assay>A377545-3-hybridization</assay>
+                <assay>B087255-3-hybridization</assay>
+                <assay>A377558-3-hybridization</assay>
+                <assay>A377607-3-hybridization</assay>
+                <assay>B087805-3-hybridization</assay>
+            </assay_group>
+            <assay_group id="g9" label="tobacco heating system 2.2 menthol; 91 day">
+                <assay>B086755-5-hybridization</assay>
+                <assay>A377637-5-hybridization</assay>
+                <assay>B087054-5-hybridization</assay>
+                <assay>B087594-5-hybridization</assay>
+                <assay>A377627-5-hybridization</assay>
+                <assay>A377236-5-hybridization</assay>
+                <assay>B087745-5-hybridization</assay>
+                <assay>A377636-5-hybridization</assay>
+                <assay>B087644-5-hybridization</assay>
+                <assay>B086735-5-hybridization</assay>
+                <assay>B087794-5-hybridization</assay>
+                <assay>A377536-5-hybridization</assay>
+                <assay>B087035-5-hybridization</assay>
+                <assay>A377567-5-hybridization</assay>
+                <assay>B087705-5-hybridization</assay>
+                <assay>B086854-5-hybridization</assay>
+                <assay>A377657-5-hybridization</assay>
+                <assay>A377568-5-hybridization</assay>
+                <assay>B087505-5-hybridization</assay>
+                <assay>B087015-5-hybridization</assay>
+                <assay>A377597-6-hybridization</assay>
+                <assay>B087435-5-hybridization</assay>
+                <assay>B087805-5-hybridization</assay>
+                <assay>A377268-5-hybridization</assay>
+                <assay>A377545-5-hybridization</assay>
+                <assay>A377647-5-hybridization</assay>
+                <assay>B086764-5-hybridization</assay>
+                <assay>B087624-5-hybridization</assay>
+                <assay>B087404-5-hybridization</assay>
+                <assay>A377305-5-hybridization</assay>
+                <assay>A377576-5-hybridization</assay>
+                <assay>A377615-5-hybridization</assay>
+                <assay>B087475-5-hybridization</assay>
+                <assay>B086865-5-hybridization</assay>
+                <assay>B086724-5-hybridization</assay>
+                <assay>B087525-5-hybridization</assay>
+                <assay>B087334-5-hybridization</assay>
+                <assay>B086955-5-hybridization</assay>
+                <assay>A377639-5-hybridization</assay>
+                <assay>A377566-5-hybridization</assay>
+                <assay>A377235-5-hybridization</assay>
+                <assay>B086715-5-hybridization</assay>
+                <assay>B086704-5-hybridization</assay>
+                <assay>A377678-5-hybridization</assay>
+                <assay>A377569-5-hybridization</assay>
+                <assay>B087065-5-hybridization</assay>
+                <assay>B087635-6-hybridization</assay>
+                <assay>A377646-5-hybridization</assay>
+                <assay>A377675-6-hybridization</assay>
+                <assay>A377677-5-hybridization</assay>
+                <assay>B087855-5-hybridization</assay>
+                <assay>B087004-5-hybridization</assay>
+                <assay>B087255-5-hybridization</assay>
+                <assay>B086944-5-hybridization</assay>
+                <assay>B087785-5-hybridization</assay>
+                <assay>A377599-5-hybridization</assay>
+                <assay>B086805-5-hybridization</assay>
+                <assay>B087534-5-hybridization</assay>
+                <assay>A377558-5-hybridization</assay>
+                <assay>B087455-5-hybridization</assay>
+                <assay>A377539-5-hybridization</assay>
+                <assay>A377607-5-hybridization</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g4_g5" cttv_primary="0">
+                <name>'6 day' vs '0 day' in 'smoking abstinence'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g5</test_assay_group>
+            </contrast>
+            <contrast id="g4_g6" cttv_primary="0">
+                <name>'91 day' vs '0 day' in 'smoking abstinence'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g6</test_assay_group>
+            </contrast>
+            <contrast id="g5_g6" cttv_primary="0">
+                <name>'91 day' vs '6 day' in 'smoking abstinence'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g6</test_assay_group>
+            </contrast>
+            <contrast id="g1_g2" cttv_primary="0">
+                <name>'6 day' vs '0 day' in 'menthol conventional cigarette'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+            </contrast>
+            <contrast id="g1_g3" cttv_primary="0">
+                <name>'91 day' vs '0 day' in 'menthol conventional cigarette'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+            <contrast id="g2_g3" cttv_primary="0">
+                <name>'91 day' vs '6 day' in 'menthol conventional cigarette'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+            <contrast id="g7_g8" cttv_primary="0">
+                <name>'6 day' vs '0 day' in 'tobacco heating system 2.2 menthol'</name>
+                <reference_assay_group>g7</reference_assay_group>
+                <test_assay_group>g8</test_assay_group>
+            </contrast>
+            <contrast id="g7_g9" cttv_primary="0">
+                <name>'91 day' vs '0 day' in 'tobacco heating system 2.2 menthol'</name>
+                <reference_assay_group>g7</reference_assay_group>
+                <test_assay_group>g9</test_assay_group>
+            </contrast>
+            <contrast id="g8_g9" cttv_primary="0">
+                <name>'91 day' vs '6 day' in 'tobacco heating system 2.2 menthol'</name>
+                <reference_assay_group>g8</reference_assay_group>
+                <test_assay_group>g9</test_assay_group>
+            </contrast>
+            <contrast id="g4_g1" cttv_primary="0">
+                <name>'menthol conventional cigarette' vs 'smoking abstinence' in '0 day'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+            </contrast>
+            <contrast id="g5_g2" cttv_primary="0">
+                <name>'menthol conventional cigarette' vs 'smoking abstinence' in '6 day'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+            </contrast>
+            <contrast id="g6_g3" cttv_primary="0">
+                <name>'menthol conventional cigarette' vs 'smoking abstinence' in '91 day'</name>
+                <reference_assay_group>g6</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+            </contrast>
+            <contrast id="g4_g7" cttv_primary="0">
+                <name>'tobacco heating system 2.2 menthol' vs 'smoking abstinence' in '0 day'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g7</test_assay_group>
+            </contrast>
+            <contrast id="g5_g8" cttv_primary="0">
+                <name>'tobacco heating system 2.2 menthol' vs 'smoking abstinence' in '6 day'</name>
+                <reference_assay_group>g5</reference_assay_group>
+                <test_assay_group>g8</test_assay_group>
+            </contrast>
+            <contrast id="g6_g9" cttv_primary="0">
+                <name>'tobacco heating system 2.2 menthol' vs 'smoking abstinence' in '91 day'</name>
+                <reference_assay_group>g6</reference_assay_group>
+                <test_assay_group>g9</test_assay_group>
+            </contrast>
+            <contrast id="g1_g7" cttv_primary="0">
+                <name>'tobacco heating system 2.2 menthol' vs 'menthol conventional cigarette' in '0 day'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g7</test_assay_group>
+            </contrast>
+            <contrast id="g2_g8" cttv_primary="0">
+                <name>'tobacco heating system 2.2 menthol' vs 'menthol conventional cigarette' in '6 day'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g8</test_assay_group>
+            </contrast>
+            <contrast id="g3_g9" cttv_primary="0">
+                <name>'tobacco heating system 2.2 menthol' vs 'menthol conventional cigarette' in '91 day'</name>
+                <reference_assay_group>g3</reference_assay_group>
+                <test_assay_group>g9</test_assay_group>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

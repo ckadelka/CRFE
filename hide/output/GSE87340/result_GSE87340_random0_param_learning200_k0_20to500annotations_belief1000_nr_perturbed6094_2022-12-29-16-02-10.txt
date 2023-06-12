@@ -1,0 +1,659 @@
+Creation Time:	2022-12-29 16:02:10
+
+INPUT:
+File name:	/home/ahphan/RotationData/Kadelka/CRFE/gith/crfe_v017.py
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.5
+threshold type:	proportion
+belief:	1.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	25000
+MCMC steps:	25000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	3204772116
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	6094
+Proportion perturbed genes:	0.49995897940766265
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.3548387096774194
+beta (FNR):	0.3370967741935484
+q (penalization parameter):	0.004
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-8425.809904900947 +- 4.848875263043421
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	380	259	1.0	0.0	3.836e+04	0.327	mitotic cell cycle
+2	363	253	1.0	0.0	3.365e+04	0.241	DNA repair
+3	255	230	1.0	0.0	6.063e+03	0.31	translation
+4	188	122	1.0	0.0	1.021e+04	0.142	protein folding
+5	190	133	1.0	0.0	9.194e+03	0.317	post-translational protein modification
+6	90	57	0.94547	0.12254	2.437e+03	0.244	transition metal ion transport
+7	170	105	0.91352	0.25943	8.926e+03	0.061	Golgi vesicle transport
+8	234	143	0.8831	0.29765	1.708e+04	0.115	cofactor metabolic process
+9	84	65	0.71439	0.27789	1.424e+03	0.519	chromosome segregation
+10	40	32	0.71069	0.35315	2.928e+02	0.481	purine nucleobase metabolic process
+11	292	167	0.63215	0.30774	2.848e+04	0.154	male gamete generation
+12	248	157	0.60677	0.40379	1.834e+04	0.141	protein catabolic process
+13	395	249	0.56501	0.47226	4.656e+04	0.213	cellular amino acid metabolic process
+14	196	120	0.55176	0.41387	1.198e+04	0.213	monosaccharide metabolic process
+15	97	80	0.55068	0.44859	1.512e+03	0.152	respiratory electron transport chain
+16	201	151	0.53512	0.45579	8.791e+03	0.219	ncRNA processing
+17	172	118	0.50327	0.4309	7.825e+03	0.13	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile & mRNA splicing, via spliceosome
+18	70	45	0.4975	0.41488	1.448e+03	0.764	collagen catabolic process
+19	289	219	0.46862	0.45669	1.772e+04	0.229	ncRNA metabolic process
+20	81	56	0.46171	0.28436	1.723e+03	0.158	DNA-templated transcription, elongation
+21	112	61	0.46131	0.33819	4.421e+03	0.099	amino acid transport
+22	74	60	0.44474	0.36367	9.449e+02	0.241	cellular component biogenesis
+23	102	73	0.4353	0.47197	2.547e+03	0.42	cellular amino acid biosynthetic process
+24	135	103	0.43253	0.4624	3.815e+03	0.144	electron transport chain
+25	57	34	0.41978	0.31179	1.057e+03	0.495	digestion
+26	48	31	0.39706	0.35367	6.801e+02	0.28	pyrimidine nucleoside metabolic process
+27	111	76	0.38403	0.37983	3.282e+03	0.334	carbohydrate catabolic process
+28	68	46	0.36258	0.27446	1.264e+03	0.277	pyruvate metabolic process
+29	179	122	0.35632	0.45138	8.570e+03	0.129	RNA splicing, via transesterification reactions
+30	97	66	0.35032	0.45011	2.537e+03	0.176	mitochondrial transport
+31	48	35	0.34784	0.4492	5.464e+02	0.206	establishment of protein localization to mitochondrion
+32	132	92	0.34617	0.43427	4.487e+03	0.397	protein-DNA complex subunit organization
+33	77	47	0.32801	0.42887	1.872e+03	0.664	multicellular organismal catabolic process
+34	35	26	0.31988	0.26484	2.798e+02	0.198	regulation of DNA-templated transcription, elongation
+35	55	48	0.30358	0.23705	3.648e+02	0.268	ribonucleoprotein complex biogenesis
+36	46	33	0.29756	0.39912	5.204e+02	0.197	protein targeting to mitochondrion
+37	34	26	0.29042	0.33058	2.448e+02	0.268	ER-associated ubiquitin-dependent protein catabolic process
+38	82	51	0.28711	0.24904	2.073e+03	0.152	regulation of proteolysis involved in cellular protein catabolic process
+39	144	89	0.27971	0.28107	6.409e+03	0.048	mitochondrion organization
+40	226	142	0.26918	0.30838	1.540e+04	0.349	mitotic nuclear division
+41	119	85	0.24511	0.37075	3.477e+03	0.438	nucleosome organization
+42	55	33	0.24404	0.23327	9.783e+02	0.355	keratinocyte differentiation
+43	118	82	0.23906	0.31825	3.609e+03	0.221	signal transduction by p53 class mediator
+44	97	72	0.23096	0.37369	2.122e+03	0.513	nucleosome assembly
+45	36	28	0.2262	0.19673	2.608e+02	0.439	DNA packaging
+46	291	166	0.21824	0.25	2.836e+04	0.153	spermatogenesis
+47	155	89	0.18169	0.17938	8.045e+03	0.295	skeletal system development
+48	31	20	0.18052	0.13719	2.867e+02	0.211	central nervous system neuron development
+49	110	79	0.17824	0.35906	2.939e+03	0.455	protein-DNA complex assembly
+50	32	27	0.17638	0.18941	1.509e+02	0.282	ribosome biogenesis
+51	27	17	0.16764	0.18036	2.258e+02	0.044	positive regulation of autophagy
+52	82	48	0.15165	0.17146	2.222e+03	-0.059	positive regulation of protein processing & positive regulation of protein maturation
+53	369	224	0.14143	0.28615	4.259e+04	0.093	mRNA processing
+54	37	24	0.1316	0.21533	4.036e+02	0.317	carbohydrate derivative transport
+55	25	18	0.12574	0.15734	1.549e+02	0.543	regulation of mesonephros development
+56	33	26	0.12447	0.14085	2.109e+02	0.04	cellular respiration
+57	88	64	0.123	0.14379	1.833e+03	0.229	DNA damage response, signal transduction by p53 class mediator
+58	41	26	0.12268	0.21772	5.104e+02	0.032	triglyceride biosynthetic process
+59	21	15	0.11699	0.11901	1.119e+02	0.936	neuron fate specification
+60	30	20	0.11072	0.13368	2.558e+02	0.336	cell-cell signaling involved in cell fate commitment
+61	62	40	0.11044	0.09287	1.132e+03	0.2	DNA modification
+62	47	32	0.1039	0.17135	6.003e+02	0.175	pigment biosynthetic process
+63	22	14	0.10255	0.13707	1.489e+02	-0.015	regulation of intracellular estrogen receptor signaling pathway
+64	123	102	0.10128	0.2996	2.370e+03	0.242	tRNA metabolic process
+65	43	26	0.10081	0.11112	5.952e+02	0.071	histone H3 acetylation
+66	40	25	0.09854	0.12082	4.954e+02	0.126	transcription from RNA polymerase III promoter
+67	89	51	0.09794	0.13437	2.672e+03	0.056	internal protein amino acid acetylation
+68	65	46	0.09742	0.1757	1.063e+03	0.348	nucleobase metabolic process
+69	32	22	0.09239	0.09398	2.758e+02	0.223	execution phase of apoptosis
+70	72	49	0.0919	0.07551	1.401e+03	0.227	DNA catabolic process
+71	75	52	0.08961	0.21547	1.470e+03	0.266	nucleoside monophosphate biosynthetic process
+72	23	19	0.08934	0.26032	8.697e+01	0.165	retrograde vesicle-mediated transport, Golgi to ER
+73	75	53	0.08756	0.11288	1.417e+03	0.325	DNA conformation change
+74	28	18	0.08368	0.08359	2.358e+02	0.073	ceramide biosynthetic process
+75	86	53	0.08172	0.08552	2.305e+03	0.129	regulation of cellular protein catabolic process
+76	31	27	0.08117	0.09881	1.190e+02	0.289	spliceosomal snRNP assembly
+77	20	12	0.08074	0.10321	1.329e+02	0.586	calcium-independent cell-cell adhesion
+78	57	40	0.07835	0.23347	8.328e+02	0.127	oxidoreduction coenzyme metabolic process
+79	60	41	0.0738	0.14155	9.685e+02	0.246	pigment metabolic process
+80	24	18	0.07151	0.06006	1.299e+02	0.129	protein export from nucleus
+81	29	19	0.07042	0.11091	2.458e+02	0.327	developmental induction
+82	120	86	0.06992	0.08439	3.510e+03	0.167	ribonucleoprotein complex assembly
+83	80	47	0.0685	0.13881	2.108e+03	0.593	collagen metabolic process
+84	28	19	0.0675	0.06648	2.168e+02	0.218	negative regulation of chromatin modification
+85	20	13	0.06696	0.08977	1.199e+02	0.629	positive regulation of tissue remodeling
+86	99	71	0.06626	0.11798	2.390e+03	0.224	signal transduction in response to DNA damage
+87	72	42	0.06476	0.10697	1.722e+03	-0.053	positive regulation of proteolysis
+88	96	60	0.06448	0.10356	2.819e+03	0.154	ribonucleoside biosynthetic process
+89	72	50	0.06179	0.16376	1.352e+03	0.218	ribonucleoside monophosphate biosynthetic process
+90	149	96	0.06021	0.08472	6.493e+03	0.096	nucleobase-containing compound transport
+91	29	18	0.05792	0.07424	2.648e+02	0.172	regulation of histone methylation
+92	105	71	0.05488	0.113	3.002e+03	0.333	single-organism carbohydrate catabolic process
+93	20	15	0.05329	0.13509	9.096e+01	0.317	pyrimidine nucleoside catabolic process
+94	22	16	0.05198	0.10372	1.179e+02	0.594	regulation of branching involved in ureteric bud morphogenesis
+95	25	17	0.05154	0.08323	1.729e+02	0.156	negative regulation of histone modification
+96	59	34	0.05132	0.05627	1.174e+03	0.418	cell fate specification
+97	40	24	0.04958	0.08376	5.203e+02	0.592	endocrine pancreas development
+98	76	44	0.0483	0.08452	1.932e+03	0.342	epidermal cell differentiation
+99	175	125	0.04812	0.04836	7.496e+03	0.365	DNA replication
+100	68	36	0.04462	0.06818	1.677e+03	-0.037	regulation of glucose metabolic process
+101	31	18	0.04437	0.05115	3.257e+02	0.245	pyrimidine nucleoside biosynthetic process
+102	188	107	0.0443	0.07109	1.192e+04	0.115	organic acid catabolic process & carboxylic acid catabolic process
+103	26	21	0.04355	0.04788	1.209e+02	0.134	RNA polyadenylation
+104	105	65	0.04292	0.05112	3.410e+03	0.168	nucleoside biosynthetic process
+105	38	29	0.04046	0.10865	3.068e+02	0.405	monosaccharide catabolic process
+106	66	37	0.03927	0.04322	1.506e+03	0.061	aminoglycan catabolic process
+107	28	20	0.03679	0.04553	1.969e+02	0.237	apoptotic DNA fragmentation
+108	25	21	0.0362	0.06295	9.496e+01	0.144	mRNA polyadenylation
+109	127	83	0.03556	0.05074	4.627e+03	0.04	nucleic acid transport & RNA transport & establishment of RNA localization
+110	137	85	0.03441	0.05017	5.776e+03	0.133	response to topologically incorrect protein
+111	37	21	0.03418	0.05983	4.724e+02	0.068	regulation of TOR signaling
+112	109	60	0.03362	0.06293	4.151e+03	0.5	epidermis development
+113	70	46	0.03254	0.08967	1.402e+03	0.213	nucleic acid phosphodiester bond hydrolysis
+114	180	109	0.03245	0.06965	1.024e+04	0.104	coenzyme metabolic process
+115	48	28	0.03238	0.06452	7.698e+02	0.188	iron ion transport
+116	184	99	0.03208	0.09623	1.199e+04	0.063	organic acid transport & carboxylic acid transport
+117	57	28	0.03152	0.04869	1.246e+03	0.024	positive regulation of peptide secretion
+118	83	45	0.0314	0.05976	2.445e+03	0.04	internal peptidyl-lysine acetylation
+119	105	62	0.0305	0.03784	3.601e+03	0.106	regulation of gene expression, epigenetic
+120	32	19	0.03049	0.05271	3.386e+02	0.064	anterior/posterior axis specification
+121	52	37	0.02902	0.08016	6.752e+02	0.178	ER to Golgi vesicle-mediated transport
+122	124	68	0.02852	0.0381	5.382e+03	0.047	peptidyl-lysine modification
+123	85	46	0.02817	0.04226	2.567e+03	0.038	peptidyl-lysine acetylation
+124	22	16	0.02808	0.04005	1.179e+02	0.342	glycerol metabolic process
+125	52	34	0.02698	0.04439	7.829e+02	0.171	positive regulation of translation
+126	58	42	0.02665	0.04334	8.079e+02	0.251	purine nucleoside monophosphate biosynthetic process & purine ribonucleoside monophosphate biosynthetic process
+127	77	43	0.02555	0.07666	2.053e+03	0.078	response to starvation
+128	30	17	0.02538	0.03342	3.127e+02	0.041	regulation of organ formation
+129	32	24	0.02443	0.06852	2.288e+02	0.212	regulation of release of cytochrome c from mitochondria
+130	32	20	0.02374	0.03121	3.187e+02	0.198	pyrimidine ribonucleoside metabolic process
+131	61	44	0.02321	0.05018	9.007e+02	0.173	transcription elongation from RNA polymerase II promoter
+132	60	31	0.02296	0.04045	1.332e+03	0.102	gene silencing
+133	28	17	0.02205	0.04547	2.538e+02	0.83	keratinization
+134	82	52	0.02166	0.04948	2.021e+03	0.16	purine nucleoside biosynthetic process & purine ribonucleoside biosynthetic process
+135	86	49	0.02156	0.06468	2.510e+03	0.529	multicellular organismal macromolecule metabolic process
+136	25	15	0.02137	0.02985	2.058e+02	0.404	tumor necrosis factor-mediated signaling pathway
+137	44	29	0.02099	0.02564	5.553e+02	0.198	purine ribonucleoside triphosphate biosynthetic process
+138	31	25	0.02072	0.04658	1.719e+02	0.216	7-methylguanosine RNA capping & RNA capping
+139	126	89	0.02014	0.03043	3.985e+03	0.163	ribonucleoprotein complex subunit organization
+140	31	17	0.0194	0.04797	3.436e+02	0.083	phosphatidic acid biosynthetic process & phosphatidic acid metabolic process
+141	101	65	0.01907	0.0311	2.999e+03	0.312	chromatin remodeling
+142	376	226	0.01899	0.05698	4.471e+04	0.056	generation of precursor metabolites and energy
+143	22	13	0.01873	0.04295	1.629e+02	0.213	pyrimidine ribonucleoside biosynthetic process
+144	32	19	0.01827	0.03972	3.386e+02	0.242	regulation of tyrosine phosphorylation of Stat3 protein
+145	43	26	0.01803	0.03053	5.952e+02	0.002	neutral lipid biosynthetic process & acylglycerol biosynthetic process
+146	28	17	0.01771	0.02024	2.538e+02	0.012	regulation of carbohydrate catabolic process & regulation of cellular carbohydrate catabolic process
+147	46	29	0.01754	0.04552	6.461e+02	0.153	DNA methylation or demethylation
+148	26	15	0.0171	0.0273	2.318e+02	0.117	anion transmembrane transport
+149	81	56	0.01699	0.03015	1.723e+03	0.108	mRNA 3'-end processing
+150	55	37	0.01652	0.03697	8.368e+02	0.148	proton transport
+151	31	18	0.01612	0.01928	3.257e+02	0.205	negative regulation of peptidyl-tyrosine phosphorylation
+152	73	42	0.01594	0.03697	1.795e+03	0.139	cellular response to nutrient levels
+153	28	15	0.01593	0.0451	2.867e+02	0.084	histone ubiquitination
+154	59	32	0.01551	0.02644	1.240e+03	0.003	glycosaminoglycan catabolic process
+155	183	118	0.01538	0.04191	9.767e+03	0.168	proteasome-mediated ubiquitin-dependent protein catabolic process
+156	29	20	0.01536	0.02266	2.258e+02	0.222	DNA catabolic process, endonucleolytic
+157	81	53	0.01517	0.03003	1.887e+03	0.236	meiotic cell cycle process
+158	21	17	0.01483	0.02115	7.897e+01	0.339	positive regulation of release of cytochrome c from mitochondria
+159	184	122	0.01467	0.03031	9.472e+03	0.319	chromosome organization
+160	27	16	0.01465	0.02377	2.428e+02	0.102	protein sumoylation
+161	23	15	0.01431	0.03061	1.569e+02	0.138	regulation of protein oligomerization
+162	65	43	0.01426	0.0239	1.198e+03	0.198	positive regulation of nuclease activity
+163	30	23	0.01414	0.01962	1.899e+02	0.484	chromosome condensation
+164	24	18	0.01329	0.02181	1.299e+02	0.355	alditol metabolic process
+165	119	110	0.01317	0.02477	1.035e+03	0.264	translational initiation
+166	106	66	0.01296	0.02077	3.450e+03	0.169	glycosyl compound biosynthetic process
+167	78	45	0.01292	0.03514	2.042e+03	0.628	extracellular matrix disassembly
+168	68	50	0.01239	0.03087	1.070e+03	0.216	signal transduction involved in DNA integrity checkpoint & signal transduction involved in mitotic cell cycle checkpoint & signal transduction involved in DNA damage checkpoint & signal transduction involved in mitotic DNA damage checkpoint & signal transduction involved in mitotic DNA integrity checkpoint
+169	26	18	0.01236	0.01933	1.809e+02	0.46	regulation of meiosis
+170	30	16	0.01232	0.0167	3.296e+02	0.3	intermediate filament-based process
+171	30	25	0.01186	0.01998	1.409e+02	0.222	7-methylguanosine mRNA capping
+172	33	19	0.0117	0.01629	3.716e+02	0.132	DNA alkylation & DNA methylation
+173	120	72	0.0116	0.02399	4.616e+03	0.337	regulation of nuclear division
+174	102	96	0.01157	0.02325	5.977e+02	0.292	translational elongation
+175	55	26	0.01132	0.02154	1.191e+03	-0.032	positive regulation of peptide hormone secretion
+176	188	122	0.01104	0.03313	1.021e+04	0.175	proteasomal protein catabolic process
+177	25	13	0.01082	0.01792	2.348e+02	0.047	negative regulation of gene expression, epigenetic
+178	30	18	0.0108	0.01721	2.947e+02	0.343	epithelial tube formation
+179	29	16	0.0106	0.02185	2.997e+02	0.354	intermediate filament cytoskeleton organization
+180	45	33	0.01036	0.02289	4.745e+02	0.106	termination of RNA polymerase II transcription
+181	32	21	0.01031	0.02092	2.977e+02	0.323	serine family amino acid metabolic process
+182	49	32	0.01018	0.02245	6.970e+02	0.2	ribonucleoside triphosphate biosynthetic process
+183	59	33	0.01004	0.02534	1.208e+03	0.006	ceramide metabolic process
+184	23	14	0.00952	0.02236	1.719e+02	0.036	genetic imprinting
+185	20	12	0.00942	0.01388	1.329e+02	0.336	retinoic acid metabolic process
+186	21	18	0.00941	0.01456	6.098e+01	0.852	sister chromatid segregation
+187	41	25	0.00934	0.01788	5.363e+02	0.201	pyrimidine nucleotide metabolic process
+188	111	71	0.00924	0.02591	3.650e+03	0.017	mRNA transport
+189	60	37	0.00917	0.02752	1.126e+03	0.103	regulation of proteasomal ubiquitin-dependent protein catabolic process
+190	100	57	0.00916	0.01747	3.387e+03	0.056	protein acetylation
+191	70	41	0.009	0.0214	1.621e+03	0.142	pyrimidine-containing compound metabolic process
+192	35	25	0.00897	0.01565	3.057e+02	0.34	ATP-dependent chromatin remodeling
+193	26	14	0.00846	0.01699	2.468e+02	0.274	ephrin receptor signaling pathway
+194	23	12	0.00819	0.0228	1.988e+02	0.222	regulation of epidermal growth factor-activated receptor activity
+195	34	19	0.008	0.01349	4.055e+02	0.148	axon cargo transport
+196	26	15	0.00797	0.01035	2.318e+02	-0.022	cerebellum development
+197	37	23	0.00786	0.01489	4.275e+02	0.099	neural precursor cell proliferation
+198	82	57	0.00782	0.01878	1.747e+03	0.105	DNA-templated transcription, termination
+199	69	51	0.00771	0.02103	1.088e+03	0.248	signal transduction involved in cell cycle checkpoint
+200	28	15	0.00766	0.01527	2.867e+02	0.178	neuron apoptotic process
+201	29	19	0.00753	0.01347	2.458e+02	0.145	chromosome organization involved in meiosis
+202	45	21	0.00747	0.01783	8.075e+02	0.047	positive regulation of insulin secretion
+203	27	16	0.0072	0.0086	2.428e+02	0.233	aromatic amino acid family metabolic process
+204	31	22	0.00716	0.0115	2.438e+02	0.272	DNA geometric change
+205	24	20	0.00707	0.01197	9.096e+01	0.336	peptide biosynthetic process
+206	21	12	0.00704	0.01161	1.539e+02	-0.025	regulation of glycolytic process
+207	38	22	0.00702	0.01844	4.884e+02	0.035	ovarian follicle development
+208	45	30	0.00694	0.00975	5.703e+02	0.209	purine nucleoside triphosphate biosynthetic process
+209	79	46	0.00685	0.01108	2.075e+03	0.226	biological phase
+210	55	35	0.00665	0.01343	9.095e+02	0.299	cell cycle phase
+211	25	12	0.00664	0.0133	2.487e+02	0.109	central nervous system neuron axonogenesis
+212	30	16	0.00663	0.01169	3.296e+02	0.398	nerve development
+213	61	46	0.00661	0.01984	8.100e+02	0.249	RNA modification
+214	55	32	0.00646	0.00571	1.011e+03	-0.057	regulation of generation of precursor metabolites and energy
+215	36	19	0.00626	0.01647	4.764e+02	0.166	amino sugar metabolic process
+216	178	109	0.006	0.01799	9.884e+03	0.147	nucleoside phosphate biosynthetic process
+217	96	64	0.00579	0.0116	2.570e+03	0.008	nuclear export
+218	27	15	0.0056	0.00864	2.587e+02	0.024	positive regulation of DNA repair
+219	27	14	0.00558	0.00905	2.737e+02	0.034	regulation of intracellular pH
+220	63	41	0.00554	0.00869	1.154e+03	0.194	activation of signaling protein activity involved in unfolded protein response
+221	28	18	0.00551	0.01231	2.358e+02	0.194	tricarboxylic acid cycle
+222	45	26	0.00533	0.01192	6.840e+02	0.107	sulfur amino acid metabolic process
+223	24	12	0.00533	0.00882	2.228e+02	-0.054	heart valve morphogenesis
+224	29	19	0.00527	0.01412	2.458e+02	0.141	heme metabolic process
+225	40	22	0.00521	0.01113	5.672e+02	0.144	gastrulation
+226	24	17	0.00517	0.01021	1.479e+02	0.352	mitotic DNA integrity checkpoint
+227	34	18	0.00511	0.00896	4.245e+02	0.127	somatic stem cell maintenance
+228	83	42	0.00505	0.01011	2.576e+03	0.019	sodium ion transport
+229	57	37	0.00504	0.01508	9.495e+02	0.116	hydrogen transport
+230	107	104	0.00502	0.01004	3.189e+02	0.32	protein targeting to ER
+231	26	15	0.00501	0.01268	2.318e+02	0.213	protein K11-linked ubiquitination
+232	41	24	0.005	0.00776	5.612e+02	0.132	demethylation
+233	41	22	0.00499	0.00868	6.081e+02	-0.016	response to fatty acid
+234	66	46	0.00496	0.01378	1.129e+03	0.384	alpha-amino acid biosynthetic process
+235	20	12	0.00495	0.01484	1.329e+02	0.252	regulation of keratinocyte differentiation
+236	153	101	0.00489	0.00968	6.604e+03	0.166	ribonucleoside monophosphate metabolic process
+237	54	33	0.00488	0.00689	9.235e+02	0.159	cell redox homeostasis
+238	26	14	0.00487	0.01247	2.468e+02	0.291	L-amino acid transport
+239	44	31	0.00476	0.00816	4.945e+02	0.36	glycolytic process
+240	25	14	0.0046	0.01339	2.208e+02	0.13	pyrimidine ribonucleotide metabolic process
+241	26	15	0.00457	0.01094	2.318e+02	-0.042	regulation of insulin secretion involved in cellular response to glucose stimulus
+242	29	18	0.0045	0.01351	2.648e+02	0.401	embryonic epithelial tube formation
+243	92	86	0.00446	0.00733	5.377e+02	0.279	viral life cycle
+244	110	58	0.00442	0.00882	4.378e+03	0.063	transition metal ion homeostasis
+245	29	15	0.0044	0.01319	3.156e+02	0.047	regulation of cellular pH
+246	98	70	0.00439	0.00619	2.362e+03	0.203	protein N-linked glycosylation
+247	45	23	0.0043	0.00882	7.587e+02	-0.199	positive regulation of carbohydrate metabolic process
+248	22	13	0.0043	0.00944	1.629e+02	0.188	response to copper ion
+249	59	32	0.00427	0.0128	1.240e+03	0.079	regulation of reactive oxygen species metabolic process
+250	79	41	0.00418	0.01253	2.293e+03	-0.005	monocarboxylic acid transport
+251	22	13	0.00415	0.008	1.629e+02	0.204	regulation of astrocyte differentiation
+252	159	106	0.00414	0.00641	7.021e+03	0.208	nucleoside monophosphate metabolic process
+253	57	34	0.00412	0.01137	1.057e+03	0.123	glutamine family amino acid metabolic process
+254	27	13	0.0041	0.00705	2.887e+02	-0.234	fat-soluble vitamin metabolic process
+255	98	62	0.00408	0.01067	2.891e+03	0.159	negative regulation of protein ubiquitination
+256	35	18	0.00407	0.00716	4.594e+02	0.058	sensory perception of taste
+257	23	10	0.00406	0.01009	2.258e+02	-0.242	regulation of gluconeogenesis
+258	92	51	0.0039	0.0117	2.944e+03	0.475	multicellular organismal metabolic process
+259	34	17	0.00378	0.01079	4.424e+02	0.137	gene silencing by RNA
+260	21	14	0.00376	0.01129	1.269e+02	0.09	termination of RNA polymerase I transcription
+261	25	12	0.00375	0.00867	2.487e+02	-0.001	regulation of glycoprotein metabolic process
+262	69	46	0.00372	0.00789	1.333e+03	0.276	DNA damage checkpoint
+263	26	14	0.00369	0.00995	2.468e+02	-0.139	T cell activation involved in immune response
+264	46	35	0.00368	0.00873	4.516e+02	0.256	transcription-coupled nucleotide-excision repair
+265	29	20	0.00356	0.01039	2.258e+02	0.364	histone exchange
+266	80	59	0.00354	0.01046	1.468e+03	0.307	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process
+267	35	29	0.00353	0.00848	1.959e+02	0.615	DNA strand elongation
+268	32	24	0.00351	0.00755	2.288e+02	0.376	mitotic recombination
+269	37	20	0.00346	0.00655	4.933e+02	-0.095	metanephros development
+270	22	18	0.00344	0.00733	8.297e+01	0.372	telomere maintenance via semi-conservative replication
+271	26	21	0.00343	0.00947	1.209e+02	0.331	telomere maintenance via recombination
+272	38	21	0.00336	0.00734	5.103e+02	0.017	aspartate family amino acid metabolic process
+273	37	20	0.00333	0.00574	4.933e+02	0.158	pyrimidine-containing compound biosynthetic process
+274	72	50	0.0033	0.0099	1.352e+03	0.255	negative regulation of ligase activity & negative regulation of ubiquitin-protein transferase activity
+275	94	59	0.00328	0.00722	2.689e+03	0.219	double-strand break repair
+276	130	77	0.00325	0.0084	5.491e+03	0.106	glucose metabolic process
+277	37	28	0.0032	0.00856	2.978e+02	0.302	mitotic nuclear envelope disassembly
+278	20	13	0.00318	0.00832	1.199e+02	0.166	establishment or maintenance of apical/basal cell polarity & establishment or maintenance of bipolar cell polarity
+279	39	24	0.00301	0.00904	4.804e+02	0.091	mitochondrial membrane organization
+280	150	110	0.003	0.00666	5.204e+03	0.324	G1/S transition of mitotic cell cycle & cell cycle G1/S phase transition
+281	42	22	0.00299	0.00611	6.500e+02	0.189	branching involved in ureteric bud morphogenesis
+282	30	15	0.00298	0.00604	3.456e+02	0.114	regulation of rhodopsin mediated signaling pathway
+283	24	10	0.00294	0.00883	2.517e+02	-0.327	cardiac chamber morphogenesis
+284	22	13	0.00294	0.00883	1.629e+02	0.472	cochlea morphogenesis
+285	104	66	0.00292	0.00692	3.240e+03	0.153	negative regulation of protein modification by small protein conjugation or removal
+286	32	14	0.00284	0.00851	4.294e+02	0.095	protein deacylation & macromolecule deacylation
+287	21	15	0.00276	0.00552	1.119e+02	0.182	response to X-ray
+288	25	13	0.00275	0.00661	2.348e+02	0.659	proximal/distal pattern formation
+289	33	17	0.00274	0.00728	4.085e+02	0.137	rhodopsin mediated signaling pathway
+290	50	27	0.0027	0.00811	8.964e+02	0.176	regulation of morphogenesis of a branching structure
+291	26	11	0.00268	0.00557	2.917e+02	0.245	embryonic cranial skeleton morphogenesis
+292	31	20	0.00265	0.00414	2.867e+02	0.122	tetrapyrrole biosynthetic process
+293	75	51	0.00263	0.0059	1.522e+03	0.333	DNA integrity checkpoint
+294	32	21	0.00262	0.00785	2.977e+02	0.414	G2 DNA damage checkpoint
+295	30	20	0.00259	0.00522	2.558e+02	0.273	pyrimidine-containing compound catabolic process
+296	85	81	0.00257	0.00616	3.349e+02	0.286	translational termination
+297	51	33	0.00257	0.00576	7.649e+02	0.59	O-glycan processing
+298	108	104	0.00254	0.00714	4.268e+02	0.306	establishment of protein localization to endoplasmic reticulum
+299	25	14	0.00252	0.00532	2.208e+02	0.237	glucosamine-containing compound metabolic process
+300	105	103	0.0025	0.00532	2.099e+02	0.332	SRP-dependent cotranslational protein targeting to membrane
+301	110	65	0.00248	0.00587	3.947e+03	0.177	cellular amino acid catabolic process
+302	45	36	0.00247	0.00377	3.697e+02	0.615	chromatin assembly or disassembly
+303	23	13	0.00246	0.0065	1.858e+02	0.147	pyrimidine ribonucleotide biosynthetic process
+304	30	14	0.00238	0.00715	3.626e+02	-0.026	cellular response to glucose stimulus
+305	40	23	0.00238	0.00714	5.443e+02	0.378	negative regulation of mitosis
+306	22	11	0.00237	0.00456	1.878e+02	0.037	activation of Rho GTPase activity
+307	78	55	0.00236	0.00593	1.539e+03	0.256	regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle
+308	49	29	0.00234	0.00701	7.897e+02	0.399	negative regulation of nuclear division
+309	31	20	0.00233	0.00411	2.867e+02	0.142	intracellular protein transmembrane transport & protein transmembrane transport
+310	28	14	0.00231	0.00458	3.017e+02	0.074	negative regulation of reproductive process
+311	23	20	0.00227	0.00663	6.698e+01	0.468	DNA replication initiation
+312	86	57	0.00226	0.00677	2.084e+03	0.22	positive regulation of ligase activity
+313	47	24	0.00216	0.00341	8.275e+02	0.034	regulation of protein tyrosine kinase activity
+314	30	21	0.00214	0.00559	2.348e+02	0.18	reciprocal meiotic recombination & reciprocal DNA recombination
+315	29	20	0.00213	0.005	2.258e+02	0.282	DNA duplex unwinding
+316	25	14	0.00211	0.00502	2.208e+02	-0.186	positive regulation of glucose metabolic process
+317	43	24	0.00211	0.00601	6.460e+02	0.269	positive regulation of nuclear division
+318	156	82	0.0021	0.0063	8.795e+03	-0.044	regulation of protein processing & regulation of protein maturation
+319	31	19	0.00207	0.00462	3.067e+02	0.091	negative regulation of response to DNA damage stimulus
+320	22	15	0.00206	0.00485	1.339e+02	0.233	nucleotide-excision repair, DNA gap filling
+321	42	21	0.00206	0.00617	6.719e+02	0.007	positive regulation of histone modification
+322	24	12	0.00204	0.00315	2.228e+02	0.01	regulation of dendritic spine development
+323	87	55	0.00204	0.00592	2.283e+03	0.139	cellular response to topologically incorrect protein
+324	22	19	0.00198	0.00465	6.398e+01	0.28	tRNA modification
+325	67	49	0.00197	0.00447	1.052e+03	0.208	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest & signal transduction involved in mitotic G1 DNA damage checkpoint & intracellular signal transduction involved in G1 DNA damage checkpoint
+326	39	28	0.00194	0.0057	3.746e+02	0.259	membrane disassembly & nuclear envelope disassembly
+327	38	32	0.00194	0.00425	2.139e+02	0.183	mitochondrial electron transport, NADH to ubiquinone
+328	22	8	0.00193	0.00578	2.298e+02	0.168	regulation of natural killer cell activation
+329	36	21	0.00191	0.00574	4.355e+02	0.106	intrinsic apoptotic signaling pathway by p53 class mediator
+330	20	10	0.00188	0.00416	1.559e+02	0.021	chromatin silencing
+331	87	52	0.00188	0.00563	2.444e+03	0.104	peptide metabolic process
+332	23	12	0.00188	0.00442	1.988e+02	0.219	branching involved in mammary gland duct morphogenesis
+333	76	61	0.00187	0.00376	1.035e+03	0.22	tRNA processing
+334	69	35	0.00187	0.00407	1.781e+03	0.232	tube closure
+335	36	17	0.00186	0.00462	5.152e+02	0.373	neurogenesis
+336	198	123	0.00185	0.00545	1.201e+04	0.231	alpha-amino acid metabolic process
+337	47	40	0.00183	0.0032	3.088e+02	0.284	tRNA aminoacylation for protein translation
+338	50	30	0.00183	0.00442	8.097e+02	0.107	regulation of DNA repair
+339	33	13	0.00182	0.00547	4.863e+02	-0.272	negative regulation of blood pressure
+340	77	51	0.0018	0.00459	1.675e+03	0.17	nucleoside monophosphate catabolic process
+341	30	23	0.00176	0.00529	1.899e+02	0.101	C-terminal protein amino acid modification
+342	25	21	0.00176	0.00276	9.496e+01	0.247	C-terminal protein lipidation
+343	25	20	0.00174	0.00384	1.159e+02	0.576	chromatin remodeling at centromere
+344	82	51	0.00172	0.00515	2.073e+03	0.139	cellular response to unfolded protein
+345	38	21	0.0017	0.00487	5.103e+02	-0.032	sterol biosynthetic process
+346	44	29	0.00169	0.00444	5.553e+02	0.285	double-strand break repair via homologous recombination
+347	22	12	0.00166	0.00395	1.759e+02	-0.023	regulation of respiratory gaseous exchange
+348	21	11	0.00165	0.00496	1.659e+02	0.022	gastrulation with mouth forming second
+349	32	12	0.00165	0.00494	4.703e+02	-0.165	forebrain cell migration
+350	44	29	0.0016	0.00371	5.553e+02	0.285	recombinational repair
+351	23	17	0.0016	0.00481	1.239e+02	0.107	GPI anchor biosynthetic process
+352	37	18	0.0016	0.00479	5.332e+02	0.13	genitalia development
+353	21	12	0.00158	0.00372	1.539e+02	-0.023	CD4-positive, alpha-beta T cell activation
+354	29	15	0.00157	0.0047	3.156e+02	-0.356	hydrogen peroxide metabolic process
+355	41	20	0.00156	0.00315	6.519e+02	0.036	secondary metabolic process
+356	24	11	0.00156	0.00467	2.368e+02	0.093	phosphatidylserine metabolic process
+357	22	14	0.00155	0.00336	1.489e+02	0.304	DNA-dependent DNA replication
+358	22	11	0.00154	0.00312	1.878e+02	-0.207	negative regulation of cell morphogenesis involved in differentiation
+359	40	21	0.00154	0.00351	5.891e+02	0.164	negative regulation of chromosome organization
+360	36	22	0.00153	0.00439	4.135e+02	0.274	placenta development
+361	22	10	0.0015	0.0023	2.008e+02	-0.015	protein import into nucleus, translocation
+362	33	17	0.00148	0.00444	4.085e+02	-0.047	regulation of polysaccharide metabolic process
+363	73	52	0.00148	0.00339	1.322e+03	0.188	nucleotide-excision repair
+364	46	32	0.00146	0.00348	5.534e+02	0.135	pyridine nucleotide metabolic process & nicotinamide nucleotide metabolic process
+365	21	7	0.00146	0.00437	2.198e+02	-0.47	nephron epithelium development
+366	114	69	0.00144	0.00432	4.127e+03	0.158	response to endoplasmic reticulum stress
+367	26	14	0.00144	0.00343	2.468e+02	-0.138	negative regulation of intracellular steroid hormone receptor signaling pathway
+368	27	15	0.00142	0.00299	2.587e+02	-0.079	regulation of glycogen biosynthetic process & regulation of glucan biosynthetic process
+369	22	10	0.0014	0.00392	2.008e+02	-0.169	negative regulation of cellular carbohydrate metabolic process
+370	35	19	0.00137	0.00282	4.404e+02	-0.217	drug metabolic process
+371	30	19	0.00136	0.00408	2.757e+02	0.406	regulation of meiotic cell cycle
+372	50	27	0.00136	0.00407	8.964e+02	0.116	cellular response to starvation
+373	107	52	0.00135	0.00404	4.387e+03	-0.079	regulation of carbohydrate metabolic process
+374	36	19	0.00134	0.00403	4.764e+02	-0.052	positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+375	106	79	0.00134	0.00363	2.507e+03	0.229	rRNA processing
+376	24	12	0.00132	0.00225	2.228e+02	-0.363	trabecula formation
+377	51	36	0.00132	0.00307	6.602e+02	0.19	positive regulation of viral transcription
+378	44	19	0.00131	0.00392	8.115e+02	-0.096	regulation of glucose import
+379	34	16	0.0013	0.00279	4.614e+02	0.046	regulation of circadian rhythm
+380	29	15	0.00128	0.0028	3.156e+02	0.159	peptidyl-proline modification
+381	21	13	0.00128	0.00383	1.409e+02	0.102	nucleotide-excision repair, DNA damage removal & DNA excision
+382	94	62	0.00128	0.00362	2.507e+03	0.102	RNA 3'-end processing
+383	48	36	0.00128	0.00264	5.105e+02	0.36	cellular modified amino acid biosynthetic process
+384	102	64	0.00126	0.00378	3.165e+03	0.115	response to UV
+385	44	27	0.00125	0.0022	6.122e+02	0.142	positive regulation of mitochondrion organization
+386	165	99	0.00124	0.00352	8.702e+03	0.169	hexose metabolic process
+387	25	10	0.00124	0.00372	2.797e+02	-0.104	response to electrical stimulus
+388	40	26	0.00122	0.0025	4.695e+02	-0.008	glycolipid biosynthetic process
+389	28	13	0.00122	0.00264	3.176e+02	-0.071	cardiac cell development
+390	84	46	0.00118	0.00354	2.483e+03	0.019	membrane lipid biosynthetic process
+391	23	14	0.00116	0.00347	1.719e+02	0.099	quinone metabolic process
+392	48	32	0.00115	0.00344	6.482e+02	0.166	hexose biosynthetic process
+393	40	20	0.00112	0.00337	6.101e+02	0.216	bile acid metabolic process
+394	41	24	0.00112	0.00337	5.612e+02	0.438	regulation of mitotic metaphase/anaphase transition & regulation of metaphase/anaphase transition of cell cycle
+395	20	10	0.00108	0.00325	1.559e+02	-0.169	positive regulation of coagulation
+396	24	12	0.00107	0.00234	2.228e+02	-0.096	glutamine family amino acid catabolic process
+397	66	33	0.00106	0.00217	1.647e+03	-0.031	regulation of intrinsic apoptotic signaling pathway
+398	82	55	0.00105	0.00314	1.860e+03	0.231	positive regulation of ubiquitin-protein transferase activity
+399	21	11	0.00104	0.00311	1.659e+02	0.276	regulation of peptidyl-threonine phosphorylation
+400	32	25	0.00103	0.0031	2.039e+02	0.383	dolichol-linked oligosaccharide biosynthetic process
+401	23	10	0.00102	0.00306	2.258e+02	0.038	phospholipid catabolic process
+402	59	28	0.00101	0.00207	1.366e+03	-0.006	sphingolipid biosynthetic process
+403	21	10	0.00101	0.00302	1.778e+02	-0.223	cellular response to glucocorticoid stimulus
+404	21	11	0.001	0.00254	1.659e+02	0.002	bone resorption
+405	329	199	0.001	0.00206	3.405e+04	0.304	organelle fission
+406	30	19	0.00098	0.00295	2.757e+02	0.238	pteridine-containing compound metabolic process
+407	84	45	0.00097	0.00292	2.528e+03	0.067	iron ion homeostasis
+408	54	27	0.00097	0.0029	1.106e+03	-0.062	secretion by tissue
+409	24	11	0.00096	0.00288	2.368e+02	-0.009	regulation of glycoprotein biosynthetic process
+410	30	17	0.00095	0.00286	3.127e+02	0.15	epithelial cell morphogenesis
+411	42	18	0.00095	0.00284	7.437e+02	-0.187	positive regulation of protein binding
+412	50	42	0.00094	0.00281	3.727e+02	0.271	amino acid activation & tRNA aminoacylation
+413	33	18	0.00092	0.0025	3.905e+02	0.049	protein autoubiquitination
+414	38	20	0.00092	0.00171	5.313e+02	-0.073	positive regulation of proteasomal protein catabolic process & positive regulation of proteolysis involved in cellular protein catabolic process
+415	29	16	0.00091	0.00274	2.997e+02	0.265	negative regulation of gliogenesis
+416	33	15	0.00091	0.00184	4.454e+02	-0.079	membrane docking
+417	33	16	0.0009	0.00269	4.264e+02	-0.079	nucleoside bisphosphate metabolic process & ribonucleoside bisphosphate metabolic process & purine nucleoside bisphosphate metabolic process
+418	24	14	0.0009	0.00194	1.958e+02	0.032	chaperone-mediated protein folding
+419	92	66	0.00089	0.00268	2.064e+03	0.229	protein N-linked glycosylation via asparagine
+420	34	28	0.00089	0.00223	1.899e+02	0.484	base-excision repair
+421	24	15	0.00089	0.00162	1.809e+02	0.045	transcription initiation from RNA polymerase I promoter
+422	23	11	0.00088	0.00264	2.118e+02	0.191	maintenance of protein localization in organelle
+423	33	20	0.00087	0.0026	3.516e+02	0.156	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+424	149	85	0.00086	0.00257	7.484e+03	0.047	cellular amide metabolic process
+425	28	13	0.00085	0.00256	3.176e+02	-0.135	regulation of cell fate commitment
+426	121	75	0.00085	0.00254	4.516e+03	0.086	cofactor biosynthetic process
+427	88	50	0.00084	0.00253	2.634e+03	0.145	alpha-amino acid catabolic process
+428	33	17	0.00084	0.00252	4.085e+02	0.071	cellular response to monosaccharide stimulus
+429	24	13	0.00082	0.00246	2.098e+02	0.117	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+430	110	69	0.0008	0.00241	3.679e+03	0.111	regulation of cell cycle G1/S phase transition & regulation of G1/S transition of mitotic cell cycle
+431	33	18	0.0008	0.00169	3.905e+02	0.134	phosphatidylglycerol metabolic process
+432	30	10	0.00079	0.00238	4.404e+02	-0.34	release of sequestered calcium ion into cytosol & negative regulation of sequestering of calcium ion
+433	26	13	0.00078	0.00235	2.607e+02	0.132	positive regulation of tyrosine phosphorylation of Stat3 protein
+434	130	80	0.00078	0.00234	5.256e+03	0.12	response to unfolded protein
+435	22	9	0.00078	0.00234	2.148e+02	0.231	adrenal gland development
+436	118	73	0.00077	0.00232	4.306e+03	0.069	ribose phosphate biosynthetic process
+437	26	13	0.00076	0.00229	2.607e+02	-0.014	cardiac muscle cell development
+438	28	10	0.00076	0.00228	3.715e+02	0.049	B cell activation involved in immune response
+439	25	12	0.00076	0.00228	2.487e+02	-0.164	positive regulation of multicellular organismal metabolic process
+440	72	44	0.00076	0.00227	1.635e+03	0.105	regulation of proteasomal protein catabolic process
+441	80	42	0.00075	0.00226	2.331e+03	0.026	histone acetylation
+442	27	12	0.00074	0.00221	3.046e+02	-0.091	extrinsic apoptotic signaling pathway via death domain receptors
+443	20	9	0.00073	0.00218	1.679e+02	0.194	regulation of microtubule depolymerization
+444	28	12	0.00072	0.00217	3.346e+02	-0.078	T cell differentiation in thymus
+445	40	19	0.00072	0.00215	6.320e+02	-0.093	sulfur compound catabolic process
+446	26	13	0.00071	0.00212	2.607e+02	-0.094	regulation of neuroblast proliferation
+447	53	35	0.00069	0.00166	8.008e+02	0.229	nucleoside triphosphate biosynthetic process
+448	28	14	0.00069	0.00186	3.017e+02	0.275	peptide cross-linking
+449	21	10	0.00069	0.00206	1.778e+02	-0.005	polysaccharide catabolic process
+450	38	21	0.00069	0.00206	5.103e+02	0.077	protein monoubiquitination
+451	25	10	0.00069	0.00206	2.797e+02	-0.026	regulation of long-term neuronal synaptic plasticity
+452	34	16	0.00068	0.00204	4.614e+02	0.039	mesoderm formation
+453	81	38	0.00067	0.00202	2.582e+03	-0.108	response to tumor necrosis factor
+454	23	16	0.00066	0.00193	1.409e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+455	31	19	0.00066	0.00171	3.067e+02	0.199	ferric iron transport & transferrin transport & trivalent inorganic cation transport
+456	68	35	0.00066	0.00198	1.713e+03	0.275	neural tube closure
+457	45	30	0.00066	0.00132	5.703e+02	0.252	'de novo' posttranslational protein folding
+458	67	48	0.00066	0.00197	1.101e+03	0.258	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle
+459	23	15	0.00065	0.00153	1.569e+02	0.29	glycerol ether metabolic process
+460	93	66	0.00064	0.00192	2.156e+03	0.224	peptidyl-asparagine modification
+461	22	6	0.00064	0.00192	2.627e+02	-0.364	negative regulation of cytokine secretion
+462	26	10	0.00064	0.00191	3.086e+02	-0.372	glutamate receptor signaling pathway
+463	23	11	0.00062	0.00187	2.118e+02	0.09	phosphatidylethanolamine acyl-chain remodeling
+464	24	9	0.00062	0.00187	2.677e+02	-0.173	middle ear morphogenesis
+465	51	22	0.00062	0.00187	1.088e+03	-0.045	negative regulation of hormone secretion
+466	47	23	0.00062	0.00186	8.524e+02	0.129	regulation of tissue remodeling
+467	21	6	0.00062	0.00186	2.358e+02	-0.426	macrophage activation
+468	26	15	0.00062	0.0013	2.318e+02	0.012	sulfur compound transport
+469	48	29	0.00061	0.00184	7.409e+02	0.146	apoptotic mitochondrial changes
+470	46	19	0.00061	0.00184	9.102e+02	-0.168	mesonephric tubule development
+471	21	11	0.00061	0.00122	1.659e+02	0.04	polyol biosynthetic process
+472	55	26	0.0006	0.00143	1.191e+03	-0.072	acute inflammatory response
+473	33	12	0.0006	0.0018	5.082e+02	0.03	regulation of bone remodeling
+474	25	21	0.00059	0.00178	9.496e+01	0.206	NADP metabolic process
+475	63	31	0.00058	0.00175	1.518e+03	0.119	biomineral tissue development
+476	22	9	0.00058	0.00173	2.148e+02	-0.231	defense response to Gram-negative bacterium
+477	34	13	0.00056	0.00168	5.242e+02	-0.181	adult walking behavior
+478	31	16	0.00056	0.00168	3.606e+02	0.098	embryonic forelimb morphogenesis
+479	117	55	0.00055	0.00108	5.356e+03	0.093	G2/M transition of mitotic cell cycle & cell cycle G2/M phase transition
+480	28	11	0.00055	0.00118	3.526e+02	-0.288	phenol-containing compound biosynthetic process
+481	29	17	0.00055	0.00142	2.827e+02	0.179	regulation of epidermal cell differentiation
+482	23	14	0.00054	0.00163	1.719e+02	0.26	sister chromatid cohesion
+483	112	73	0.00054	0.00161	3.617e+03	0.123	ATP metabolic process
+484	23	18	0.00053	0.001	1.059e+02	0.551	DNA replication-independent nucleosome assembly & CENP-A containing nucleosome assembly & DNA replication-independent nucleosome organization
+485	22	14	0.00053	0.0016	1.489e+02	0.116	long-chain fatty-acyl-CoA metabolic process
+486	26	14	0.00052	0.00157	2.468e+02	0.249	mitotic spindle organization
+487	42	22	0.00052	0.00157	6.500e+02	-0.01	single fertilization
+488	33	17	0.00051	0.00154	4.085e+02	0.16	positive regulation of mitosis
+489	22	5	0.0005	0.00151	2.807e+02	-0.371	response to morphine
+490	29	13	0.0005	0.00151	3.486e+02	0.113	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay
+491	31	16	0.0005	0.00143	3.606e+02	-0.079	positive regulation of oxidoreductase activity
+492	28	14	0.00049	0.00148	3.017e+02	0.206	morphogenesis of embryonic epithelium
+493	22	9	0.00048	0.00145	2.148e+02	-0.178	regulation of collagen metabolic process
+494	30	13	0.00048	0.00144	3.805e+02	0.061	lysosome organization
+495	41	22	0.00048	0.00144	6.081e+02	0.077	response to gamma radiation
+496	34	17	0.00048	0.00143	4.424e+02	-0.15	response to activity
+497	36	17	0.00047	0.0014	5.152e+02	0.029	histone lysine methylation
+498	48	21	0.00047	0.0014	9.561e+02	-0.106	regulation of anion transport
+499	58	29	0.00046	0.00138	1.274e+03	0.076	regulation of mRNA metabolic process
+500	26	15	0.00046	0.00137	2.318e+02	0.03	thioester biosynthetic process & acyl-CoA biosynthetic process
+501	41	16	0.00046	0.00137	7.497e+02	-0.182	establishment of protein localization to plasma membrane
+502	27	11	0.00045	0.00118	3.216e+02	-0.357	nitric oxide metabolic process
+503	76	42	0.00045	0.00136	2.019e+03	0.025	cellular response to light stimulus
+504	30	16	0.00044	0.00132	3.296e+02	0.158	somatic diversification of immunoglobulins
+505	26	11	0.00044	0.00132	2.917e+02	0.131	pituitary gland development
+506	77	48	0.00044	0.00132	1.824e+03	0.027	regulation of cellular amine metabolic process
+507	29	15	0.00044	0.00131	3.156e+02	0.016	positive regulation of neural precursor cell proliferation
+508	34	14	0.00043	0.0013	5.023e+02	-0.229	regulation of protein acetylation
+509	63	33	0.00043	0.00128	1.453e+03	-0.067	fatty acid oxidation
+510	21	10	0.00043	0.00128	1.778e+02	-0.282	cellular response to heat
+511	21	9	0.00043	0.00128	1.908e+02	-0.2	regulation of insulin-like growth factor receptor signaling pathway
+512	21	9	0.00043	0.00128	1.908e+02	-0.156	cofactor transport
+513	115	54	0.00042	0.00127	5.179e+03	-0.013	regulation of chromosome organization
+514	21	9	0.00042	0.00127	1.908e+02	0.09	modulation of transcription in other organism involved in symbiotic interaction
+515	30	13	0.00042	0.00127	3.805e+02	0.009	alditol phosphate metabolic process
+516	23	14	0.00042	0.00125	1.719e+02	0.033	branched-chain amino acid metabolic process
+517	76	39	0.00042	0.00125	2.141e+03	-0.199	reactive oxygen species metabolic process
+518	81	50	0.00041	0.00124	2.042e+03	0.14	endoplasmic reticulum unfolded protein response
+519	28	11	0.0004	0.0012	3.526e+02	-0.074	smooth muscle cell differentiation
+520	22	11	0.0004	0.00119	1.878e+02	0.312	positive regulation of mitotic cell cycle phase transition
+521	49	22	0.00039	0.00116	9.800e+02	-0.095	regulation of neural precursor cell proliferation
+522	31	18	0.00038	0.00115	3.257e+02	0.236	deoxyribonucleotide metabolic process
+523	25	9	0.00036	0.00109	2.967e+02	-0.482	cardiac muscle tissue development
+524	22	10	0.00036	0.00108	2.008e+02	-0.162	regulation of systemic arterial blood pressure by hormone & regulation of systemic arterial blood pressure mediated by a chemical signal & endocrine process
+525	223	114	0.00036	0.00108	1.827e+04	0.067	covalent chromatin modification
+526	37	19	0.00036	0.00108	5.133e+02	0.031	histone H4 acetylation
+527	33	19	0.00036	0.00108	3.716e+02	0.407	negative regulation of mitotic metaphase/anaphase transition & negative regulation of metaphase/anaphase transition of cell cycle
+528	35	15	0.00035	0.00106	5.192e+02	-0.525	protein kinase C-activating G-protein coupled receptor signaling pathway
+529	25	13	0.00035	0.00106	2.348e+02	0.132	regulation of activated T cell proliferation
+530	26	6	0.00035	0.00104	3.865e+02	-0.503	positive regulation of pathway-restricted SMAD protein phosphorylation
+531	48	25	0.00034	0.00068	8.505e+02	-0.011	regulation of pH
+532	64	34	0.00034	0.00102	1.483e+03	-0.022	regulation of autophagy
+533	60	32	0.00034	0.00067	1.300e+03	0.077	acyl-CoA metabolic process & thioester metabolic process
+534	27	13	0.00033	0.001	2.887e+02	-0.043	cytokine secretion
+535	84	81	0.00032	0.00097	2.499e+02	0.289	viral transcription
+536	40	18	0.00032	0.00097	6.549e+02	-0.053	regulation of neuronal synaptic plasticity
+537	26	13	0.00032	0.00096	2.607e+02	0.011	inactivation of MAPK activity
+538	25	12	0.00031	0.00094	2.487e+02	0.096	rhythmic behavior
+539	44	27	0.0003	0.00091	6.122e+02	0.21	sperm-egg recognition
+540	21	8	0.0003	0.0009	2.048e+02	-0.224	regulation of interleukin-1 secretion
+541	60	29	0.0003	0.00063	1.395e+03	-0.148	muscle cell development
+542	33	24	0.0003	0.00089	2.618e+02	0.37	hexose catabolic process
+543	23	14	0.00028	0.00084	1.719e+02	0.242	glutamate metabolic process
+544	64	34	0.00027	0.00082	1.483e+03	-0.053	lipid oxidation
+545	21	14	0.00026	0.00078	1.269e+02	0.261	mismatch repair
+546	36	16	0.00026	0.00078	5.362e+02	0.054	peptidyl-threonine modification
+547	21	10	0.00026	0.00077	1.778e+02	0.031	cytoplasmic sequestering of protein
+548	21	11	0.00026	0.00077	1.659e+02	-0.062	regulation of intrinsic apoptotic signaling pathway in response to DNA damage & negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+549	26	13	0.00025	0.00076	2.607e+02	0.169	negative regulation of stress-activated MAPK cascade & negative regulation of stress-activated protein kinase signaling cascade
+550	29	16	0.00025	0.00076	2.997e+02	0.022	fatty-acyl-CoA metabolic process
+551	21	10	0.00022	0.00066	1.778e+02	-0.006	positive regulation of organic acid transport
+552	24	9	0.00022	0.00065	2.677e+02	0.027	regulation of protein deacetylation
+553	25	16	0.00021	0.00043	1.899e+02	0.181	release of cytochrome c from mitochondria
+554	34	19	0.00021	0.00064	4.055e+02	0.273	cellular response to amino acid stimulus
+555	87	43	0.00021	0.00064	2.875e+03	-0.043	regulation of chromatin organization
+556	26	10	0.00021	0.00062	3.086e+02	-0.116	calcium ion-dependent exocytosis
+557	127	102	0.00021	0.00062	2.870e+03	0.226	macromolecular complex disassembly
+558	92	56	0.0002	0.00061	2.675e+03	0.133	ER-nucleus signaling pathway
+559	24	12	0.0002	0.00061	2.228e+02	-0.034	peptidyl-lysine methylation
+560	26	11	0.0002	0.0006	2.917e+02	-0.151	negative regulation of carbohydrate metabolic process
+561	21	6	0.0002	0.0006	2.358e+02	-0.138	negative regulation of mitotic cell cycle
+562	25	12	0.0002	0.00059	2.487e+02	0.073	regulation of protein export from nucleus
+563	22	7	0.00019	0.00056	2.457e+02	-0.341	cholesterol efflux
+564	42	17	0.00019	0.00056	7.696e+02	-0.206	positive regulation of fibroblast proliferation
+565	36	11	0.00018	0.00053	6.559e+02	-0.578	positive regulation of cyclase activity
+566	36	16	0.00018	0.00053	5.362e+02	-0.262	regulation of nitric-oxide synthase activity
+567	112	83	0.00016	0.00049	2.836e+03	0.233	rRNA metabolic process
+568	45	24	0.00016	0.00037	7.348e+02	-0.005	establishment of cell polarity
+569	37	22	0.00015	0.00046	4.505e+02	0.48	spindle checkpoint
+570	25	14	0.00015	0.00044	2.208e+02	0.158	protein localization to nucleus
+571	26	14	0.00015	0.00035	2.468e+02	0.052	regulation of DNA-dependent DNA replication
+572	21	7	0.00014	0.00043	2.198e+02	-0.593	sprouting angiogenesis
+573	102	51	0.00014	0.00043	3.913e+03	-0.082	regulation of cellular carbohydrate metabolic process
+574	42	29	0.00014	0.00029	4.685e+02	0.176	hydrogen ion transmembrane transport
+575	23	6	0.00013	0.0004	2.917e+02	-0.532	regulation of membrane depolarization
+576	40	17	0.00013	0.0004	6.788e+02	-0.134	ventricular cardiac muscle tissue morphogenesis
+577	26	12	0.00013	0.0004	2.757e+02	-0.02	glutathione derivative metabolic process & glutathione derivative biosynthetic process
+578	21	9	0.00012	0.00037	1.908e+02	0.285	motor neuron axon guidance
+579	31	18	0.00012	0.00036	3.257e+02	0.169	one-carbon metabolic process
+580	40	19	0.00012	0.00035	6.320e+02	-0.083	regulation of Notch signaling pathway
+581	31	18	0.00012	0.00035	3.257e+02	0.112	sperm motility
+582	260	159	0.00012	0.00035	2.105e+04	0.22	cell cycle phase transition & mitotic cell cycle phase transition
+583	25	11	0.00011	0.00034	2.637e+02	-0.097	Golgi to plasma membrane transport
+584	26	11	0.00011	0.00034	2.917e+02	-0.129	positive regulation of protein tyrosine kinase activity
+585	43	21	0.00011	0.00032	7.158e+02	0.019	regulation of DNA recombination
+586	21	7	0.00011	0.00032	2.198e+02	-0.031	membrane lipid catabolic process
+587	26	10	0.0001	0.00029	3.086e+02	-0.178	regulation of hormone metabolic process
+588	31	14	0.0001	0.00029	3.955e+02	0.126	response to nicotine
+589	27	15	9e-05	0.00028	2.587e+02	-0.044	positive regulation of intrinsic apoptotic signaling pathway
+590	39	21	8e-05	0.00025	5.492e+02	0.254	collagen fibril organization
+591	24	10	8e-05	0.00024	2.517e+02	-0.209	fear response
+592	78	36	8e-05	0.00023	2.420e+03	-0.059	regulation of histone modification
+593	71	45	8e-05	0.00023	1.519e+03	0.17	regulation of nuclease activity
+594	40	23	8e-05	0.00023	5.443e+02	0.212	negative regulation of proteolysis
+595	23	13	7e-05	0.00022	1.858e+02	0.095	nuclear-transcribed mRNA poly(A) tail shortening
+596	26	9	7e-05	0.00022	3.266e+02	-0.045	endosome to lysosome transport
+597	21	11	7e-05	0.00022	1.659e+02	-0.017	negative regulation of autophagy
+598	21	9	7e-05	0.00022	1.908e+02	-0.022	ventricular septum morphogenesis
+599	107	104	6e-05	0.00018	3.189e+02	0.328	cotranslational protein targeting to membrane
+600	23	11	6e-05	0.00018	2.118e+02	0.056	circadian behavior
+601	24	15	6e-05	0.00017	1.809e+02	0.228	folic acid-containing compound metabolic process
+602	33	17	6e-05	0.00017	4.085e+02	0.07	positive regulation of reactive oxygen species metabolic process
+603	64	41	5e-05	0.00016	1.218e+03	0.163	regulation of viral transcription
+604	22	9	5e-05	0.00014	2.148e+02	-0.083	detection of mechanical stimulus involved in sensory perception
+605	23	9	4e-05	0.00013	2.407e+02	-0.448	cardiac muscle cell action potential
+606	33	28	4e-05	0.00012	1.559e+02	0.508	DNA strand elongation involved in DNA replication
+607	174	118	4e-05	0.00012	8.169e+03	0.257	DNA recombination
+608	36	18	4e-05	0.00012	4.953e+02	0.228	cerebral cortex development
+609	22	8	4e-05	0.00011	2.298e+02	0.041	negative regulation of smoothened signaling pathway
+610	23	10	3e-05	8e-05	2.258e+02	-0.132	positive regulation of response to cytokine stimulus
+611	25	16	2e-05	7e-05	1.899e+02	0.051	transcription from RNA polymerase I promoter
+612	53	35	2e-05	7e-05	8.008e+02	0.153	pyridine-containing compound metabolic process
+613	220	111	2e-05	5e-05	1.795e+04	0.058	histone modification
+614	35	15	2e-05	5e-05	5.192e+02	-0.023	hippocampus development
+615	20	8	1e-05	4e-05	1.808e+02	-0.204	phosphatidylinositol 3-kinase signaling
+616	28	13	1e-05	4e-05	3.176e+02	0.136	interaction with symbiont
+617	34	13	1e-05	2e-05	5.242e+02	-0.258	bone mineralization
+618	182	106	0.0	1e-05	1.092e+04	0.201	cellular modified amino acid metabolic process
+619	26	14	0.0	1e-05	2.468e+02	0.19	RNA stabilization & mRNA stabilization

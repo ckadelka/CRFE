@@ -1,0 +1,30 @@
+MAGE-TAB Version	1.1					
+Experiment Description	The identification of biomarkers for Friedreich’s ataxia (FRDA), a rare and debilitating recessive Mendelian neurodegenerative disorder, is an important goal for disease follow-up and assessment of treatments. Clinical scales are not sensitive enough to detect small, short-term changes that may be indicative of treatment effectiveness. We used differential expression, correlation with expansion size, network analysis, machine learning, and enrichment analysis to identify gene expression biomarkers which differentiated FRDA patients from both heterozygous expansion carriers and controls (821 individuals in total), resulting in a disease signature for FRDA. Our 27-gene expression panel  includes genes which are linked to inflammation, lipid metabolism and apoptosis, and overlaps with previous studies and a with a novel mouse model for FRDA. Future studies should seek to expand the search for FRDA biomarkers to include changes in epigenetic regulation and protein expression. 1299 peripheral blood samples, of which 733 were used in study.  4 samples were run twice, but were not intended as technical replicates.  Sample status is indicates by characteristics: sample column and can be either patient, heterozygous carrier or control					
+Public Release Date	2018-07-26					
+Investigation Title	Peripheral blood biomarkers in Friedreich's ataxia					
+Experimental Factor Name	disease	clinical information	batch			
+Experimental Factor Type	disease	clinical information	batch			
+Protocol Name	P-GSE102008-3	P-GSE102008-5	P-GSE102008-1	P-GSE102008-2	P-GSE102008-4	P-GSE102008-6
+Protocol Type	labelling protocol	array scanning protocol	normalization data transformation protocol	nucleic acid extraction protocol	hybridization protocol	sample collection protocol
+Protocol Description	Biotinylation using standard Illumina protocol	Slides were scanned using an Illumina BeadStation and signal extracted using the Illumina BeadStudio software	Array preprocessing was performed using the standard pipeline from the lumi package which is designed specifically for Illumina microarrays. Raw intensities were normalized using variance-stabilized transformation and interarray normalization was performed with robust spline normalization. Outliers were removed based upon sample-wise connectivity z-scores. Batch effect correction was performed using ComBat from the sva package. Probes were filtered by detection score P < 0.01 and unannotated probes were dropped. Duplicate probes for the same gene were dropped using the maxMean method with the collapseRows function from the WGCNA package, which only keeps probes with the highest mean expression across all of the samples. ID_REF =  VALUE = VST-normalized expression	Peripheral blood was collected in Paxgene tubes and frozen before RNA extraction, which was performed using a semi-automated system (Qiacube). RNA quantity was assessed with Nanodrop (Nanodrop Technologies) and quality with the Agilent Bioanalyzer (Agilent Technologies).	Total RNA (200 ng) was amplified, biotinylated and hybridized on Illumina HT12 v4 microarrays, as per manufacturer's protocol, at the UCLA Neuroscience Genomics Core (UNGC)	Peripheral blood was taken from donors. Several phenotypic measures can be used to quantify disease severity in FRDA patients.A direct clinical measure is the functional disability stage (FDS) score developed for the Friedreich’s ataxia rating scale (FARS) (7), which rates patients on a scale from 0–6 based upon their mobility, with 0 indicating no impairment and 6 complete disability.
+Term Source Name	ArrayExpress					
+Term Source File	http://www.ebi.ac.uk/arrayexpress/					
+Person Last Name	Nachun	Coppola	Lynch	Perlman		
+Person First Name	Daniel	Giovanni	David	Sue		
+Person Mid Initials			R			
+Person Email	geo@ncbi.nlm.nih.gov					
+Person Affiliation	UCLA					
+Person Address	UCLA, 695 Charles E Young Dr S, Los Angeles, CA, USA					
+Person Roles	submitter					
+Comment[SecondaryAccession]	GSE102008					
+Comment[ArrayExpressAccession]	E-GEOD-102008					
+Comment[GEOReleaseDate]	2018-07-26					
+Comment[ArrayExpressSubmissionDate]	2017-07-28					
+Comment[GEOLastUpdateDate]	2018-08-13					
+Comment[AEExperimentType]	transcription profiling by array					
+Comment[AdditionalFile:Data1]	GSE102008_non-normalized.txt					
+Publication Title	Peripheral blood gene expression reveals an inflammatory transcriptomic signature in Friedreich’s ataxia patients					
+Publication Author List	Daniel Nachun, Fuying Gao, Charles Isaacs, Cassandra Strawser, Zhongan Yang, Deepika Dokuru, Victoria Van Berlo, Renee Sears, Jennifer Farmer, Susan Perlman, David R Lynch and Giovanni Coppola					
+PubMed ID	29790959					
+Publication DOI	10.1093/hmg/ddy198					
+SDRF File	E-GEOD-102008.sdrf.txt					

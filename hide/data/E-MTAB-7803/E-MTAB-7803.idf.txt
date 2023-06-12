@@ -1,0 +1,70 @@
+MAGE-TAB Version	1.1
+Investigation Title	RNA-seq of H1N1 infected monocyte-derived dendritic cells (MoDC), stimulated with single-stranded oligonucleotides (ssON) and/or Poly I:C.
+
+Experimental Design	compound treatment design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO_0001755
+
+Experimental Factor Name	compound	infect	dose	stimulus
+Experimental Factor Type	compound	infect	dose	stimulus
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	CHEBI_24431
+
+Person Last Name	Bergenstråhle
+Person First Name	Joseph
+Person Mid Initials
+Person Email	j.bergenstrahle@scilifelab.se
+Person Phone
+Person Fax
+Person Affiliation	Royal Institute of Technology - KTH, Sweden
+Person Address	SciLifeLab Stockholm Dept. of Gene Technology Karolinska Institutet Science Park Tomtebodavägen 23A SE-171 65 Solna
+Person Roles	submitter
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2018-02-12
+Public Release Date	2019-05-03
+
+PubMed ID
+Publication DOI
+Publication Author List
+Publication Title
+Publication Status
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	Evaluation of modulation of the innate immune response during H1N1 infection. The modulatory effect of Single-stranded oligonucleotides (ssON) on monocyte-derived dendritic cells (MoDCs) are evaluated. RNAseq data are used to study the effect on the transcriptome of MoDCs, during infection with simultaneous addition of ssON. Further mechanistic information are added via RNAseq data on poly I:C stimulated MoDCs (Toll-Like Receptor 3 agonist). Control samples are included to perform differential expression analysis.  Provided are the fastq files, obtained in the following manner: The RNA sequencing was performed with the TruSeq RiboZero kit from Illumina, 25 M reads per sample and 2x125bp. Read quality were assessed using FastQC (Version 0.11.5) Trim Galore (Version 0.3.6) was used for adapter removal and quality trimming with a quality threshold of 20 on the Phred scale.   Count files was created out of the trimmed  fastq by mapping high-quality reads to Homo sapiens UCSC hg38 (GRCh38.77) reference genome using STAR aligner (version 2.5) with default values and the parameter out Reads Unmapped set to Fastx in order to extract the unmapped reads. After STAR alignment, the count data for the aligned reads were generated with HTSeq-count (version 0.6.1). The-m parameter was set to union.
+
+Protocol Name	P-MTAB-84082	P-MTAB-84087	P-MTAB-84085	P-MTAB-84086	P-MTAB-84083	P-MTAB-84084
+Protocol Type	sample collection protocol	normalization data transformation protocol	nucleic acid sequencing protocol	high throughput sequence alignment protocol	nucleic acid extraction protocol	nucleic acid library construction protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0005518	EFO_0003816	EFO_0004170	EFO_0004917	EFO_0002944	EFO_0004184
+Protocol Description	MoDC culture Monocytes were isolated from buffy coats using Ficoll centrifugation (Lymphoprep; Axis Shield) after negative selection using the RosetteSep Monocyte Enrichment Kit (StemCell Technologies). Monocyte-derived DC (MoDC) were obtained after six days of differentiation in complete RPMI medium (RPMI 1640, 1mM sodium pyruvate, 10mM HEPES, 2mM L-glutamine, 1% Penicillin/Streptomycin, Hyclone GE Healthcare, and 10% FBS, Sigma) complemented with GM-CSF (250ng/mL; PeproTech) and rIL-4 (6.5ng/mL; R&amp;D Systems). Cells were seeded at a density of 5x10 5 cells/mL and after three days of differentiation, 50% of the medium was replaced and new cytokines added. Staining for flow cytometry was done before and at indicated time points post viral infection.   IAV infection and treatments Stock of pandemic H1N1 virus strain A/Cal07/2009 was kindly provided by Bertin-Pharma, France. MoDC were mock-exposed or exposed to IAV or heat inactivated IAV (HI IAV,30min at 56°C) at a multiplicity of infection (MOI) of 0.02, 0.2 or 2 for 4h at 37°C 5%CO 2 in serum-free RPMI medium, washed in pre-warmed complete RPMI medium and distributed in 24 wells plates (0.5x10 6 /mL). Cells were then treated or not with the following molecules: synthetic, endotoxin-free, completely phosphorothioate-modified oligonucleotides named ssON (0.5µM; Integrated DNA Technologies), high molecular weight PolyI:C (25µg/mL; Invivogen) or the combination of both, referred as ssON/PolyI:C. The sequence of ssON is: 5’-GAAGTTTTGAGGTTTTGAAGTTGTTGGTGGTGGTG-3’.	The data provided are raw counts	25 M reads per sample and 2x125bp	Fastq files were obtained from NGI and the read quality were assessed using FastQC (Version 0.11.5) Trim Galore (Version 0.3.6) was used for adapter removal and quality trimming with a quality threshold of 20 on the Phred scale. Obtained high-quality reads were mapped to Homo sapiens UCSC hg38(GRCh38.77) reference genome using STAR aligner (version 2.5) with default values and the parameter out Reads Unmapped set to Fastx in order to extract the unmapped reads. After STAR alignment, the count data for the aligned reads were generated with HTSeq-count (version 0.6.1). The-m parameter was set to union.	At 24h or 48h post infection (p.i), supernatants and MoDC were harvested and kept at -80°C until RNA purification was performed. RNeasy ® Plus Mini kit (QIAGEN) was used for total cells RNA extraction while QIAamp ® Viral RNA mini kit (QIAGEN) was used for viral RNA purification in supernatants, following manufacturer’ spin protocol.	Illumina TruSeq Stranded total RNA (ribosomal depletion)
+Protocol Parameters
+Protocol Hardware			Illumina HiSeq 2500
+Protocol Software
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-7803.sdrf.txt
+Comment [Submitted Name]	RNA-seq of H1N1 infected monocyte-derived dendritic cells (MoDC), stimulated with single-stranded oligonucleotides (ssON) and/or Poly I:C.
+Comment [TemplateType]	Human - High-throughput sequencing
+Comment [SecondaryAccession]	ERP114921
+Comment [SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR3288620-ERR3288734
+Comment [AEExperimentType]	RNA-seq of coding RNA
+Comment[ArrayExpressAccession]	E-MTAB-7803

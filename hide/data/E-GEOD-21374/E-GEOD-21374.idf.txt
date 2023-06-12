@@ -1,0 +1,30 @@
+MAGE-TAB Version	1.1						
+Investigation Title	Expression data from human renal allograft biopsies to investigate renal transplant rejection and failure						
+Public Release Date	2010-05-24						
+Experiment Description	Kidney transplants that develop dysfunction or proteinuria after one year post transplant are at considerable risk for progression to renal failure. Identifying the molecules associated with graft failure could potentially lead to interventions that would slow the progression of organ failure. We analyzed the relationship between gene expression in late biopsies for cause in human kidney transplants and subsequent graft loss, and assessed the predictive value of gene expression. We evaluated the performance of these genes in an independent , and in a population of early biopsies that have a very low risk of subsequent graft failure. All consenting renal transplant patients undergoing biopsies for cause as standard of care between 09/2004 and 10/2007 at the university of Alberta or between 11/2006 and 02/2007 at the University of Illinois were included in the analysis. In addition, biopsies obtained from Minnesota between 09/2006 and 09/2007 were used as an independent . In addition to the cores required for standard histopathology, we collected one core for gene expression studies. the relationship between gene expression in the biopsy and subsequent graft loss was analyzed.						
+Term Source Name	ArrayExpress						
+Term Source File	http://www.ebi.ac.uk/arrayexpress/						
+Experimental Factor Name	clinical information	disease					
+Experimental Factor Type	clinical information	disease					
+Publication Title	A molecular classifier for predicting future graft loss in late kidney transplant biopsies.						
+Publication Author List	Einecke G, Reeve J, Sis B, Mengel M, Hidalgo L, Famulski KS, Matas A, Kasiske B, Kaplan B, Halloran PF						
+PubMed ID	20501945						
+Publication DOI	10.1172/JCI41789						
+Person Last Name	Reeve	Einecke	Halloran				
+Person First Name	Jeff	Gunilla	Philip				
+Person Mid Initials			F				
+Person Email	jreeve@ualberta.ca						
+Person Affiliation	University of Alberta						
+Person Address	University of Alberta, 250 HMRC University of Alberta, Edmonton, Alberta, Canada						
+Person Roles	submitter						
+Protocol Name	P-GSE21374-7	P-GSE21374-1	P-GSE21374-2	P-GSE21374-3	P-GSE21374-4	P-GSE21374-6	P-GSE21374-5
+Protocol Description	GeneChips were scanned using Gene Array Scanner (Affymetrix) and processed with GeneChip Operating Software Version 1.4.0 (Affynetrix).	Microarray data files were preprocessed using robust multi-chip averaging (RMA) implemented in Bioconductor. ID_REF =  VALUE = log2-RMA signal	The immunosuppressive treatment of the patients before the biopsy was based on individual treatment regiments; the treatment after the biopsy was adjusted based on the histopathological diagnosis.	All human renal allograft biopsies taken for clinical indication during the period specified above were included. Tissue was immediately placed in RNA later.	Following homogenization of the tissue in 0.5ml of Trizol reagent (Invitrogen, Carlsbad, CA), total RNA was extracted and purified using the Rneasy Micro Kit (Quiagen, Ontario, Canada) (average yield 4ug/core, (RNA integrity number >7).	Following fragmentation, 15 ug of cRNA were hybridized for 16 hr at 45C on GeneChip HGU133 Plus 2.0 Human Genome Array. GeneChips were washed and stained in the Affymetrix Fluidics Station 400.	RNA (1-2ug) was labeled using GeneChip HT One-Cycle Target Labeling and Control kit. Quality of labeled cRNA was assessed on an Agilent 2100 Bioanalyzer (Agilent, Palo Alto, CA) before hybridization to HGU133Plus2.0. GeneChip (Affymetrix, Santa Clara, CA).
+Protocol Type	array scanning protocol	normalization data transformation protocol	sample treatment protocol	growth protocol	nucleic acid extraction protocol	hybridization protocol	labelling protocol
+Comment[SecondaryAccession]	GSE21374						
+Comment[ArrayExpressAccession]	E-GEOD-21374						
+Comment[GEOReleaseDate]	2010-05-24						
+Comment[ArrayExpressSubmissionDate]	2010-04-17						
+Comment[GEOLastUpdateDate]	2019-03-25						
+Comment[AEExperimentType]	transcription profiling by array						
+							
+SDRF File	E-GEOD-21374.sdrf.txt						

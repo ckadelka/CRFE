@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="rnaseq_mrna_differential" r_data="1">
+    <analytics>
+        <assay_groups>
+            <assay_group id="g1" label="colon; fresh specimen">
+                <assay technical_replicate_id="t1">ERR2321844</assay>
+                <assay technical_replicate_id="t1">ERR2321842</assay>
+                <assay technical_replicate_id="t1">ERR2321845</assay>
+                <assay technical_replicate_id="t1">ERR2321843</assay>
+                <assay technical_replicate_id="t1">ERR2321846</assay>
+                <assay technical_replicate_id="t12">ERR2321897</assay>
+                <assay technical_replicate_id="t12">ERR2321899</assay>
+                <assay technical_replicate_id="t12">ERR2321898</assay>
+                <assay technical_replicate_id="t12">ERR2321901</assay>
+                <assay technical_replicate_id="t12">ERR2321900</assay>
+                <assay technical_replicate_id="t13">ERR2321903</assay>
+                <assay technical_replicate_id="t13">ERR2321905</assay>
+                <assay technical_replicate_id="t13">ERR2321906</assay>
+                <assay technical_replicate_id="t13">ERR2321904</assay>
+                <assay technical_replicate_id="t13">ERR2321902</assay>
+                <assay technical_replicate_id="t14">ERR2321910</assay>
+                <assay technical_replicate_id="t14">ERR2321907</assay>
+                <assay technical_replicate_id="t14">ERR2321911</assay>
+                <assay technical_replicate_id="t14">ERR2321908</assay>
+                <assay technical_replicate_id="t14">ERR2321909</assay>
+                <assay technical_replicate_id="t15">ERR2321914</assay>
+                <assay technical_replicate_id="t15">ERR2321912</assay>
+                <assay technical_replicate_id="t15">ERR2321913</assay>
+                <assay technical_replicate_id="t15">ERR2321915</assay>
+                <assay technical_replicate_id="t15">ERR2321916</assay>
+                <assay technical_replicate_id="t2">ERR2321849</assay>
+                <assay technical_replicate_id="t2">ERR2321850</assay>
+                <assay technical_replicate_id="t2">ERR2321847</assay>
+                <assay technical_replicate_id="t2">ERR2321851</assay>
+                <assay technical_replicate_id="t2">ERR2321848</assay>
+                <assay technical_replicate_id="t5">ERR2321865</assay>
+                <assay technical_replicate_id="t5">ERR2321864</assay>
+                <assay technical_replicate_id="t5">ERR2321862</assay>
+                <assay technical_replicate_id="t5">ERR2321866</assay>
+                <assay technical_replicate_id="t5">ERR2321863</assay>
+                <assay technical_replicate_id="t6">ERR2321870</assay>
+                <assay technical_replicate_id="t6">ERR2321868</assay>
+                <assay technical_replicate_id="t6">ERR2321869</assay>
+                <assay technical_replicate_id="t6">ERR2321871</assay>
+                <assay technical_replicate_id="t6">ERR2321867</assay>
+                <assay technical_replicate_id="t7">ERR2321876</assay>
+                <assay technical_replicate_id="t7">ERR2321874</assay>
+                <assay technical_replicate_id="t7">ERR2321872</assay>
+                <assay technical_replicate_id="t7">ERR2321873</assay>
+                <assay technical_replicate_id="t7">ERR2321875</assay>
+                <assay technical_replicate_id="t8">ERR2321879</assay>
+                <assay technical_replicate_id="t8">ERR2321877</assay>
+                <assay technical_replicate_id="t8">ERR2321880</assay>
+                <assay technical_replicate_id="t8">ERR2321878</assay>
+                <assay technical_replicate_id="t8">ERR2321881</assay>
+                <assay technical_replicate_id="t9">ERR2321883</assay>
+                <assay technical_replicate_id="t9">ERR2321882</assay>
+                <assay technical_replicate_id="t9">ERR2321886</assay>
+                <assay technical_replicate_id="t9">ERR2321884</assay>
+                <assay technical_replicate_id="t9">ERR2321885</assay>
+            </assay_group>
+            <assay_group id="g2" label="colon; frozen specimen">
+                <assay technical_replicate_id="t10">ERR2321887</assay>
+                <assay technical_replicate_id="t10">ERR2321889</assay>
+                <assay technical_replicate_id="t10">ERR2321888</assay>
+                <assay technical_replicate_id="t10">ERR2321891</assay>
+                <assay technical_replicate_id="t10">ERR2321890</assay>
+                <assay technical_replicate_id="t11">ERR2321896</assay>
+                <assay technical_replicate_id="t11">ERR2321892</assay>
+                <assay technical_replicate_id="t11">ERR2321893</assay>
+                <assay technical_replicate_id="t11">ERR2321894</assay>
+                <assay technical_replicate_id="t11">ERR2321895</assay>
+                <assay technical_replicate_id="t3">ERR2321855</assay>
+                <assay technical_replicate_id="t3">ERR2321854</assay>
+                <assay technical_replicate_id="t3">ERR2321852</assay>
+                <assay technical_replicate_id="t3">ERR2321856</assay>
+                <assay technical_replicate_id="t3">ERR2321853</assay>
+                <assay technical_replicate_id="t4">ERR2321860</assay>
+                <assay technical_replicate_id="t4">ERR2321857</assay>
+                <assay technical_replicate_id="t4">ERR2321859</assay>
+                <assay technical_replicate_id="t4">ERR2321861</assay>
+                <assay technical_replicate_id="t4">ERR2321858</assay>
+            </assay_group>
+            <assay_group id="g3" label="duodenum; fresh specimen">
+                <assay technical_replicate_id="t20">ERR2321937</assay>
+                <assay technical_replicate_id="t20">ERR2321938</assay>
+                <assay technical_replicate_id="t20">ERR2321939</assay>
+                <assay technical_replicate_id="t20">ERR2321940</assay>
+                <assay technical_replicate_id="t20">ERR2321936</assay>
+                <assay technical_replicate_id="t21">ERR2321941</assay>
+                <assay technical_replicate_id="t21">ERR2321942</assay>
+                <assay technical_replicate_id="t21">ERR2321943</assay>
+                <assay technical_replicate_id="t21">ERR2321944</assay>
+                <assay technical_replicate_id="t21">ERR2321945</assay>
+                <assay technical_replicate_id="t24">ERR2321959</assay>
+                <assay technical_replicate_id="t24">ERR2321960</assay>
+                <assay technical_replicate_id="t24">ERR2321956</assay>
+                <assay technical_replicate_id="t24">ERR2321957</assay>
+                <assay technical_replicate_id="t24">ERR2321958</assay>
+                <assay technical_replicate_id="t25">ERR2321965</assay>
+                <assay technical_replicate_id="t25">ERR2321963</assay>
+                <assay technical_replicate_id="t25">ERR2321964</assay>
+                <assay technical_replicate_id="t25">ERR2321961</assay>
+                <assay technical_replicate_id="t25">ERR2321962</assay>
+            </assay_group>
+            <assay_group id="g4" label="duodenum; frozen specimen">
+                <assay technical_replicate_id="t22">ERR2321948</assay>
+                <assay technical_replicate_id="t22">ERR2321946</assay>
+                <assay technical_replicate_id="t22">ERR2321949</assay>
+                <assay technical_replicate_id="t22">ERR2321947</assay>
+                <assay technical_replicate_id="t22">ERR2321950</assay>
+                <assay technical_replicate_id="t23">ERR2321955</assay>
+                <assay technical_replicate_id="t23">ERR2321953</assay>
+                <assay technical_replicate_id="t23">ERR2321951</assay>
+                <assay technical_replicate_id="t23">ERR2321952</assay>
+                <assay technical_replicate_id="t23">ERR2321954</assay>
+                <assay technical_replicate_id="t26">ERR2321967</assay>
+                <assay technical_replicate_id="t26">ERR2321966</assay>
+                <assay technical_replicate_id="t26">ERR2321969</assay>
+                <assay technical_replicate_id="t26">ERR2321970</assay>
+                <assay technical_replicate_id="t26">ERR2321968</assay>
+            </assay_group>
+            <assay_group id="g5" label="ileum; fresh specimen">
+                <!-- This assay group is not involved in any contrasts -->
+                <assay technical_replicate_id="t16">ERR2321921</assay>
+                <assay technical_replicate_id="t16">ERR2321919</assay>
+                <assay technical_replicate_id="t16">ERR2321918</assay>
+                <assay technical_replicate_id="t16">ERR2321917</assay>
+                <assay technical_replicate_id="t16">ERR2321920</assay>
+                <assay technical_replicate_id="t17">ERR2321925</assay>
+                <assay technical_replicate_id="t17">ERR2321922</assay>
+                <assay technical_replicate_id="t17">ERR2321923</assay>
+                <assay technical_replicate_id="t17">ERR2321924</assay>
+                <assay technical_replicate_id="t18">ERR2321926</assay>
+                <assay technical_replicate_id="t18">ERR2321928</assay>
+                <assay technical_replicate_id="t18">ERR2321929</assay>
+                <assay technical_replicate_id="t18">ERR2321927</assay>
+                <assay technical_replicate_id="t18">ERR2321930</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g2_g1" cttv_primary="0">
+                <name>'fresh specimen' vs 'frozen specimen' in 'colon'</name>
+                <reference_assay_group>g2</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+            </contrast>
+            <contrast id="g4_g3" cttv_primary="0">
+                <name>'fresh specimen' vs 'frozen specimen' in 'duodenum'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g3</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="individual">
+                        <batch value="HT117">
+                            <assay>ERR2321942</assay>
+                            <assay>ERR2321946</assay>
+                            <assay>ERR2321939</assay>
+                            <assay>ERR2321948</assay>
+                            <assay>ERR2321953</assay>
+                            <assay>ERR2321941</assay>
+                            <assay>ERR2321940</assay>
+                            <assay>ERR2321945</assay>
+                            <assay>ERR2321936</assay>
+                            <assay>ERR2321947</assay>
+                            <assay>ERR2321943</assay>
+                            <assay>ERR2321937</assay>
+                            <assay>ERR2321944</assay>
+                            <assay>ERR2321952</assay>
+                            <assay>ERR2321950</assay>
+                            <assay>ERR2321949</assay>
+                            <assay>ERR2321951</assay>
+                            <assay>ERR2321938</assay>
+                            <assay>ERR2321955</assay>
+                            <assay>ERR2321954</assay>
+                        </batch>
+                        <batch value="HT115">
+                            <assay>ERR2321968</assay>
+                            <assay>ERR2321966</assay>
+                            <assay>ERR2321964</assay>
+                            <assay>ERR2321965</assay>
+                            <assay>ERR2321959</assay>
+                            <assay>ERR2321970</assay>
+                            <assay>ERR2321961</assay>
+                            <assay>ERR2321960</assay>
+                            <assay>ERR2321967</assay>
+                            <assay>ERR2321963</assay>
+                            <assay>ERR2321958</assay>
+                            <assay>ERR2321962</assay>
+                            <assay>ERR2321969</assay>
+                            <assay>ERR2321956</assay>
+                            <assay>ERR2321957</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

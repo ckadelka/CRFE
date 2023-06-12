@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="rnaseq_mrna_differential" r_data="1">
+    <analytics>
+        <assay_groups>
+            <assay_group id="g1" label="allergic rhinitis">
+                <assay technical_replicate_id="t41">SRR2922097</assay>
+                <assay technical_replicate_id="t41">SRR2922098</assay>
+                <assay technical_replicate_id="t42">SRR2922100</assay>
+                <assay technical_replicate_id="t42">SRR2922099</assay>
+                <assay technical_replicate_id="t43">SRR2922102</assay>
+                <assay technical_replicate_id="t43">SRR2922101</assay>
+                <assay technical_replicate_id="t44">SRR2922103</assay>
+                <assay technical_replicate_id="t44">SRR2922104</assay>
+                <assay technical_replicate_id="t45">SRR2922105</assay>
+                <assay technical_replicate_id="t45">SRR2922106</assay>
+                <assay technical_replicate_id="t46">SRR2922108</assay>
+                <assay technical_replicate_id="t46">SRR2922107</assay>
+                <assay technical_replicate_id="t47">SRR2922110</assay>
+                <assay technical_replicate_id="t47">SRR2922109</assay>
+                <assay technical_replicate_id="t48">SRR2922112</assay>
+                <assay technical_replicate_id="t48">SRR2922111</assay>
+                <assay technical_replicate_id="t49">SRR2922114</assay>
+                <assay technical_replicate_id="t49">SRR2922113</assay>
+                <assay technical_replicate_id="t50">SRR2922115</assay>
+                <assay technical_replicate_id="t50">SRR2922116</assay>
+                <assay technical_replicate_id="t51">SRR2922118</assay>
+                <assay technical_replicate_id="t51">SRR2922117</assay>
+                <assay technical_replicate_id="t52">SRR2922119</assay>
+                <assay technical_replicate_id="t52">SRR2922120</assay>
+                <assay technical_replicate_id="t53">SRR2922121</assay>
+                <assay technical_replicate_id="t53">SRR2922122</assay>
+                <assay technical_replicate_id="t54">SRR2922124</assay>
+                <assay technical_replicate_id="t54">SRR2922123</assay>
+                <assay technical_replicate_id="t55">SRR2922125</assay>
+                <assay technical_replicate_id="t55">SRR2922126</assay>
+                <assay technical_replicate_id="t56">SRR2922127</assay>
+                <assay technical_replicate_id="t56">SRR2922128</assay>
+                <assay technical_replicate_id="t57">SRR2922130</assay>
+                <assay technical_replicate_id="t57">SRR2922129</assay>
+                <assay technical_replicate_id="t58">SRR2922131</assay>
+                <assay technical_replicate_id="t58">SRR2922132</assay>
+                <assay technical_replicate_id="t59">SRR2922134</assay>
+                <assay technical_replicate_id="t59">SRR2922133</assay>
+                <assay technical_replicate_id="t60">SRR2922136</assay>
+                <assay technical_replicate_id="t60">SRR2922135</assay>
+                <assay technical_replicate_id="t61">SRR2922137</assay>
+                <assay technical_replicate_id="t61">SRR2922138</assay>
+                <assay technical_replicate_id="t62">SRR2922140</assay>
+                <assay technical_replicate_id="t62">SRR2922139</assay>
+                <assay technical_replicate_id="t63">SRR2922141</assay>
+                <assay technical_replicate_id="t63">SRR2922142</assay>
+                <assay technical_replicate_id="t64">SRR2922143</assay>
+                <assay technical_replicate_id="t64">SRR2922144</assay>
+                <assay technical_replicate_id="t65">SRR2922145</assay>
+                <assay technical_replicate_id="t65">SRR2922146</assay>
+            </assay_group>
+            <assay_group id="g2" label="asthma">
+                <assay technical_replicate_id="t1">SRR2922018</assay>
+                <assay technical_replicate_id="t1">SRR2922017</assay>
+                <assay technical_replicate_id="t10">SRR2922036</assay>
+                <assay technical_replicate_id="t10">SRR2922035</assay>
+                <assay technical_replicate_id="t11">SRR2922037</assay>
+                <assay technical_replicate_id="t11">SRR2922038</assay>
+                <assay technical_replicate_id="t12">SRR2922040</assay>
+                <assay technical_replicate_id="t12">SRR2922039</assay>
+                <assay technical_replicate_id="t13">SRR2922041</assay>
+                <assay technical_replicate_id="t13">SRR2922042</assay>
+                <assay technical_replicate_id="t14">SRR2922043</assay>
+                <assay technical_replicate_id="t14">SRR2922044</assay>
+                <assay technical_replicate_id="t15">SRR2922046</assay>
+                <assay technical_replicate_id="t15">SRR2922045</assay>
+                <assay technical_replicate_id="t16">SRR2922047</assay>
+                <assay technical_replicate_id="t16">SRR2922048</assay>
+                <assay technical_replicate_id="t17">SRR2922050</assay>
+                <assay technical_replicate_id="t17">SRR2922049</assay>
+                <assay technical_replicate_id="t18">SRR2922052</assay>
+                <assay technical_replicate_id="t18">SRR2922051</assay>
+                <assay technical_replicate_id="t19">SRR2922053</assay>
+                <assay technical_replicate_id="t19">SRR2922054</assay>
+                <assay technical_replicate_id="t2">SRR2922019</assay>
+                <assay technical_replicate_id="t2">SRR2922020</assay>
+                <assay technical_replicate_id="t20">SRR2922056</assay>
+                <assay technical_replicate_id="t20">SRR2922055</assay>
+                <assay technical_replicate_id="t21">SRR2922058</assay>
+                <assay technical_replicate_id="t21">SRR2922057</assay>
+                <assay technical_replicate_id="t22">SRR2922059</assay>
+                <assay technical_replicate_id="t22">SRR2922060</assay>
+                <assay technical_replicate_id="t23">SRR2922061</assay>
+                <assay technical_replicate_id="t23">SRR2922062</assay>
+                <assay technical_replicate_id="t24">SRR2922064</assay>
+                <assay technical_replicate_id="t24">SRR2922063</assay>
+                <assay technical_replicate_id="t25">SRR2922065</assay>
+                <assay technical_replicate_id="t25">SRR2922066</assay>
+                <assay technical_replicate_id="t26">SRR2922067</assay>
+                <assay technical_replicate_id="t26">SRR2922068</assay>
+                <assay technical_replicate_id="t27">SRR2922070</assay>
+                <assay technical_replicate_id="t27">SRR2922069</assay>
+                <assay technical_replicate_id="t28">SRR2922072</assay>
+                <assay technical_replicate_id="t28">SRR2922071</assay>
+                <assay technical_replicate_id="t29">SRR2922073</assay>
+                <assay technical_replicate_id="t29">SRR2922074</assay>
+                <assay technical_replicate_id="t3">SRR2922021</assay>
+                <assay technical_replicate_id="t3">SRR2922022</assay>
+                <assay technical_replicate_id="t30">SRR2922075</assay>
+                <assay technical_replicate_id="t30">SRR2922076</assay>
+                <assay technical_replicate_id="t31">SRR2922077</assay>
+                <assay technical_replicate_id="t31">SRR2922078</assay>
+                <assay technical_replicate_id="t32">SRR2922079</assay>
+                <assay technical_replicate_id="t32">SRR2922080</assay>
+                <assay technical_replicate_id="t33">SRR2922082</assay>
+                <assay technical_replicate_id="t33">SRR2922081</assay>
+                <assay technical_replicate_id="t34">SRR2922083</assay>
+                <assay technical_replicate_id="t34">SRR2922084</assay>
+                <assay technical_replicate_id="t35">SRR2922085</assay>
+                <assay technical_replicate_id="t35">SRR2922086</assay>
+                <assay technical_replicate_id="t36">SRR2922088</assay>
+                <assay technical_replicate_id="t36">SRR2922087</assay>
+                <assay technical_replicate_id="t37">SRR2922089</assay>
+                <assay technical_replicate_id="t37">SRR2922090</assay>
+                <assay technical_replicate_id="t38">SRR2922091</assay>
+                <assay technical_replicate_id="t38">SRR2922092</assay>
+                <assay technical_replicate_id="t39">SRR2922094</assay>
+                <assay technical_replicate_id="t39">SRR2922093</assay>
+                <assay technical_replicate_id="t4">SRR2922024</assay>
+                <assay technical_replicate_id="t4">SRR2922023</assay>
+                <assay technical_replicate_id="t40">SRR2922095</assay>
+                <assay technical_replicate_id="t40">SRR2922096</assay>
+                <assay technical_replicate_id="t5">SRR2922026</assay>
+                <assay technical_replicate_id="t5">SRR2922025</assay>
+                <assay technical_replicate_id="t6">SRR2922027</assay>
+                <assay technical_replicate_id="t6">SRR2922028</assay>
+                <assay technical_replicate_id="t7">SRR2922030</assay>
+                <assay technical_replicate_id="t7">SRR2922029</assay>
+                <assay technical_replicate_id="t8">SRR2922032</assay>
+                <assay technical_replicate_id="t8">SRR2922031</assay>
+                <assay technical_replicate_id="t9">SRR2922033</assay>
+                <assay technical_replicate_id="t9">SRR2922034</assay>
+            </assay_group>
+            <assay_group id="g3" label="normal">
+                <assay technical_replicate_id="t66">SRR2922147</assay>
+                <assay technical_replicate_id="t66">SRR2922148</assay>
+                <assay technical_replicate_id="t67">SRR2922150</assay>
+                <assay technical_replicate_id="t67">SRR2922149</assay>
+                <assay technical_replicate_id="t68">SRR2922151</assay>
+                <assay technical_replicate_id="t68">SRR2922152</assay>
+                <assay technical_replicate_id="t69">SRR2922153</assay>
+                <assay technical_replicate_id="t69">SRR2922154</assay>
+                <assay technical_replicate_id="t70">SRR2922156</assay>
+                <assay technical_replicate_id="t70">SRR2922155</assay>
+                <assay technical_replicate_id="t71">SRR2922157</assay>
+                <assay technical_replicate_id="t71">SRR2922158</assay>
+                <assay technical_replicate_id="t72">SRR2922160</assay>
+                <assay technical_replicate_id="t72">SRR2922159</assay>
+                <assay technical_replicate_id="t73">SRR2922161</assay>
+                <assay technical_replicate_id="t73">SRR2922162</assay>
+                <assay technical_replicate_id="t74">SRR2922163</assay>
+                <assay technical_replicate_id="t74">SRR2922164</assay>
+                <assay technical_replicate_id="t75">SRR2922166</assay>
+                <assay technical_replicate_id="t75">SRR2922165</assay>
+                <assay technical_replicate_id="t76">SRR2922168</assay>
+                <assay technical_replicate_id="t76">SRR2922167</assay>
+                <assay technical_replicate_id="t77">SRR2922169</assay>
+                <assay technical_replicate_id="t77">SRR2922170</assay>
+                <assay technical_replicate_id="t78">SRR2922172</assay>
+                <assay technical_replicate_id="t78">SRR2922171</assay>
+                <assay technical_replicate_id="t79">SRR2922173</assay>
+                <assay technical_replicate_id="t79">SRR2922174</assay>
+                <assay technical_replicate_id="t80">SRR2922176</assay>
+                <assay technical_replicate_id="t80">SRR2922175</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g3_g1" cttv_primary="1">
+                <name>'allergic rhinitis' vs 'normal'</name>
+                <reference_assay_group>g3</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="sex">
+                        <batch value="female">
+                            <assay>SRR2922120</assay>
+                            <assay>SRR2922118</assay>
+                            <assay>SRR2922176</assay>
+                            <assay>SRR2922159</assay>
+                            <assay>SRR2922104</assay>
+                            <assay>SRR2922173</assay>
+                            <assay>SRR2922162</assay>
+                            <assay>SRR2922156</assay>
+                            <assay>SRR2922129</assay>
+                            <assay>SRR2922103</assay>
+                            <assay>SRR2922169</assay>
+                            <assay>SRR2922138</assay>
+                            <assay>SRR2922174</assay>
+                            <assay>SRR2922130</assay>
+                            <assay>SRR2922157</assay>
+                            <assay>SRR2922100</assay>
+                            <assay>SRR2922160</assay>
+                            <assay>SRR2922099</assay>
+                            <assay>SRR2922119</assay>
+                            <assay>SRR2922134</assay>
+                            <assay>SRR2922122</assay>
+                            <assay>SRR2922123</assay>
+                            <assay>SRR2922111</assay>
+                            <assay>SRR2922112</assay>
+                            <assay>SRR2922163</assay>
+                            <assay>SRR2922155</assay>
+                            <assay>SRR2922175</assay>
+                            <assay>SRR2922124</assay>
+                            <assay>SRR2922166</assay>
+                            <assay>SRR2922105</assay>
+                            <assay>SRR2922158</assay>
+                            <assay>SRR2922137</assay>
+                            <assay>SRR2922165</assay>
+                            <assay>SRR2922117</assay>
+                            <assay>SRR2922121</assay>
+                            <assay>SRR2922161</assay>
+                            <assay>SRR2922133</assay>
+                            <assay>SRR2922170</assay>
+                            <assay>SRR2922164</assay>
+                            <assay>SRR2922106</assay>
+                        </batch>
+                        <batch value="male">
+                            <assay>SRR2922147</assay>
+                            <assay>SRR2922172</assay>
+                            <assay>SRR2922110</assay>
+                            <assay>SRR2922136</assay>
+                            <assay>SRR2922101</assay>
+                            <assay>SRR2922149</assay>
+                            <assay>SRR2922154</assay>
+                            <assay>SRR2922142</assay>
+                            <assay>SRR2922146</assay>
+                            <assay>SRR2922145</assay>
+                            <assay>SRR2922098</assay>
+                            <assay>SRR2922151</assay>
+                            <assay>SRR2922128</assay>
+                            <assay>SRR2922113</assay>
+                            <assay>SRR2922107</assay>
+                            <assay>SRR2922115</assay>
+                            <assay>SRR2922126</assay>
+                            <assay>SRR2922132</assay>
+                            <assay>SRR2922102</assay>
+                            <assay>SRR2922150</assay>
+                            <assay>SRR2922139</assay>
+                            <assay>SRR2922143</assay>
+                            <assay>SRR2922114</assay>
+                            <assay>SRR2922168</assay>
+                            <assay>SRR2922116</assay>
+                            <assay>SRR2922109</assay>
+                            <assay>SRR2922097</assay>
+                            <assay>SRR2922152</assay>
+                            <assay>SRR2922135</assay>
+                            <assay>SRR2922167</assay>
+                            <assay>SRR2922141</assay>
+                            <assay>SRR2922140</assay>
+                            <assay>SRR2922127</assay>
+                            <assay>SRR2922148</assay>
+                            <assay>SRR2922131</assay>
+                            <assay>SRR2922125</assay>
+                            <assay>SRR2922108</assay>
+                            <assay>SRR2922144</assay>
+                            <assay>SRR2922171</assay>
+                            <assay>SRR2922153</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+            <contrast id="g3_g2" cttv_primary="1">
+                <name>'asthma' vs 'normal'</name>
+                <reference_assay_group>g3</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="sex">
+                        <batch value="female">
+                            <assay>SRR2922068</assay>
+                            <assay>SRR2922041</assay>
+                            <assay>SRR2922033</assay>
+                            <assay>SRR2922080</assay>
+                            <assay>SRR2922159</assay>
+                            <assay>SRR2922176</assay>
+                            <assay>SRR2922063</assay>
+                            <assay>SRR2922079</assay>
+                            <assay>SRR2922042</assay>
+                            <assay>SRR2922156</assay>
+                            <assay>SRR2922162</assay>
+                            <assay>SRR2922084</assay>
+                            <assay>SRR2922029</assay>
+                            <assay>SRR2922173</assay>
+                            <assay>SRR2922169</assay>
+                            <assay>SRR2922096</assay>
+                            <assay>SRR2922157</assay>
+                            <assay>SRR2922038</assay>
+                            <assay>SRR2922174</assay>
+                            <assay>SRR2922034</assay>
+                            <assay>SRR2922044</assay>
+                            <assay>SRR2922160</assay>
+                            <assay>SRR2922052</assay>
+                            <assay>SRR2922037</assay>
+                            <assay>SRR2922065</assay>
+                            <assay>SRR2922043</assay>
+                            <assay>SRR2922066</assay>
+                            <assay>SRR2922166</assay>
+                            <assay>SRR2922030</assay>
+                            <assay>SRR2922083</assay>
+                            <assay>SRR2922163</assay>
+                            <assay>SRR2922155</assay>
+                            <assay>SRR2922175</assay>
+                            <assay>SRR2922091</assay>
+                            <assay>SRR2922158</assay>
+                            <assay>SRR2922165</assay>
+                            <assay>SRR2922095</assay>
+                            <assay>SRR2922161</assay>
+                            <assay>SRR2922051</assay>
+                            <assay>SRR2922064</assay>
+                            <assay>SRR2922164</assay>
+                            <assay>SRR2922170</assay>
+                            <assay>SRR2922092</assay>
+                            <assay>SRR2922067</assay>
+                        </batch>
+                        <batch value="male">
+                            <assay>SRR2922070</assay>
+                            <assay>SRR2922019</assay>
+                            <assay>SRR2922047</assay>
+                            <assay>SRR2922082</assay>
+                            <assay>SRR2922072</assay>
+                            <assay>SRR2922060</assay>
+                            <assay>SRR2922049</assay>
+                            <assay>SRR2922026</assay>
+                            <assay>SRR2922032</assay>
+                            <assay>SRR2922094</assay>
+                            <assay>SRR2922022</assay>
+                            <assay>SRR2922085</assay>
+                            <assay>SRR2922087</assay>
+                            <assay>SRR2922088</assay>
+                            <assay>SRR2922059</assay>
+                            <assay>SRR2922148</assay>
+                            <assay>SRR2922017</assay>
+                            <assay>SRR2922018</assay>
+                            <assay>SRR2922062</assay>
+                            <assay>SRR2922093</assay>
+                            <assay>SRR2922054</assay>
+                            <assay>SRR2922036</assay>
+                            <assay>SRR2922053</assay>
+                            <assay>SRR2922086</assay>
+                            <assay>SRR2922168</assay>
+                            <assay>SRR2922031</assay>
+                            <assay>SRR2922150</assay>
+                            <assay>SRR2922028</assay>
+                            <assay>SRR2922151</assay>
+                            <assay>SRR2922025</assay>
+                            <assay>SRR2922074</assay>
+                            <assay>SRR2922058</assay>
+                            <assay>SRR2922056</assay>
+                            <assay>SRR2922152</assay>
+                            <assay>SRR2922167</assay>
+                            <assay>SRR2922045</assay>
+                            <assay>SRR2922050</assay>
+                            <assay>SRR2922075</assay>
+                            <assay>SRR2922153</assay>
+                            <assay>SRR2922171</assay>
+                            <assay>SRR2922027</assay>
+                            <assay>SRR2922040</assay>
+                            <assay>SRR2922076</assay>
+                            <assay>SRR2922039</assay>
+                            <assay>SRR2922048</assay>
+                            <assay>SRR2922069</assay>
+                            <assay>SRR2922077</assay>
+                            <assay>SRR2922073</assay>
+                            <assay>SRR2922046</assay>
+                            <assay>SRR2922154</assay>
+                            <assay>SRR2922061</assay>
+                            <assay>SRR2922023</assay>
+                            <assay>SRR2922149</assay>
+                            <assay>SRR2922020</assay>
+                            <assay>SRR2922172</assay>
+                            <assay>SRR2922090</assay>
+                            <assay>SRR2922089</assay>
+                            <assay>SRR2922147</assay>
+                            <assay>SRR2922081</assay>
+                            <assay>SRR2922057</assay>
+                            <assay>SRR2922021</assay>
+                            <assay>SRR2922024</assay>
+                            <assay>SRR2922071</assay>
+                            <assay>SRR2922055</assay>
+                            <assay>SRR2922078</assay>
+                            <assay>SRR2922035</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

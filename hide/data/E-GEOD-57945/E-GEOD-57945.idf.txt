@@ -1,0 +1,31 @@
+MAGE-TAB Version	1.1			
+Investigation Title	RNA-seq of 359 treatment-naive pediatric patients with Crohn's disease, patients with ulcerative colitis and control individuals			
+Comment[Submitted Name]	Core Ileal Transcriptome in Pediatric Crohn Disease			
+Public Release Date	2014-07-24			
+Experiment Description	We report the global pattern of ileal gene expression in a cohort of 359 treatment-naïve pediatric Crohn Disease, Ulcerative Colitis patients and controls. We focus on genes with consistent altered expression in inflamed and unaffected ileum of CD [ileal-involved CD (iCD) and non-invloved ileal CD (cCD)], but not in the ileum of ulcerative colitis or control. Ileal biopsies were obtained during diagnostic colonoscopies of children and adolescents aged less than 17 years, who presented with IBD-like symptoms. All patients underwent baseline colonoscopy and histological characterization; non-IBD controls were those with suspected IBD, but with no microscopic or macroscopic inflammation and normal radiographic, endoscopic, and histologic findings. Biopsies were stored at -80 degrees.			
+Term Source Name	ArrayExpress	EFO		
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl		
+Publication Title	Pediatric Crohn disease patients exhibit specific ileal transcriptome and microbiome signature.			
+Publication Author List	Haberman Y, Tickle TL, Dexheimer PJ, Kim MO, Tang D, Karns R, Baldassano RN, Noe JD, Rosh J, Markowitz J, Heyman MB, Griffiths AM, Crandall WV, Mack DR, Baker SS, Huttenhower C, Keljo DJ, Hyams JS, Kugathasan S, Walters TD, Aronow B, Xavier RJ, Gevers D, Denson LA			
+PubMed ID	25003194			
+Publication DOI	10.1172/JCI75436			
+Person Last Name	Karns	Haberman	Denson	Karns
+Person First Name	Rebekah	Yael	Lee	Rebekah
+Person Email	Rebekah.Karns@cchmc.org			
+Person Affiliation	Cincinnati Children's Hospital Medical Center			
+Person Address	Gastroenterology, Hepatology, & Nutrition, Cincinnati Children's Hospital Medical Center, 3333 Burnet Ave, Cincinnati, OH, USA			
+Person Roles	submitter			
+Experimental Factor Name	histology	disease		
+Experimental Factor Type	histology	disease		
+Protocol Name	P-GSE57945-3	P-GSE57945-1	P-GSE57945-2	
+Protocol Description	Illumina HiSeq 2000 for sequencing. Reads were aligned using TopHat, using hg19 as the reference genome and mapping reads per kilobase per million mapped reads (RPKM) as output. RPKM were normalized using the DESeq algorithm using Avaids NGS software, where normalized counts were log2-transformed and base-lined to the median expression of control samples. Normalized expression values were baselined to the median of all samples. We removed all transcripts that did not have at least 5 RPKM in at least 5 different samples. Genome_build: GRCh37 (hg19) Supplementary_files_format_and_content: Tab-delimited text files contain normalized and baselined RPKM values for each sample.	Ileal biopsies were stored in RNAlater at -80C.	RNA was isolated using the Qiagen AllPrep RNA/DNA Mini Kit, RNA quality and concentration were measured by Agilent Bioanalyzer 2100 using the RNA 6000 Nano Assay. RNA sequencing (RNA-seq) libraries were prepared using the Illumina TruSeq RNA preparation kit and sequenced on the Illumina HiSeq 2000 with single-end 50-bp reads (Illumina, San Diego, CA).	
+Protocol Type	normalization data transformation protocol	growth protocol	nucleic acid library construction protocol	
+Comment[SecondaryAccession]	GSE57945			
+Comment[ArrayExpressAccession]	E-GEOD-57945			
+Comment[GEOReleaseDate]	2014-07-24			
+Comment[ArrayExpressSubmissionDate]	2014-05-23			
+Comment[GEOLastUpdateDate]	2018-08-03			
+Comment[AEExperimentType]	RNA-seq of coding RNA			
+Comment[SecondaryAccession]	SRP042228			
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR1782685-SRR1783006			
+SDRF File	E-GEOD-57945.sdrf.txt			

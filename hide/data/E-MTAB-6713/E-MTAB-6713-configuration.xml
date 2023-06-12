@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="rnaseq_mrna_differential" r_data="1">
+    <analytics>
+        <assay_groups>
+            <assay_group id="g1" label="ETV5 shRNA; in vitro">
+                <assay technical_replicate_id="t10">ERR2583924</assay>
+                <assay technical_replicate_id="t10">ERR2583915</assay>
+                <assay technical_replicate_id="t10">ERR2583916</assay>
+                <assay technical_replicate_id="t10">ERR2583917</assay>
+                <assay technical_replicate_id="t10">ERR2583913</assay>
+                <assay technical_replicate_id="t10">ERR2583923</assay>
+                <assay technical_replicate_id="t10">ERR2583922</assay>
+                <assay technical_replicate_id="t10">ERR2583921</assay>
+                <assay technical_replicate_id="t10">ERR2583920</assay>
+                <assay technical_replicate_id="t10">ERR2583914</assay>
+                <assay technical_replicate_id="t10">ERR2583918</assay>
+                <assay technical_replicate_id="t10">ERR2583919</assay>
+                <assay technical_replicate_id="t8">ERR2583889</assay>
+                <assay technical_replicate_id="t8">ERR2583900</assay>
+                <assay technical_replicate_id="t8">ERR2583894</assay>
+                <assay technical_replicate_id="t8">ERR2583895</assay>
+                <assay technical_replicate_id="t8">ERR2583892</assay>
+                <assay technical_replicate_id="t8">ERR2583899</assay>
+                <assay technical_replicate_id="t8">ERR2583898</assay>
+                <assay technical_replicate_id="t8">ERR2583890</assay>
+                <assay technical_replicate_id="t8">ERR2583891</assay>
+                <assay technical_replicate_id="t8">ERR2583893</assay>
+                <assay technical_replicate_id="t8">ERR2583896</assay>
+                <assay technical_replicate_id="t8">ERR2583897</assay>
+                <assay technical_replicate_id="t9">ERR2583909</assay>
+                <assay technical_replicate_id="t9">ERR2583912</assay>
+                <assay technical_replicate_id="t9">ERR2583907</assay>
+                <assay technical_replicate_id="t9">ERR2583910</assay>
+                <assay technical_replicate_id="t9">ERR2583906</assay>
+                <assay technical_replicate_id="t9">ERR2583902</assay>
+                <assay technical_replicate_id="t9">ERR2583901</assay>
+                <assay technical_replicate_id="t9">ERR2583903</assay>
+                <assay technical_replicate_id="t9">ERR2583908</assay>
+                <assay technical_replicate_id="t9">ERR2583905</assay>
+                <assay technical_replicate_id="t9">ERR2583904</assay>
+                <assay technical_replicate_id="t9">ERR2583911</assay>
+            </assay_group>
+            <assay_group id="g2" label="ETV5 shRNA; tumour growth in mouse xenograft">
+                <assay technical_replicate_id="t11">ERR2583953</assay>
+                <assay technical_replicate_id="t11">ERR2583950</assay>
+                <assay technical_replicate_id="t11">ERR2583952</assay>
+                <assay technical_replicate_id="t11">ERR2583954</assay>
+                <assay technical_replicate_id="t11">ERR2583958</assay>
+                <assay technical_replicate_id="t11">ERR2583949</assay>
+                <assay technical_replicate_id="t11">ERR2583951</assay>
+                <assay technical_replicate_id="t11">ERR2583957</assay>
+                <assay technical_replicate_id="t11">ERR2583959</assay>
+                <assay technical_replicate_id="t11">ERR2583960</assay>
+                <assay technical_replicate_id="t11">ERR2583955</assay>
+                <assay technical_replicate_id="t11">ERR2583956</assay>
+                <assay technical_replicate_id="t12">ERR2583989</assay>
+                <assay technical_replicate_id="t12">ERR2583985</assay>
+                <assay technical_replicate_id="t12">ERR2583994</assay>
+                <assay technical_replicate_id="t12">ERR2583992</assay>
+                <assay technical_replicate_id="t12">ERR2583990</assay>
+                <assay technical_replicate_id="t12">ERR2583991</assay>
+                <assay technical_replicate_id="t12">ERR2583995</assay>
+                <assay technical_replicate_id="t12">ERR2583987</assay>
+                <assay technical_replicate_id="t12">ERR2583996</assay>
+                <assay technical_replicate_id="t12">ERR2583993</assay>
+                <assay technical_replicate_id="t12">ERR2583986</assay>
+                <assay technical_replicate_id="t12">ERR2583988</assay>
+                <assay technical_replicate_id="t13">ERR2584000</assay>
+                <assay technical_replicate_id="t13">ERR2584003</assay>
+                <assay technical_replicate_id="t13">ERR2583997</assay>
+                <assay technical_replicate_id="t13">ERR2584001</assay>
+                <assay technical_replicate_id="t13">ERR2584005</assay>
+                <assay technical_replicate_id="t13">ERR2584002</assay>
+                <assay technical_replicate_id="t13">ERR2584007</assay>
+                <assay technical_replicate_id="t13">ERR2583999</assay>
+                <assay technical_replicate_id="t13">ERR2584006</assay>
+                <assay technical_replicate_id="t13">ERR2584004</assay>
+                <assay technical_replicate_id="t13">ERR2583998</assay>
+                <assay technical_replicate_id="t13">ERR2584008</assay>
+                <assay technical_replicate_id="t14">ERR2584030</assay>
+                <assay technical_replicate_id="t14">ERR2584021</assay>
+                <assay technical_replicate_id="t14">ERR2584022</assay>
+                <assay technical_replicate_id="t14">ERR2584032</assay>
+                <assay technical_replicate_id="t14">ERR2584027</assay>
+                <assay technical_replicate_id="t14">ERR2584031</assay>
+                <assay technical_replicate_id="t14">ERR2584028</assay>
+                <assay technical_replicate_id="t14">ERR2584023</assay>
+                <assay technical_replicate_id="t14">ERR2584029</assay>
+                <assay technical_replicate_id="t14">ERR2584025</assay>
+                <assay technical_replicate_id="t14">ERR2584026</assay>
+                <assay technical_replicate_id="t14">ERR2584024</assay>
+                <assay technical_replicate_id="t15">ERR2584038</assay>
+                <assay technical_replicate_id="t15">ERR2584043</assay>
+                <assay technical_replicate_id="t15">ERR2584044</assay>
+                <assay technical_replicate_id="t15">ERR2584041</assay>
+                <assay technical_replicate_id="t15">ERR2584040</assay>
+                <assay technical_replicate_id="t15">ERR2584042</assay>
+                <assay technical_replicate_id="t15">ERR2584034</assay>
+                <assay technical_replicate_id="t15">ERR2584035</assay>
+                <assay technical_replicate_id="t15">ERR2584039</assay>
+                <assay technical_replicate_id="t15">ERR2584033</assay>
+                <assay technical_replicate_id="t15">ERR2584036</assay>
+                <assay technical_replicate_id="t15">ERR2584037</assay>
+            </assay_group>
+            <assay_group id="g3" label="control shRNA; in vitro">
+                <assay technical_replicate_id="t1">ERR2583867</assay>
+                <assay technical_replicate_id="t1">ERR2583874</assay>
+                <assay technical_replicate_id="t1">ERR2583870</assay>
+                <assay technical_replicate_id="t1">ERR2583873</assay>
+                <assay technical_replicate_id="t1">ERR2583872</assay>
+                <assay technical_replicate_id="t1">ERR2583871</assay>
+                <assay technical_replicate_id="t1">ERR2583868</assay>
+                <assay technical_replicate_id="t1">ERR2583876</assay>
+                <assay technical_replicate_id="t1">ERR2583869</assay>
+                <assay technical_replicate_id="t1">ERR2583865</assay>
+                <assay technical_replicate_id="t1">ERR2583866</assay>
+                <assay technical_replicate_id="t1">ERR2583875</assay>
+                <assay technical_replicate_id="t2">ERR2583886</assay>
+                <assay technical_replicate_id="t2">ERR2583887</assay>
+                <assay technical_replicate_id="t2">ERR2583883</assay>
+                <assay technical_replicate_id="t2">ERR2583882</assay>
+                <assay technical_replicate_id="t2">ERR2583884</assay>
+                <assay technical_replicate_id="t2">ERR2583877</assay>
+                <assay technical_replicate_id="t2">ERR2583885</assay>
+                <assay technical_replicate_id="t2">ERR2583880</assay>
+                <assay technical_replicate_id="t2">ERR2583881</assay>
+                <assay technical_replicate_id="t2">ERR2583879</assay>
+                <assay technical_replicate_id="t2">ERR2583888</assay>
+                <assay technical_replicate_id="t2">ERR2583878</assay>
+                <assay technical_replicate_id="t3">ERR2583931</assay>
+                <assay technical_replicate_id="t3">ERR2583936</assay>
+                <assay technical_replicate_id="t3">ERR2583926</assay>
+                <assay technical_replicate_id="t3">ERR2583935</assay>
+                <assay technical_replicate_id="t3">ERR2583927</assay>
+                <assay technical_replicate_id="t3">ERR2583925</assay>
+                <assay technical_replicate_id="t3">ERR2583930</assay>
+                <assay technical_replicate_id="t3">ERR2583928</assay>
+                <assay technical_replicate_id="t3">ERR2583929</assay>
+                <assay technical_replicate_id="t3">ERR2583934</assay>
+                <assay technical_replicate_id="t3">ERR2583932</assay>
+                <assay technical_replicate_id="t3">ERR2583933</assay>
+            </assay_group>
+            <assay_group id="g4" label="control shRNA; tumour growth in mouse xenograft">
+                <assay technical_replicate_id="t4">ERR2583942</assay>
+                <assay technical_replicate_id="t4">ERR2583947</assay>
+                <assay technical_replicate_id="t4">ERR2583944</assay>
+                <assay technical_replicate_id="t4">ERR2583940</assay>
+                <assay technical_replicate_id="t4">ERR2583943</assay>
+                <assay technical_replicate_id="t4">ERR2583946</assay>
+                <assay technical_replicate_id="t4">ERR2583939</assay>
+                <assay technical_replicate_id="t4">ERR2583945</assay>
+                <assay technical_replicate_id="t4">ERR2583948</assay>
+                <assay technical_replicate_id="t4">ERR2583937</assay>
+                <assay technical_replicate_id="t4">ERR2583938</assay>
+                <assay technical_replicate_id="t4">ERR2583941</assay>
+                <assay technical_replicate_id="t5">ERR2583968</assay>
+                <assay technical_replicate_id="t5">ERR2583963</assay>
+                <assay technical_replicate_id="t5">ERR2583964</assay>
+                <assay technical_replicate_id="t5">ERR2583965</assay>
+                <assay technical_replicate_id="t5">ERR2583972</assay>
+                <assay technical_replicate_id="t5">ERR2583967</assay>
+                <assay technical_replicate_id="t5">ERR2583969</assay>
+                <assay technical_replicate_id="t5">ERR2583961</assay>
+                <assay technical_replicate_id="t5">ERR2583966</assay>
+                <assay technical_replicate_id="t5">ERR2583962</assay>
+                <assay technical_replicate_id="t5">ERR2583971</assay>
+                <assay technical_replicate_id="t5">ERR2583970</assay>
+                <assay technical_replicate_id="t6">ERR2583984</assay>
+                <assay technical_replicate_id="t6">ERR2583981</assay>
+                <assay technical_replicate_id="t6">ERR2583980</assay>
+                <assay technical_replicate_id="t6">ERR2583979</assay>
+                <assay technical_replicate_id="t6">ERR2583983</assay>
+                <assay technical_replicate_id="t6">ERR2583973</assay>
+                <assay technical_replicate_id="t6">ERR2583978</assay>
+                <assay technical_replicate_id="t6">ERR2583982</assay>
+                <assay technical_replicate_id="t6">ERR2583975</assay>
+                <assay technical_replicate_id="t6">ERR2583974</assay>
+                <assay technical_replicate_id="t6">ERR2583976</assay>
+                <assay technical_replicate_id="t6">ERR2583977</assay>
+                <assay technical_replicate_id="t7">ERR2584016</assay>
+                <assay technical_replicate_id="t7">ERR2584009</assay>
+                <assay technical_replicate_id="t7">ERR2584018</assay>
+                <assay technical_replicate_id="t7">ERR2584013</assay>
+                <assay technical_replicate_id="t7">ERR2584019</assay>
+                <assay technical_replicate_id="t7">ERR2584014</assay>
+                <assay technical_replicate_id="t7">ERR2584017</assay>
+                <assay technical_replicate_id="t7">ERR2584020</assay>
+                <assay technical_replicate_id="t7">ERR2584011</assay>
+                <assay technical_replicate_id="t7">ERR2584012</assay>
+                <assay technical_replicate_id="t7">ERR2584015</assay>
+                <assay technical_replicate_id="t7">ERR2584010</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g3_g1" cttv_primary="0">
+                <name>'ETV5 shRNA' vs 'control shRNA' in 'in vitro'</name>
+                <reference_assay_group>g3</reference_assay_group>
+                <test_assay_group>g1</test_assay_group>
+            </contrast>
+            <contrast id="g4_g2" cttv_primary="0">
+                <name>'ETV5 shRNA' vs 'control shRNA' in 'tumour growth in mouse xenograft'</name>
+                <reference_assay_group>g4</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

@@ -1,0 +1,45 @@
+Creation Time:	2022-08-30 17:54:27
+
+INPUT:
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.15000000000000002
+threshold type:	proportion
+belief:	10
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	1
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	2973421875
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	1828
+Proportion perturbed genes:	0.14997128558536385
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.14193548387096774
+beta (FNR):	0.19516129032258064
+q (penalization parameter):	0.0007980845969672786
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-5412.884296912752 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	21	12	0.99866	0.0	1.539e+02	0.852	sister chromatid segregation
+2	20	11	0.9913	0.0	1.449e+02	0.586	calcium-independent cell-cell adhesion
+3	57	24	0.5581	0.0	1.377e+03	0.495	digestion
+4	70	29	0.38998	0.0	2.089e+03	0.764	collagen catabolic process
+5	21	10	0.00728	0.0	1.779e+02	0.936	neuron fate specification
+6	22	11	0.0069	0.0	1.879e+02	0.594	regulation of branching involved in ureteric bud morphogenesis

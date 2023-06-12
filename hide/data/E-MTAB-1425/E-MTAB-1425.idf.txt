@@ -1,0 +1,34 @@
+Comment[ArrayExpressAccession]	E-MTAB-1425				
+Investigation Title	MRCA expression				
+Comment[Submitted Name]	MRCA expression				
+Experiment Description	We have created a global map of the effects of polymorphism on gene expression in 400 children from families recruited through a proband with asthma. We genotyped 408,273 SNPs and identified expression quantitative trait loci from measurements of 54,675 transcripts representing 20,599 genes in Epstein-Barr virusﾡﾧCtransformed lymphoblastoid cell lines. We executed genome-wide association scans for these traits.				
+Experimental Design	disease state design				
+Experimental Design Term Accession Number	EFO_0001756				
+Experimental Design Term Source REF	EFO				
+Comment[AEExperimentType]	transcription profiling by array				
+Comment[AEExperimentDisplayName]	Transcription profiling by array of human lymphoblastoid cell lines derived from 400 children from families recruited through a proband with asthma				
+Experimental Factor Name	disease				
+Experimental Factor Type	disease				
+Experimental Factor Term Source REF	EFO				
+Experimental Factor Term Accession Number	EFO_0000408				
+Quality Control Type	biological_replicate				
+Public Release Date	2013-01-09				
+Person Last Name	Liang				
+Person First Name	Liming				
+Person Email	lliang@hsph.harvard.edu				
+Person Address	655 Huntington Ave, Boston, MA 02115				
+Person Affiliation	Harvard School of Public Health				
+Person Roles	submitter				
+Publication Author List	Liming Liang, Nilesh Morar, Anna L Dixon, G Mark Lathrop,Goncalo R Abecasis, Miriam F Moffatt, William OC Cookson				
+Publication Title	A cross-platform analysis of 14,177expression quantitative trait loci derived from lymphoblastoid cell lines				
+Publication Status	Genome Research 2013 Apr;23(4):716-26				
+PubMed ID	23345460				
+Publication DOI	10.1101/gr.142521.112				
+Protocol Name	P-MTAB-30401	P-MTAB-30402	P-MTAB-30403	P-AFFY-6	P-AFFY-2
+Protocol Type	growth protocol	nucleic acid extraction protocol	normalization data transformation protocol	array scanning and feature extraction protocol	labelling protocol
+Protocol Description	The transformation of the peripheral blood lymphocytes in all children in the panel was carried out by the European Collection of Cell Cultures. Previously transformed cryopreserved EBV cell lines were grown as 500-ml roller cultures. Once the log phase was reached, cells were pelleted, medium was discarded and a mixture of RLT buffer and β-mercaptoethanol was added. Pellets were vortexed to ensure thorough resuspension, after which they were frozen at -70.1oC and stored at -80.1oC.	RNA was extracted in batches using the RNeasy Maxi Kit, and quality and quantity of RNA were assessed.	RMA Express was used to normalize expression data	Affymetrix CEL analysis	Affymetrix in vitro transcription
+Protocol Term Accession Number	EFO_0003789	EFO_0002944	EFO_0003816	EFO_0003814	EFO_0003808
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO
+Term Source Name	ArrayExpress	EFO			
+Term Source File	http://www.ebi.ac.uk/arrayexpress	http://www.ebi.ac.uk/efo/			
+SDRF File	E-MTAB-1425.sdrf.txt				

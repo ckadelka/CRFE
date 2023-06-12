@@ -1,0 +1,84 @@
+E-CURD-45		SRR1656634	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656634	characteristic	individual	ICC6
+E-CURD-45		SRR1656634	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656634	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656634	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656634	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656635	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656635	characteristic	individual	ICC9
+E-CURD-45		SRR1656635	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656635	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656635	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656635	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656636	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656636	characteristic	individual	ICC11
+E-CURD-45		SRR1656636	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656636	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656636	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656636	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656637	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656637	characteristic	individual	ICC13
+E-CURD-45		SRR1656637	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656637	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656637	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656637	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656638	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656638	characteristic	individual	ICC15
+E-CURD-45		SRR1656638	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656638	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656638	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656638	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656639	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656639	characteristic	individual	ICC17
+E-CURD-45		SRR1656639	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656639	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656639	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656639	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656640	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656640	characteristic	individual	ICC23
+E-CURD-45		SRR1656640	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656640	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656640	characteristic	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656640	factor	sampling site	normal tissue adjacent to neoplasm
+E-CURD-45		SRR1656641	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656641	characteristic	individual	ICC8
+E-CURD-45		SRR1656641	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656641	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656641	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656641	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656642	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656642	characteristic	individual	ICC10
+E-CURD-45		SRR1656642	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656642	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656642	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656642	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656643	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656643	characteristic	individual	ICC12
+E-CURD-45		SRR1656643	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656643	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656643	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656643	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656644	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656644	characteristic	individual	ICC14
+E-CURD-45		SRR1656644	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656644	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656644	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656644	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656645	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656645	characteristic	individual	ICC16
+E-CURD-45		SRR1656645	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656645	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656645	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656645	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656646	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656646	characteristic	individual	ICC18
+E-CURD-45		SRR1656646	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656646	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656646	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656646	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656647	characteristic	disease	intrahepatic cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001961
+E-CURD-45		SRR1656647	characteristic	individual	ICC24
+E-CURD-45		SRR1656647	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-CURD-45		SRR1656647	characteristic	organism part	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+E-CURD-45		SRR1656647	characteristic	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
+E-CURD-45		SRR1656647	factor	sampling site	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616

@@ -1,0 +1,118 @@
+Creation Time:	2022-09-08 16:52:53
+
+INPUT:
+Annotations file:	data/GOhuman_ft_named.txt
+Gene file:	data/GSE87340_tumor_normal_log2fc-overexp.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	500
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.3
+threshold type:	proportion
+belief:	10
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	1
+burnin steps:	5000
+MCMC steps:	50000
+Maximal value for alpha and beta:	0.3548387096774194
+Maximal possible value for alpha and beta:	0.3548387096774194
+Probability parameter change:	0.2
+seed for RNG:	111913892
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2506
+Total number of genes:	12189
+Number of perturbed genes:	3657
+Proportion perturbed genes:	0.3000246123554024
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.2838709677419355
+beta (FNR):	0.3548387096774194
+q (penalization parameter):	0.007980845969672785
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-7778.640946260784 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Term Name
+1	97	54	1.0	0.0	3.261e+03	0.513	nucleosome assembly
+2	57	28	1.0	0.0	1.247e+03	0.495	digestion
+3	51	23	1.0	0.0	1.058e+03	0.59	O-glycan processing
+4	70	40	1.0	0.0	1.663e+03	0.764	collagen catabolic process
+5	102	56	0.98546	0.0	3.649e+03	0.42	cellular amino acid biosynthetic process
+6	25	17	0.94008	0.0	1.729e+02	0.543	regulation of mesonephros development
+7	40	19	0.9371	0.0	6.323e+02	0.592	endocrine pancreas development
+8	35	21	0.92452	0.0	3.997e+02	0.615	DNA strand elongation
+9	109	48	0.88292	0.0	4.853e+03	0.5	epidermis development
+10	21	15	0.8818	0.0	1.120e+02	0.852	sister chromatid segregation
+11	20	11	0.82484	0.0	1.449e+02	0.629	positive regulation of tissue remodeling
+12	25	13	0.81682	0.0	2.348e+02	0.404	tumor necrosis factor-mediated signaling pathway
+13	40	24	0.79974	0.0	5.205e+02	0.481	purine nucleobase metabolic process
+14	155	68	0.7882	0.0	9.800e+03	0.295	skeletal system development
+15	20	11	0.78386	0.0	1.449e+02	0.586	calcium-independent cell-cell adhesion
+16	87	35	0.76632	0.0	3.271e+03	0.064	neuropeptide signaling pathway
+17	111	49	0.72214	0.0	5.025e+03	0.334	carbohydrate catabolic process
+18	189	77	0.71578	0.0	1.519e+04	0.183	regulation of cell division
+19	38	17	0.53842	0.0	5.943e+02	0.082	peripheral nervous system development
+20	21	12	0.51502	0.0	1.539e+02	0.936	neuron fate specification
+21	114	44	0.33306	0.0	5.727e+03	0.151	embryonic organ morphogenesis
+22	31	18	0.3286	0.0	3.258e+02	0.211	central nervous system neuron development
+23	22	11	0.31652	0.0	1.879e+02	0.268	negative regulation of glial cell differentiation
+24	24	12	0.29836	0.0	2.228e+02	0.355	alditol metabolic process
+25	66	27	0.29824	0.0	1.872e+03	0.061	aminoglycan catabolic process
+26	120	54	0.28422	0.0	5.798e+03	0.337	regulation of nuclear division
+27	23	13	0.2274	0.0	1.859e+02	0.489	regulation of transcription involved in G1/S transition of mitotic cell cycle
+28	20	11	0.21998	0.0	1.449e+02	0.336	retinoic acid metabolic process
+29	36	15	0.1793	0.0	5.584e+02	0.373	neurogenesis
+30	23	12	0.17832	0.0	1.989e+02	0.29	glycerol ether metabolic process
+31	105	45	0.17416	0.0	4.580e+03	0.333	single-organism carbohydrate catabolic process
+32	37	18	0.14334	0.0	5.334e+02	0.317	carbohydrate derivative transport
+33	31	13	0.1319	0.0	4.146e+02	0.169	one-carbon metabolic process
+34	22	13	0.12004	0.0	1.629e+02	0.204	regulation of astrocyte differentiation
+35	36	17	0.10236	0.0	5.155e+02	0.439	DNA packaging
+36	20	9	0.06912	0.0	1.679e+02	0.166	establishment or maintenance of apical/basal cell polarity & establishment or maintenance of bipolar cell polarity
+37	34	19	0.0566	0.0	4.057e+02	0.484	base-excision repair
+38	30	12	0.05198	0.0	3.996e+02	0.153	midbrain development
+39	29	13	0.04772	0.0	3.487e+02	0.354	intermediate filament cytoskeleton organization
+40	44	22	0.0409	0.0	7.371e+02	0.36	glycolytic process
+41	32	18	0.03988	0.0	3.577e+02	0.383	dolichol-linked oligosaccharide biosynthetic process
+42	30	13	0.03922	0.0	3.806e+02	0.3	intermediate filament-based process
+43	53	28	0.03888	0.0	1.025e+03	0.191	monosaccharide biosynthetic process
+44	31	10	0.03674	0.0	4.774e+02	0.152	regulation of cell adhesion mediated by integrin
+45	31	11	0.0313	0.0	4.555e+02	0.126	response to nicotine
+46	55	26	0.02988	0.0	1.192e+03	0.355	keratinocyte differentiation
+47	26	11	0.02902	0.0	2.918e+02	0.132	positive regulation of tyrosine phosphorylation of Stat3 protein
+48	31	12	0.02774	0.0	4.345e+02	0.04	protein trimerization
+49	41	17	0.02032	0.0	7.241e+02	0.438	regulation of mitotic metaphase/anaphase transition & regulation of metaphase/anaphase transition of cell cycle
+50	26	9	0.0178	0.0	3.267e+02	0.131	pituitary gland development
+51	48	25	0.0176	0.0	8.509e+02	0.36	cellular modified amino acid biosynthetic process
+52	24	12	0.01574	0.0	2.228e+02	0.249	ether metabolic process
+53	44	19	0.01466	0.0	8.119e+02	0.088	regulation of glial cell differentiation
+54	28	15	0.01364	0.0	2.868e+02	0.83	keratinization
+55	21	10	0.01288	0.0	1.779e+02	0.339	positive regulation of release of cytochrome c from mitochondria
+56	37	12	0.01244	0.0	6.741e+02	0.158	pyrimidine-containing compound biosynthetic process
+57	30	12	0.01146	0.0	3.996e+02	0.041	regulation of organ formation
+58	69	23	0.01102	0.0	2.278e+03	0.232	tube closure
+59	22	8	0.00896	0.0	2.298e+02	-0.083	detection of mechanical stimulus involved in sensory perception
+60	26	9	0.00892	0.0	3.267e+02	0.274	ephrin receptor signaling pathway
+61	22	11	0.00848	0.0	1.879e+02	0.342	glycerol metabolic process
+62	34	14	0.00572	0.0	5.024e+02	0.436	mitotic spindle checkpoint
+63	22	9	0.00516	0.0	2.148e+02	0.323	mitotic DNA damage checkpoint
+64	21	7	0.00504	0.0	2.198e+02	-0.123	behavioral fear response & behavioral defense response
+65	32	18	0.003	0.0	3.577e+02	0.323	serine family amino acid metabolic process
+66	32	14	0.00296	0.0	4.296e+02	0.414	G2 DNA damage checkpoint
+67	79	31	0.00244	0.0	2.739e+03	0.226	biological phase
+68	31	11	0.00236	0.0	4.555e+02	0.098	embryonic forelimb morphogenesis
+69	39	14	0.00222	0.0	7.110e+02	0.121	forelimb morphogenesis
+70	38	11	0.00222	0.0	7.469e+02	0.092	hindlimb morphogenesis
+71	72	29	0.0019	0.0	2.245e+03	0.17	embryonic skeletal system morphogenesis
+72	33	13	0.00134	0.0	4.865e+02	0.16	positive regulation of mitosis
+73	45	19	0.0012	0.0	8.608e+02	0.252	'de novo' posttranslational protein folding
+74	29	10	0.00118	0.0	4.056e+02	0.158	pyrimidine nucleotide biosynthetic process
+75	28	11	0.0008	0.0	3.527e+02	0.136	interaction with symbiont
+76	28	11	0.00074	0.0	3.527e+02	0.426	positive regulation of DNA binding
+77	93	48	0.00068	0.0	3.188e+03	0.224	peptidyl-asparagine modification
+78	22	8	0.00048	0.0	2.298e+02	0.213	pyrimidine ribonucleoside biosynthetic process
+79	23	9	0.00034	0.0	2.408e+02	0.242	glutamate metabolic process

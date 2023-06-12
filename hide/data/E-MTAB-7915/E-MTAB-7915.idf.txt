@@ -1,0 +1,70 @@
+MAGE-TAB Version	1.1
+Investigation Title	PSC-IBD mucosal biology
+
+Experimental Design	case control design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO:0001427
+
+Experimental Factor Name	disease
+Experimental Factor Type	disease
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	EFO_0000408
+
+Person Last Name	Quraishi
+Person First Name	Mohammed Nabil
+Person Mid Initials
+Person Email	m.n.quraishi@bham.ac.uk
+Person Phone
+Person Fax
+Person Affiliation	University of Birmingham
+Person Address	Birmingham, UK
+Person Roles	submitter
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2018-04-12
+Public Release Date	2019-09-01
+
+PubMed ID
+Publication DOI
+Publication Author List
+Publication Title
+Publication Status
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	Comparative colonic mucosal transcriptomics of 10 patients with PSC-IBD, 10 UC and 10 Healthy controls
+
+Protocol Name	P-MTAB-85385	P-MTAB-85386	P-MTAB-85387	P-MTAB-85388
+Protocol Type	sample collection protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0005518	EFO_0002944	EFO_0004184	EFO_0004170
+Protocol Description	Colon biopsies collected in RNAlater	DNA/RNA Allprep	Clontech Stranded RNA-Seq library prep	NextSeq 550 75bpPE
+Protocol Parameters
+Protocol Hardware				NextSeq 550
+Protocol Software
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-7915.sdrf.txt
+Comment [Submitted Name]	PSC-IBD mucosal biology
+Comment [TemplateType]	Human - High-throughput sequencing
+Comment [SecondaryAccession]	ERP115036
+Comment [SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR3300727-ERR3300846
+Comment [AEExperimentType]	RNA-seq of coding RNA
+Comment[ArrayExpressAccession]	E-MTAB-7915

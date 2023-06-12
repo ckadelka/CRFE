@@ -1,0 +1,71 @@
+MAGE-TAB Version	1.1
+Investigation Title	RNA-sequencing of the mRNA transcriptome in lesional and non-lesional skin, across three time-points in severe psoriasis patients treated with the tumor necrosis factor (TNF) inhibitor, etanercept
+
+Experimental Design	time series design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO:0001779
+
+Experimental Factor Name	time	sampling site
+Experimental Factor Type	time	sampling site
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	EFO_0000721
+
+Person Last Name	Barnes	Foulkes
+Person First Name	Michael	Amy
+Person Mid Initials	R	C
+Person Email	m.r.barnes@qmul.ac.uk	amy.foulkes@manchester.ac.uk
+Person Phone
+Person Fax
+Person Affiliation	Queen Mary University of London	The University of Manchester
+Person Address	Centre for Translational Bioinformatics William Harvey Research Institute Barts and The London School of Medicine and Dentistry Queen Mary University of London John Vane Science Centre Charterhouse Square  London  EC1M 6BQ	The Dermatology Centre, Salford Royal NHS Foundation Trust, The University of Manchester, Manchester Academic Health Science Centre, M6 8HD, UK.
+Person Roles	investigator;submitter	investigator
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2017-07-07
+Public Release Date	2018-09-21
+
+PubMed ID
+Publication DOI
+Publication Author List	Amy C. Foulkes, David S. Watson, Daniel F. Carr, John G. Kenny, Tim Slidel, Richard Parslew, Munir Pirmohamed, The PSORT Consortium, Simon Anders, Nicholas J. Reynolds, Christopher E.M. Griffiths, Richard B. Warren and Michael R. Barnes
+Publication Title	A framework for multi-omic prediction of treatment response to biologic therapy for psoriasis
+Publication Status	submitted
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	Blood (mRNA and miRNA) and skin mRNA transcriptomes were investigated across three time-points in a pilot investigation of ten severe psoriasis patients, treated with the tumor necrosis factor (TNF) inhibitor, etanercept. We used illumina RNA-sequencing to analyse the small-RNA transcriptome in blood
+
+Protocol Name	P-MTAB-78688	P-MTAB-78687	P-MTAB-78686	P-MTAB-78685	P-MTAB-78684
+Protocol Type	normalization data transformation protocol	nucleic acid sequencing protocol	nucleic acid library construction protocol	nucleic acid extraction protocol	sample collection protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003816	EFO_0004170	EFO_0004184	EFO_0002944	EFO_0005518
+Protocol Description	Before conducting EDA or differential expression analysis, we remove probes with less than one count per million (CPM) in at least nine libraries. This ensures that every probe is expressed in at least one of our nine replicates per subject (three tissue types observed at three timepoints each). This threshold follows the filtering guidelines of Robinson et al. (2010). Counts are then TMM normalised prior to modelling (Robinson & Oshlack, 2010).	sequencing of mRNA extracted from skin samples was performed at GSK Stevenage using the Illumina HiSeq 2500 platform	Libraries were prepared with the TruSeq Stranded Total RNA Sample Preparation Kits. The first step involved removal of ribosomal RNA (rRNA), conducted using biotinylated Ribo-Zero rRNA removal beads. For RNA extracted from skin, the Ribo-Zero Gold kit was used to deplete samples of cytoplasmic and mitochondrial rRNA.	mRNA was extracted from skin biopsies using Qiagen Rneasy mini kits	Samples including lesional and non-lesional skin samples, were taken at each participant visit. Skin biopsies (6mm punch biopsies) were taken from lesional (edge of a plaque) and adjacent (minimum distance of 2cm) non-lesional skin from photoprotected sites on the lower back or upper buttock at each visit. Repeat biopsies were taken at a minimum distance of 2cm and biopsy sites were recorded.  The dose of etanercept for all included participants was: Etanercept subcutaneous administration 25mg twice weekly (administered either as 25mg twice weekly or 50mg once weekly).
+Protocol Parameters
+Protocol Hardware		Illumina HiSeq 2500
+Protocol Software
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-6556.sdrf.txt
+Comment [Submitted Name]	RNA-sequencing of the mRNA transcriptome in lesional and non-lesional skin, across three time-points in severe psoriasis patients treated with the tumor necrosis factor (TNF) inhibitor, etanercept
+Comment [SecondaryAccession]	ERP110816
+Comment [SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/ERR2788444-ERR2788623
+Comment [AEExperimentType]	RNA-seq of coding RNA
+Comment[ArrayExpressAccession]	E-MTAB-6556
+Comment [RelatedExperiment]	E-MTAB-6555
+Comment [RelatedExperiment]	E-MTAB-6428
