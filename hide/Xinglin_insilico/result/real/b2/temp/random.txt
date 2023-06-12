@@ -1,0 +1,4 @@
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Average position perturbed genes	Term Name
+1	23	14	0.00997	0.0299	1.718e+02	0.609	0.603	GO:0097028
+2	21	11	0.001	0.00301	1.658e+02	0.643	0.472	GO:0048710
+3	23	12	0.0002	0.00061	1.987e+02	0.579	0.455	GO:0034446

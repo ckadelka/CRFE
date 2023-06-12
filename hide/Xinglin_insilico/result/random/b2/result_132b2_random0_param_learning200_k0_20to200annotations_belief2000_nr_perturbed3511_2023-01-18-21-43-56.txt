@@ -1,0 +1,70 @@
+Creation Time:	2023-01-18 21:43:56
+
+INPUT:
+File name:	crfe_v019_b2.py
+Annotations file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human_anno.txt
+Gene file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/random/random5.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	200
+k (number of perturbed categories):	0 (i.e., each perturbed gene in its own category)
+threshold:	0.3
+threshold type:	proportion
+belief:	2.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	25000
+MCMC steps:	25000
+Maximal value for alpha and beta:	0.375
+Maximal possible value for alpha and beta:	0.375
+Probability parameter change:	0.2
+seed for RNG:	1734491589
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2291
+Total number of genes:	11704
+Number of perturbed genes:	3511
+Proportion perturbed genes:	0.2999829118250171
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.3
+beta (FNR):	0.375
+q (penalization parameter):	0.001 (fixed)
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-7219.02670326015 +- 0.0
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Average position perturbed genes	Term Name
+1	20	11	0.00975	0.02926	1.449e+02	0.634	0.449	GO:0042744
+2	22	11	0.00852	0.02094	1.879e+02	0.663	0.305	GO:0045909
+3	29	16	0.00652	0.01957	2.998e+02	0.606	0.464	GO:0042743
+4	20	11	0.00499	0.0148	1.449e+02	0.627	0.403	GO:0031497
+5	21	12	0.00344	0.01033	1.539e+02	0.622	0.584	GO:0050832
+6	25	12	0.00286	0.00859	2.488e+02	0.626	0.459	GO:0006611
+7	20	11	0.00171	0.00512	1.449e+02	0.623	0.652	GO:0031640
+8	20	10	0.00164	0.00491	1.559e+02	0.61	0.546	GO:0007220
+9	22	11	0.00151	0.00452	1.879e+02	0.645	0.374	GO:0008207
+10	26	11	0.00068	0.00205	2.917e+02	0.536	0.404	GO:0034504
+11	28	15	0.00059	0.00176	2.868e+02	0.625	0.485	GO:2001238
+12	57	27	0.00042	0.00126	1.278e+03	0.572	0.507	GO:0007254
+13	25	11	0.00027	0.0008	2.638e+02	0.644	0.471	GO:0001958
+14	26	14	0.00025	0.00074	2.468e+02	0.594	0.527	GO:0000188
+15	21	8	0.00024	0.00072	2.048e+02	0.501	0.624	GO:0006342
+16	33	15	0.00022	0.00067	4.455e+02	0.565	0.505	GO:0009620
+17	20	7	0.00018	0.00055	1.948e+02	0.534	0.561	GO:0031102
+18	21	11	0.00014	0.00029	1.659e+02	0.564	0.469	GO:0001662
+19	25	9	0.00013	0.00038	2.967e+02	0.504	0.422	GO:0000038
+20	42	16	9e-05	0.00026	7.968e+02	0.534	0.366	GO:0007249
+21	24	11	8e-05	0.00024	2.368e+02	0.527	0.604	GO:0035162
+22	23	9	8e-05	0.00023	2.408e+02	0.555	0.447	GO:0090207
+23	44	16	6e-05	0.00018	8.956e+02	0.52	0.452	GO:0000018
+24	20	5	5e-05	0.00014	2.258e+02	0.462	0.269	GO:0048546
+25	20	7	5e-05	0.00014	1.948e+02	0.546	0.583	GO:0050892
+26	22	10	3e-05	0.0001	2.009e+02	0.571	0.572	GO:0043330
+27	23	8	3e-05	0.0001	2.568e+02	0.517	0.542	GO:0045661
+28	23	9	3e-05	8e-05	2.408e+02	0.628	0.429	GO:1900449
+29	32	12	2e-05	6e-05	4.705e+02	0.558	0.52	GO:0050732
+30	22	9	1e-05	2e-05	2.148e+02	0.485	0.498	GO:0043567

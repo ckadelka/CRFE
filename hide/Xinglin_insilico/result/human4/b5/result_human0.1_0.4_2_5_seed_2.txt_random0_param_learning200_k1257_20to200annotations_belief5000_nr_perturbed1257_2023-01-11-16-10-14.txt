@@ -1,0 +1,47 @@
+Creation Time:	2023-01-11 16:10:14
+
+INPUT:
+File name:	crfe_v019_b5copy.py
+Annotations file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human_anno.txt
+Gene file:	/Users/JasonJia/Desktop/CRFE/Xinglin_insilico/data/human4/human0.1_0.4_2_5_seed_2.txt
+lower limit annotations/process:	20
+upper limit annotations/process:	200
+k (number of perturbed categories):	1257
+threshold:	0
+threshold type:	levels
+belief:	5.0
+Method:	MCMC with parameter learning with an empty set as initial set
+repeats:	10
+burnin steps:	10000
+MCMC steps:	20000
+Maximal value for alpha and beta:	0.3
+Maximal possible value for alpha and beta:	0.3
+Probability parameter change:	0.2
+seed for RNG:	699867702
+
+Initial set of processes:
+Empty set
+
+INPUT ANALYSIS:
+Total number of processes:	2291
+Total number of genes:	11704
+Number of perturbed genes:	1257
+Proportion perturbed genes:	0.10739917976760081
+
+OUTPUT:
+Learnt parameters:
+alpha (FPR):	0.105
+beta (FNR):	0.3
+q (penalization parameter):	0.001 (fixed)
+
+
+Best log-likelihood value (mean +- standard deviation across replicates):	-3976.6167732515946 +- 1.3517725270358216
+
+Order	#(Annotations)	#(Annotations of perturbed genes)	Mean Posterior Probability	Standard Deviation Posterior Probability	p-value	Average Expression Level	Average position perturbed genes	Term Name
+1	66	36	0.99881	0.00357	1.544e+03	0.01	0.418	GO:0007043
+2	58	38	0.98956	0.03131	9.701e+02	0.173	0.456	GO:0010955
+3	40	23	0.91364	0.15093	5.446e+02	0.008	0.455	GO:0006383
+4	20	14	0.74005	0.32718	1.060e+02	0.19	0.479	GO:0030902
+5	40	20	0.64401	0.29822	6.105e+02	-0.098	0.599	GO:0006953
+6	32	17	0.07186	0.2156	3.757e+02	-0.038	0.484	GO:0070830
+7	42	27	0.0291	0.06103	5.256e+02	0.141	0.484	GO:0045861
