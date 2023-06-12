@@ -3,6 +3,7 @@ described in C. Kadelka, M. Brandon, T. M. Murali, Concise Functional Enrichment
 of Ranked Gene Lists. 
 See www.math.vt.edu/people/claus89/crfe/ for help.'''
 
+#v021:  cleaned up version
 #v019:  re-added the possibility of specifying alpha and beta and not learning them during the MCMC by setting proportion_parameter_change=0
 #       modified alpha_beta_max so that the highest false rate <= 0.5, that is alpha, beta <= (1+b)/(4b)
 #v018:  added an additional column (mean position of perturbed genes) in output file
@@ -44,10 +45,12 @@ class CRFE:
                  seed=-1, max_belief=10, B=10,
                  LEARN_BELIEF=False,LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=False,alpha=0.1,beta=0.25):        
         self.repeats = repeats
-        self.nr_categories = nr_categories
+        #self.nr_categories = nr_categories
         self.lower_cutoff = lower_cutoff
         self.upper_cutoff = upper_cutoff
         self.belief = belief
+        self.belief_alpha = belief
+        self.belief_beta = belief
         self.initial_belief = belief
         self.threshold=threshold
         self.threshold_type=threshold_type
@@ -69,8 +72,8 @@ class CRFE:
         self.penalization_parameter = penalization_parameter
         self.GET_INFO_ON_CURRENT_SETS = GET_INFO_ON_CURRENT_SETS
         
-        self.alpha = alpha #this will be reset by self.initialize if proportion_parameter_change > 0
-        self.beta = beta #this will be reset by self.initialize if proportion_parameter_change > 0
+        self.alpha = alpha #this will be reset to closest allowable alpha by self.initialize if proportion_parameter_change > 0
+        self.beta = beta #this will be reset to closest allowable beta by self.initialize if proportion_parameter_change > 0
         
         self.show_genes_in_output=False
         
@@ -98,98 +101,80 @@ class CRFE:
         n = data.shape[0]
         if data.shape[1]==1: #add fake levels if none are provided
             data['level'] = np.arange(n-1,-1,-1)/(n-1)
-            self.NO_LEVEL_LIST_PROVIDED = True
         else:
             data = data.sort_values(by=[data.columns[1]],ascending=False)
-            self.NO_LEVEL_LIST_PROVIDED = False
         self.level_list = np.array(data.iloc[:,1],dtype=float)
         self.genes_list = np.array(data.iloc[:,0])            
 
-    def find_min_level_of_activation(self,threshold):
-        nr_active=int(round(self.n_genes*float(threshold)))
-        assert nr_active>0
-        counter=0
-        for i in range(len(self.genes_list)):
-            try:
-                self.dict_genes_list_in_unique_genes[i]
-                counter+=1
-                if counter>=nr_active:
-                    return self.level_list[i]
-            except KeyError:
-                pass
-        return self.level_list[-1]
+    # def find_min_level_of_activation(self,threshold):
+    #     nr_active=int(round(self.n_genes*float(threshold)))
+    #     assert nr_active>0
+    #     counter=0
+    #     for i in range(len(self.genes_list)):
+    #         try:
+    #             self.dict_genes_list_in_unique_genes[i]
+    #             counter+=1
+    #             if counter>=nr_active:
+    #                 return self.level_list[i]
+    #         except KeyError:
+    #             pass
+    #     return self.level_list[-1]
 
-    def get_list_of_active_categories(self):
-        """Create list of active categories, where each active category consists of indices to self.unique_genes"""
+    # def get_list_of_active_categories(self):
+    #     """Create list of active categories, where each active category consists of indices to self.unique_genes"""
         
-        self.G=[]
-        self.dict_G = dict()
-        if self.threshold_type == 'levels':
-            all_levels = np.array(list(set(self.levels)))
-            all_levels_greater_or_equal_threshold = all_levels[all_levels>=self.threshold]
-            try:
-                assert self.nr_categories == len(all_levels_greater_or_equal_threshold)
-            except AssertionError:
-                print('\n!!! Warning:\nThe chosen number of active categories (%i) is different from the number of different levels >= %f in the expression data (%i). Number of active categories set to %i\n' % (self.nr_categories, self.threshold, len(all_levels_greater_or_equal_threshold), len(all_levels_greater_or_equal_threshold)))
-                self.nr_categories = len(all_levels_greater_or_equal_threshold)
+    #     self.G=[]
+    #     self.dict_G = dict()
+    #     if self.threshold_type == 'levels':
+    #         all_levels = np.array(list(set(self.levels)))
+    #         all_levels_greater_or_equal_threshold = all_levels[all_levels>=self.threshold]
+    #         try:
+    #             assert self.nr_categories == len(all_levels_greater_or_equal_threshold)
+    #         except AssertionError:
+    #             print('\n!!! Warning:\nThe chosen number of active categories (%i) is different from the number of different levels >= %f in the expression data (%i). Number of active categories set to %i\n' % (self.nr_categories, self.threshold, len(all_levels_greater_or_equal_threshold), len(all_levels_greater_or_equal_threshold)))
+    #             self.nr_categories = len(all_levels_greater_or_equal_threshold)
                 
-            all_levels_greater_or_equal_threshold = np.sort(all_levels_greater_or_equal_threshold)[::-1]
-            for i,level in enumerate(all_levels_greater_or_equal_threshold):
-                indices = np.where(self.levels==level)[0]
-                self.dict_G.update(zip(indices,i*np.ones(len(indices),dtype=int)))
-                self.G.append(set(indices))
-            indices = np.where(self.levels<self.threshold)[0]
-            self.G.append(set(indices))
-            #self.dict_G.update(zip(indices,self.nr_categories*np.ones(len(indices),dtype=int)))
+    #         all_levels_greater_or_equal_threshold = np.sort(all_levels_greater_or_equal_threshold)[::-1]
+    #         for i,level in enumerate(all_levels_greater_or_equal_threshold):
+    #             indices = np.where(self.levels==level)[0]
+    #             self.dict_G.update(zip(indices,i*np.ones(len(indices),dtype=int)))
+    #             self.G.append(set(indices))
+    #         indices = np.where(self.levels<self.threshold)[0]
+    #         self.G.append(set(indices))
+    #         #self.dict_G.update(zip(indices,self.nr_categories*np.ones(len(indices),dtype=int)))
             
-        elif self.nr_categories==0: #Singleton: self.nr_categories really is len(bounds)-2 in this case as well
-            indices_sorted_by_level_ascending = np.argsort(self.levels)
-            nr_above_threshold = sum(self.levels>=self.threshold_for_activation) 
-            for i,ind in enumerate(indices_sorted_by_level_ascending[:(-1*nr_above_threshold-1):-1]):
-                self.G.append(set([ind]))
-                self.dict_G.update({ind:i})
-            self.G.append(set(indices_sorted_by_level_ascending[:-1*nr_above_threshold]))
+    #     elif self.nr_categories==0: #Singleton: self.nr_categories really is len(bounds)-2 in this case as well
+    #         indices_sorted_by_level_ascending = np.argsort(self.levels)
+    #         nr_above_threshold = sum(self.levels>=self.threshold_for_activation) 
+    #         for i,ind in enumerate(indices_sorted_by_level_ascending[:(-1*nr_above_threshold-1):-1]):
+    #             self.G.append(set([ind]))
+    #             self.dict_G.update({ind:i})
+    #         self.G.append(set(indices_sorted_by_level_ascending[:-1*nr_above_threshold]))
 
-        else:
-            indices_sorted_by_level_descending = np.argsort(self.levels)[::-1]
-            nr_above_threshold = sum(self.levels>=self.threshold_for_activation)
-            size_per_category=nr_above_threshold/self.nr_categories
-            for i in range(self.nr_categories):
-                indices = indices_sorted_by_level_descending[int(round(size_per_category*i)):int(round(size_per_category*(i+1)))]
-                self.dict_G.update(zip(indices,i*np.ones(len(indices),dtype=int)))
-                self.G.append(set(indices))
-            indices = indices_sorted_by_level_descending[nr_above_threshold:]
-            self.G.append(set(indices))
-            #self.dict_G.update(zip(indices,self.nr_categories*np.ones(len(indices),dtype=int)))
+    #     else:
+    #         indices_sorted_by_level_descending = np.argsort(self.levels)[::-1]
+    #         nr_above_threshold = sum(self.levels>=self.threshold_for_activation)
+    #         size_per_category=nr_above_threshold/self.nr_categories
+    #         for i in range(self.nr_categories):
+    #             indices = indices_sorted_by_level_descending[int(round(size_per_category*i)):int(round(size_per_category*(i+1)))]
+    #             self.dict_G.update(zip(indices,i*np.ones(len(indices),dtype=int)))
+    #             self.G.append(set(indices))
+    #         indices = indices_sorted_by_level_descending[nr_above_threshold:]
+    #         self.G.append(set(indices))
+    #         #self.dict_G.update(zip(indices,self.nr_categories*np.ones(len(indices),dtype=int)))
     
-        self.Sn_max=self.n_genes  
+    #     self.Sn_max=self.n_genes  
 
     #################################
     ###  Basic Algorirthm Methods ###
     #################################
                      
-    def get_specific_rates(self, falserate):
+    def get_specific_rates(self, falserate, number, belief):
         '''This function is used to find the category-specific FPRs (alpha_i) or FNRs (beta_i). 
         Falserate is the desired overall value of alpha or beta'''
-        G_lengths = list(map(len,self.G))
         
-        s=self.nr_categories
-        if s==0:
-            s=self.n_perturbed_genes
-        if s==1:
-            return np.array([falserate])
-        
-        #Weighted by cardinality and belief
-        if self.nr_categories>0: #FIXED error in formula, 32d_web and later
-            summe=0
-            for i in range(s):
-                summe += (s-1-i+self.belief*i)*G_lengths[i]
-            rates = np.array([falserate*(s-1)*self.n_perturbed_genes*1./summe])
-        else: #For singleton case, a simpler formula suffices since G_lengths[i]==1 for all i
-            rates = np.array([2.*falserate/(self.belief+1)])
-        for i in range(1,s): #Once rates[0] is found, multiply by linearly increasing constant to get rates[1],...,rates[s-1]
-            rates = np.append(rates,rates[0]*((self.belief-1)*1.*i/(s-1)+ 1))
-        return rates
+        falserate0 = 2.*falserate/(belief+1)
+        return np.linspace(falserate0,belief*falserate0,number)
 
     #################################
     ###         MCMC Code         ###
@@ -1250,11 +1235,9 @@ if __name__ == '__main__':
     repeats=1
     threshold=0.3
     annotation_file = 'data/GOhuman_named.txt'
-    annotation_file = 'data/GOhuman_propagate_named.txt'
     #gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
-    #gene_file = 'data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt'
     gene_file = 'data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt'
-    identifier = 'asdasdacccx'
+    identifier = 'real_an'
     
     m = CRFE(repeats, nr_categories, lower_cutoff, upper_cutoff, belief, 
                                         threshold, 'proportion', burnin, steps, 1,0,20,20, gene_file,
@@ -1274,7 +1257,7 @@ if __name__ == '__main__':
                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)    
     
-X = set(range(m.n_genes)) - set(list(m.G[-1]))#set(m.unique_genes[:m.n_perturbed_genes])
+X = set(range(m.n_genes)) - set(list(map(lambda x: ,m.G[-1])#set(m.unique_genes[:m.n_perturbed_genes])
 len_X = len(X)
 U = set(range(m.n_perturbed_genes,m.n_genes))#set(m.unique_genes[m.n_perturbed_genes:])
 len_U = len(U)
