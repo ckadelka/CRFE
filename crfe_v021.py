@@ -1,9 +1,8 @@
 '''This program implements the functional enrichment method CRFE,
-described in C. Kadelka, M. Brandon, T. M. Murali, Concise Functional Enrichment
-of Ranked Gene Lists. 
-See www.math.vt.edu/people/claus89/crfe/ for help.'''
+described in X. Jia, A. Phan, C. Kadelka, Concise Functional Enrichment
+of Ranked Gene Lists.'''
 
-#v021:  cleaned up version, deleted nr_categories from argument list (always nr_categories==0, which leads to 2x speed up)
+#v021 = CRFE:  cleaned up version, deleted nr_categories from argument list (always nr_categories==0, which leads to 2x speed up)
 #v019:  re-added the possibility of specifying alpha and beta and not learning them during the MCMC by setting proportion_parameter_change=0
 #       modified alpha_beta_max so that the highest false rate <= 0.5, that is alpha, beta <= (1+b)/(4b)
 #v018:  added an additional column (mean position of perturbed genes) in output file
@@ -40,9 +39,9 @@ class CRFE:
     
     def __init__(self, repeats, lower_cutoff, upper_cutoff, belief, 
                  threshold, threshold_type, burnin_steps, MCMC_steps, 
-                 alpha_beta_max, proportion_parameter_change, A, P, 
+                 alpha_beta_max, proportion_parameter_change, number_different_false_rates, number_different_penalizations, 
                  gene_file, annotations_file, output_folder, out_str='', 
-                 seed=-1, max_belief=10, B=10,
+                 seed=-1, number_different_beliefs=10, max_belief=10,
                  LEARN_BELIEF=False,LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=False,alpha=0.1,beta=0.25):        
         self.repeats = repeats
         self.lower_cutoff = lower_cutoff
@@ -57,15 +56,15 @@ class CRFE:
         self.MCMC_steps = MCMC_steps
         self.alpha_beta_max = alpha_beta_max
         self.proportion_parameter_change=proportion_parameter_change
-        self.A = A
-        self.P = P
-        self.B = B
+        self.number_different_false_rates = number_different_false_rates
+        self.number_different_penalizations = number_different_penalizations
         self.max_belief = max_belief #set max_belief == belief == 1 if you want to run MGSA as it was published. If max_belief > belief, then the max false rate is lower than it can be
         self.gene_file = gene_file
         self.annotations_file = annotations_file
         self.out_str = out_str
         self.output_folder = output_folder
         self.seed=seed
+        self.number_different_beliefs=number_different_beliefs
         self.LEARN_BELIEF = LEARN_BELIEF
         self.LEARN_PENALIZATION_PARAMETER = LEARN_PENALIZATION_PARAMETER
         self.penalization_parameter = penalization_parameter
@@ -138,7 +137,7 @@ class CRFE:
                     #learn self.penalization_parameter every time because it is easy
                     self.old_nr_penalization_parameter=self.nr_penalization_parameter
                     self.old_penalization_parameter=self.penalization_parameter
-                    self.nr_penalization_parameter=min(max(1,self.number_of_selected_terms),self.P)	
+                    self.nr_penalization_parameter=min(max(1,self.number_of_selected_terms),self.number_different_penalizations)	
                     self.penalization_parameter=self.nr_penalization_parameter*1./self.n_terms
             else: #switch two terms
                 proposal -= self.n_terms
@@ -155,7 +154,7 @@ class CRFE:
             if r < self.proportion_parameter_change/3 and self.LEARN_BELIEF or r < self.proportion_parameter_change/2 and self.LEARN_BELIEF==False: #change alpha
                 self.old_nr_alpha = self.nr_alpha
                 self.old_NP_log_alpha = self.NP_log_alpha
-                self.nr_alpha=int(random.random()*self.A)
+                self.nr_alpha=int(random.random()*self.number_different_false_rates)
                 self.alpha = self.possible_values_for_alpha_and_beta[self.nr_alpha]
                 self.log_alphas=self.possible_log_alphas[self.nr_belief][self.nr_alpha]
                 self.NP_log_alpha = np.sum(self.log_alphas[self.n_annotations_per_perturbed_gene==0])
@@ -163,7 +162,7 @@ class CRFE:
             elif self.LEARN_BELIEF==False or r < self.proportion_parameter_change*2/3: #change beta
                 self.old_nr_beta = self.nr_beta
                 self.old_EP_log_1_minus_beta=self.EP_log_1_minus_beta
-                self.nr_beta=int(random.random()*self.A)
+                self.nr_beta=int(random.random()*self.number_different_false_rates)
                 self.beta = self.possible_values_for_alpha_and_beta[self.nr_beta]
                 self.log_1_m_betas=self.possible_log_1_minus_betas[self.nr_belief][self.nr_beta]
                 self.EP_log_1_minus_beta = np.dot(self.log_1_m_betas,self.n_annotations_per_perturbed_gene)
@@ -172,7 +171,7 @@ class CRFE:
                 self.old_nr_belief = self.nr_belief
                 self.old_EP_log_1_minus_beta=self.EP_log_1_minus_beta
                 self.old_NP_log_alpha = self.NP_log_alpha
-                self.nr_belief=int(random.random()*self.B)
+                self.nr_belief=int(random.random()*self.number_different_beliefs)
                 self.belief = self.possible_values_for_belief[self.nr_belief]
                 self.log_alphas=self.possible_log_alphas[self.nr_belief][self.nr_alpha]
                 self.log_1_m_betas=self.possible_log_1_minus_betas[self.nr_belief][self.nr_beta]             
@@ -301,21 +300,24 @@ class CRFE:
         if self.proportion_parameter_change>0:
             self.alpha_beta_max_upperbound = (1+self.max_belief) / (4*self.max_belief)
             if self.alpha_beta_max<=self.alpha_beta_max_upperbound:
-                self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max,self.A+1)[1:])
+                self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max,self.number_different_false_rates+1)[1:])
             else:
                 #self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max_upperbound,self.A+2)[1:-1]), old line, changed 2022/8/30
                 print('\n!!! Warning:\nThe chosen upper bound (%f) for alpha and beta, the FPR and FNR, is higher than the maximal possible upper bound (%f) so that genes annotated to activated terms are never penalized more than those not annotated to activated terms (i.e. need to ensure 1-beta_k > alpha). Upper bound set to %f\n' % (self.alpha_beta_max,self.alpha_beta_max_upperbound,self.alpha_beta_max_upperbound))
                 self.alpha_beta_max = self.alpha_beta_max_upperbound
-                self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max,self.A+1)[1:])
+                self.possible_values_for_alpha_and_beta = list(np.linspace(0,self.alpha_beta_max,self.number_different_false_rates+1)[1:])
             #every time alpha or beta are changed, comparison to the following number ensures that no perturbed annotated gene is penalized more than an unperturbed, and vice versa for unperturbed not-annotated genes
             #self.max_nr_alpha_plus_nr_beta = int(self.alpha_beta_max_upperbound//self.possible_values_for_alpha_and_beta[0]-2) 
-
-            self.possible_values_for_belief = list(np.linspace(1,self.max_belief,self.B))
+            
+            if self.number_different_beliefs>1:
+                self.possible_values_for_belief = list(np.linspace(1,self.max_belief,self.number_different_beliefs))
+            else:
+                self.possible_values_for_belief = [self.initial_belief]
             
             self.possible_log_alphas = []
             self.possible_log_1_minus_betas = []
-            for i in range(self.B):
-                possible_alphas_and_betas=np.array([self.get_specific_rates(self.possible_values_for_alpha_and_beta[i],self.n_perturbed_genes,self.belief) for i in range(self.A)])
+            for i in range(self.number_different_false_rates):
+                possible_alphas_and_betas=np.array([self.get_specific_rates(self.possible_values_for_alpha_and_beta[i],self.n_perturbed_genes,self.belief) for i in range(self.number_different_false_rates)])
                 self.possible_log_alphas.append( [np.array(el) for el in np.log(possible_alphas_and_betas)])
                 self.possible_log_1_minus_betas.append( [np.array(el) for el in np.log(1-possible_alphas_and_betas)] )
                 
@@ -333,8 +335,8 @@ class CRFE:
             self.log_1_m_betas = [math.log(1-el) for el in betas]
 
         if self.LEARN_PENALIZATION_PARAMETER:
-            self.penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)*1./self.n_terms
-            self.nr_penalization_parameter=min(max(len(initial_set_of_terms),1),self.P)-1
+            self.penalization_parameter=min(max(len(initial_set_of_terms),1),self.number_different_penalizations)*1./self.n_terms
+            self.nr_penalization_parameter=min(max(len(initial_set_of_terms),1),self.number_different_penalizations)-1
         
         #this list keeps track of which terms are currently selected (the first self.number_of_selected_terms)
         self.internal_list_of_terms_for_MCMC=list(range(self.n_terms))
@@ -368,10 +370,10 @@ class CRFE:
         
         self.step=1
         total_steps=self.burnin_steps + self.MCMC_steps
-        alpha_count = [0]*self.A
-        beta_count = [0]*self.A
-        penalization_parameter_count = [0]*self.P
-        belief_count = [0]*self.B
+        alpha_count = [0]*self.number_different_false_rates
+        beta_count = [0]*self.number_different_false_rates
+        penalization_parameter_count = [0]*self.number_different_penalizations
+        belief_count = [0]*self.number_different_false_rates
 
         neighborhood_size = self.n_terms + self.number_of_unselected_terms * self.number_of_selected_terms
         
@@ -438,7 +440,7 @@ class CRFE:
         if self.proportion_parameter_change>0:            
             hist_alpha=([a*1./self.MCMC_steps for a in alpha_count],self.possible_values_for_alpha_and_beta)
             hist_beta=([b*1./self.MCMC_steps for b in beta_count],self.possible_values_for_alpha_and_beta)
-            hist_prob=([p*1./self.MCMC_steps for p in penalization_parameter_count],range(1,self.P+1))
+            hist_prob=([p*1./self.MCMC_steps for p in penalization_parameter_count],range(1,self.number_different_penalizations+1))
             hist_belief=([b*1./self.MCMC_steps for b in belief_count],self.possible_values_for_belief)
                               
         if self.proportion_parameter_change>0:
@@ -653,8 +655,8 @@ class CRFE:
         #remove terms that have too many or too little annotations
         self.delete_too_large_and_too_small_terms()
         self.n_terms = len(self.T)
-        if self.P>0.5*self.n_terms:
-            self.P = int(np.floor(0.5*self.n_terms))
+        if self.number_different_penalizations>0.5*self.n_terms:
+            self.number_different_penalizations = int(np.floor(0.5*self.n_terms))
         #remove genes that are no longer annotated by any term
         self.remove_genes_not_annotated_to_any_term(verbose)
         
@@ -962,7 +964,7 @@ class CRFE:
                                                 
         self.writeOut(filename, initial_set_of_terms, np.mean(max_scores), np.std(max_scores), enriched, ps, mean_gene_level, mean_position_perturbed_genes, method, avg_posteriors, std_posteriors)
         if self.proportion_parameter_change>0:        
-            self.writeOut_MCMC(filename, learned_params, [mean_hist_alphas,self.possible_values_for_alpha_and_beta],[mean_hist_betas,self.possible_values_for_alpha_and_beta],[mean_hist_beliefs,self.possible_values_for_belief],[mean_hist_probs,np.arange(1,self.P+1)])
+            self.writeOut_MCMC(filename, learned_params, [mean_hist_alphas,self.possible_values_for_alpha_and_beta],[mean_hist_betas,self.possible_values_for_alpha_and_beta],[mean_hist_beliefs,self.possible_values_for_belief],[mean_hist_probs,np.arange(1,self.number_different_penalizations+1)])
 
         if verbose:
             print('Checkpoint E, passed time',time.time()-start)    
@@ -980,22 +982,22 @@ def main():
     '''
         This kicks off the process and parses the options from the arguments.
     '''
-    p = optparse.OptionParser('This program implements the functional enrichment method CRFE, described in C Kadelka, M Brandon, TM Murali, Concise Functional Enrichment of Ranked Gene Lists. See www.math.vt.edu/people/claus89/crfe/ for help.')
+    p = optparse.OptionParser('This program implements the functional enrichment method CRFE, described in X Jia, A Phan, C Kadelka, Concise Functional Enrichment of Ranked Gene Lists.')
             
-    p.add_option('--annotations_file', '-a', default='human-taxon-id-gene2go-with-annotation-status-closed-bioprocess-only.csv', help='Annotation data (csv or txt). Each row contains the term name followed by a tab, followed by all annotated genes separated by space. No header!')        
-    p.add_option('--gene_file', '-g', default='bkz_gene_list.csv', help='Expression data (csv or txt). Each row contains the gene name, optionally followed by tab plus expression level. No header!')
+    p.add_option('--annotations_file', '-a', default='data/GOhuman_propagate_named.txt', help='Annotation data (csv or txt). Each row contains the term name followed by a tab, followed by all annotated genes separated by space. No header!')        
+    p.add_option('--gene_file', '-g', default='data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt', help='Expression data (csv or txt). Each row contains the gene name, optionally followed by tab plus expression level. No header!')
     p.add_option('--threshold', '-t', default='0.3', help='If threshold_type==proportion, this describes the proportion of genes considered perturbed, otherwise it describes the threshold in the expression values to be used (default 0.3)')
     p.add_option('--threshold_type', '-T', default='proportion', help="Whether threshold should be interpreted as 1. a value, 2. proportion ('proportion') of perturbed genes, or 3. different levels of genes already provided in the expression data ('levels'), (default proportion)")
-    p.add_option('--lower_cutoff', '-c', default ='20', help='Only terms with at least this many annotations are considered (default 5)')
-    p.add_option('--upper_cutoff', '-C', default ='200', help='Only terms with at most this many annotations are considered. Use 0 to excluded an upper cutoff (default 200).')
+    p.add_option('--lower_cutoff', '-c', default ='20', help='Only terms with at least this many annotations are considered (default 20)')
+    p.add_option('--upper_cutoff', '-C', default ='500', help='Only terms with at most this many annotations are considered. Use 0 to excluded an upper cutoff (default 500).')
     p.add_option('--belief', '-b', default='5', help='Belief for how much more active the highest gene set is compared to the least active gene set (default 5)')
 
     p.add_option('--repeats', '-n', default='1', help='Number of independent repeats of CRFE (default 1).')
-    p.add_option('--burnin_steps', '-s', default = '100000', help='Length of (unrecorded) burnin period of MCMC simulation. Used to initialize the Markov chain (default 100000)')
-    p.add_option('--MCMC_steps', '-S', default = '1000000', help='Length of (recorded) steps in the MCMC simulation after the (unrecorded) burnin period (default 1000000)')
-    p.add_option('--alpha_beta_max', '-x', default = '1', help='Maximal value for the false positive and false negative rate that can be learned (default 1). Should not be changed. CRFE already automatically chooses the false poositive and negative rates such that (i) an explained perturbed gene is never penalized more than an unexplained perturbed gene, and that (ii) an unexplained unperturbed gene is never penalized more than an explained unperturbed gene.')   
-    p.add_option('--diff_alpha_beta', '-X', default = '20', help='Number of different possible values for the false positive and false negative rate (default 20).')
-    p.add_option('--diff_q', '-Q', default = '20', help='Number of different possible values for the term size penalization parameter q (default 20)')
+    p.add_option('--burnin_steps', '-s', default = '50000', help='Length of (unrecorded) burnin period of MCMC simulation. Used to initialize the Markov chain (default 50000)')
+    p.add_option('--MCMC_steps', '-S', default = '50000', help='Length of (recorded) steps in the MCMC simulation after the (unrecorded) burnin period (default 50000)')
+    p.add_option('--alpha_beta_max', '-x', default = '0.5', help='Maximal value for the false positive and false negative rate that can be learned (default 0.5). Should not be changed. CRFE already automatically chooses the false poositive and negative rates such that (i) an explained perturbed gene is never penalized more than an unexplained perturbed gene, and that (ii) an unexplained unperturbed gene is never penalized more than an explained unperturbed gene.')   
+    p.add_option('--number_different_false_rates', '-X', default = '20', help='Number of different possible values for the false positive and false negative rate (default 20).')
+    p.add_option('--number_different_penalizations', '-Q', default = '20', help='Number of different possible values for the term size penalization parameter q (default 20)')
     p.add_option('--probability_parameter_change', '-p', default = '0.2', help='Proportion of time parameters are changed in MCMC (default 0.2), if 0 no parameters are being learnt.')       
     p.add_option('--parameter_initial_MCMC_set','-r', default='0', help='When nonzero, the algorithm does not start with an empty set. If r>=1, r random processes are chosen, if 0<r<1, each process is in the initial set with probability r (default 0, i.e., empty set)')
    
@@ -1014,7 +1016,7 @@ def main():
     try:
         upper_cutoff = int(options.upper_cutoff)
     except ValueError:
-        upper_cutoff = 200
+        upper_cutoff = 500
 
     try:
         repeats = int(options.repeats)
@@ -1039,17 +1041,17 @@ def main():
     try:
         burnin_steps = int(options.burnin_steps)
     except ValueError:
-        burnin_steps = 20000
+        burnin_steps = 50000
     
     try:
         MCMC_steps = int(options.MCMC_steps)
     except ValueError:
-        MCMC_steps = 1000000
+        MCMC_steps = 50000
     
     try:
         alpha_beta_max = float(options.alpha_beta_max)
     except ValueError:
-        alpha_beta_max = 1
+        alpha_beta_max = 0.5
         
     try:
         proportion_parameter_change = float(options.probability_parameter_change)
@@ -1061,14 +1063,14 @@ def main():
         proportion_parameter_change = 0.2
     
     try:
-        A = int(options.diff_alpha_beta)
+        number_different_false_rates = int(options.number_different_false_rates)
     except ValueError:
-        A = 20
+        number_different_false_rates = 20
         
     try:
-        P = int(options.diff_q)
+        number_different_penalizations = int(options.number_different_penalizations)
     except ValueError:
-        P = 20
+        number_different_penalizations = 20
 
     try:
         parameter_initial_MCMC_set = float(options.parameter_initial_MCMC_set)
@@ -1084,13 +1086,12 @@ def main():
     except ValueError:
         seed = -1
 
-    print(options.diff_alpha_beta)
     gene_file = options.gene_file
     annotations_file = options.annotations_file
     out_str = options.identifier
     output_folder = options.output_folder
     
-    myGOAlgo = CRFE(repeats, lower_cutoff, upper_cutoff, belief, threshold, threshold_type, burnin_steps, MCMC_steps, alpha_beta_max, proportion_parameter_change, A, P, gene_file, annotations_file, output_folder, out_str, seed)
+    myGOAlgo = CRFE(repeats, lower_cutoff, upper_cutoff, belief, threshold, threshold_type, burnin_steps, MCMC_steps, alpha_beta_max, proportion_parameter_change, number_different_false_rates, number_different_penalizations, gene_file, annotations_file, output_folder, out_str, seed)
     myGOAlgo.runMe(verbose,parameter_initial_MCMC_set)
     return myGOAlgo
     
@@ -1108,51 +1109,51 @@ if __name__ == '__main__':
     # repeats=1
     
     # new data: lung cancer RNA_seq
-    lower_cutoff=20
-    upper_cutoff=500
-    belief=10
-    burnin=50000
-    steps=50000
-    repeats=1
-    threshold=0.3
-    annotation_file = 'data/GOhuman_ft_named.txt'
-    gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
-    gene_file = 'data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt'
-    identifier = 'real_hshdfsdf'
+#     lower_cutoff=20
+#     upper_cutoff=500
+#     belief=10
+#     burnin=50000
+#     steps=50000
+#     repeats=1
+#     threshold=0.3
+#     annotation_file = 'data/GOhuman_ft_named.txt'
+#     gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
+#     gene_file = 'data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt'
+#     identifier = 'real_hshdfsdf'
     
-    m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
-                                        threshold, 'proportion', burnin, steps, 1,0,20,20, gene_file,
-                                      annotation_file,'output/', identifier, seed=-1,
-                                      LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
-    (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
+#     m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
+#                                         threshold, 'proportion', burnin, steps, 1,0,20,20, gene_file,
+#                                       annotation_file,'output/', identifier, seed=-1,
+#                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
+#     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
     
-    annotation_file = 'data/GOhuman_ft_named.txt'
-    gene_file = 'adeno_symbol.txt'    
-    identifier = 'adeno'    
-    repeats = 1
-    burnin=25000
-    steps=25000
-    m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
-                                        threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
-                                      annotation_file,'output/', identifier, seed=-1,
-                                      LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
-    (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)    
+#     annotation_file = 'data/GOhuman_ft_named.txt'
+#     gene_file = 'adeno_symbol.txt'    
+#     identifier = 'adeno'    
+#     repeats = 1
+#     burnin=25000
+#     steps=25000
+#     m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
+#                                         threshold, 'levels', burnin, steps, 1,0.2,20,20, gene_file,
+#                                       annotation_file,'output/', identifier, seed=-1,
+#                                       LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
+#     (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)    
     
     
-X = set(range(m.n_perturbed_genes))#set(m.unique_genes[:m.n_perturbed_genes])
-len_X = len(X)
-U = set(range(m.n_perturbed_genes,m.n_genes))#set(m.unique_genes[m.n_perturbed_genes:])
-len_U = len(U)
-E = set()
-EX,EU,qual = [],[],[]
-for t in C[:50]:
-    E = set.union(E,set(m.T[t]))
-    EX.append(len(set.intersection(E,X)))
-    EU.append(len(set.intersection(E,U)))
-    try:
-        qual.append((EX[-1]/len_X)/(EU[-1]/len_U))
-    except ZeroDivisionError:
-        qual.append(np.nan)
+# X = set(range(m.n_perturbed_genes))#set(m.unique_genes[:m.n_perturbed_genes])
+# len_X = len(X)
+# U = set(range(m.n_perturbed_genes,m.n_genes))#set(m.unique_genes[m.n_perturbed_genes:])
+# len_U = len(U)
+# E = set()
+# EX,EU,qual = [],[],[]
+# for t in C[:50]:
+#     E = set.union(E,set(m.T[t]))
+#     EX.append(len(set.intersection(E,X)))
+#     EU.append(len(set.intersection(E,U)))
+#     try:
+#         qual.append((EX[-1]/len_X)/(EU[-1]/len_U))
+#     except ZeroDivisionError:
+#         qual.append(np.nan)
     
 #        
 #     within_jaccard_similarities = []
