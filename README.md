@@ -12,6 +12,8 @@ And feel free to link to CRFE in your Methods: https://github.com/ckadelka/CRFE
 ## Download / Installation
 A working Python distribution and the program `crfe.py` are required to use CRFE. The program has been developed and tested extensively under Python 2.7 and Python 3.4 but should work for Python 2.6+. It requires the packages, `sys`, `math`, `random`, `os`, `datetime`, `csv`, `cPickle` (Python 2.x) / `pickle` (Python 3), `optparse`. The correct setup can be tested by executing the example below and comparing the output to the provided output.
 
+### An's annotation preparation script
+
 ----
 
 ## Using CRFE
