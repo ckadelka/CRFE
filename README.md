@@ -51,15 +51,15 @@ The result consists of two parts: The first part records all the parameters for 
 
 | Statistic      | Description                          |
 |------------|--------------------------------------|
-| Order    | The rank of the functional category based on their Mean Posterior Probability|
-| #(Annotations)     | The size of the category, indicating the number of elements (genes) annotated to it|
-| #(Annotations of perturbed genes)    | The count of perturbed elements (genes) annotated to the category|
-| Mean Posterior Probability     | The average posterior probability calculated from all repeats|
-|Standard Deviation Posterior Probability  | The standard deviation of posterior probability from all repeats|
-|p-value|one-tailed from the hypergeometric distribution (values < 10^{-16} are 0) |
-|Average Expression Level| The average expression level (second column in the gene list) of elements (genes) in this category|
-|Average position perturbed genes| The average position of elements (genes) within the full gene list of the category|
-|Term Name|Identifier or name of the category|
+| Order    | the rank of the functional category based on its mean posterior probability|
+| #(Annotations)     | the number of elements (genes) annotated to the functional category|
+| #(Annotations of perturbed genes)    | the number of perturbed elements (genes) annotated to the functional category|
+| Mean Posterior Probability     | the average posterior probability across all repeats|
+|Standard Deviation Posterior Probability  | The standard deviation of the posterior probability across all repeats|
+|p-value|the one-tailed p-value from the hypergeometric distribution (values < 10^{-16} are 0) |
+|Average Expression Level| the average expression level (if provided) of all annotated elements (genes)|
+|Average position perturbed genes| the average position of all annotated perturbed elements (genes), compared to all perturbed genes|
+|Term Name|identifier or name of the category|
 
 ----
 
