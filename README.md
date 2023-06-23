@@ -56,7 +56,7 @@ The result consists of two parts: The first part records all the parameters for 
 | #(Annotations of perturbed genes)    | The count of perturbed elements (genes) annotated to the category|
 | Mean Posterior Probability     | The average posterior probability calculated from all repeats|
 |Standard Deviation Posterior Probability  | The standard deviation of posterior probability from all repeats|
-|p-value|The p-value obtained from the Hypergeometric test|
+|p-value|one-tailed from the hypergeometric distribution (values < 10^{-16} are 0) |
 |Average Expression Level| The average expression level (second column in the gene list) of elements (genes) in this category|
 |Average position perturbed genes| The average position of elements (genes) within the full gene list of the category|
 |Term Name|Identifier or name of the category|
