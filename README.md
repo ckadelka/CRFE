@@ -1,5 +1,5 @@
 # Concise Ranked Functional Enrichment (CRFE) User Manual
-Welcome to CRFE! This user manual provides a comprehensive guide to using the software effectively.
+Welcome to CRFE! This user manual provides a comprehensive guide to using this software effectively.
 
 CRFE provides a high-level interpretation of high-throughput gene expression data. For this type of analysis, the user possesses a ranked list of genes, ranked f.e. by differential expression between treatment and control samples. The genes above a certain threshold are considered differentially expressed or perturbed, all other genes form the background or the unperturbed genes. Given categories that describe the biological functions of different sets of genes (e.g., biological process terms and annotations from the Gene Ontology), we can ask the question of which functional categories best explain the observed gene list. A good collection of functional categories explains as many as possible perturbed genes, and as few as possible unperturbed genes. In particular, particularly many highly perturbed genes should be explained and the collection should consist of only a small number of specific categories. CRFE returns a list of functional categories that satisfies all these requirements. Investigating this list is a good first step to interpreting the results of any high-throughput gene expression experiment. CRFE can also be used in other omics functional enrichment analyses, including genome, epigenome, proteome, and metabolome.
 
@@ -10,7 +10,7 @@ And feel free to link to CRFE in your Methods: https://github.com/ckadelka/CRFE
 ----
 
 ## Download / Installation
-A working Python distribution and the program `crfe.py` are required to use CRFE. The program has been developed and tested extensively under Python 2.7 and Python 3.4 but should work for Python 2.6+. It requires the packages, `sys`, `math`, `random`, `os`, `datetime`, `csv`, `cPickle` (Python 2.x) / `pickle` (Python 3), `optparse`. The correct setup can be tested by executing the example below and comparing the output to the provided output.
+A working Python distribution and the program `crfe.py` are required to use CRFE. The program has been developed and tested extensively under Python 3.10 but should work with lower Python 3.x versions as well. It requires the packages, `sys`, `math`, `random`, `os`, `datetime`, `time`, `numpy`, `scipy`, `pandas`, `pickle`, and `optparse`. The correct setup can be tested by executing the example below and comparing the output to the provided output.
 
 ### An's annotation preparation script
 
@@ -26,7 +26,7 @@ python crfe.py -a <annotations file> -g <gene file>
 
 We recommend using CRFE with user-defined parameters based on the data. Specifically, users should set the following parameters:
 
-- `-T THRESHOLD_TYPE` and `-t THRESHOLD`: These parameters should be adjusted to match the input gene list.
+- `-T THRESHOLD_TYPE` and `-t THRESHOLD`: These parameters should be adjusted to match the ranked gene list.
 - `-b BELIEF`: This parameter determines the emphasis placed on the top-ranked genes.
 - `-n REPEATS`: This parameter specifies the number of repeated CRFE runs.
 
