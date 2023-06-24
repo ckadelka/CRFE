@@ -47,7 +47,7 @@ Once executed, CRFE will create a **saved_data** directory where it will store i
 ----
 
 ## Result
-The result consists of two parts: The first part records all the parameters for the current run. The second part is a table that presents a ranked set of functional categories (rows) and their corresponding statistics (columns).
+The result text file consists of two parts: The first part records all the parameters of the current run for reproducibility. The second part is a table that presents all enriched functional categories (rows, ranked by mean posterior probability), as well as several statistics for each category (columns).
 
 | Statistic      | Description                          |
 |------------|--------------------------------------|
