@@ -3,9 +3,9 @@ Welcome to CRFE! This user manual provides a comprehensive guide to using this s
 
 CRFE provides a high-level interpretation of high-throughput gene expression data. For this type of analysis, the user possesses a ranked list of genes, ranked f.e. by differential expression between treatment and control samples. The genes above a certain threshold are considered differentially expressed or perturbed, all other genes form the background or the unperturbed genes. Given categories that describe the biological functions of different sets of genes (e.g., biological process terms and annotations from the Gene Ontology), we can ask the question of which functional categories best explain the observed gene list. A good collection of functional categories explains as many as possible perturbed genes, and as few as possible unperturbed genes. In particular, particularly many highly perturbed genes should be explained and the collection should consist of only a small number of specific categories. CRFE returns a list of functional categories that satisfies all these requirements. Investigating this list is a good first step to interpreting the results of any high-throughput gene expression experiment. CRFE can also be used in other omics functional enrichment analyses, including genome, epigenome, proteome, and metabolome.
 
-If you use CRFE in your work, please cite the CRFE paper: [insert bioarxiv link]. 
+<!--If you use CRFE in your work, please cite the CRFE paper: [insert bioarxiv link].-->
 
-And feel free to link to CRFE in your Methods: https://github.com/ckadelka/CRFE
+Feel free to link to CRFE in your Methods: https://github.com/ckadelka/CRFE
 
 ----
 
