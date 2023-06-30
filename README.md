@@ -12,11 +12,47 @@ And feel free to link to CRFE in your Methods: https://github.com/ckadelka/CRFE
 ## Download / Installation
 A working Python distribution and the program `crfe.py` are required to use CRFE. The program has been developed and tested extensively under Python 3.10 but should work with lower Python 3.x versions as well. It requires the packages, `sys`, `math`, `random`, `os`, `datetime`, `time`, `numpy`, `scipy`, `pandas`, `pickle`, and `optparse`. The correct setup can be tested by executing the example below and comparing the output to the provided output.
 
-### An's annotation preparation script
-
 ----
 
-## Using CRFE
+## Implementation
+### Data preprocessing
+CRFE requires two input file: an annotation file (describing categories with gene annotations such as Gene Ontology Annotation File or KEGG pathway) and a list of genes to be enriched (containing gene names and their corresponding levels or ranking).
+
+- Annotation file is a tab-separated file with two columns: the first column contains gene categories and the second column contains all gene annotations in that category, whitespace-separated. Below is an example of a valid annotation file:
+
+|--------|-------------------|
+| reproduction | A1CF A2M AAAS ABAT ABCC8 ABHD2 ACE |
+|  developmental growth   | ABL1 ACVR1C ACVR2B ADAM15 ADARB1 ADM |
+|--------|-------------------|
+
+- Gene file is a tab-separated file with two columns: the first column contains gene names (using the same naming system as the gene names in the annotation file) and the second column contains numeric values upon which the list of genes will be ranked (in descending order by default). If the values of the genes are not provided, the gene order in the first column will be used.
+
+#### Getting the annotation file from a GAF:
+We also provide a Python script to get the required annotation file using a Gene Ontology Annotation File (GAF) as the input. If users wish to parse a GAF to a valid annotation file for CRFE, an OBO file is needed and can be retrieved from [GO Consortium](http://release.geneontology.org/). 
+
+To run the `parse_DAG.py` script, use the following command:
+```
+python parse_DAG.py -i <path to obo file> -ont <ontology to use> -g <path to GAF> -o <output directory>
+```
+
+List of arguments used in `parse_DAG.py`:
+
+```
+  -h, --help            show this help message and exit
+  --inputobo INPUTOBO, -i INPUTOBO
+                        An .obo file of the Gene Ontology, preferably obtained from the same release as the Gene Annotation file .gaf to avoid obsolete terms.
+  --ontology ONTOLOGY, -ont ONTOLOGY
+                        Which Gene Ontology namespace to use, one of 'F','P', or 'C' (corresponds to molecular_function, biological_process, or cellular_component, respectively),
+                        default to 'P'
+  --gafinput GAFINPUT, -g GAFINPUT
+                        A Gene Ontology annotation file (.gaf), preferably obtained from the same release as the Gene Ontology structure .obo file to avoid obsolete annotations
+  --odir ODIR, -o ODIR  Annotation file output directory
+```
+
+The script creates a directed acyclic graph using the provided `obo` file in the chosen ontology (Molecular Function, Biological Process, or Cellular Component). Any gene annotated to a Gene Ontology (GO) term is also annotated to the ancestors of that term; therefore, the gene annotations in GAF are propagated using the constructed graph. In addition, GO terms with exactly similar gene annotations are combined. As a result, the script outputs two annotation files in the specified output directory which differ in the format of GO terms, one with GO term ID (e.g., GO:0000003), one with GO term name (e.g., reproduction). The gene annotations (the second column) are similar in these two files. 
+
+
+### Running CRFE
 CRFE accepts different types of command line options. See the [table](#complete-option-list) below or type `crfe.py -h` for details about all available command line options.
 
 A typical invocation of CRFE will look like this:

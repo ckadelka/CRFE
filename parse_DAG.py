@@ -115,6 +115,11 @@ def main():
     for index,row in combined_named_df.iterrows():
         fh.write(f'{row["term"]}\t{" ".join([g for g in row["gene"]])}\n')
     fh.close()
+    
+    fh = open(f"{options.odir}/GO_propagate_combined_ID.txt", "w")
+    for index,row in combined_df.iterrows():
+        fh.write(f'{row["term"]}\t{" ".join([g for g in row["gene"]])}\n')
+    fh.close()
 
 if __name__ == "__main__":
     main()
