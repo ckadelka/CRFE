@@ -20,11 +20,11 @@ CRFE requires two input file: an annotation file (describing categories with gen
 
 - Annotation file is a tab-separated file with two columns: the first column contains gene categories and the second column contains all gene annotations in that category, whitespace-separated. Below is an example of a valid annotation file:
 
-|--------|-------------------|
+| | |
+|--|--|
 | reproduction | A1CF A2M AAAS ABAT ABCC8 ABHD2 ACE |
-|  developmental growth   | ABL1 ACVR1C ACVR2B ADAM15 ADARB1 ADM |
-|--------|-------------------|
-
+|  developmental growth | ABL1 ACVR1C ACVR2B ADAM15 ADARB1 ADM |
+| | |
 - Gene file is a tab-separated file with two columns: the first column contains gene names (using the same naming system as the gene names in the annotation file) and the second column contains numeric values upon which the list of genes will be ranked (in descending order by default). If the values of the genes are not provided, the gene order in the first column will be used.
 
 #### Getting the annotation file from a GAF:
@@ -40,12 +40,15 @@ List of arguments used in `parse_DAG.py`:
 ```
   -h, --help            show this help message and exit
   --inputobo INPUTOBO, -i INPUTOBO
-                        An .obo file of the Gene Ontology, preferably obtained from the same release as the Gene Annotation file .gaf to avoid obsolete terms.
+                        An .obo file of the Gene Ontology, preferably obtained 
+                        from the same release as the Gene Annotation file .gaf to avoid obsolete terms.
   --ontology ONTOLOGY, -ont ONTOLOGY
-                        Which Gene Ontology namespace to use, one of 'F','P', or 'C' (corresponds to molecular_function, biological_process, or cellular_component, respectively),
+                        Which Gene Ontology namespace to use, one of 'F','P', or 'C' 
+                        (corresponds to molecular_function, biological_process, or cellular_component, respectively),
                         default to 'P'
   --gafinput GAFINPUT, -g GAFINPUT
-                        A Gene Ontology annotation file (.gaf), preferably obtained from the same release as the Gene Ontology structure .obo file to avoid obsolete annotations
+                        A Gene Ontology annotation file (.gaf), preferably obtained from 
+                        the same release as the Gene Ontology structure .obo file to avoid obsolete annotations
   --odir ODIR, -o ODIR  Annotation file output directory
 ```
 
