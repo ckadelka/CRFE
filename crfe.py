@@ -1071,4 +1071,8 @@ def main():
     myGOAlgo = CRFE(repeats, lower_cutoff, upper_cutoff, belief, threshold, threshold_type, burnin_steps, MCMC_steps, alpha_beta_max, proportion_parameter_change, number_different_false_rates, number_different_penalizations, gene_file, annotations_file, output_folder, out_str, seed, max_belief)
     myGOAlgo.runMe(verbose,parameter_initial_MCMC_set)
     return myGOAlgo
-    
+
+##Main Part
+
+if __name__ == '__main__':
+    main()
