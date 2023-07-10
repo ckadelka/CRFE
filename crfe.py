@@ -1072,26 +1072,3 @@ def main():
     myGOAlgo.runMe(verbose,parameter_initial_MCMC_set)
     return myGOAlgo
     
-##Main Part
-if __name__ == '__main__':
-    if not DEBUG:
-        main()
-    else:
-        lower_cutoff=20
-        upper_cutoff=500
-        belief=1
-        max_belief=10
-        burnin=50000
-        steps=50000
-        repeats=1
-        threshold=0.3
-        annotation_file = 'data/GOhuman_ft_named.txt'
-        gene_file = 'data/GSE87340_tumor_normal_log2fc-overexp.txt'
-        gene_file = 'data/GSE40419_tumor_normal_deseq2_log2fc-overexp.txt'
-        identifier = 'bbsd'
-        
-        m = CRFE(repeats, lower_cutoff, upper_cutoff, belief, 
-                                            threshold, 'proportion', burnin, steps, 1,0.2,20,20, gene_file,
-                                          annotation_file,'output/', identifier, seed=-1,max_belief=max_belief,
-                                          LEARN_PENALIZATION_PARAMETER=True,penalization_parameter=0.001,GET_INFO_ON_CURRENT_SETS=True)
-        (C,avgs,stds,first_sets,last_sets)=m.runMe(verbose=1, parameter_initial_MCMC_set=0)
