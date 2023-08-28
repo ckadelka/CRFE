@@ -864,7 +864,7 @@ class CRFE:
                            
         #set random seeds for both random number generators (both are used for performance boosts)
         if self.seed==-1:
-            self.seed=np.random.randint(2**32 - 1)
+            self.seed=np.random.randint(2**31 - 1)
         np.random.seed(self.seed)
         random.seed(self.seed)
         
